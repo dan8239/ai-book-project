@@ -164,5 +164,39 @@ Is the optimization layer real, or just another simulation layer? (Turtles all t
 
 ---
 
+---
+
+## CANONICAL: The Real World vs. Simulation (2025-09-29)
+
+### The Real World
+- Very near future (2030s-2040s)
+- People still drink coffee, work at computers
+- Quantum computing advanced enough for massive simulations
+- 23andMe-style company collected biological/behavioral data over evolutionary timescales
+- That data seeded the simulation
+
+### Everyone in the Story
+- Protagonist, devsecops guy, everyone: **all in-simulation**
+- They think the 23andMe data is archaeological (old server they found)
+- Don't know they're simulated until selection
+
+### The Coffee-Drinking Analyst
+- **Real world** (outside simulation)
+- Reviews simulation results
+- Generates reports with histograms and golden path recommendations
+- Delivers to decision-makers who ignore them
+
+### The Simulation Data
+- **847+ million trials run**
+- Median extinction: **127 years** (most die between 75-150 years)
+- Peak death zone: When civilizations have nukes/AI/climate crisis but lack coordination
+- **0.04% survive past 500 years** (the golden path)
+- Success requires hitting 5 critical decision points correctly (combined probability: ~0.04%)
+
+### The Optimization Goal
+**Find variations that push civilizations into the long tail (500+ year survivors)**
+
+---
+
 ## Not Yet Canon (Still Deciding)
 Everything else in the other files is still OPTIONS, not established fact.
