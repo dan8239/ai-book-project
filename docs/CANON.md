@@ -127,5 +127,42 @@ Can't shortcut—complexity emerges over full lifetime.
 
 ---
 
+## CANONICAL: Memory and Epochs (2025-09-29)
+
+### No Memory Persistence
+- NO memory leak between iterations
+- Protagonist doesn't remember previous 2,762,639 refusals
+- No déjà vu, no dreams, no "feeling" from past runs
+- Works like actual genetic algorithms (each trial is fresh)
+
+### Epoch Duration
+**Outcome-based, not time-based:**
+- Epochs last until humanity either kills itself OR prospers beyond reasonable extinction
+- Could be decades, centuries, millennia of simulated time
+- Not a fixed loop length
+
+### The Selection Reveal
+**When epoch completes:**
+1. Selected individuals are pulled out
+2. Veil is removed—they learn they were in simulation
+3. They're shown their stats (including iteration count: 2,762,639 previous refusals)
+4. They're offered the choice
+
+### The Choice
+- **Join optimization layer**: Help adjust loss functions for next epoch, influence KPIs
+- **Get reset**: Tossed back in when RAM clears, no memory, run again
+
+### Purpose of Selection
+Selected individuals become the mechanism for adjusting optimization:
+- Review what worked/failed
+- Adjust intermediate loss functions
+- Set parameters for next generation
+- **This is how the system self-optimizes**
+
+### The Dark Question
+Is the optimization layer real, or just another simulation layer? (Turtles all the way up)
+
+---
+
 ## Not Yet Canon (Still Deciding)
 Everything else in the other files is still OPTIONS, not established fact.
