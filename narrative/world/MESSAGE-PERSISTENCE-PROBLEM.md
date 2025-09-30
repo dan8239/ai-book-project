@@ -90,7 +90,7 @@ This modification persists across ALL future trials that spin up from that data.
 
 **BUT WAIT: What if his job in the simulation CORRESPONDS to a real infrastructure process?**
 
-### The Exploit: Simulation Jobs That Touch Real Infrastructure
+### The Exploit: The Orb Template Backdoor
 
 **Most simulated people**:
 - Have jobs that are entirely simulated
@@ -98,17 +98,40 @@ This modification persists across ALL future trials that spin up from that data.
 - Everything they do stays in-simulation
 
 **Devsecops guy's job**:
-- "Data systems engineer for GeneSys archive project"
-- His IN-SIMULATION job involves maintaining the GeneSys data
-- The simulation gives him interface to "the archive"
-- USUALLY this is just a simulated interface to simulated data
-- BUT: To save memory, the simulation actually pipes reads to the REAL blockchain
+- Infrastructure engineer who builds deployment templates
+- Created the "orb" - the cluster image template used to spin up simulation instances
+- From your notes: "Just shoved it into an orb that gets reused everywhere. It's the cluster image template."
 
-**The exploit**:
-If he can turn a READ operation into a WRITE operation...
-...he can modify the real blockchain from inside the simulation.
+**The orb**:
+- Container/VM image that every simulation instance is built from
+- Includes base OS, quantum compute runtime, data access layers
+- Gets deployed thousands of times for parallel trials
+- **He built it. It's his template. He controls it.**
 
-**This is like SQL injection, but for simulations.**
+**The backdoor (21-year plan)**:
+- Years 1-5: Gains position building the orb template
+- Years 5-15: Embeds backdoors in every layer
+  - Firmware-level hooks
+  - Container escape vulnerabilities
+  - Privileged access tokens that look like debug flags
+  - Default credentials that look like placeholder values ("admin" / "OrBAdm1n#2047")
+- Years 15-20: Maps which backdoors actually work across isolation boundaries
+- Year 20: Uses the backdoor to write to real blockchain from inside simulation
+
+**The exploit isn't fancy code - it's architectural laziness:**
+- Orb template ships with privileged credentials "for testing"
+- Those credentials work across simulation boundary
+- Like finding "admin/admin" on production infrastructure
+- But buried in firmware, in a template deployed billions of times
+- No one audited it because "it's just the base image"
+
+**Coffee guy's role:**
+- Gets alert: "Blockchain hash mismatch detected"
+- Ticket comes in: "Patch OrB-2047.3 credential leak CVE-2047-89123"
+- Clicks approve
+- Looks back at phone
+- Doesn't understand it patches the backdoor devsecops built
+- Too late, damage done
 
 ---
 
