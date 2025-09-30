@@ -198,5 +198,37 @@ Is the optimization layer real, or just another simulation layer? (Turtles all t
 
 ---
 
+---
+
+## CANONICAL: Book Structure (2025-09-29)
+
+### Three-Part Structure
+**Section names based on optimization algorithm:**
+
+**PART I: TRIAL**
+- Protagonist lives in simulation
+- Discovers anomaly in GeneSys data
+- Follows mystery
+- Investigative, human-scale problem-solving
+
+**PART II: LOSS**
+- Learns truth about simulation
+- Sees 847M trials, 99.96% extinction rate
+- Memory compression event (loved ones disappear)
+- Offered selection
+
+**PART III: ADJUSTMENT**
+- Granted experiment access (MLflow-style)
+- Sees Pareto front and constraint violations
+- Coffee guy story fully revealed
+- Makes choice (attempt 2,762,640)
+
+### Narrative POV
+- **First-person** (protagonist POV)
+- Possible Station Eleven influences (time jumps, style mixing)
+- Coffee guy interludes TBD
+
+---
+
 ## Not Yet Canon (Still Deciding)
 Everything else in the other files is still OPTIONS, not established fact.
