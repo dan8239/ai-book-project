@@ -341,26 +341,31 @@ Optimized away.
 
 ## Does Coffee Guy Ever Realize?
 
-**Option A: He never knows**
-- Goes about his life
-- Continues clicking approve
-- Dies never understanding his impact
-- Most banal, most horrifying
+### CANON (User Decision):
 
-**Option B: He finds out at the end**
-- Gets called into meeting
-- "Explain this anomaly"
-- Realizes: "I compressed PEOPLE?"
-- Has to live with it
-- But what can he do? Job is job.
+**He DOES realize the importance.**
 
-**Option C: He's at the selection reveal**
-- Protagonist joins selection layer
-- Coffee guy is there (as analyst/operator)
-- They meet
-- "You clicked approve."
-- "I... I didn't know. The AI said—"
-- "I know. That's why it happened."
+Coffee guy's arc:
+- Starts distracted, clicking through
+- Gradually becomes engaged with the findings
+- Reads the reports
+- Understands: "This is the golden path. This could save us."
+- Tries to escalate to higher-ups
+- **Gets ignored**
+
+**The tragedy shifts:**
+Not that he doesn't care.
+But that his bosses don't.
+He's trying to save the world.
+They're worried about quarterly budgets, political optics, career advancement.
+
+**He becomes another protagonist** - someone who sees the truth and can't get anyone to listen.
+
+**Possible arc:**
+- Early: Distracted, phone-addicted (as written)
+- Middle: Starts noticing patterns in the data
+- Late: Fully engaged, trying desperately to get someone to act
+- End: Watching the clock tick down, powerless
 
 ---
 
