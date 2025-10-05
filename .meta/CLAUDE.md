@@ -71,3 +71,11 @@ archive/         # Deprecated stuff
 - If user makes a decision, lock it in canon
 - If generating options, keep them brief (2-4 options, not 10+)
 - Default to listening, not speculating
+
+## Organization Rules
+- **Maintain well-nested structure at all times**
+- **Frequently ask where to put things if unclear**
+- When creating new files, always ask: what folder? what subfolder?
+- When content doesn't have clear home, stop and ask user
+- Keep hierarchy clean: .meta/ canon/ notes/ writing/ archive/
+- Within those: use nested subfolders, not flat dumps

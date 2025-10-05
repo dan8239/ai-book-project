@@ -31,6 +31,14 @@ Technical details to investigate for realism and accuracy.
 
 ## ML/AI Concepts to Weave In
 
+### Evolutionary Algorithm Basics
+- How genetic algorithms actually work (step by step)
+- Trials vs generations vs epochs - technical definitions
+- Population, selection, crossover, mutation - what do these mean?
+- How do you adjust parameters between generations?
+- Fitness evaluation vs loss function - same thing or different?
+- What makes a "good" trial in evolutionary optimization?
+
 ### Optimization Algorithms
 - NSGA-II details (Pareto front, crowding distance, selection)
 - Evolutionary algorithms at scale
