@@ -49,9 +49,10 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 
 ### 1.4 The Simulation Data
 - 847+ million trials run
+- Trials run until extinction OR stability threshold (low ongoing extinction risk)
 - Median extinction: 127 years (most die between 75-150 years)
 - Peak death zone: civilizations with nukes/AI/climate crisis but lacking coordination
-- 0.04% survive past 500 years (the golden path)
+- 0.04% reach stability threshold (the golden path)
 - Success requires hitting 5 critical decision points correctly (combined probability: ~0.04%)
 
 ### 1.5 Memory and Epochs
@@ -61,6 +62,18 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 - Works like actual genetic algorithms (each trial is fresh)
 - Epochs last until humanity kills itself OR prospers beyond reasonable extinction
 - Could be decades, centuries, millennia of simulated time (outcome-based, not time-based)
+
+### 1.6 The Optimization Goal
+**NOT:** How long can you survive?
+**IS:** What minimizes long-term extinction probability?
+
+- Trials run until extinction (record failure mode) OR stability threshold reached
+- Survival time is a PROXY for extinction risk, not the goal itself
+- Primary metric: probability of future extinction given current trajectory
+- Secondary: quality of life, sustainability, adaptability
+- Failure modes tracked: nuclear war, climate collapse, AI misalignment, resource depletion, pandemic, social collapse
+
+Goal: Find policy configurations that reach low ongoing extinction risk
 
 ## 2. The Optimization System
 
