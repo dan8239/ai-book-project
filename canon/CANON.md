@@ -6,7 +6,9 @@ What's locked in. Last updated: 2025-09-29
 
 ### 1.1 The Simulation Structure
 - Protagonist exists on the FIRST simulation layer
-- Entire existence spans milliseconds in a quantum processing unit (QPU)
+- Entire existence spans milliseconds in a quantum processing unit (QPU) in real time
+- But in simulated time: started at real present day, has run for hundreds of years
+- Multiple generations of humans within the simulation (hundreds of years of advancement)
 - Recursive: each layer of AI studies the previous generation
 - Started with real human biological/historical data (23andMe-style company)
 - Multiple layers exist below the first layer (protagonist's layer)
@@ -31,8 +33,10 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 - That data seeded the first simulation layer
 - Time compression: Coffee guy's total chapter time = one day while entire simulation runs
 
-### 1.3 Technology (In-Simulation)
-- Mandatory tracking shot at birth (started at some timestamp in history)
+### 1.3 Technology (In-Simulation - Protagonist's World)
+- Hundreds of years advanced from real present day
+- Multiple generations of advancement within simulation
+- Mandatory tracking shot at birth (started at some timestamp in simulated history)
 - Quantum computing exists
 - Data preservation has memory constraints
 - Celebrities/leaders get more detailed simulation than general population
