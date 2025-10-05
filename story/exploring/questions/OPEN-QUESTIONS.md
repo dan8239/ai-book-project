@@ -46,8 +46,12 @@ Original notes: "Coffee guy approves compression, protagonist's loved ones disap
 - How does protagonist discover connection to coffee guy's actions?
 
 ### Why Yes on Attempt 2,762,640?
-Canon: This instance finally chooses yes after 2.7M refusals
-- What changed?
+This genetic lineage has been run 2,762,640 times with variations (different birth years, genders, circumstances)
+Previous 2,762,639 instances from this lineage chose "no"
+- What changed about THIS instance?
+- Different circumstances in their life?
+- Different configuration of the trial they're in?
+- Different timing?
 - What's the motivation?
 
 ### The Ending

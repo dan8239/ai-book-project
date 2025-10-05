@@ -131,8 +131,12 @@ Can't shortcut—complexity emerges over full lifetime.
 - In-simulation (doesn't know it until selection)
 - Has romantic interest (relationship has ups/downs, involves kids/trauma)
 - Works with Claude assistant(s)
-- This instance has chosen "no" 2,762,639 times previously
-- This time chooses "yes"
+- Part of a genetic lineage that has been run 2,762,640 times across trials
+  - Not the exact same person each time
+  - Variations: different birth years, sometimes different gender, slightly different circumstances
+  - Same genetic tree/family line
+  - Previous 2,762,639 instances from this lineage chose "no"
+- This instance chooses "yes"
 
 ### 3.2 Devsecops Guy
 - Old, technically brilliant
