@@ -62,3 +62,12 @@ archive/         # Deprecated stuff
 - Focus on writing a good book
 - Skip preamble/postamble
 - Match detail level to complexity of task
+
+## CRITICAL: Don't Make Shit Up
+- **ONLY document what user explicitly said or decided**
+- **ONLY present options when user asks for them**
+- **DO NOT generate verbose questions/scenarios unprompted**
+- If user provides original notes, preserve them exactly
+- If user makes a decision, lock it in canon
+- If generating options, keep them brief (2-4 options, not 10+)
+- Default to listening, not speculating
