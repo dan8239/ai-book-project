@@ -4,11 +4,17 @@ What's locked in. Last updated: 2025-09-29
 
 ## 1. World Mechanics
 
-### 1.1 The Simulation Structure
+### 1.1 The Simulation Structure & Timeline
 - Protagonist exists on the FIRST simulation layer
 - Entire existence spans milliseconds in a quantum processing unit (QPU) in real time
 - But in simulated time: started at real present day, has run for hundreds of years
-- Multiple generations of humans within the simulation (hundreds of years of advancement)
+- Multiple generations of humans within the simulation
+
+**Timeline within simulation:**
+- Coffee guy: Real world present day (outside simulation)
+- Devsecops guy: A few generations before protagonist (within simulation)
+- Protagonist: Current generation in simulation (piecing together devsecops message)
+
 - Recursive: each layer of AI studies the previous generation
 - Started with real human biological/historical data (23andMe-style company)
 - Multiple layers exist below the first layer (protagonist's layer)
