@@ -4,11 +4,12 @@ What's locked in. Last updated: 2025-09-29
 
 ## 1. World Mechanics
 
-### 1.1 The Simulation
+### 1.1 The Simulation Structure
+- Protagonist exists on the FIRST simulation layer
 - Entire existence spans milliseconds in a quantum processing unit (QPU)
 - Recursive: each layer of AI studies the previous generation
 - Started with real human biological/historical data (23andMe-style company)
-- Now multiple layers deep
+- Multiple layers exist below the first layer (protagonist's layer)
 
 #### Why Recursive Layers Exist
 The company coffee guy works for aims to find humanity's golden path. By letting the simulations themselves try to figure that out:
@@ -20,12 +21,15 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 - Entire nested populations can work on KPIs derived from main OKRs
 - Less directly tied to top-level simulation
 
-### 1.2 The Real World (Outside Simulation)
-- Very near future (2030s-2040s)
-- People still drink coffee, work at computers
-- Quantum computing advanced enough for massive simulations
+### 1.2 The Real World (Coffee Guy's Layer)
+- Essentially present day but AI significantly more advanced
+- Quantum tech advancements: memory solved, enables realistic simulations
+- More energy efficient simulation (research needed: realistic implementation and advantages)
+- Resource crisis: severe pressure on food, water, energy
+- Desertification: much more desert-like areas
 - 23andMe-style company collected biological/behavioral data over evolutionary timescales
 - That data seeded the first simulation layer
+- Time compression: Coffee guy's total chapter time = one day while entire simulation runs
 
 ### 1.3 Technology (In-Simulation)
 - Mandatory tracking shot at birth (started at some timestamp in history)
