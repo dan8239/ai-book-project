@@ -39,6 +39,12 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 - That data seeded the first simulation layer
 - Time compression: Coffee guy's total chapter time = one day while entire simulation runs
 
+**Geography/Climate:**
+- City located much further north than current climate would suggest (Idaho/Canada area)
+- Climate like arid/dry years of Denver
+- Shows extent of desertification - places that should be temperate/forested are now arid
+- Resource pressure shows in subtle ways (research needed: what small changes reveal water/energy/food scarcity)
+
 ### 1.3 Technology (In-Simulation - Protagonist's World)
 - Hundreds of years advanced from real present day
 - Multiple generations of advancement within simulation
