@@ -1,0 +1,154 @@
+[
+  {
+    "category": "Incentive Structures",
+    "parameter": "Profit Maximization",
+    "what_it_controls": "Economic motivation via personal gain",
+    "associated_philosophy": "Capitalism/Libertarianism",
+    "minimum_0_percent": "No profit motive/gift economy",
+    "maximum_100_percent": "Pure profit/everything commodified"
+  },
+  {
+    "category": "Incentive Structures",
+    "parameter": "Collective Welfare",
+    "what_it_controls": "Economic motivation via group benefit",
+    "associated_philosophy": "Socialism/Communism",
+    "minimum_0_percent": "Pure individualism",
+    "maximum_100_percent": "Total collectivism/no private property"
+  },
+  {
+    "category": "Incentive Structures",
+    "parameter": "Reputation-Based",
+    "what_it_controls": "Social status as incentive",
+    "associated_philosophy": "Gift economy/Open source",
+    "minimum_0_percent": "Anonymous/no status tracking",
+    "maximum_100_percent": "Social credit system/total tracking"
+  },
+  {
+    "category": "Resource Allocation",
+    "parameter": "Central Planning",
+    "what_it_controls": "Government controls production/distribution",
+    "associated_philosophy": "Communism/Command economy",
+    "minimum_0_percent": "Pure free market",
+    "maximum_100_percent": "Soviet-style Gosplan/state controls all"
+  },
+  {
+    "category": "Resource Allocation",
+    "parameter": "Market Freedom",
+    "what_it_controls": "Private actors decide via price signals",
+    "associated_philosophy": "Capitalism/Free market",
+    "minimum_0_percent": "No markets allowed",
+    "maximum_100_percent": "Zero regulation/pure market"
+  },
+  {
+    "category": "Wealth Distribution",
+    "parameter": "Progressive Taxation",
+    "what_it_controls": "Tax rate increases with wealth",
+    "associated_philosophy": "Social Democracy/Progressivism",
+    "minimum_0_percent": "Flat/no tax",
+    "maximum_100_percent": "Extreme progressive (90%+ top rate)"
+  },
+  {
+    "category": "Wealth Distribution",
+    "parameter": "Wealth Caps",
+    "what_it_controls": "Maximum allowed accumulation",
+    "associated_philosophy": "Egalitarianism",
+    "minimum_0_percent": "No limits",
+    "maximum_100_percent": "Hard caps on personal wealth"
+  },
+  {
+    "category": "Wealth Distribution",
+    "parameter": "Inheritance",
+    "what_it_controls": "Intergenerational wealth transfer",
+    "associated_philosophy": "Aristocracy vs Meritocracy",
+    "minimum_0_percent": "100% inheritance tax",
+    "maximum_100_percent": "No inheritance restrictions"
+  },
+  {
+    "category": "Governance",
+    "parameter": "Democratic Participation",
+    "what_it_controls": "Citizen input on decisions",
+    "associated_philosophy": "Democracy",
+    "minimum_0_percent": "Dictatorship/zero input",
+    "maximum_100_percent": "Direct democracy/vote on everything"
+  },
+  {
+    "category": "Governance",
+    "parameter": "Centralization",
+    "what_it_controls": "Power concentration",
+    "associated_philosophy": "Federalism vs Unitary",
+    "minimum_0_percent": "Total local autonomy",
+    "maximum_100_percent": "Complete central control"
+  },
+  {
+    "category": "Governance",
+    "parameter": "Meritocratic Sorting",
+    "what_it_controls": "Selection by competence",
+    "associated_philosophy": "Technocracy/Singapore",
+    "minimum_0_percent": "Random/hereditary",
+    "maximum_100_percent": "Extreme testing/Chinese exam system"
+  },
+  {
+    "category": "Social Control",
+    "parameter": "Surveillance",
+    "what_it_controls": "State monitoring of citizens",
+    "associated_philosophy": "Authoritarian/China",
+    "minimum_0_percent": "Total privacy",
+    "maximum_100_percent": "1984-style total surveillance"
+  },
+  {
+    "category": "Social Control",
+    "parameter": "Information Control",
+    "what_it_controls": "Censorship/propaganda",
+    "associated_philosophy": "Authoritarianism",
+    "minimum_0_percent": "Free speech absolutism",
+    "maximum_100_percent": "Total information control"
+  },
+  {
+    "category": "Social Control",
+    "parameter": "Movement Restriction",
+    "what_it_controls": "Freedom to relocate",
+    "associated_philosophy": "USSR/North Korea",
+    "minimum_0_percent": "Free movement",
+    "maximum_100_percent": "Internal passports/assigned residence"
+  },
+  {
+    "category": "Reproduction",
+    "parameter": "Selective Breeding",
+    "what_it_controls": "Genetic control of population",
+    "associated_philosophy": "Eugenics/Sparta",
+    "minimum_0_percent": "Free reproduction",
+    "maximum_100_percent": "Mandatory genetic selection/Gattaca"
+  },
+  {
+    "category": "Reproduction",
+    "parameter": "Child-Rearing Control",
+    "what_it_controls": "Who raises children",
+    "associated_philosophy": "Sparta/Kibbutz",
+    "minimum_0_percent": "Pure family",
+    "maximum_100_percent": "Total state child-rearing"
+  },
+  {
+    "category": "Resource Management",
+    "parameter": "Military Focus",
+    "what_it_controls": "% resources to defense",
+    "associated_philosophy": "Militarism/Sparta",
+    "minimum_0_percent": "Pacifism/zero military",
+    "maximum_100_percent": "Total militarization"
+  },
+  {
+    "category": "Resource Management",
+    "parameter": "Environmental Protection",
+    "what_it_controls": "Regulation of externalities",
+    "associated_philosophy": "Environmentalism",
+    "minimum_0_percent": "Zero regulation",
+    "maximum_100_percent": "Ecotopia-style total protection"
+  },
+  {
+    "category": "Resource Management",
+    "parameter": "Infrastructure Investment Horizon",
+    "what_it_controls": "Long-term vs short-term planning",
+    "associated_philosophy": "Roman Empire",
+    "minimum_0_percent": "No planning beyond quarterly",
+    "maximum_100_percent": "Multi-generational projects"
+  }
+]
