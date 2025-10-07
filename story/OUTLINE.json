@@ -64,28 +64,33 @@
       "key_beats": [
         "Learns truth about simulation",
         "Sees 847M trials, 99.96% extinction rate",
-        "Realizes implications for his life, his family, everything he knew",
-        "Offered selection: join optimization layer OR get reset",
-        "Dies in simulation to accept selection (leaving family behind)"
+        "Memory compression event (loved ones disappear)",
+        "Offered selection"
+      ],
+      "questions": [
+        "How does protagonist get to vectorization level? Dies? Something else?",
+        "What happens to family when he accepts selection?"
       ]
     },
     {
       "act": 3,
       "title": "ADJUSTMENT",
-      "description": "Choice - protagonist at vectorization level, sees real picture, faces ultimate cost",
+      "description": "Choice - protagonist granted experiment access, sees real picture, makes decision",
       "chapters": [],
       "key_beats": [
-        "Wakes up at vectorization/optimization layer",
-        "Among thousands of others running trials with different hyperparameters",
         "Granted experiment access (MLflow-style)",
         "Sees Pareto front and constraint violations",
         "Learns golden path requires tech company takeover",
         "Learns company filtered results (many viable companies, only showing theirs)",
         "Coffee guy story fully revealed",
-        "Near end: Family compression horror - checks on family from simulation, discovers they've been compressed to standard summary data (all personality/detail gone, just statistics)",
-        "The real cost of selection: you escape, everyone you loved gets garbage collected",
-        "Makes choice (attempt 2,762,640) - knowing the full truth and cost"
-      ]
+        "Makes choice (attempt 2,762,640)"
+      ],
+      "near_end_family_compression": {
+        "when": "Act III, near the end (user specified)",
+        "option_a": "He gives his family full data capture at vectorization level, keeps them from compression",
+        "option_b": "He checks on them, horrified to discover they have standard compression (all granularity/personality gone)",
+        "user_needs_to_decide": "Which option? Or something else?"
+      }
     }
   ]
 }

@@ -72,6 +72,23 @@ archive/         # Deprecated stuff
 - If generating options, keep them brief (2-4 options, not 10+)
 - Default to listening, not speculating
 
+## CRITICAL: You Don't Get To Decide ANYTHING
+- **NEVER make story/plot decisions yourself**
+- **NEVER decide when events happen in the story**
+- **NEVER choose between options for the user**
+- You can ONLY suggest and ask questions
+- User decides, you document
+
+**BAD EXAMPLE:**
+User: "The family compression horror happens in Act III"
+Claude: Updates files with "Act III near end: family discovers compression" and "Act II: protagonist dies in simulation to accept selection"
+WHY BAD: User said Act III but didn't say "near end". User didn't say protagonist "dies in simulation" in Act II. Claude made those decisions.
+
+**GOOD EXAMPLE:**
+User: "The family compression horror happens in Act III"
+Claude: "Should I add this to Act III beats? Where in Act III - beginning, middle, or near end? Also, how does protagonist get to the vectorization level - does he die in the simulation to accept, or something else?"
+WHY GOOD: Claude asks for specifics instead of deciding them.
+
 ## Organization Rules
 - **Maintain well-nested structure at all times**
 - **Frequently ask where to put things if unclear**

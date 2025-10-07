@@ -109,17 +109,15 @@
       "not_everyone_equally_real": "Some people are more 'real' (more detailed) than others based on importance/influence",
       "potential_mystery": "Could be some mystery here that needs solving?"
     },
-    "family_compression_horror": {
-      "when": "Act III, near the end",
-      "setup": "Protagonist died in his simulation to accept selection, got called up to vectorization/optimization layer",
-      "his_family": "Was still in the simulation when he left",
-      "the_choice_he_faces": [
-        "Option A: Give his family full data capture at vectorization level (save them from compression)",
-        "Option B: Check on them - discover they're already compressed to standard summary data"
-      ],
-      "option_b_horror": "Too late. They've been reduced to 3.4GB summaries. All granularity, personality, detail GONE. Just statistical summaries. The people he loved no longer exist in any meaningful way.",
-      "the_real_cost": "You escape the simulation. Everyone you loved gets garbage collected.",
-      "emotional_impact": "This is the gut-punch before his final choice. He understands the full cost of what the selection mechanism does."
+    "family_compression_concept": {
+      "when": "Act III, near the end (user specified)",
+      "setup": "Protagonist at vectorization/optimization layer (TBD: how did he get there?)",
+      "his_family": "Was in the simulation",
+      "option_a": "He gives his family full data capture at vectorization level, keeps them from compression",
+      "option_b": "He checks on them, horrified to discover they have standard compression (all granularity/personality gone)",
+      "if_option_b": "They've been reduced to 3.4GB summaries. All personality, detail GONE. Just statistics. The people he loved no longer meaningfully exist.",
+      "potential_theme": "The cost of selection - you escape, everyone you loved gets garbage collected",
+      "user_needs_to_decide": "Which option? Something else? Where exactly in Act III?"
     }
   }
 }
