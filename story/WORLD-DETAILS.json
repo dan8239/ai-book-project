@@ -1,0 +1,85 @@
+{
+  "recursive_simulation_layers": {
+    "structure": "Protagonist exists on FIRST simulation layer, but layers exist BELOW",
+    "why_recursive_layers_exist": [
+      "More extreme edge cases can be explored than in current real-life scenario",
+      "First layer models modern day life accurately (policy changes to current population)",
+      "Nested layers enable emergent behavior and more extreme simulations",
+      "Higher percentage of population can be devoted to solving the problem",
+      "Moral considerations are one layer removed",
+      "Entire nested populations can work on KPIs derived from main OKRs",
+      "Less directly tied to top-level simulation"
+    ]
+  },
+  "quantum_tech": {
+    "memory": "Memory problem solved (enables realistic simulations)",
+    "energy_efficiency": "More energy efficient than previous tech",
+    "time_compression": "Entire simulation runs in milliseconds real-time, hundreds of years simulated time"
+  },
+  "success_criteria": {
+    "total_trials": "847+ million",
+    "success_rate": "0.04%",
+    "how_reached": "5 critical decision points must all be hit correctly (combined probability ~0.04%)",
+    "median_extinction": "127 years (peak death zone: nukes/AI/climate crisis but lacking coordination)"
+  },
+  "pareto_front_violations": {
+    "explanation": "Golden path reaches optimal survival but violates moral constraints",
+    "specific_violations": [
+      "Genocide (population reduction to sustainable level)",
+      "Bodily autonomy (reproductive control, mandatory tracking)",
+      "Democratic consent (technocratic takeover, no voting)"
+    ],
+    "why_0.04_success_rate": "99.96% of simulations can't stomach these sacrifices in time. They try gentler approaches and die in the critical window."
+  },
+  "protagonists_world_what_feels_normal": {
+    "reproductive_control": {
+      "policy": "Breeding licenses based on genetic fitness + resource allocation",
+      "feels_normal": "Of course you need approval to reproduce - why would you create a life you can't support?"
+    },
+    "job_assignment": {
+      "policy": "Career assigned by algorithm based on aptitude testing",
+      "feels_normal": "Why would you work at something you're not good at? That's selfish."
+    },
+    "surveillance": {
+      "policy": "Total tracking (tracking shot at birth), predictive policing, thought crime prosecution",
+      "feels_normal": "Of course we monitor everyone - how else do you prevent violence?"
+    },
+    "information_control": {
+      "policy": "Curated information feeds, harmful content censored, history rewritten",
+      "feels_normal": "Protagonist might not even know about nations, democracy, the before-times"
+    },
+    "resource_allocation": {
+      "policy": "Everything allocated by algorithm, no wealth accumulation, no luxury",
+      "feels_normal": "Why would you need more than your allocation? That's hoarding."
+    },
+    "governance": {
+      "policy": "No concept of nations, just zones. Global government.",
+      "feels_normal": "Nations were just competing resource extraction schemes that caused wars"
+    },
+    "innovation": {
+      "policy": "Research directed only toward survival goals, optimization/A/B testing of everything",
+      "feels_normal": "Why waste resources on projects that don't improve survival odds?"
+    }
+  },
+  "the_message_mechanics": {
+    "location": "Hidden in biological/archaeological dataset (actually 23andMe-style data from before simulation start)",
+    "protagonist_thinks": "Archaeological data from old server - studying pre-consolidation 'wild' humans",
+    "actually_is": "Present-day genetic data (real world before simulation began)",
+    "how_hidden": "TBD - how exactly did devsecops encode it in DNA data?",
+    "discovery_requirements": "Requires specific competencies (evolutionary psych knowledge, genetic algorithm understanding, data forensics)",
+    "nigerian_prince_logic": "Filters more than it allows - if you can find it, you're selected",
+    "contains": "Proof that simulation exists"
+  },
+  "coffee_guys_world": {
+    "resource_pressure": "Severe pressure on food, water, energy",
+    "desertification": "Much more desert-like areas",
+    "how_to_show_scarcity": "TBD - what small changes reveal water/energy/food scarcity without being heavy-handed?"
+  },
+  "data_collection": {
+    "real_world_source": "23andMe-style company collected biological/behavioral data",
+    "sample_size": "Enough to bootstrap realistic population (everyone on earth related to guy 2500 years ago)",
+    "simulation_data": "Post-consolidation: mandatory tracking shot at birth, extensive DNA collection on everyone",
+    "archaeological_cpu_plant": "Pre-consolidation data from simulation start (before tracking, selection, optimization)",
+    "celebrities_vs_regular": "Celebrities/leaders get more detailed simulation than general population"
+  }
+}
