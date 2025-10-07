@@ -35,6 +35,30 @@
     "optimization_goal": "Minimize long-term extinction probability (NOT maximize survival time)",
     "golden_path_solution": "Mass nursery pods with robotic civilization starter kits sent to viable planets (self-replicating, low individual success but high aggregate probability)",
     "golden_path_requires": "Tech company takeover for global coordination",
+    "optimization_hierarchy": {
+      "per_trial_level": {
+        "description": "Individual human life outcomes",
+        "optimizes_for": "Trial-level loss function (personal survival, goals, achievements)",
+        "who": "Every simulated person"
+      },
+      "per_epoch_level": {
+        "description": "Generation/batch of trials",
+        "optimizes_for": "NSGA-II style selection from multiple trials",
+        "mechanism": "Evaluate which trials succeeded, breed next generation"
+      },
+      "between_epochs_level": {
+        "description": "KPI/vectorization tuning layer (where selected people go)",
+        "optimizes_for": "Adjustment to intermediate loss functions (setting KPIs for OKRs)",
+        "who": "Selected individuals from completed epochs",
+        "function": "Like neural net inner nodes - algorithm found this improves overall performance",
+        "what_they_do": "Review what worked/failed, adjust intermediate loss functions, set parameters for next generation"
+      },
+      "meta_level": {
+        "description": "Ultimate loss function (minimize extinction)",
+        "optimizes_for": "Long-term species survival across cosmic timescales",
+        "unchanging": "This level doesn't change, but intermediate KPIs do"
+      }
+    },
     "loss_function_hierarchy": [
       "Survival (food, shelter, safety)",
       "Organization (prevent chaos at scale)",
@@ -43,13 +67,16 @@
     ],
     "selection_mechanism": {
       "when_offered": "Epoch completes",
-      "choice": "Join optimization layer OR get reset (no memory)",
+      "choice": "Join optimization layer (between-epochs KPI tuning) OR get reset (no memory, run again)",
+      "what_join_means": "Go UP a level to adjust intermediate loss functions for next epoch. Persist globally above individual trials. Influence vectorization parameters.",
       "selection_criteria": ["Leadership", "Resource consolidation", "Long-term thinking", "Will they act when they learn truth?"],
       "statistics": {
         "do_nothing": "89%",
         "self_destruct": "10.7%",
         "act": "0.3%"
-      }
+      },
+      "why_this_works": "System discovered through trials that pulling people out and giving them influence over KPIs improves overall optimization performance. Emergent behavior, not designed - the algorithm found it.",
+      "the_question": "Is the optimization layer real, or just another simulation layer? (Turtles all the way up)"
     },
     "memory": "NO memory between iterations (protagonist doesn't remember previous 2,762,639 refusals)"
   },
@@ -57,6 +84,20 @@
     "protagonist": {
       "job": "Evolutionary psychology/economics researcher",
       "research_focus": "How empathy/cooperation/altruism evolved, tracking DNA markers through genetic lineages, correlating genetic patterns with survival-beneficial behaviors",
+      "research_method": {
+        "description": "Runs statistical life simulations on genetic data",
+        "style": "Simple, statistical, elegant - like evolutionary algorithm videos with creatures bumping around, breeding, dying",
+        "not_detailed": "Not detailed individuals, just population dynamics",
+        "questions": "Given DNA + resource constraints, what percentage develop cooperation vs defection after N generations?",
+        "funding_reason": "Post-consolidation government obsessed with biological/species survival R&D (nursery pod program needs this, understanding survival traits, population optimization, planetary colonization planning)",
+        "the_meta_horror": "He's running simplified statistical simulations on genetic data. He IS a simplified statistical simulation based on genetic data. He sees elegance in his sims. Someone above sees elegance in HIM."
+      },
+      "story_progression": {
+        "starts": "Without the real DNA evidence - running simpler evolutionary simulations",
+        "news_report": "Discovery of ancient CPU with pre-consolidation DNA data announced",
+        "graduates": "Gets called up to work with the real DNA set - big leagues, raises stakes",
+        "what_news_looks_like": "TBD - how does news work in this world?"
+      },
       "why_in_genetic_data": "This research is why protagonist is deep in DNA data (where devsecops hid message)",
       "genetic_lineage": "2,762,640 attempts (same genetic tree, not exact same person - different birth years, sometimes different gender, slightly different circumstances)",
       "previous_attempts": "Previous 2,762,639 instances from this lineage chose 'no'",
