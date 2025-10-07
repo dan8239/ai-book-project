@@ -76,7 +76,13 @@
         "act": "0.3%"
       },
       "why_this_works": "System discovered through trials that pulling people out and giving them influence over KPIs improves overall optimization performance. Emergent behavior, not designed - the algorithm found it.",
-      "the_question": "Is the optimization layer real, or just another simulation layer? (Turtles all the way up)"
+      "the_question": "Is the optimization layer real, or just another simulation layer? (Turtles all the way up)",
+      "at_the_vectorization_level": {
+        "when": "Later Act 2 or probably Act 3",
+        "what_protagonist_does": "Among fleet of thousands of others like him, each running their own trials with different hyperparameters",
+        "job": "Review vectorization parameters, run trials, compare results, adjust KPIs for next generation",
+        "access": "MLflow-style experiment access - can see all trials, Pareto front, constraint violations"
+      }
     },
     "memory": "NO memory between iterations (protagonist doesn't remember previous 2,762,639 refusals)"
   },

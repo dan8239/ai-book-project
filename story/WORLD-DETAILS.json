@@ -80,6 +80,34 @@
     "sample_size": "Enough to bootstrap realistic population (everyone on earth related to guy 2500 years ago)",
     "simulation_data": "Post-consolidation: mandatory tracking shot at birth, extensive DNA collection on everyone",
     "archaeological_cpu_plant": "Pre-consolidation data from simulation start (before tracking, selection, optimization)",
-    "celebrities_vs_regular": "Celebrities/leaders get more detailed simulation than general population"
+    "tracking_shot": "Mandated at some timestamp in simulated history (started partway through, not from beginning)",
+    "sensors_not_trackers": "They're sensors, not tracking devices - capture biological and synapse data"
+  },
+  "memory_constraints_and_compression": {
+    "the_problem": "Can't capture all data everywhere - energy conservation limitation",
+    "recursive_data_problem": [
+      "You capture everything",
+      "The data gets more granular so more data required",
+      "You capture all of that data",
+      "The power increases due to new sensors",
+      "You can't capture all the data (energy/storage limits)",
+      "You decide to just copy data from top K celebrities/leaders",
+      "K varies by logarithmic relationship",
+      "More population growth but celebrity shared knowledge doesn't increase as much"
+    ],
+    "celebrities_vs_regular_people": {
+      "celebrities": "Get more detailed simulation, more data captured, synapse-level fidelity",
+      "regular_people": "Compressed to summary data (600TB → 3.4GB scale compression)",
+      "why_celebrities_evolved": "Capturing all data is recursive problem with energy limits. Solution: prioritize leaders/influencers.",
+      "celebrity_to_leadership": "Celebrity begets leadership begets energy consolidation",
+      "politics_and_fame": "Politicians go into politics because they want to be famous. Nobody gets famous because they want to get into politics."
+    },
+    "garbage_collection": {
+      "necessity": "Data can't be collected everywhere so it has to be pruned",
+      "what_happens": "Wiping out records of human existence that are no longer required",
+      "memory_compression_event": "Act II - loved ones disappear when RAM clears for next epoch",
+      "not_everyone_equally_real": "Some people are more 'real' (more detailed) than others based on importance/influence",
+      "potential_mystery": "Could be some mystery here that needs solving?"
+    }
   }
 }
