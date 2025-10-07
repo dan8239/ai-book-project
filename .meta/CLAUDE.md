@@ -77,5 +77,13 @@ archive/         # Deprecated stuff
 - **Frequently ask where to put things if unclear**
 - When creating new files, always ask: what folder? what subfolder?
 - When content doesn't have clear home, stop and ask user
-- Keep hierarchy clean: .meta/ canon/ notes/ writing/ archive/
+- Keep hierarchy clean: .meta/ story/ research/ writing/ archive/
 - Within those: use nested subfolders, not flat dumps
+
+## Research Approach
+- **Don't just dump files and status report**
+- **Research means engaging with the material**
+- Show top-level overview first
+- Ask which area to dig deeper into
+- Explore interactively, don't just document
+- Research informs world-building - it's collaborative thinking, not filing
