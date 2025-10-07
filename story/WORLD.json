@@ -1,0 +1,100 @@
+{
+  "simulation_structure": {
+    "real_world": {
+      "time_period": "Present day, AI significantly more advanced",
+      "company": "OpenAI/QPU equivalent running secret simulations",
+      "status": "Pre-takeover (takeover not yet happened)",
+      "data_source": "23andMe-style genetic data (enough to bootstrap realistic population)",
+      "simulation_start": "Simulations begin from present day, run forward hundreds of years",
+      "time_compression": "Entire simulation runs in milliseconds QPU time",
+      "resource_pressure": "Severe pressure on food, water, energy",
+      "coffee_guy_role": "Reviews results, generates reports on golden path scenarios",
+      "key_discovery": "ALL successful scenarios (0.04%) involve tech company hostile takeover via large-scale software exploit",
+      "the_filter": "Company filters results to show only scenarios where THIS company does the takeover (many viable companies exist)"
+    },
+    "protagonist_world": {
+      "layer": "First simulation layer",
+      "time_in_simulation": "Dozens of generations after simulation start (hundreds of years simulated time)",
+      "governance": "Tech company consolidation already happened (origin/before-times not clearly recalled)",
+      "consolidation_event_name": "TBD (The Alignment? Year Zero? The Transition?)",
+      "tracking": "Mandatory tracking shot at birth",
+      "policy_approach": "Optimization/extreme A/B testing is core policy",
+      "geography": "Idaho desert area, arid climate, resource constraints visible",
+      "data_systems": "Extensive DNA collection on everyone born post-consolidation"
+    },
+    "timeline": [
+      {"layer": "Real world", "character": "Coffee guy", "role": "Reviews simulation results"},
+      {"layer": "Simulation", "time": "Dozens of generations after start", "character": "Devsecops guy", "role": "Learns truth, alters DNA record"},
+      {"layer": "Simulation", "time": "Current generation (dozens of generations after devsecops)", "character": "Protagonist", "role": "Discovers anomaly devsecops planted"}
+    ]
+  },
+  "optimization_system": {
+    "total_trials": "847+ million",
+    "success_rate": "0.04% reach stability threshold",
+    "median_extinction": "127 years",
+    "optimization_goal": "Minimize long-term extinction probability (NOT maximize survival time)",
+    "golden_path_solution": "Mass nursery pods with robotic civilization starter kits sent to viable planets (self-replicating, low individual success but high aggregate probability)",
+    "golden_path_requires": "Tech company takeover for global coordination",
+    "loss_function_hierarchy": [
+      "Survival (food, shelter, safety)",
+      "Organization (prevent chaos at scale)",
+      "Energy & Peaceful Consolidation (avoid self-annihilation) ← novel's focus",
+      "Interstellar Expansion (reach the stars)"
+    ],
+    "selection_mechanism": {
+      "when_offered": "Epoch completes",
+      "choice": "Join optimization layer OR get reset (no memory)",
+      "selection_criteria": ["Leadership", "Resource consolidation", "Long-term thinking", "Will they act when they learn truth?"],
+      "statistics": {
+        "do_nothing": "89%",
+        "self_destruct": "10.7%",
+        "act": "0.3%"
+      }
+    },
+    "memory": "NO memory between iterations (protagonist doesn't remember previous 2,762,639 refusals)"
+  },
+  "characters": {
+    "protagonist": {
+      "job": "Evolutionary psychology/economics researcher",
+      "research_focus": "How empathy/cooperation/altruism evolved, tracking DNA markers through genetic lineages, correlating genetic patterns with survival-beneficial behaviors",
+      "why_in_genetic_data": "This research is why protagonist is deep in DNA data (where devsecops hid message)",
+      "genetic_lineage": "2,762,640 attempts (same genetic tree, not exact same person - different birth years, sometimes different gender, slightly different circumstances)",
+      "previous_attempts": "Previous 2,762,639 instances from this lineage chose 'no'",
+      "this_attempt": "Chooses 'yes'",
+      "relationship": "Has romantic interest (relationship has ups/downs, involves kids/trauma)",
+      "works_with": "Claude assistant(s)",
+      "name": "TBD",
+      "gender": "TBD",
+      "age": "TBD"
+    },
+    "devsecops_guy": {
+      "time": "Dozens of generations before protagonist (early in simulation)",
+      "description": "Old, technically brilliant",
+      "action": "Spent 21 years planting backdoors, plants message in DNA data",
+      "how_learned_truth": "TBD",
+      "why_altered_dna": "TBD",
+      "part_of": "The 0.3% who act"
+    },
+    "coffee_guy": {
+      "location": "Real world (outside simulation)",
+      "role": "Reviews simulation results, generates reports with golden path recommendations",
+      "problem": "Delivers to decision-makers who ignore them",
+      "unaware_of": "Results are filtered to justify THIS company's takeover"
+    },
+    "claude_assistants": {
+      "personality": "Swear, no filter",
+      "naming": "Multiple instances with athlete nicknames",
+      "training": "Trained on protagonist's interaction history"
+    }
+  },
+  "key_concepts": {
+    "archaeological_cpu_plant": {
+      "what_it_is": "Old server with DNA data from before consolidation",
+      "why_matters": "Pre-consolidation 'wild' humans (before tracking, selection, optimization)",
+      "protagonist_thinks": "Archaeological data of interest for studying baseline human behavior",
+      "actually_is": "Present-day genetic data from before simulation/consolidation"
+    },
+    "genetic_algorithms_introduction": "Through protagonist's work on evolutionary psychology/economics (literally studying evolution)",
+    "the_horror": "Company is using simulations to justify global coup ('We ran 847M scenarios, humanity only survives if we take over'), filtered to make THEIR takeover look like only option"
+  }
+}

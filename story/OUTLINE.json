@@ -1,0 +1,86 @@
+{
+  "structure": "Three acts: TRIAL / LOSS / ADJUSTMENT",
+  "acts": [
+    {
+      "act": 1,
+      "title": "TRIAL",
+      "description": "Mystery unraveling - protagonist discovers anomaly, investigates, learns about their world",
+      "chapters": [
+        {
+          "chapter": 1,
+          "scenes": [
+            {
+              "scene": 1,
+              "pov": "Devsecops guy",
+              "time": "Dozens of generations before protagonist (early in simulation)",
+              "beats": [
+                "TBD: How devsecops learns the truth",
+                "TBD: Why/how he alters DNA record",
+                "TBD: What he plants"
+              ]
+            },
+            {
+              "scene": 2,
+              "pov": "Protagonist",
+              "time": "Current generation",
+              "location": "TBD (office/lab/remote)",
+              "opening_line": "What are you optimizing for?",
+              "beats": [
+                "Partner/colleague asks opening question",
+                "Protagonist explains: evolutionary psych/economics research",
+                "Working on: how cooperation/empathy evolved, DNA markers, genetic patterns",
+                "Introduce: archaeological CPU plant with 'wild' pre-consolidation DNA data",
+                "Reveal world through work: optimization culture, tracking, meritocracy, resource constraints, Idaho desert setting"
+              ],
+              "questions_to_answer": [
+                "What exactly is protagonist optimizing? (specific loss function)",
+                "What genetic parameters matter?",
+                "Who is partner character?",
+                "Time of day? Environmental details?",
+                "What's on screen?"
+              ]
+            }
+          ]
+        },
+        {
+          "chapter": 2,
+          "description": "TBD: Mystery section - protagonist needs to understand...",
+          "questions": [
+            "What does protagonist discover in the data?",
+            "How does the anomaly present itself?",
+            "What makes it interesting/worth investigating?",
+            "What tools/methods does protagonist use?",
+            "How does this feel like detective work?"
+          ]
+        }
+      ],
+      "arc": "Investigative, human-scale problem-solving"
+    },
+    {
+      "act": 2,
+      "title": "LOSS",
+      "description": "Truth revealed - protagonist learns about simulation, faces existential horror",
+      "chapters": [],
+      "key_beats": [
+        "Learns truth about simulation",
+        "Sees 847M trials, 99.96% extinction rate",
+        "Memory compression event (loved ones disappear)",
+        "Offered selection"
+      ]
+    },
+    {
+      "act": 3,
+      "title": "ADJUSTMENT",
+      "description": "Choice - protagonist granted experiment access, sees real picture, makes decision",
+      "chapters": [],
+      "key_beats": [
+        "Granted experiment access (MLflow-style)",
+        "Sees Pareto front and constraint violations",
+        "Learns golden path requires tech company takeover",
+        "Learns company filtered results (many viable companies, only showing theirs)",
+        "Coffee guy story fully revealed",
+        "Makes choice (attempt 2,762,640)"
+      ]
+    }
+  ]
+}
