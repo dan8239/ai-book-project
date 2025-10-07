@@ -26,8 +26,23 @@ Through protagonist's explanation of their work problem, we learn:
 - Reveals world-building organically
 - Sets up the meta-question: what SHOULD we optimize for?
 
-## Still To Decide
+## The Optimization Problem
 
-- What specific problem is protagonist working on?
-- What does this reveal about their world's configuration?
-- Who is asking the question? (colleague, Claude assistant, romantic interest?)
+**What protagonist is working on:**
+- Genetic balancing/ideal selection of gene diversity for self-replicating nursery pods
+- Part of civilization starter kit program (mass pods sent to viable planets)
+- Low individual success rate but high aggregate probability across many planets
+- Technical/minute optimization, not grand strategy
+
+**Protagonist's backstory:**
+- Newly assigned to this position
+- Got it through meritocracy - did something extraordinary in previous job
+- Partner/colleague will ask about that previous achievement
+
+**Program status (TBD):**
+- How far along is the nursery pod/starter kit program?
+- Tech just proven? Building phase? Already launched? Fully operational?
+
+## Who Asks The Question?
+
+Partner/colleague working with protagonist on the optimization project

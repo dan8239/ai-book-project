@@ -38,20 +38,27 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 - 23andMe-style company collected biological/behavioral data over evolutionary timescales
 - That data seeded the first simulation layer
 - Time compression: Coffee guy's total chapter time = one day while entire simulation runs
-
-**Geography/Climate:**
-- City located much further north than current climate would suggest (Idaho/Canada area)
-- Climate like arid/dry years of Denver
-- Shows extent of desertification - places that should be temperate/forested are now arid
 - Resource pressure shows in subtle ways (research needed: what small changes reveal water/energy/food scarcity)
 
-### 1.3 Technology (In-Simulation - Protagonist's World)
+### 1.3 Technology & Governance (In-Simulation - Protagonist's World)
 - Hundreds of years advanced from real present day
 - Multiple generations of advancement within simulation
 - Mandatory tracking shot at birth (started at some timestamp in simulated history)
 - Quantum computing exists
 - Data preservation has memory constraints
 - Celebrities/leaders get more detailed simulation than general population
+- Optimization/extreme A/B testing is a core policy of this world
+
+**Governmental Structure:**
+- Global optimization requires power beyond nation-states
+- Tech company coup (Amazon/Google/OpenAI equivalents) consolidated power
+- Either: happening at cusp in real world (coffee guy's time)
+- Or: already happened in simulation, origin/before-times not recalled
+
+**Geography/Climate:**
+- City located in Idaho desert area
+- Arid climate, dry conditions
+- Resource constraints visible in environment
 
 ### 1.4 The Simulation Data
 - 847+ million trials run
@@ -80,6 +87,12 @@ The company coffee guy works for aims to find humanity's golden path. By letting
 - Failure modes tracked: nuclear war, climate collapse, AI misalignment, resource depletion, pandemic, social collapse
 
 Goal: Find policy configurations that reach low ongoing extinction risk
+
+**Golden Path Solution (The 0.04% Success):**
+- Mass nursery pods with robotic civilization starter kits sent to viable planets
+- Self-replicating technology
+- Low individual pod success rate but high aggregate probability across many planets
+- Genetic diversity optimization critical to self-replication success
 
 ## 2. The Optimization System
 
