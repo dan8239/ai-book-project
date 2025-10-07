@@ -105,9 +105,21 @@
     "garbage_collection": {
       "necessity": "Data can't be collected everywhere so it has to be pruned",
       "what_happens": "Wiping out records of human existence that are no longer required",
-      "memory_compression_event": "Act II - loved ones disappear when RAM clears for next epoch",
+      "when_it_happens": "After epoch completes, non-essential people compressed to summary data",
       "not_everyone_equally_real": "Some people are more 'real' (more detailed) than others based on importance/influence",
       "potential_mystery": "Could be some mystery here that needs solving?"
+    },
+    "family_compression_horror": {
+      "when": "Act III, near the end",
+      "setup": "Protagonist died in his simulation to accept selection, got called up to vectorization/optimization layer",
+      "his_family": "Was still in the simulation when he left",
+      "the_choice_he_faces": [
+        "Option A: Give his family full data capture at vectorization level (save them from compression)",
+        "Option B: Check on them - discover they're already compressed to standard summary data"
+      ],
+      "option_b_horror": "Too late. They've been reduced to 3.4GB summaries. All granularity, personality, detail GONE. Just statistical summaries. The people he loved no longer exist in any meaningful way.",
+      "the_real_cost": "You escape the simulation. Everyone you loved gets garbage collected.",
+      "emotional_impact": "This is the gut-punch before his final choice. He understands the full cost of what the selection mechanism does."
     }
   }
 }

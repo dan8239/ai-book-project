@@ -64,22 +64,27 @@
       "key_beats": [
         "Learns truth about simulation",
         "Sees 847M trials, 99.96% extinction rate",
-        "Memory compression event (loved ones disappear)",
-        "Offered selection"
+        "Realizes implications for his life, his family, everything he knew",
+        "Offered selection: join optimization layer OR get reset",
+        "Dies in simulation to accept selection (leaving family behind)"
       ]
     },
     {
       "act": 3,
       "title": "ADJUSTMENT",
-      "description": "Choice - protagonist granted experiment access, sees real picture, makes decision",
+      "description": "Choice - protagonist at vectorization level, sees real picture, faces ultimate cost",
       "chapters": [],
       "key_beats": [
+        "Wakes up at vectorization/optimization layer",
+        "Among thousands of others running trials with different hyperparameters",
         "Granted experiment access (MLflow-style)",
         "Sees Pareto front and constraint violations",
         "Learns golden path requires tech company takeover",
         "Learns company filtered results (many viable companies, only showing theirs)",
         "Coffee guy story fully revealed",
-        "Makes choice (attempt 2,762,640)"
+        "Near end: Family compression horror - checks on family from simulation, discovers they've been compressed to standard summary data (all personality/detail gone, just statistics)",
+        "The real cost of selection: you escape, everyone you loved gets garbage collected",
+        "Makes choice (attempt 2,762,640) - knowing the full truth and cost"
       ]
     }
   ]
