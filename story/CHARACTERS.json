@@ -25,7 +25,46 @@
     "this_attempt": "Chooses 'yes'",
     "relationship": "Has romantic interest (relationship has ups/downs, involves kids/trauma)",
     "works_with": "Claude assistant(s)",
-    "relationship_to_devsecops": "Direct descendant"
+    "relationship_to_devsecops": "Direct descendant",
+    "home_life_questions": {
+      "partner": [
+        "Does his wife/partner work? What does she do?",
+        "What's she like? (personality, interests, relationship dynamic)",
+        "How does she feel about his work obsession?",
+        "Is she the same person as 'partner/colleague' who asks opening question?"
+      ],
+      "children": [
+        "How many kids do they have?",
+        "What are their ages?",
+        "Names? Personalities?",
+        "How does he balance work vs being present with them?"
+      ],
+      "home": [
+        "What does their home look like? (size, style, location in city)",
+        "Is it assigned housing or chosen?",
+        "What personal touches exist despite optimization culture?",
+        "What does the aquarium tell us about their home?"
+      ],
+      "economics": [
+        "Economic standing? (comfortable? struggling? elite?)",
+        "How does their standing compare to everyone else?",
+        "What does economic stratification look like in this world?",
+        "Does new job change their economic status?"
+      ],
+      "city_and_community": [
+        "What city are they in?",
+        "What is that city like? (climate, density, infrastructure)",
+        "How is it different from other cities?",
+        "What's the neighborhood like?",
+        "Idaho desert setting - how does that feel day to day?"
+      ],
+      "narrative_integration": [
+        "How to show home life meaningfully without derailing plot?",
+        "Domestic scenes that reveal character and world simultaneously?",
+        "Balance between work obsession and family presence?",
+        "Which chapters weave in home life most naturally?"
+      ]
+    }
   },
   "devsecops_woman": {
     "name": "TBD",
