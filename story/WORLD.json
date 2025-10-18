@@ -114,13 +114,21 @@
       "gender": "TBD",
       "age": "TBD"
     },
-    "devsecops_guy": {
+    "devsecops_woman": {
+      "gender": "Woman",
       "time": "Dozens of generations before protagonist (early in simulation)",
-      "description": "Old, technically brilliant",
-      "action": "Spent 21 years planting backdoors, plants message in DNA data",
-      "how_learned_truth": "TBD",
-      "why_altered_dna": "TBD",
-      "part_of": "The 0.3% who act"
+      "description": "Technically brilliant",
+      "relationship_to_protagonist": "Direct ancestor",
+      "action": "Spent 21 years planting backdoors, plants the origin dataset in DNA data as message/proof",
+      "how_learned_truth": "TBD - via compsci method (not DNA analysis)",
+      "why_altered_dna": "To leave proof of simulation for future generations - planted the actual origin dataset that bootstrapped the simulation, knowing the metadata would reveal the population bottleneck and demographic bias",
+      "part_of": "The 0.3% who act",
+      "meets_on_journey": {
+        "who": "Total normie (not technical)",
+        "relationship": "Becomes her partner",
+        "protagonist_connection": "Protagonist inherits last name from this person's lineage",
+        "role_in_story": "Part of how protagonist eventually discovers he's related to the person who planted the DNA evidence"
+      }
     },
     "coffee_guy": {
       "location": "Real world (outside simulation)",
@@ -139,7 +147,23 @@
       "what_it_is": "Old server with DNA data from before consolidation",
       "why_matters": "Pre-consolidation 'wild' humans (before tracking, selection, optimization)",
       "protagonist_thinks": "Archaeological data of interest for studying baseline human behavior",
-      "actually_is": "Present-day genetic data from before simulation/consolidation"
+      "actually_is": "Present-day genetic data from before simulation/consolidation",
+      "the_message": {
+        "what_devsecops_planted": "The origin dataset itself - the actual genetic data that bootstrapped the simulation",
+        "what_it_proves": {
+          "proof_1": "100% of current population descended from same exact sample",
+          "proof_2": "Sample is NOT worldwide - demographically and geographically biased subsample of real world",
+          "proof_3": "Dataset was bootstrapped to create fake genetic variation, but metadata reveals the bottleneck"
+        },
+        "the_subsample_characteristics": {
+          "demographics": "Affluent, very online, types who sent DNA to 23andMe or similar services",
+          "geographic_bias": "Not evenly distributed across world - concentrated in specific regions",
+          "metadata_reveals": "This isn't baseline human variation - it's a specific self-selected subset",
+          "how_identified": "Metadata analysis shows population markers inconsistent with global distribution"
+        },
+        "the_horror": "In the simulation, this subsample is presented as the origin of the entire human population. But the metadata proves it was just wherever full data scans/DNA samples were sufficient to approximate a real human model.",
+        "how_protagonist_discovers": "Running evolutionary simulations on the dataset, notices impossible population bottleneck and demographic skew in the 'origin' generation"
+      }
     },
     "genetic_algorithms_introduction": "Through protagonist's work on evolutionary psychology/economics (literally studying evolution)",
     "the_horror": "Company is using simulations to justify global coup ('We ran 847M scenarios, humanity only survives if we take over'), filtered to make THEIR takeover look like only option"

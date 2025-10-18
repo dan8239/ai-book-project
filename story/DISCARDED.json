@@ -1,0 +1,25 @@
+{
+  "discarded_concepts": [
+    {
+      "concept": "Selection as intentional test",
+      "original_idea": "The archaeological CPU discovery and path to selection is a designed test or chosen mechanism",
+      "why_discarded": "Too complex. Simpler path: devsecops woman planted DNA as message after discovering truth another way (compsci method TBD). It's not a test - it's a clue she left for future generations.",
+      "when_discarded": "2025-10-17",
+      "related_to": "Devsecops character, archaeological CPU plant, selection mechanism"
+    }
+  ],
+  "evolved_concepts": [
+    {
+      "original": "Devsecops as rebel planting backdoors",
+      "evolution": "Still plants message, but the message itself IS the DNA dataset - proves simulation via population bottleneck",
+      "current_status": "Active - integrated into archaeological_cpu_plant concept"
+    }
+  ],
+  "questions_abandoned": [
+    {
+      "question": "Is selection mechanism a designed test?",
+      "answer": "No - simpler: devsecops discovered truth via compsci method, planted clue, protagonist finds it",
+      "when_resolved": "2025-10-17"
+    }
+  ]
+}

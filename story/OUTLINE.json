@@ -11,21 +11,25 @@
           "scenes": [
             {
               "scene": 1,
-              "pov": "Devsecops guy",
+              "pov": "Devsecops woman (protagonist's ancestor)",
               "time": "Dozens of generations before protagonist (early in simulation)",
               "beats": [
-                "TBD: How devsecops learns the truth",
-                "TBD: Why/how he alters DNA record",
-                "TBD: What he plants"
+                "TBD: How she learns the truth (via compsci method, not DNA)",
+                "She plants the origin dataset in DNA records as proof/message",
+                "Meets normie partner (protagonist's other ancestor, last name lineage)",
+                "The dataset reveals: 100% of population from biased subsample, demographic impossibility, proof of simulation"
               ]
             },
             {
               "scene": 2,
               "pov": "Protagonist",
               "time": "Current generation",
-              "location": "TBD (office/lab/remote)",
-              "opening_line": "What are you optimizing for?",
+              "location": "Starts in kid's room, then transitions to work",
+              "opening_moment": "Aquarium scene with kid - naming fish, talking about room stuff (see MEMORIES.md for dialogue)",
+              "opening_line": "What are you optimizing for? (asked by partner/colleague when protagonist starts work)",
               "beats": [
+                "OPENING: Aquarium with kid, domestic normalcy, fish naming",
+                "Transition to work",
                 "Partner/colleague asks opening question",
                 "Protagonist explains: evolutionary psych/economics research",
                 "Working on: how cooperation/empathy evolved, DNA markers, genetic patterns",
@@ -83,7 +87,9 @@
         "Learns golden path requires tech company takeover",
         "Learns company filtered results (many viable companies, only showing theirs)",
         "Coffee guy story fully revealed",
-        "Makes choice (attempt 2,762,640)"
+        "Perhaps there's a choice of some kind",
+        "Makes choice (attempt 2,762,640)",
+        "FINAL SCENE: Goes home to hang with family despite knowing the truth - aquarium scene with kid naming fish (mirrors opening)"
       ],
       "near_end_family_compression": {
         "when": "Act III, near the end (user specified)",
