@@ -30,6 +30,7 @@ What the reader should learn/feel:
 - 0-100% likelihood rating on wanting to read articles
 - AI summarizes a couple non-descript articles
 - Saves ancient data discovery article for later (doesn't read yet)
+- NOTE: Article will be read in later chapter during scheduled dump time
 
 ### MOMENT 3: Training Session
 - Training a temp worker (new protocol at nearly every company)
