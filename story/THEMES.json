@@ -22,8 +22,9 @@
       "description": "Protagonist's world is prosperous, happy, going to the stars. But it required moral sacrifices: genocide, bodily autonomy violations, democratic consent removed."
     },
     {
-      "theme": "The reports no one reads",
-      "description": "Coffee guy generates golden path recommendations. Decision-makers ignore them. Truth doesn't matter if no one acts on it."
+      "theme": "The reports read only when they justify what you already want",
+      "description": "Coffee guy's reports were ignored for 2,762,639 trials until this one provides the 'golden path'. Decision-makers approve immediately - but the solution is a tech company takeover protocol giving them absolute power. They finally listen because it confirms their desired outcome. Truth still doesn't matter, only confirmation bias at scale.",
+      "original_theme": "The reports no one reads (evolved 2025-10-17)"
     },
     {
       "theme": "0.3% who act",

@@ -89,6 +89,30 @@ User: "The family compression horror happens in Act III"
 Claude: "Should I add this to Act III beats? Where in Act III - beginning, middle, or near end? Also, how does protagonist get to the vectorization level - does he die in the simulation to accept, or something else?"
 WHY GOOD: Claude asks for specifics instead of deciding them.
 
+**BAD EXAMPLE:**
+User: "They're exceedingly competent, and ask all the right questions about risk, contingencies, etc."
+Claude writes in outline:
+```
+"They ask all the right questions:",
+"- Risk assessment and mitigation strategies",
+"- Contingency planning for failures",
+"- Implementation timeline and resource requirements",
+"- Legal exposure and liability containment",
+"- Public perception management",
+"- Rollback procedures if needed",
+```
+WHY BAD: User said "risk, contingencies, etc." Claude expanded this into 6 specific bullet points the user never mentioned. Don't fill in details - that's the user's job when writing.
+
+**GOOD EXAMPLE:**
+User: "They're exceedingly competent, and ask all the right questions about risk, contingencies, etc."
+Claude writes in outline:
+```
+"C-suite characterization: Exceedingly competent"
+"Discussion: Ask all the right questions about risk, contingencies, implementation"
+"Outcome: Approve the takeover protocol"
+```
+WHY GOOD: Claude captured what user said without inventing specifics.
+
 ## Organization Rules
 - **Maintain well-nested structure at all times**
 - **Frequently ask where to put things if unclear**

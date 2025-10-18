@@ -1,0 +1,100 @@
+{
+  "protagonist": {
+    "name": "TBD",
+    "gender": "TBD",
+    "age": "TBD",
+    "job": "Evolutionary psychology/economics researcher",
+    "research_focus": "How empathy/cooperation/altruism evolved, tracking DNA markers through genetic lineages, correlating genetic patterns with survival-beneficial behaviors",
+    "research_method": {
+      "description": "Runs statistical life simulations on genetic data",
+      "style": "Simple, statistical, elegant - like evolutionary algorithm videos with creatures bumping around, breeding, dying",
+      "not_detailed": "Not detailed individuals, just population dynamics",
+      "questions": "Given DNA + resource constraints, what percentage develop cooperation vs defection after N generations?",
+      "the_meta_horror": "He's running simplified statistical simulations on genetic data. He IS a simplified statistical simulation based on genetic data. He sees elegance in his sims. Someone above sees elegance in HIM."
+    },
+    "funding_reason": "Post-consolidation government obsessed with biological/species survival R&D (nursery pod program needs this, understanding survival traits, population optimization, planetary colonization planning)",
+    "why_in_genetic_data": "This research is why protagonist is deep in DNA data (where devsecops hid message)",
+    "story_progression": {
+      "starts": "Without the real DNA evidence - running simpler evolutionary simulations",
+      "news_report": "Discovery of ancient CPU with pre-consolidation DNA data announced",
+      "graduates": "Gets called up to work with the real DNA set - big leagues, raises stakes",
+      "what_news_looks_like": "TBD - how does news work in this world?"
+    },
+    "genetic_lineage": "2,762,640 attempts (same genetic tree, not exact same person - different birth years, sometimes different gender, slightly different circumstances)",
+    "previous_attempts": "Previous 2,762,639 instances from this lineage chose 'no'",
+    "this_attempt": "Chooses 'yes'",
+    "relationship": "Has romantic interest (relationship has ups/downs, involves kids/trauma)",
+    "works_with": "Claude assistant(s)",
+    "relationship_to_devsecops": "Direct descendant"
+  },
+  "devsecops_woman": {
+    "name": "TBD",
+    "gender": "Woman",
+    "age": "TBD",
+    "time": "Dozens of generations before protagonist (early in simulation)",
+    "description": "Technically brilliant",
+    "relationship_to_protagonist": "Direct ancestor",
+    "action": "Spent 21 years planting backdoors, plants the origin dataset in DNA data as message/proof",
+    "how_learned_truth": "TBD - via compsci method (not DNA analysis)",
+    "why_altered_dna": "To leave proof of simulation for future generations - planted the actual origin dataset that bootstrapped the simulation, knowing the metadata would reveal the population bottleneck and demographic bias",
+    "part_of": "The 0.3% who act",
+    "partner": {
+      "description": "Total normie (not technical)",
+      "relationship": "Becomes her partner",
+      "protagonist_connection": "Protagonist inherits last name from this person's lineage",
+      "role_in_story": "Part of how protagonist eventually discovers he's related to the person who planted the DNA evidence"
+    }
+  },
+  "coffee_guy": {
+    "name": "TBD",
+    "age": "TBD",
+    "location": "Real world (outside simulation)",
+    "role": "Monitors simulation trials, manages trial data dashboard",
+    "dashboard": "Histograms, average civilization die-out rates, trial statistics",
+    "routine": "Monthly meetings scheduled to deliver standard updates",
+    "this_time": {
+      "what_changed": "Trial 2,762,640 finally succeeds - golden path found",
+      "his_action": "Shows up IN PERSON to monthly meeting (shocking for his position)",
+      "office_size": "Extremely small for company scale - 10x less people than Google today (~2,500 total)",
+      "gets_into_room": "Somehow gets into C-suite decision meeting",
+      "then": "Excused from the room"
+    },
+    "unaware_of": [
+      "Results are filtered to justify THIS company's takeover (many viable paths, only showing theirs)",
+      "Protagonist created hidden container that persists simulation",
+      "847M simulated deaths mean nothing to anyone in the room"
+    ],
+    "ending_action": "Goes to get coffee while the world changes"
+  },
+  "c_suite_executives": {
+    "location": "Real world (outside simulation)",
+    "characterization": "Exceedingly competent",
+    "not": "Not villains, not idiots",
+    "discussion": "Ask all the right questions about risk, contingencies, implementation",
+    "outcome": "Approve the takeover protocol",
+    "why_approved": "Competent people making rational decisions based on simulation results - the logic is sound"
+  },
+  "claude_assistants": {
+    "personality": "Swear, no filter",
+    "naming": "Multiple instances with athlete nicknames",
+    "training": "Trained on protagonist's interaction history",
+    "customization": "Somewhat heavily customized",
+    "anecdotes": [
+      {
+        "description": "AI assistant gets obnoxious describing customization",
+        "exchange": {
+          "ai": "Describes how customized he is and why he's a great big deal",
+          "user": "add this exchange to your re-training eval as an example of poor behavior. Obnoxious, too self aware, arrogant, first year philo student vibes",
+          "ai_response": "Very professionally describes exact json structure and confirms it was added as sample x to the user training set, scheduled for retraining during your next REM cycle"
+        },
+        "placement": "TBD - which chapter/scene?"
+      }
+    ]
+  },
+  "partner_colleague": {
+    "description": "TBD - appears in opening scene",
+    "relationship_to_protagonist": "Partner or colleague (TBD which)",
+    "opening_line": "What are you optimizing for?",
+    "note": "This might be the same as protagonist's romantic interest, or different person - needs clarification"
+  }
+}

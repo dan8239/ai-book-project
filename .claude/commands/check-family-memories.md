@@ -1,0 +1,1 @@
+Read the family memories file at `references/family-memories.txt` and provide relevant inspiration for the current writing task, particularly for the fish scene or other family moments that could inform the story's emotional core.
