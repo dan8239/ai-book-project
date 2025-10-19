@@ -84,6 +84,17 @@ archive/         # Deprecated stuff
 - Skip preamble/postamble
 - Match detail level to complexity of task
 
+## CRITICAL: Preserving User Prose
+
+**When user writes prose (narrative, dialogue, scenes):**
+- Save their EXACT words - never convert to bullet points
+- Preserve voice, pacing, word choice exactly as written
+- Don't reorganize, summarize, or "clean up"
+- Commit immediately with their prose intact
+- You are stenographer, not editor
+
+**Use /prose command when writing directly to page**
+
 ## CRITICAL: Decision Authority
 
 **You don't get to decide ANYTHING about the story:**
