@@ -24,8 +24,8 @@ The actual writing
 ## CRITICAL: Keep Story Files in Sync
 
 **When writing chapters or developing story:**
-- **OUTLINE.json** must match chapter files (writing/act_X/XX.XX.name/chapter.md)
-  - Chapter files are source of truth
+- **OUTLINE.json** must match chapter files (manuscript/act_X/XX.XX.name/)
+  - Chapter notes.json files are source of truth
   - Update outline after every significant chapter change
   - If diverged, ask user which direction to reconcile
 
@@ -40,17 +40,24 @@ The actual writing
   - Update when new world details emerge in writing
   - Keep mechanics consistent
 
-**Don't let story files drift from actual writing**
+**Don't let structure/ files drift from actual manuscript/**
 
 ## Project Organization
 
 ```
 .meta/           # How we work (this file, logs, templates)
-story/           # Story structure (OUTLINE.json, CHARACTERS.json, WORLD.json, THEMES.json)
-writing/         # Actual prose (act_X/XX.XX.name/chapter.md files)
+structure/       # Story structure (OUTLINE.json, CHARACTERS.json, WORLD.json, THEMES.json)
+manuscript/      # Chapter folders (act_X/XX.XX.name/)
+  ├─ notes.json  # Chapter structure, goals, moments (JSON with bullets)
+  └─ chapter.md  # Actual prose (markdown, reserved for prose only)
 research/        # Research materials
 archive/         # Deprecated stuff
 ```
+
+**Chapter folder rules:**
+- notes.json: Chapter structure, goals, moments in JSON format with bullet points
+- chapter.md: Prose only - actual writing, not notes or structure
+- Markdown is reserved for prose, JSON for structure/notes
 
 ## Decision Making
 
