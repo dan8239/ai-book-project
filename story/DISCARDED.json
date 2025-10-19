@@ -6,6 +6,34 @@
       "why_discarded": "Too complex. Simpler path: devsecops woman planted DNA as message after discovering truth another way (compsci method TBD). It's not a test - it's a clue she left for future generations.",
       "when_discarded": "2025-10-17",
       "related_to": "Devsecops character, archaeological CPU plant, selection mechanism"
+    },
+    {
+      "concept": "Protagonist choice mechanism (yes/no selection)",
+      "original_idea": "Protagonist lineage: 2,762,640 attempts, previous attempts chose 'no', this one chooses 'yes'",
+      "why_discarded": "Simulation doesn't go down to individual level anymore. No choice/selection mechanism for individuals.",
+      "when_discarded": "2025-10-18",
+      "related_to": "Protagonist characterization, individual-level simulation details"
+    },
+    {
+      "concept": "0.3% who act",
+      "original_idea": "Devsecops woman is part of 'the 0.3% who act' - some kind of selection group",
+      "why_discarded": "Simulation doesn't track individuals at this level of detail anymore.",
+      "when_discarded": "2025-10-18",
+      "related_to": "Devsecops character, selection mechanism"
+    },
+    {
+      "concept": "Protagonist's relationship trauma and detailed home life",
+      "original_idea": "Romantic interest with ups/downs involving kids/trauma. Extensive home life questions about partner, children, home, economics, city.",
+      "why_discarded": "Too much domestic complexity for the story's focus. Simpler approach needed.",
+      "when_discarded": "2025-10-18",
+      "related_to": "Protagonist characterization"
+    },
+    {
+      "concept": "Hidden container persistence mechanism",
+      "original_idea": "Protagonist creates hidden container on critical server to persist simulation after shutdown",
+      "why_discarded": "Simulation doesn't go down to individual level - protagonist can't take individual actions within infrastructure.",
+      "when_discarded": "2025-10-18",
+      "related_to": "Act III ending, protagonist agency, The Choice chapter"
     }
   ],
   "evolved_concepts": [

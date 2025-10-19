@@ -21,14 +21,26 @@ How it happens - chapter breakdown, specific scenes and sequences
 ### Level 4: Prose
 The actual writing
 
-## CRITICAL: Keep Outline in Sync with Chapters
+## CRITICAL: Keep Story Files in Sync
 
-**When writing new chapters or updating existing ones:**
-- Update story/OUTLINE.json to match what's actually written
-- Chapter files (writing/act_X/XX.XX.name/chapter.md) are the source of truth
-- Outline should reflect the current chapter structure, moments, and goals
-- Don't let outline drift - sync after every significant chapter change
-- If chapter structure diverges from outline, ask user which direction to reconcile
+**When writing chapters or developing story:**
+- **OUTLINE.json** must match chapter files (writing/act_X/XX.XX.name/chapter.md)
+  - Chapter files are source of truth
+  - Update outline after every significant chapter change
+  - If diverged, ask user which direction to reconcile
+
+- **CHARACTERS.json** must match how characters appear in chapters
+  - Update when character details change in writing
+  - Archive discarded characterization to DISCARDED.json
+
+- **THEMES.json** must reflect themes actually in the story
+  - Not aspirational themes - what's actually on the page
+
+- **WORLD.json** must match world-building in chapters
+  - Update when new world details emerge in writing
+  - Keep mechanics consistent
+
+**Don't let story files drift from actual writing**
 
 ## Project Organization
 

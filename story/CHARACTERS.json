@@ -20,51 +20,8 @@
       "graduates": "Gets called up to work with the real DNA set - big leagues, raises stakes",
       "what_news_looks_like": "TBD - how does news work in this world?"
     },
-    "genetic_lineage": "2,762,640 attempts (same genetic tree, not exact same person - different birth years, sometimes different gender, slightly different circumstances)",
-    "previous_attempts": "Previous 2,762,639 instances from this lineage chose 'no'",
-    "this_attempt": "Chooses 'yes'",
-    "relationship": "Has romantic interest (relationship has ups/downs, involves kids/trauma)",
     "works_with": "Claude assistant(s)",
-    "relationship_to_devsecops": "Direct descendant",
-    "home_life_questions": {
-      "partner": [
-        "Does his wife/partner work? What does she do?",
-        "What's she like? (personality, interests, relationship dynamic)",
-        "How does she feel about his work obsession?",
-        "Is she the same person as 'partner/colleague' who asks opening question?"
-      ],
-      "children": [
-        "How many kids do they have?",
-        "What are their ages?",
-        "Names? Personalities?",
-        "How does he balance work vs being present with them?"
-      ],
-      "home": [
-        "What does their home look like? (size, style, location in city)",
-        "Is it assigned housing or chosen?",
-        "What personal touches exist despite optimization culture?",
-        "What does the aquarium tell us about their home?"
-      ],
-      "economics": [
-        "Economic standing? (comfortable? struggling? elite?)",
-        "How does their standing compare to everyone else?",
-        "What does economic stratification look like in this world?",
-        "Does new job change their economic status?"
-      ],
-      "city_and_community": [
-        "What city are they in?",
-        "What is that city like? (climate, density, infrastructure)",
-        "How is it different from other cities?",
-        "What's the neighborhood like?",
-        "Idaho desert setting - how does that feel day to day?"
-      ],
-      "narrative_integration": [
-        "How to show home life meaningfully without derailing plot?",
-        "Domestic scenes that reveal character and world simultaneously?",
-        "Balance between work obsession and family presence?",
-        "Which chapters weave in home life most naturally?"
-      ]
-    }
+    "relationship_to_devsecops": "Direct descendant"
   },
   "devsecops_woman": {
     "name": "TBD",
@@ -76,7 +33,6 @@
     "action": "Spent 21 years planting backdoors, plants the origin dataset in DNA data as message/proof",
     "how_learned_truth": "TBD - via compsci method (not DNA analysis)",
     "why_altered_dna": "To leave proof of simulation for future generations - planted the actual origin dataset that bootstrapped the simulation, knowing the metadata would reveal the population bottleneck and demographic bias",
-    "part_of": "The 0.3% who act",
     "partner": {
       "description": "Total normie (not technical)",
       "relationship": "Becomes her partner",
@@ -92,7 +48,7 @@
     "dashboard": "Histograms, average civilization die-out rates, trial statistics",
     "routine": "Monthly meetings scheduled to deliver standard updates",
     "this_time": {
-      "what_changed": "Trial 2,762,640 finally succeeds - golden path found",
+      "what_changed": "Breakthrough across millions of simulations - golden path becomes consistently clear (global takeover in all successful cases). This is one simulation among millions, not the only one that makes it, but represents a pattern breakthrough.",
       "his_action": "Shows up IN PERSON to monthly meeting (shocking for his position)",
       "office_size": "Extremely small for company scale - 10x less people than Google today (~2,500 total)",
       "gets_into_room": "Somehow gets into C-suite decision meeting",
@@ -100,7 +56,6 @@
     },
     "unaware_of": [
       "Results are filtered to justify THIS company's takeover (many viable paths, only showing theirs)",
-      "Protagonist created hidden container that persists simulation",
       "847M simulated deaths mean nothing to anyone in the room"
     ],
     "ending_action": "Goes to get coffee while the world changes"
@@ -132,8 +87,7 @@
   },
   "partner_colleague": {
     "description": "TBD - appears in opening scene",
-    "relationship_to_protagonist": "Partner or colleague (TBD which)",
-    "opening_line": "What are you optimizing for?",
-    "note": "This might be the same as protagonist's romantic interest, or different person - needs clarification"
+    "relationship_to_protagonist": "Work colleague (NOT romantic interest)",
+    "opening_line": "What are you optimizing for?"
   }
 }
