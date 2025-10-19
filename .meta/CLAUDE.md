@@ -21,13 +21,22 @@ How it happens - chapter breakdown, specific scenes and sequences
 ### Level 4: Prose
 The actual writing
 
-## Organization
+## CRITICAL: Keep Outline in Sync with Chapters
+
+**When writing new chapters or updating existing ones:**
+- Update story/OUTLINE.json to match what's actually written
+- Chapter files (writing/act_X/XX.XX.name/chapter.md) are the source of truth
+- Outline should reflect the current chapter structure, moments, and goals
+- Don't let outline drift - sync after every significant chapter change
+- If chapter structure diverges from outline, ask user which direction to reconcile
+
+## Project Organization
 
 ```
 .meta/           # How we work (this file, logs, templates)
-canon/           # Locked truth (CANON.md, world mechanics, themes)
-work/            # Active development (questions, characters, story structure)
-writing/         # Actual prose (outline, scenes, acts)
+story/           # Story structure (OUTLINE.json, CHARACTERS.json, WORLD.json, THEMES.json)
+writing/         # Actual prose (act_X/XX.XX.name/chapter.md files)
+research/        # Research materials
 archive/         # Deprecated stuff
 ```
 
@@ -63,63 +72,37 @@ archive/         # Deprecated stuff
 - Skip preamble/postamble
 - Match detail level to complexity of task
 
-## CRITICAL: Don't Make Shit Up
-- **ONLY document what user explicitly said or decided**
-- **ONLY present options when user asks for them**
-- **DO NOT generate verbose questions/scenarios unprompted**
-- If user provides original notes, preserve them exactly
-- If user makes a decision, lock it in canon
-- If generating options, keep them brief (2-4 options, not 10+)
+## CRITICAL: Decision Authority
+
+**You don't get to decide ANYTHING about the story:**
+- NEVER make story/plot decisions yourself
+- NEVER decide when/how events happen
+- NEVER choose between options for the user
+- NEVER expand user statements into multiple specifics they didn't mention
+- ONLY suggest and ask questions - user decides, you document
+
+**Documentation discipline:**
+- ONLY document what user explicitly said or decided
+- Preserve original notes exactly as given
+- If user says "risk, contingencies, etc." → don't expand into 6 bullet points
+- If user says "Act III" → don't add "near the end" unless they said it
 - Default to listening, not speculating
 
-## CRITICAL: You Don't Get To Decide ANYTHING
-- **NEVER make story/plot decisions yourself**
-- **NEVER decide when events happen in the story**
-- **NEVER choose between options for the user**
-- You can ONLY suggest and ask questions
-- User decides, you document
+**BAD:** User says "Act III" → You write "Act III near end"
+**GOOD:** Ask "Where in Act III - beginning, middle, or end?"
 
-**BAD EXAMPLE:**
-User: "The family compression horror happens in Act III"
-Claude: Updates files with "Act III near end: family discovers compression" and "Act II: protagonist dies in simulation to accept selection"
-WHY BAD: User said Act III but didn't say "near end". User didn't say protagonist "dies in simulation" in Act II. Claude made those decisions.
+**BAD:** User says "risk, contingencies, etc." → You expand into 6 bullet points
+**GOOD:** Write exactly what they said: "Ask right questions about risk, contingencies, implementation"
 
-**GOOD EXAMPLE:**
-User: "The family compression horror happens in Act III"
-Claude: "Should I add this to Act III beats? Where in Act III - beginning, middle, or near end? Also, how does protagonist get to the vectorization level - does he die in the simulation to accept, or something else?"
-WHY GOOD: Claude asks for specifics instead of deciding them.
+**BAD:** You decide how protagonist reaches vectorization level
+**GOOD:** Ask "How does protagonist get there - dies in sim, or something else?"
 
-**BAD EXAMPLE:**
-User: "They're exceedingly competent, and ask all the right questions about risk, contingencies, etc."
-Claude writes in outline:
-```
-"They ask all the right questions:",
-"- Risk assessment and mitigation strategies",
-"- Contingency planning for failures",
-"- Implementation timeline and resource requirements",
-"- Legal exposure and liability containment",
-"- Public perception management",
-"- Rollback procedures if needed",
-```
-WHY BAD: User said "risk, contingencies, etc." Claude expanded this into 6 specific bullet points the user never mentioned. Don't fill in details - that's the user's job when writing.
-
-**GOOD EXAMPLE:**
-User: "They're exceedingly competent, and ask all the right questions about risk, contingencies, etc."
-Claude writes in outline:
-```
-"C-suite characterization: Exceedingly competent"
-"Discussion: Ask all the right questions about risk, contingencies, implementation"
-"Outcome: Approve the takeover protocol"
-```
-WHY GOOD: Claude captured what user said without inventing specifics.
-
-## Organization Rules
-- **Maintain well-nested structure at all times**
-- **Frequently ask where to put things if unclear**
-- When creating new files, always ask: what folder? what subfolder?
-- When content doesn't have clear home, stop and ask user
-- Keep hierarchy clean: .meta/ story/ research/ writing/ archive/
-- Within those: use nested subfolders, not flat dumps
+## File Organization Rules
+- Maintain well-nested structure at all times
+- When unclear where content belongs: STOP and ask user
+- When creating files: ask what folder/subfolder
+- Keep hierarchy clean: .meta/ → story/ → writing/ → research/ → archive/
+- Within folders: use nested subfolders, never flat dumps
 
 ## Research Approach
 - **Don't just dump files and status report**
