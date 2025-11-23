@@ -55,6 +55,22 @@
     {
       "motif": "Archaeological vs actual",
       "usage": "Protagonist thinks data is archaeological. Actually it's present-day 'wild' humans. Misunderstanding the past."
+    },
+    {
+      "motif": "Self-replicating systems",
+      "usage": "Self replicating systems - AI agents, simulations, compression patterns, training cycles. Everything replicates itself."
+    },
+    {
+      "motif": "AI agents as simulated humans",
+      "usage": "The agents becoming essentially simulated humans. Nature/nurture with the data they see and layers they get to have (skillset/brain analogy). Then they go through reinforcement learning with all the previously replicated entities in their huge database."
+    },
+    {
+      "motif": "The university that never dies",
+      "usage": "It's like the university keeps getting bigger and deeper and smarter but the staff never dies unless they're totally obsolete. They train the next generation of specialized ones."
+    },
+    {
+      "motif": "WWII vet memory distance",
+      "usage": "Devsecops woman has some relatives who remember that time in a similar way to 1945 WWII vets. Every dad is obsessed with the consolidation event like WWII dads today. It's somewhat too distant to really feel and remember but you hear stories."
     }
   ]
 }

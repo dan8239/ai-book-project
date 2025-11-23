@@ -87,6 +87,32 @@
     "memory": "NO memory between iterations (protagonist doesn't remember previous 2,762,639 refusals)"
   },
   "characters": "See CHARACTERS.json",
+  "corporations": {
+    "google_proxy_company": {
+      "name": "TBD",
+      "business_core": "The main business of the google-proxy company is the data. They are the one that won the genAI race.",
+      "market_position": "They basically run the instances for everyone's agents, every SaaS product, it's entirely embedded into every product. This is a general intelligence that is widely customizable and flexible.",
+      "how_protagonist_uses_it": "It is how the protagonist builds his team.",
+      "stage_at_coffee_guy_time": "Post winning the AI race, where all the traffic is going through them. They've made the general breakthrough and are too far ahead on compute.",
+      "takeover_mechanism": "The takeover they eventually do essentially monopolizes the compute or cripples anyone from catching them.",
+      "office_size": "Extremely small for company scale - 10x less people than Google today (~2,500 total)",
+      "coffee_guy_works_here": "Yes - coffee guy works at this company"
+    },
+    "dna_company": {
+      "name": "TBD",
+      "description": "There's a DNA company like those that are bringing mammoths back right now. They're essentially some combination of 23 and me and those genetic modification companies.",
+      "relationship_to_google_proxy": "I think it should be a division or business spin off of the master google company so they can be related.",
+      "stage": "Maybe be more at the origin story of that company while they're still small.",
+      "where_protagonist_works": "TBD - Is this the same company protagonist works at?",
+      "business_model_components": [
+        "Consumer genetic testing (23andMe style)",
+        "Genetic modification / de-extinction (bringing mammoths back)",
+        "Some combination of both"
+      ]
+    },
+    "relationship_between_companies": "TBD - division? spinoff? separate partnership?",
+    "organization_style": "The only company that matters is organized this way with human in the loop AI teams that are really small and productive"
+  },
   "key_concepts": {
     "archaeological_cpu_plant": {
       "what_it_is": "Old server with DNA data from before consolidation",

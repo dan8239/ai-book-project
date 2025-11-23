@@ -119,5 +119,45 @@
       "potential_theme": "The cost of selection - you escape, everyone you loved gets garbage collected",
       "user_needs_to_decide": "Which option? Something else? Where exactly in Act III?"
     }
+  },
+  "ai_agent_workforce": {
+    "core_concept": {
+      "who_has_teams": "Both the protagonist and the geneticist/statistician co-worker have an entire team working for them but they're all AI agents",
+      "project_duration": "They go off on LONG projects (work as long as you tell them, set goals and they optimize for that goal until it's solved)",
+      "staff_characteristics": "So protag and coworker are like hyper exceptional at their job but basically run a small staff that are all autonomous",
+      "company_organization": "The only company that matters is organized this way with human in the loop AI teams that are really small and productive"
+    },
+    "technical_implementation": {
+      "base_system": "Each of them is just self replicating instance of the same gen AI",
+      "instantiation_process": "When instantiated it goes through a pruning exercise (takes off layers that specialize in other things, re-trains with curated specific data sets",
+      "training": "Reinforcement learning that essentially sends these things through artificial college to their area of expertise",
+      "continual_learning": "Then they continue learning while being available for training the next generation in their spare time)"
+    },
+    "protagonists_team_specifically": {
+      "description": "His team is literally his best friend robot with specialized hyper functional agents that work asynchronously",
+      "capabilities": "They have extremely long projects and can self organize"
+    },
+    "key_themes_and_motifs": {
+      "self_replicating_systems": "Self replicating systems",
+      "simulated_humans": "The agents becoming essentially simulated humans",
+      "nature_nurture": "Nature / nurture with the data they see and layers they get to have (skillset / brain analogy)",
+      "reinforcement_learning_database": "Then they go through reinforcement learning with all the previously replicated entities in their huge database",
+      "university_analogy": "It's like the university keeps getting bigger and deeper and smarter but the staff never dies unless they're totally obsolete",
+      "training_next_generation": "They train the next generation of specialized ones"
+    }
+  },
+  "consolidation_event_memory": {
+    "wwii_vet_analogy": "Devsecops woman has some relatives who remember that time in a similar way to 1945 WWII vets. Every dad is obsessed with the consolidation event like WWII dads today.",
+    "temporal_distance": "It's somewhat too distant to really feel and remember but you hear stories",
+    "narrative_purpose": "This will let me expose on the takeover before it even happens in the book, so I get to show the aftermath way before it happens like it's history, then at the end of the book the first sequence in that takeover happens and it's like a memory / callback to exactly what happened in that moment.",
+    "implementation": "Mirror the sequence of events (timestamps and takeover actions)",
+    "museum_scene": {
+      "participants": "Devsecops woman and her dad",
+      "her_dads_characteristics": "He's divorced from his wife, is pressing every button or asking questions throughout the tour. Happy just to see his daughter.",
+      "her_motivation": "She's basically going around because she doesn't see her dad much",
+      "museum_content": "The museum has old company logos from before, and descriptions of how things were",
+      "exposition_method": "They can walk through each of the events like a timeline in a somewhat natural way. The guide / voice will kind of rattle on as her dad pushes buttons.",
+      "world_building_opportunity": "(Just talking about what they find about the way we live today as unusual will be telling about the current day situation)"
+    }
   }
 }

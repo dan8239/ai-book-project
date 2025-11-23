@@ -3,8 +3,9 @@
     "name": "TBD",
     "gender": "TBD",
     "age": "TBD",
-    "job": "Evolutionary psychology/economics researcher",
-    "research_focus": "How empathy/cooperation/altruism evolved, tracking DNA markers through genetic lineages, correlating genetic patterns with survival-beneficial behaviors",
+    "job": "Optimization / Machine Learning Expert",
+    "expertise": "Hyperparameter optimization, genetic algorithms, multi-objective optimization",
+    "approach_to_genetic_data": "Treats genetics as optimization problems - converts biological questions into loss functions, tunes selection pressures, Pareto front analysis",
     "research_method": {
       "description": "Runs statistical life simulations on genetic data",
       "style": "Simple, statistical, elegant - like evolutionary algorithm videos with creatures bumping around, breeding, dying",
@@ -20,8 +21,11 @@
       "graduates": "Gets called up to work with the real DNA set - big leagues, raises stakes",
       "what_news_looks_like": "TBD - how does news work in this world?"
     },
-    "works_with": "Claude assistant(s)",
-    "relationship_to_devsecops": "Direct descendant"
+    "team_structure": "His team is literally his best friend robot with specialized hyper functional agents that work asynchronously. They have extremely long projects and can self organize. Both protagonist and co-worker are hyper exceptional at their job but basically run a small staff that are all autonomous (all AI agents).",
+    "works_with": "Claude assistant(s) and AI agent team",
+    "collaborates_with": "Co-worker (statistical geneticist) - they work closely together for various projects at their company",
+    "relationship_to_devsecops": "Direct descendant",
+    "personality_traits": "TBD"
   },
   "devsecops_woman": {
     "name": "TBD",
@@ -85,9 +89,32 @@
       }
     ]
   },
-  "partner_colleague": {
-    "description": "TBD - appears in opening scene",
-    "relationship_to_protagonist": "Work colleague (NOT romantic interest)",
-    "opening_line": "What are you optimizing for?"
+  "co_worker": {
+    "name": "TBD",
+    "gender": "TBD",
+    "age": "TBD",
+    "job": "Statistical Geneticist",
+    "expertise": "DNA domain expert - population genetics, GWAS (genome-wide association studies), demographic modeling, statistical inference from DNA. Identifies what patterns mean biologically.",
+    "role": "Takes most of the DNA expertise from the protagonist. Understands what genetic patterns mean - interprets population bottlenecks, linkage disequilibrium, selection signatures.",
+    "questions_asked": "What does this genetic signal tell us?",
+    "relationship_to_protagonist": "Work colleague (NOT romantic interest). They work closely together for various projects at their company.",
+    "collaboration_dynamic": "Co-worker identifies interesting genetic questions, protagonist builds optimization frameworks to answer them. Co-worker validates results biologically.",
+    "opening_line": "What are you optimizing for?",
+    "team_structure": "Both protagonist and co-worker are hyper exceptional at their job but basically run a small staff that are all autonomous (all AI agents). They go off on LONG projects (work as long as you tell them, set goals and they optimize for that goal until it's solved).",
+    "works_at": "TBD - same company as protagonist",
+    "personality_traits": "TBD"
+  },
+  "devsecops_womans_dad": {
+    "name": "TBD",
+    "gender": "Male",
+    "age": "TBD",
+    "relationship_to_devsecops_woman": "Father",
+    "lived_through": "The consolidation event",
+    "memory_style": "Obsessed with consolidation event like WWII dads today. Every dad is obsessed with the consolidation event like WWII dads today.",
+    "distance_from_event": "Somewhat too distant to really feel and remember but you hear stories",
+    "marital_status": "Divorced from his wife",
+    "relationship_with_daughter": "She doesn't see him much. He's happy just to see his daughter.",
+    "museum_behavior": "Pressing every button or asking questions throughout the tour",
+    "purpose_in_story": "This will let me expose on the takeover before it even happens in the book, so I get to show the aftermath way before it happens like it's history, then at the end of the book the first sequence in that takeover happens and it's like a memory / callback to exactly what happened in that moment."
   }
 }
