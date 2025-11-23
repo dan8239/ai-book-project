@@ -159,5 +159,36 @@
       "exposition_method": "They can walk through each of the events like a timeline in a somewhat natural way. The guide / voice will kind of rattle on as her dad pushes buttons.",
       "world_building_opportunity": "(Just talking about what they find about the way we live today as unusual will be telling about the current day situation)"
     }
+  },
+  "future_world_state": {
+    "exposition_method": "Essentially use this job as an expose on how the future state of the world came to be. He's making small incremental improvements but in the midst of discussion minor improvements him and his agentic army is making he'll show how far ahead they are of us.",
+    "energy_solution": {
+      "technology": "Geothermal (quaise esque company) solved the energy crisis for us"
+    },
+    "governance_culture": {
+      "takeover": "The google proxy took over and centralized everything",
+      "more_importantly": "Set up optimization / loss obsessed culture"
+    },
+    "waste_elimination": {
+      "status": "Waste is gone. Closed system."
+    },
+    "economy_status": {
+      "status": "Economy is recovered."
+    },
+    "food_production": {
+      "status": "Food is at an all time high",
+      "theoretical_target": "Try to find rough theoretical limits / needs for a steady state population and a cycle of food/etc. that perfectly maintains balance on the planet"
+    },
+    "time_bought": {
+      "result": "The result is it buys us a lot of time (but not forever)."
+    },
+    "optimization_priority": {
+      "number_1_concern": "Stability of the system is always number 1 concern.",
+      "status": "The optimization is totally working but there's a redundancy issue (n+1 doesn't exist for planets)."
+    },
+    "planetary_expansion": {
+      "why_obsessed_with_leaving": "So, that's why the obsession with leaving the planet.",
+      "why_this_simulation_succeeds": "This is why this simulation gets the farthest. It goes beyond the typical takeover + hyperoptimize to find equilibrium for humanity, it actually goes n+1 on planets to hedge bets."
+    }
   }
 }
