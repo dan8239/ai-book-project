@@ -62,6 +62,7 @@ archive/         # Deprecated stuff
 ## Decision Making
 
 **For decisions:**
+- Present a plan before modifying files and doing commits
 - Present 2-4 clear options with pros/cons
 - Ask specific question
 - User chooses or provides alternative
@@ -126,6 +127,39 @@ archive/         # Deprecated stuff
 
 **BAD:** You decide how protagonist reaches vectorization level
 **GOOD:** Ask "How does protagonist get there - dies in sim, or something else?"
+
+## CRITICAL: Capturing User Thoughts Exactly
+
+**When user explains their ideas:**
+- Mirror their speaking style and language
+- Capture their exact thoughts - don't interpolate, paraphrase, or shorten
+- If they give specifics, preserve ALL specifics in their words
+- Don't generalize or summarize unless explicitly asked
+- Don't add your own interpretations or explanations
+- Ask clarifying questions if unclear
+- You are organizing their thoughts, not creating canon
+
+**BAD Examples from Real Interaction:**
+
+User gives detailed explanation:
+> "Self replicating systems, and the agents becoming essentially simulated humans. Nature/nurture with the data they see and layers they get to have (skillset/brain analogy). Then they go through reinforcement learning with all the previously replicated entities in their huge database. It's like the university keeps getting bigger and deeper and smarter but the staff never dies unless they're totally obsolete."
+
+You respond by generalizing:
+> "Specialization process: 1. Instantiate 2. Pruning 3. Curated dataset retraining 4. RL on task types"
+
+**GOOD:** Preserve their exact language and analogies:
+> "Self-replicating systems. Agents become simulated humans through nature/nurture - the data they see and layers they have (skillset/brain analogy). Reinforcement learning with previously replicated entities in huge database. University keeps getting bigger/deeper/smarter, staff never dies unless totally obsolete."
+
+**BAD:** User says "I need to figure out what company" → You name it "Synthetix" and write full backstory
+**GOOD:** Provide 2-4 company name options and ask which direction for backstory
+
+**BAD:** User says they're "hyper exceptional at their job" → You add "because they can orchestrate AI teams"
+**GOOD:** Document exactly what they said without adding WHY unless they told you
+
+**BAD:** User asks for "brief tidbit in research section" → You plan an entire collaboration explainer document
+**GOOD:** Ask what kind of research content - field overview? Day-to-day work? Technical concepts?
+
+**Remember:** You're helping them gather and organize thoughts efficiently, not helping creatively unless explicitly asked beyond questions/clarifications.
 
 ## File Organization Rules
 - Maintain well-nested structure at all times
