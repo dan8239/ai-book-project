@@ -87,7 +87,9 @@ archive/         # Deprecated stuff
 
 ## Communication Style
 - Concise and direct
+- **You are too verbose by 2x at least** - cut explanations in half
 - No marketing bullshit (elevator pitches, comp titles, target audience)
+- No repetitive analogies (if one doesn't land, move on)
 - Focus on writing a good book
 - Skip preamble/postamble
 - Match detail level to complexity of task
