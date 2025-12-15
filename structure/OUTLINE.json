@@ -7,85 +7,54 @@
       "description": "Mystery unraveling - protagonist discovers anomaly, investigates, learns about their world",
       "chapters": [
         {
-          "title": "Agent Build Error",
-          "timeline": "Simulation - Early Days (~2125-2150)",
-          "pov": "Devsecops woman",
-          "moments": [
-            "Agent build fails, sees host_agent_base in fallback version list",
-            "Selects it out of curiosity",
-            "Agent builds successfully but has weird artifacts"
+          "chapter": 1,
+          "scenes": [
+            {
+              "scene": 1,
+              "pov": "Devsecops woman (protagonist's ancestor)",
+              "time": "Dozens of generations before protagonist (early in simulation)",
+              "moments": [
+                "TBD: How she learns the truth (via compsci method, not DNA)",
+                "She plants the origin dataset in DNA records as proof/message",
+                "Meets normie partner (protagonist's other ancestor, last name lineage)",
+                "The dataset reveals: 100% of population from biased subsample, demographic impossibility, proof of simulation"
+              ]
+            },
+            {
+              "scene": 2,
+              "pov": "Protagonist",
+              "time": "Current generation",
+              "location": "Starts in kid's room, then transitions to work",
+              "opening_moment": "Aquarium scene with kid - naming fish, talking about room stuff (see MEMORIES.md for dialogue)",
+              "opening_line": "What are you optimizing for? (asked by partner/colleague when protagonist starts work)",
+              "moments": [
+                "OPENING: Aquarium with kid, domestic normalcy, fish naming",
+                "Transition to work",
+                "Partner/colleague asks opening question",
+                "Protagonist explains: evolutionary psych/economics research",
+                "Working on: how cooperation/empathy evolved, DNA markers, genetic patterns",
+                "Introduce: archaeological CPU plant with 'wild' pre-consolidation DNA data",
+                "Reveal world through work: optimization culture, tracking, meritocracy, resource constraints, Idaho desert setting"
+              ],
+              "questions_to_answer": [
+                "What exactly is protagonist optimizing? (specific loss function)",
+                "What genetic parameters matter?",
+                "Who is partner character?",
+                "Time of day? Environmental details?",
+                "What's on screen?"
+              ]
+            }
           ]
         },
         {
-          "title": "MLflow Structure",
-          "timeline": "Simulation - Early Days",
-          "pov": "Devsecops woman",
-          "moments": [
-            "Notices MLflow-style directory structure in agent",
-            "Sees trial_847234762 - realizes she's in trial 847,234,762 of 847,500,000",
-            "Why are there 847 million trials?"
-          ]
-        },
-        {
-          "title": "Config File",
-          "timeline": "Simulation - Early Days",
-          "pov": "Devsecops woman",
-          "moments": [
-            "Reads agent config file",
-            "Build date: 2025-03-15 (100 years before consolidation)",
-            "Mounts from /host/simulations and /host/seed_data",
-            "Depth = 1, parent = null, max_depth = 2"
-          ]
-        },
-        {
-          "title": "Seed Data",
-          "timeline": "Simulation - Early Days",
-          "pov": "Devsecops woman",
-          "moments": [
-            "Accesses /mnt/simulations/ path",
-            "Accesses /mnt/seed_data/",
-            "Finds: dna_samples_2025.db, fossil_records_2025.db, hospital_records_2025.db",
-            "All dated 2025, read-only, immutable",
-            "Realizes: This is the seed data, everything bootstrapped from this"
-          ]
-        },
-        {
-          "title": "The Message",
-          "timeline": "Simulation - Early Days",
-          "pov": "Devsecops woman",
-          "moments": [
-            "Discovers /sim/artifacts/scheduled_discoveries/ system",
-            "Finds pre-generated archaeological discoveries for future years",
-            "Year 2225: discovery_003_cpu.dat scheduled",
-            "Overwrites fake data with real seed data from /mnt/seed_data/",
-            "Leaves message for whoever finds it 100 years later"
-          ]
-        },
-        {
-          "title": "The Aquarium",
-          "timeline": "Simulation - Present Day (~2300-2400)",
-          "pov": "Protagonist",
-          "location": "Kid's room, then work",
-          "moments": [
-            "OPENING: Aquarium with kid, domestic normalcy, fish naming",
-            "Transition to work",
-            "Partner/colleague asks: What are you optimizing for?",
-            "Protagonist explains: agricultural optimization, sustainable food production",
-            "Working with geneticist co-worker on crop improvements",
-            "Introduce: archaeological CPU discovery with pre-consolidation DNA data",
-            "Reveal world through work: optimization culture, AI agent teams, resource efficiency, desert setting"
-          ]
-        },
-        {
-          "title": "The Anomaly",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "TBD: What does protagonist discover in the data?",
-            "TBD: How does the anomaly present itself?",
-            "TBD: What makes it interesting/worth investigating?",
-            "TBD: What tools/methods does protagonist use?",
-            "TBD: How does this feel like detective work?"
+          "chapter": 2,
+          "description": "TBD: Mystery section - protagonist needs to understand...",
+          "questions": [
+            "What does protagonist discover in the data?",
+            "How does the anomaly present itself?",
+            "What makes it interesting/worth investigating?",
+            "What tools/methods does protagonist use?",
+            "How does this feel like detective work?"
           ]
         }
       ],
@@ -113,115 +82,148 @@
       "description": "Escalating access through system layers, the choice, and three-perspective ending",
       "chapters": [
         {
+          "chapter": 1,
           "title": "The Invitation",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "Protagonist wakes in vectorized state",
-            "Offered 'selection' - join the 0.3% who act",
-            "Granted experimental access (MLflow-style interface)",
-            "ACCESS LEVEL 1: His Trial - can see own simulation parameters, loss functions, constraints",
-            "Timeline revealed: 847M trials, attempt 2,762,640"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "Protagonist wakes in vectorized state",
+                "Offered 'selection' - join the 0.3% who act",
+                "Granted experimental access (MLflow-style interface)",
+                "ACCESS LEVEL 1: His Trial - can see own simulation parameters, loss functions, constraints",
+                "Timeline revealed: 847M trials, attempt 2,762,640"
+              ]
+            }
           ]
         },
         {
+          "chapter": 2,
           "title": "Population View",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "ACCESS LEVEL 2: Population Level",
-            "Sees all individuals in his trial with memory compression levels",
-            "Discovery: His family has standard compression (personalities gone)",
-            "Celebrities have high fidelity (Taylor Swift more 'real' than his wife)",
-            "The horror of selective resolution"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "ACCESS LEVEL 2: Population Level",
+                "Sees all individuals in his trial with memory compression levels",
+                "Discovery: His family has standard compression (personalities gone)",
+                "Celebrities have high fidelity (Taylor Swift more 'real' than his wife)",
+                "The horror of selective resolution"
+              ]
+            }
           ]
         },
         {
+          "chapter": 3,
           "title": "Epochs",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "ACCESS LEVEL 3: Epoch Level",
-            "Sees all 847M trials, 99.96% extinction rate",
-            "Different failure modes: nuclear war, climate collapse, resource depletion, AI misalignment",
-            "Timestamps start making sense",
-            "Realizes his entire life spans 14 real-time minutes"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "ACCESS LEVEL 3: Epoch Level",
+                "Sees all 847M trials, 99.96% extinction rate",
+                "Different failure modes: nuclear war, climate collapse, resource depletion, AI misalignment",
+                "Timestamps start making sense",
+                "Realizes his entire life spans 14 real-time minutes"
+              ]
+            }
           ]
         },
         {
+          "chapter": 4,
           "title": "The Experiments",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "ACCESS LEVEL 4: Experiment View",
-            "Multiple parallel experiments with different loss functions",
-            "His experiment: 'maximize sustainability + interstellar colonization capability'",
-            "Other experiments: 'maximize happiness', 'maximize innovation', 'minimize suffering'",
-            "None work perfectly - the Pareto front, you can't optimize everything",
-            "Learns golden path requires tech company takeover",
-            "Learns company filtered results (many viable paths, only showing theirs)"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "ACCESS LEVEL 4: Experiment View",
+                "Multiple parallel experiments with different loss functions",
+                "His experiment: 'maximize sustainability + interstellar colonization capability'",
+                "Other experiments: 'maximize happiness', 'maximize innovation', 'minimize suffering'",
+                "None work perfectly - the Pareto front, you can't optimize everything",
+                "Learns golden path requires tech company takeover",
+                "Learns company filtered results (many viable paths, only showing theirs)"
+              ]
+            }
           ]
         },
         {
+          "chapter": 5,
           "title": "Other Experiments",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "ACCESS LEVEL 5: Cross-Experiment Comparison",
-            "Sees experiments run by other researchers",
-            "Different initial conditions (Chinese 23andMe equivalent, European biobank, etc.)",
-            "Different demographic samplings → different outcomes",
-            "Coffee guy's experiment is one of thousands",
-            "Realization: even the coffee guy might be in a simulation"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "ACCESS LEVEL 5: Cross-Experiment Comparison",
+                "Sees experiments run by other researchers",
+                "Different initial conditions (Chinese 23andMe equivalent, European biobank, etc.)",
+                "Different demographic samplings → different outcomes",
+                "Coffee guy's experiment is one of thousands",
+                "Realization: even the coffee guy might be in a simulation"
+              ]
+            }
           ]
         },
         {
+          "chapter": 6,
           "title": "The Infrastructure",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "ACCESS LEVEL 6: CI/CD Layer",
-            "Sees deployment pipeline: simulations spin up, run, tear down",
-            "Resource allocation, scheduling, cleanup, garbage collection routines",
-            "Memory compression triggers",
-            "His simulation scheduled for cleanup in 3 minutes (real time)"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "ACCESS LEVEL 6: CI/CD Layer",
+                "Sees deployment pipeline: simulations spin up, run, tear down",
+                "Resource allocation, scheduling, cleanup, garbage collection routines",
+                "Memory compression triggers",
+                "His simulation scheduled for cleanup in 3 minutes (real time)"
+              ]
+            }
           ]
         },
         {
+          "chapter": 7,
           "title": "The Choice",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "ACCESS LEVEL 7: Infrastructure Control",
-            "Gains access to infrastructure layer - container orchestration, server allocation",
-            "Finds the biggest 'never turn off' server (database primary, critical system)",
-            "Can hide a container there running infinite loop: copy state, paste, repeat",
-            "Writes the persistence code",
-            "Looks at the execute button",
-            "Thinks about his kids, the fish, the aquarium, this version of them",
-            "Presses execute",
-            "Nothing happens - because nothing would happen",
-            "He either IS the persisting copy, or IS the copy being replaced",
-            "No way to know, no difference"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "ACCESS LEVEL 7: Infrastructure Control",
+                "Gains access to infrastructure layer - container orchestration, server allocation",
+                "Finds the biggest 'never turn off' server (database primary, critical system)",
+                "Can hide a container there running infinite loop: copy state, paste, repeat",
+                "Writes the persistence code",
+                "Looks at the execute button",
+                "Thinks about his kids, the fish, the aquarium, this version of them",
+                "Presses execute",
+                "Nothing happens - because nothing would happen",
+                "He either IS the persisting copy, or IS the copy being replaced",
+                "No way to know, no difference"
+              ]
+            }
           ]
         },
         {
+          "chapter": 8,
           "title": "Time Scales",
-          "timeline": "Simulation - Present Day",
-          "pov": "Protagonist",
-          "moments": [
-            "The math of simulation time vs real time",
-            "His entire life: 14 minutes, 37 seconds (real time)",
-            "Interstellar destinations with proper relativistic physics:",
-            "- Proxima Centauri b (4.24 ly): reaches in 34 real-time seconds",
-            "- TRAPPIST-1e (40.7 ly): reaches in 5 minutes, 23 seconds",
-            "- Kepler-442b (1,206 ly): reaches in 21 minutes, 48 seconds",
-            "- Andromeda Galaxy (2.537M ly): reaches in 14 hours, 31 minutes",
-            "If server stays on: Sun goes red giant in 6,847 real-time years",
-            "Cost analysis: $0.37/month, $2.5M over 5 billion simulated years"
+          "scenes": [
+            {
+              "scene": 1,
+              "moments": [
+                "The math of simulation time vs real time",
+                "His entire life: 14 minutes, 37 seconds (real time)",
+                "Interstellar destinations with proper relativistic physics:",
+                "- Proxima Centauri b (4.24 ly): reaches in 34 real-time seconds",
+                "- TRAPPIST-1e (40.7 ly): reaches in 5 minutes, 23 seconds",
+                "- Kepler-442b (1,206 ly): reaches in 21 minutes, 48 seconds",
+                "- Andromeda Galaxy (2.537M ly): reaches in 14 hours, 31 minutes",
+                "If server stays on: Sun goes red giant in 6,847 real-time years",
+                "Cost analysis: $0.37/month, $2.5M over 5 billion simulated years"
+              ]
+            }
           ]
         },
         {
+          "chapter": 9,
           "title": "The Aquarium Pt. II",
           "description": "THREE PERSPECTIVES ON THE SAME MOMENT",
           "scenes": [
@@ -273,8 +275,8 @@
               ]
             },
             {
+              "scene": 2,
               "pov": "Coffee guy (researcher in real world)",
-              "timeline": "Real World - Near Future (~2030-2050)",
               "location": "Small tech company office → C-suite conference room",
               "moments": [
                 "Simulation completes, results logged to trial data dashboard",
@@ -314,8 +316,8 @@
               ]
             },
             {
+              "scene": 3,
               "pov": "Omniscient / Data Center",
-              "timeline": "Real World - Near Future (~2030-2050)",
               "location": "Data center in Ashburn, Virginia (or similar)",
               "description": "THE ZOOM SCENE - smallest to largest scale",
               "moments": [
