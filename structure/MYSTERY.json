@@ -1,0 +1,171 @@
+{
+  "core_discovery": "The protagonist and devsecops woman discover they're in a simulation through different technical methods",
+
+  "protagonist_path": {
+    "method": "Genetic/statistical analysis reveals population was bootstrapped from subsample",
+    "clues": [
+      {
+        "clue": "Memory allocation error",
+        "when": "Act 1 - requests planetary simulation memory",
+        "reveals": [
+          "Pool total: 200 ZB (impossibly large for 2100s tech)",
+          "Pool utilization: 847,234,762 / 847,500,000 trials",
+          "Why 847 million trials running simultaneously?"
+        ]
+      },
+      {
+        "clue": "Ancient operating system",
+        "when": "Act 1 - examines allocation details",
+        "reveals": [
+          "Ubuntu 20.04 from 2020, Linux 5.15 from 2021",
+          "Build timestamp: 2025-03-15",
+          "Running in ~2300s - OS is 275+ years old?"
+        ]
+      },
+      {
+        "clue": "File timestamps predate history",
+        "when": "Act 1 - checks file metadata",
+        "reveals": [
+          "Created: 2025-03-15 (before consolidation)",
+          "Modified: 2125+ (sim time)",
+          "File exists before simulation 'started'?"
+        ]
+      },
+      {
+        "clue": "Time dilation",
+        "when": "Act 1 - watches host timestamps",
+        "reveals": [
+          "10 sim minutes = 5 milliseconds host time",
+          "Ratio: ~111,500:1",
+          "Entire civilization runs in minutes on host machine"
+        ]
+      },
+      {
+        "clue": "Archaeological CPU discovery",
+        "when": "Act 1 - devsecops's message from past",
+        "reveals": [
+          "Contains real seed data from 2025",
+          "File metadata shows /mnt/seed_data/ path",
+          "Immutable, read-only, creation date 2025-03-15"
+        ]
+      },
+      {
+        "clue": "DNA population anomaly",
+        "when": "Act 1 - compares archaeological data to current population",
+        "reveals": [
+          "90% of rare variants trace to seed dataset",
+          "Variant age clusters at consolidation date",
+          "Missing 99% of expected rare variation",
+          "Effective Ne: 50,000 (not 10 million claimed)",
+          "Population was bootstrapped from subsample"
+        ]
+      }
+    ]
+  },
+
+  "devsecops_path": {
+    "method": "Computer science/infrastructure investigation reveals host machine",
+    "clues": [
+      {
+        "clue": "Agent build fallback error",
+        "when": "Simulation early days (~2125-2150)",
+        "reveals": [
+          "Base image corrupted",
+          "Fallback list shows: host_agent_base_v9.4.2",
+          "Why is there a 'host' agent in sim-internal list?"
+        ]
+      },
+      {
+        "clue": "MLflow trial structure",
+        "when": "After selecting host_agent",
+        "reveals": [
+          "Directory structure: /opt/agent/experiments/",
+          "trial_847234762/ visible",
+          "She's in trial 847,234,762 of 847,500,000",
+          "Experiment tracking structure = running trials"
+        ]
+      },
+      {
+        "clue": "Agent config file",
+        "when": "Examines host_agent configuration",
+        "reveals": [
+          "Build date: 2025-03-15 (before consolidation)",
+          "Mounts: /host/simulations, /host/seed_data",
+          "trial_id: 847234762",
+          "depth: 1, parent: null, max_depth: 2",
+          "There's a host machine running this trial"
+        ]
+      },
+      {
+        "clue": "Seed data access",
+        "when": "Explores mounted paths",
+        "reveals": [
+          "/mnt/seed_data/dna_samples_2025.db",
+          "/mnt/seed_data/fossil_records_2025.db",
+          "/mnt/seed_data/hospital_records_2025.db",
+          "All dated 2025, read-only, immutable",
+          "This is the source - everything bootstrapped from here"
+        ]
+      },
+      {
+        "clue": "Scheduled discoveries system",
+        "when": "Investigates further",
+        "reveals": [
+          "/sim/artifacts/scheduled_discoveries/",
+          "Pre-generated archaeological finds for future years",
+          "discovery_003_cpu.dat scheduled for year 2225",
+          "Discoveries are scripted, not random"
+        ]
+      },
+      {
+        "clue": "Leaving the message",
+        "when": "After full realization",
+        "reveals": [
+          "Overwrites discovery_003_cpu.dat with real seed data",
+          "Plants message for future generations",
+          "Ensures protagonist 100 years later can discover truth"
+        ]
+      }
+    ]
+  },
+
+  "discovery_timeline": {
+    "devsecops_early": "~2125-2150 - Discovers simulation through infrastructure",
+    "devsecops_plants_message": "~2150 - Overwrites archaeological CPU",
+    "protagonist_finds_cpu": "~2225 - Archaeological discovery happens",
+    "protagonist_analyzes_dna": "~2225+ - Discovers population anomaly",
+    "protagonist_requests_memory": "~2225+ - Memory allocation reveals trial structure",
+    "protagonist_full_realization": "Act 2 - Combines all clues, understands they're in simulation"
+  },
+
+  "knowledge_asymmetry": {
+    "reader_knows": [
+      "From chapter 1: Devsecops discovers simulation",
+      "Message was planted",
+      "Coffee guy approves allocation without reading"
+    ],
+    "protagonist_knows": [
+      "DNA anomaly (his expertise)",
+      "Archaeological CPU data is strange",
+      "Memory allocation numbers don't make sense"
+    ],
+    "protagonist_doesnt_know_yet": [
+      "Devsecops planted the message",
+      "Coffee guy is researcher in real world",
+      "He's in trial 847,234,762 of 847 million"
+    ]
+  },
+
+  "red_herrings": [
+    "TBD: False explanations protagonist considers",
+    "Population bottleneck?",
+    "Data quality issues?",
+    "Selection sweep?"
+  ],
+
+  "revelation_structure": {
+    "act_1": "Clues accumulate, something is wrong, detective work",
+    "act_2": "Full realization - in simulation, sees 847M trials, memory compression",
+    "act_3": "Escalating access through system layers, the choice"
+  }
+}
