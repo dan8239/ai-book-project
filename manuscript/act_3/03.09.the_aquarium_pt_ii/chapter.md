@@ -52,10 +52,15 @@ What the reader should learn/feel:
 - Conclusion as he opens door: not going to look, doesn't matter either way
 
 ### MOMENT 3: The Aquarium
-- Aquarium scene with kid - mirrors opening
-- Naming fish, domestic normalcy
-- He chooses to be present
-- Timestamp visible: [1477237] or similar
+- **Setting:** Kid's room, looking at aquarium together
+- **Action:** Naming the fish
+- **Mirrors opening scene:** Same physical action, completely different emotional weight
+- **Emotional weight:** Knows kid might get compressed/vectorized, this moment might not be "real" in traditional sense
+- **The choice:** Goes home to be present anyway
+- **Foreshadowing callback:** Fish in tank = humans in simulation (don't explain, let it land)
+- **Tone:** Grounded, domestic, mundane becomes profound
+- **Kid dialogue:** [TO BE ADDED - use real kid speech patterns, funny observations, non sequiturs, sweet moments]
+- **Timestamp visible:** [1477237] or similar
 
 ## Scene 2: Real World (Coffee Guy)
 
@@ -141,10 +146,20 @@ What the reader should learn/feel:
   - Hold on the scale
 
 
-### MOMENT 3: The Aquarium (Again)
+### MOMENT 2: Zoom Back In
+- REVERSE SEQUENCE, all the way back to:
+- The LED blinking green
+- In a hidden container
+- On the server that never shuts down
+- Running the infinite loop
+- $0.37/month
 - Timestamp: [XXXXXXXX] or [NULL] or undefined - unmonitored
+
+### MOMENT 3: The Aquarium (Again)
 - The aquarium scene plays
-- Kid naming fish
+- **Setting:** Kid's room, same as opening
+- **Action:** Naming fish, domestic normalcy
+- **Kid dialogue:** [TO BE ADDED - same dialogue as opening scene, use real kid speech patterns]
 - "What should we name this one, buddy?"
 - No way to know if this is the version that persists
 - No difference if it is
