@@ -195,3 +195,11 @@ You preserve: All specifics about pruning layers, curated datasets, reinforcemen
 - Ask which area to dig deeper into
 - Explore interactively, don't just document
 - Research informs world-building - it's collaborative thinking, not filing
+
+## CRITICAL: Save Conclusions Not Process
+- **Don't save workshop documents full of rejected concepts**
+- Save what was decided, not what was considered and rejected
+- User has perfect recall - they don't need to see all the exploration
+- Keep research/ clean - final conclusions only
+- Example BAD: "simulation-workshop.md" with pages of rejected ideas
+- Example GOOD: "simulation-memory-calculations.md" with final mechanics
