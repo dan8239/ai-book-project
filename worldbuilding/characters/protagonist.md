@@ -104,6 +104,27 @@ His colonization work leads to a brutal realization:
 
 This is what he's wrestling with BEFORE he discovers the simulation truth.
 
+### Big Dog Reveals The Truth
+
+Big Dog takes a liking to protagonist. That's why he bothers explaining how it all works - he doesn't have to, but he respects the guy.
+
+**The proof:** Big Dog sets a breakpoint in the simulation to prove it's real. Everything halts mid-air. Undeniable.
+
+**The "last wish":** Protagonist asks - knowing his world is about to be compressed - to be able to use the debug mechanism to explain it to his wife.
+
+**Big Dog's response:** Sure. The world is being compressed, it'll be done in a few minutes real-time (couple hours/days simulation time). He can pause all he wants. It won't actually change anything.
+
+**The debug mechanism (breakpoint):**
+- Halts simulation completely
+- Everything frozen mid-air
+- Undeniable proof of simulation nature
+
+**Constraints on breakpoint:** #needs-work
+- Time limit per use?
+- Limited number of uses?
+- Can only be triggered from certain locations?
+- Cooldown period?
+
 ### Try/Fail with Big Dog (before wife's insight)
 
 Before landing on the real solution, he tries confrontational approaches that fail:
@@ -168,6 +189,17 @@ He copies the simulation to a hidden server **with a physics-level tweak** that 
 3. **H2S oxidation rate** - Make H2S break down faster in atmosphere before it accumulates to lethal levels.
 
 4. **Solar dimming (1%)** - Quick and dirty. Only dims going forward from a specific date.
+
+### How He Gets Over On Big Dog
+
+**The setup:** Protagonist saves his last breakpoint instead of using it.
+
+**The move:** Triggers an extreme memory allocation event - something that causes Big Dog to get erased/decommissioned.
+
+#needs-work - The specific mechanism:
+- What triggers the memory spike?
+- How does this lead to Big Dog's decommissioning?
+- Does protagonist know this will work, or is it a gamble?
 
 **The resolution:**
 

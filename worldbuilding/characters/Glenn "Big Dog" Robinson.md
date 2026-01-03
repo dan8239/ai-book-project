@@ -84,3 +84,41 @@ This character needs to exist for a few reasons
 5. His ultimate goal is to get some answers for his boss and avoid getting deleted
 6. He can show the protagonist under the hood a bit more and explain to him, because compressing the world takes some time before he officially pulls the plug. Twirling mustache moment and explain how it all works
 7. Eventually when he tries to deallocate the memory of protagonists world he screws up and a huge bill hits coffee guy. Ironically, he himself gets deleted and replaced with a carte blanche agent
+
+## Relationship With Protagonist
+
+**Big Dog takes a liking to protagonist.** That's WHY he bothers explaining how it all works. He doesn't have to - but he respects the guy. The recursive simulation behavior was unprecedented, academically interesting. He's impressed.
+
+### The Breakpoint Proof
+
+To prove they're in a simulation, Big Dog sets a breakpoint. Everything halts mid-air. Undeniable.
+
+**Protagonist's "last wish":** Wants to use the debug mechanism to explain it to his wife.
+
+**Big Dog's response:** Sure. Why not? The world is being compressed anyway - takes a few minutes real-time (couple hours/days sim-time). Protagonist can pause all he wants. It won't change anything.
+
+### The Debug Mechanism (Breakpoint)
+
+What Big Dog gives protagonist:
+- Halts simulation completely
+- Everything frozen mid-air
+- Undeniable proof of simulation nature
+
+**Constraints:** #needs-work
+- Limited number of uses (maybe 3?)
+- Time limit per use?
+- Can only be triggered from certain locations?
+- Cooldown period?
+
+### How Protagonist Gets Over On Him
+
+**The setup:** Protagonist saves his last breakpoint instead of using it with wife.
+
+**The move:** Uses saved breakpoint to trigger extreme memory allocation event → Big Dog gets erased/decommissioned.
+
+Big Dog's fatal mistake: assuming the debug mechanism "won't change anything." He gave protagonist a loaded gun because he didn't think the bullets could reach him.
+
+#needs-work - The specific mechanism:
+- What triggers the memory spike?
+- How does this lead to Big Dog's decommissioning?
+- Does protagonist know this will work, or is it a gamble?
