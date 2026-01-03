@@ -5,6 +5,26 @@ Tech company consolidation already happened. Origin/before-times not clearly rec
 
 **Consolidation event name:** TBD (The Alignment? Year Zero? The Transition?)
 
+**Key tone:** This is NOT a dystopian post-apocalyptic hellhole. It's a pre-apocalyptic, technologically advanced civilization that is having its usable land and energy/food sources stripped away slowly. Life goes on. The horror is in the trajectory, not the present.
+
+## Infrastructure
+
+### Power Grid
+- Government is electric-based, requires stable grid
+- Grid is functional and maintained
+- Energy is rationed but available
+- Renewable infrastructure widespread
+- The problem isn't blackouts - it's that energy goes to essentials first
+
+### Technology Level
+- **Space travel:** Exists. Colonization program is real, active, funded.
+- **Robotics:** Advanced. Protagonist's team is AI agents. Autonomous systems everywhere.
+- **Computing:** Quantum computing exists. Simulations run on massive infrastructure.
+- **Medicine:** Advanced but rationed. Gene therapy, life extension for some.
+- **Agriculture:** High-tech vertical farms, engineered crops, precision optimization.
+
+The tech is there. The problem is resource constraints on what it can do.
+
 ## Core Policies
 - **Mandatory tracking shot at birth**
 - **Optimization/extreme A/B testing** is core policy approach
@@ -49,13 +69,20 @@ TBD - how does news work in this world?
 - **Coastlines:** Major cities relocated, walled, or abandoned
 
 ### Daily Reality
+
+Life is normal. That's the unsettling part.
+
 | Aspect | What It's Like |
 |--------|----------------|
-| Weather | Extreme events are normal - seasonal hurricanes, floods, droughts |
-| Seasons | Barely recognizable - "winter" is mild, "summer" is dangerous |
+| Weather | Extreme events are normal - seasonal hurricanes, floods, droughts. People adapt. |
+| Seasons | Barely recognizable - "winter" is mild, "summer" is dangerous. But AC exists. |
 | Sky | Hazy - aerosols, particulates, occasional sulfur smell near coasts |
 | Nature | Parks are museums - "wilderness" is managed, not wild |
-| Travel | Restricted to critical logistics only |
+| Work | People have jobs. Offices exist. Meetings happen. Deadlines. |
+| Entertainment | Media, games, sports, art. Culture continues. |
+| Travel | Restricted but possible. Virtual presence more common. |
+
+People complain about their commute, argue about politics, fall in love, raise kids. The slow squeeze is background noise to daily life.
 
 ### Food System
 - **Indoor/vertical farming:** Energy-intensive, limited scale
@@ -65,11 +92,13 @@ TBD - how does news work in this world?
 - **The math:** Arable land down 50%, caloric output barely keeping pace with (controlled) population
 
 ### Energy
-- Energy is scarce and expensive
-- Renewables widespread but not enough
+- Grid is stable - government runs on it, can't afford blackouts
+- Renewables widespread, nuclear where possible
 - Fossil fuels heavily restricted (accelerates the problem)
-- Most energy goes to food production and essential infrastructure
-- Personal energy use is rationed
+- Energy allocation prioritized: essentials first, then everything else
+- Personal energy use is metered and priced, not hard-rationed
+- You can use as much as you want if you can pay for it
+- Most people can't pay for much
 
 ### Birth Control
 - **1 child:** UBI covers it
