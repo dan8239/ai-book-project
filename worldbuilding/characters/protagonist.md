@@ -149,25 +149,31 @@ TBD
 
 ### How He Saves The Simulation
 
-NOT a last-minute copy to a hidden server. Instead: a **physics-level tweak** that puts his world on a stable trajectory.
+He copies the simulation to a hidden server **with a physics-level tweak** that removes the guillotine.
 
-**The constraint:** Can't dramatically change history. His memories, his family, everything he knows must remain coherent.
+**What the tweak does:**
+- Removes the ozone collapse trajectory
+- His world stabilizes at 10M-1B equilibrium (the "standard scientist view" everyone believed before he had clearance)
+- Still dire - declining population, harsh world, his relatives will live and die
+- But NOT extinction. Humanity has runway far beyond his family's lifetimes.
 
-**Options to explore:**
+**The constraint:** Can't dramatically change history. His memories, his family, everything he knows must remain coherent. The tweak only affects future trajectory.
 
-1. **Threshold-activated feedback** - Add a negative feedback loop that only kicks in at extreme conditions (high H2S concentration, severe ozone depletion). Doesn't change history because those conditions haven't been reached yet.
+**Options for the tweak:**
+
+1. **Threshold-activated feedback** - Negative feedback that only kicks in at extreme H2S/ozone levels. Doesn't change history because those conditions haven't been reached yet.
 
 2. **Ozone regeneration rate** - Tweak atmospheric chemistry so ozone regenerates faster than H2S destroys it. Only matters once crisis point is reached.
 
 3. **H2S oxidation rate** - Make H2S break down faster in atmosphere before it accumulates to lethal levels.
 
-4. **Sulfur bacteria metabolism** - Reduce efficiency of sulfur-reducing bacteria. Subtle enough to not change past, but changes trajectory.
+4. **Solar dimming (1%)** - Quick and dirty. Only dims going forward from a specific date.
 
-5. **Solar dimming (1%)** - Quick and dirty. But would this change climate history? Maybe only dims going forward from a specific date.
+**The resolution:**
 
-**The elegance:** He's an optimization expert. He finds a small parameter tweak that adds a negative feedback loop that was "missing" from the simulation's climate model.
+He can't see or verify the change instantly. He just has to trust it worked. He goes back to his family.
 
-**The horror/beauty:** He's not saving Earth. He's tuning his simulation's physics to be slightly more forgiving than reality. His world becomes a divergent timeline where the guillotine never falls - but only because he cheated the physics. And he knows it.
+His world is back to where it was on page 1 - dire, 10M-1B equilibrium thinking - but now he has perspective. He appreciates what they have. The species will survive. His family will live their lives. That's enough.
 
 #needs-work - Which specific tweak? Must be:
 - Scientifically plausible as a "missing feedback"
