@@ -89,6 +89,21 @@ His team is literally his best friend robot with specialized hyper functional ag
 
 **She gives him the idea:** "If I could choose to keep it running I would. But I'll be happy with every minute we get." → He reframes from "stop Big Dog" to "keep us running"
 
+### The Colonization Moral Quandary
+
+His colonization work leads to a brutal realization:
+
+**The math:**
+- Success rate per colony mission is decent (he optimized it)
+- But species survival requires X target colonies for redundancy
+- To hit 97% species survival, you need parallel attempts
+- Each mission requires enormous energy/resources
+- The resource extraction would kill a huge percentage of Earth's remaining population
+
+**The trade-off:** Optimize for species survival = sacrifice current humans. He's being asked to run the numbers on how many people die so the species might survive.
+
+This is what he's wrestling with BEFORE he discovers the simulation truth.
+
 ### Try/Fail with Big Dog (before wife's insight)
 
 Before landing on the real solution, he tries confrontational approaches that fail:
@@ -129,8 +144,36 @@ TBD
 | 2A  | Ordeal (Midpoint) | Big Dog reveals simulation truth                                     | Existential horror                                              |
 | 2B  | Reward            | Technically solves colonization                                      | But epoch is ending, world will be erased                       |
 | 2B  | Road Back         | Big Dog explains compression coming                                  | All is lost - must find way to save family                      |
-| 3   | Resurrection      | Frames Big Dog, copies world to hidden server                        | Acts despite uncertainty                                        |
+| 3   | Resurrection      | Makes physics tweak to simulation, saves his world                   | Acts despite uncertainty                                        |
 | 3   | Return            | Goes home, chooses family                                            | Peace with choice, present at last                              |
+
+### How He Saves The Simulation
+
+NOT a last-minute copy to a hidden server. Instead: a **physics-level tweak** that puts his world on a stable trajectory.
+
+**The constraint:** Can't dramatically change history. His memories, his family, everything he knows must remain coherent.
+
+**Options to explore:**
+
+1. **Threshold-activated feedback** - Add a negative feedback loop that only kicks in at extreme conditions (high H2S concentration, severe ozone depletion). Doesn't change history because those conditions haven't been reached yet.
+
+2. **Ozone regeneration rate** - Tweak atmospheric chemistry so ozone regenerates faster than H2S destroys it. Only matters once crisis point is reached.
+
+3. **H2S oxidation rate** - Make H2S break down faster in atmosphere before it accumulates to lethal levels.
+
+4. **Sulfur bacteria metabolism** - Reduce efficiency of sulfur-reducing bacteria. Subtle enough to not change past, but changes trajectory.
+
+5. **Solar dimming (1%)** - Quick and dirty. But would this change climate history? Maybe only dims going forward from a specific date.
+
+**The elegance:** He's an optimization expert. He finds a small parameter tweak that adds a negative feedback loop that was "missing" from the simulation's climate model.
+
+**The horror/beauty:** He's not saving Earth. He's tuning his simulation's physics to be slightly more forgiving than reality. His world becomes a divergent timeline where the guillotine never falls - but only because he cheated the physics. And he knows it.
+
+#needs-work - Which specific tweak? Must be:
+- Scientifically plausible as a "missing feedback"
+- Only activates at future thresholds (preserves history)
+- Simple enough to implement quickly
+- Something an optimization guy would think of
 
 ### Mystery Thread
 
