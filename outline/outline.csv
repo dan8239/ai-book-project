@@ -1,0 +1,24 @@
+Chapter,Act,Timeline,POV,Plot,Mystery Progress,World Reveal,Protagonist Arc,Coffee Guy Arc,Devsecops Arc,Family Arc,Themes,Notes
+P1,Prologue,Early Sim (~2140),DevSecOps,Plants message in archaeological CPU,Overwrites discovery_003_cpu.dat with real seed data,How scheduled discoveries work,,,"21 years of backdoors culminate here",,The 0.3% who act,Could be cold open or flashback
+1,1 - TRIAL,Sim Present (~2225),Protagonist,Aquarium with kid - establishing ordinary world,,,Content with routine life,,,Post-consolidation family life,We are all snapshots in time,Opening image - mirrors ending
+2,1 - TRIAL,Sim Present (~2225),Protagonist,At work: agricultural optimization with AI team,,How AI agents work / protagonist's job scope,Competent at huge job,,,Time away from family,Loss functions as ideology,Introduce co-worker geneticist
+3,1 - TRIAL,Sim Present (~2225),Protagonist,Home life dynamics revealed,,Money and time pressures in this world,Feeling pressure,,,Tension introduced,,Setup family subplot
+4,1 - TRIAL,Sim Present (~2225),Protagonist,Promotion to space colonization trial,,Space colonization program exists,Excited but more time pressure,,,Less time for family,The horror of success,Raises stakes
+5,1 - TRIAL,Sim Present (~2225),Protagonist,Archaeological CPU discovery announced,CPU found - news report,Pre-consolidation artifacts,Curiosity piqued,,Her message arrives 100 years later,,All data eventually gets captured,Call to adventure
+6,1 - TRIAL,Sim Present (~2225),Protagonist,DNA anomaly investigation begins,"Population bottleneck in data, Effective Ne 50k not 10M",,,,,Obsession starting,Nigerian prince logic,Crossing threshold
+7,2A - LOSS,Sim Present (~2225),Protagonist,Working on colonization trial,Memory allocation error - 847M trials visible,200 ZB pool impossibly large,Competent but distracted,,,Family tension building,Recursive optimization,Tests begin
+8,2A - LOSS,Sim Present (~2225),Protagonist,Money doesn't fix home problems,,Economic abundance in sim,Guilt growing,,,Money helps but time doesn't,,Progress in wrong direction
+9,2A - LOSS,Real World (2025),Coffee Guy,Notices promising trials,,,,"Routine monitoring, something catches eye",,,Reports no one reads,First coffee guy POV
+10,2A - LOSS,Sim Present (~2225),Protagonist,Solving colonization but noticing anomalies,Ancient OS timestamps - Ubuntu 2020 in 2300s,"Time dilation ratio ~111,500:1",Torn between job and mystery,,,,,Approach to inmost cave
+11,2A - LOSS,Sim Present (~2225),Protagonist,Caring more about mystery than work,90% rare variants trace to seed dataset,,Obsession taking over,,,Neglecting family,0.3% who act,Midpoint approaching
+12,2B - LOSS,Sim Present (~2225),Protagonist,Proves simulation exists,"Goes through layers - trial ID, depth, mounts","max_depth: 2, they're at depth 1",Existential horror,,,Marriage strain,We are all snapshots,MIDPOINT - truth revealed
+13,2B - LOSS,Real World (2025),Coffee Guy,Realizes breakthrough pattern,,,,"Golden path clear, shows up IN PERSON",,,,Reports read when they confirm bias,His big moment
+14,2B - LOSS,Sim Present (~2225),Protagonist,Processing the horror,What does it mean?,,Despair or action?,,,Does family even exist?,89% do nothing,All is lost moment
+15,2B - LOSS,Sim Present (~2225),Protagonist,Road back - what can be done?,Finds optimization layer access,Selection mechanism revealed,Choosing to act,,,,,Character decision point
+16,3 - ADJUSTMENT,Real World (2025),Coffee Guy,Coffee guy reveals nature of the world,,,,"Presents findings, excused from room",,,Horror of success,Dramatic irony
+17,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Plans solution to keep simulation running,Understands system well enough to act,,Determined,,,For family's existence,,Resurrection begins
+18,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Presses execute,,,Commits,,,,,Climax
+19,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Quits job - walking home,,,Peace with choice,,,Returning to family,We are all snapshots,Denouement
+20,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Aquarium scene again,,,New understanding,,,Same scene different meaning,All themes converge,Mirror opening - elixir
+21,3 - ADJUSTMENT,Real World (2025),Coffee Guy,Coffee guy and the board,,,,"Goes to get coffee while world changes",,,,Ironic counterpoint
+22,Epilogue,Real World (2025),,Data center zoom,,,,,,,Physical reality of simulation,,Final image
