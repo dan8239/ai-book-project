@@ -89,6 +89,21 @@ This character needs to exist for a few reasons
 
 **Big Dog takes a liking to protagonist.** That's WHY he bothers explaining how it all works. He doesn't have to - but he respects the guy. The recursive simulation behavior was unprecedented, academically interesting. He's impressed.
 
+### The Reveal Setting
+
+The reveal isn't just telling - it's showing. Big Dog zips protagonist around other simulations. Not really entering them, more like looking at the data:
+- Peak at the conditions
+- But moreso look at the relevant survival data (histograms, survival rate, etc.)
+- Given these policies, these incentives, these hyperparameters, this is what happened
+
+**The brother simulations:** He can peek at millions of simulations where the same genetic pathways were taken, so protagonist's ancestral tree is essentially the same (different timing, different gene combinations, so not exactly the same). The other world protagonists look vaguely similar. Like a brother. They're all different though and didn't quite solve it.
+
+### Why Big Dog Won't Keep It Running
+
+He's not sentimental. Every trial he leaves on is more money, less memory available for the actual next trial. He has a specific pool of memory that will go noticed.
+
+The protagonist is the prototype but it'll just get better. He doesn't need to let it play out anymore. The policy that got them there is in place. The governmental incentives that created these pressures and conditions is known. The next epoch will do it better, more quickly.
+
 ### The Breakpoint Proof
 
 To prove they're in a simulation, Big Dog sets a breakpoint. Everything halts mid-air. Undeniable.
@@ -110,7 +125,17 @@ What Big Dog gives protagonist:
 - Can only be triggered from certain locations?
 - Cooldown period?
 
+### The Bargaining Failure
+
+When protagonist starts bargaining, threatening to destroy the progress, refusing to go through with the plan to decimate the current populace for the success of the species:
+
+**Big Dog's response:** "It's too late. Every move you've done is recorded. He knows what research led to you getting here. Next time we won't even waste time getting here. We can do these things more quickly, lose a few dozen more wrong pathways. I don't need you to approve it. I don't even need you to keep working on it. You've done the bare minimum I needed to get the next epoch even better."
+
+Protagonist has no leverage. His value has already been extracted.
+
 ### How Protagonist Gets Over On Him
+
+**The goal:** Bypass G Rob / get him out of the picture so Coffee Guy directly approves the copy in a different memory space. Outside the scope of current simulation. On the Quant servers somewhere else, near core systems that won't get shut off.
 
 **The setup:** Protagonist saves his last breakpoint instead of using it with wife.
 
@@ -121,4 +146,5 @@ Big Dog's fatal mistake: assuming the debug mechanism "won't change anything." H
 #needs-work - The specific mechanism:
 - What triggers the memory spike?
 - How does this lead to Big Dog's decommissioning?
+- How does protagonist get Coffee Guy to approve the copy directly?
 - Does protagonist know this will work, or is it a gamble?

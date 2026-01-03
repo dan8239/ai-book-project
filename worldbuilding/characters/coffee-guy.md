@@ -18,7 +18,14 @@ He is using [[Glenn "Big Dog" Robinson]] and sophisticated qubit software to gen
 - Monthly meetings scheduled to deliver standard updates
 
 ## The Breakthrough Moment
-**What changed:** Breakthrough across millions of simulations - golden path becomes consistently clear (global takeover in all successful cases). This is one simulation among millions, not the only one that makes it, but represents a pattern breakthrough.
+
+**What changed:** This is the first simulation to break through.
+
+In RL learning you need a truly successful event. Nothing has broken through yet. They've extended years before, gotten a few thousand years even, but never really broken to survival being an afterthought. This is like the first successful RL trial that will be the tipping point where the policy actually becomes good.
+
+**The numbers:** First simulation to break through the low teens to essentially guaranteed survival on a huge time horizon (100k years). He'll need more time but convergence is all but guaranteed.
+
+**Why it matters:** Once RL has found any pathway the door is creased open. It will keep wedging that doorway open farther, do it more quickly, lose less people in the process. It's inevitable. He'll need a few more hours, maybe days, but it's going to work.
 
 **His action:** Shows up IN PERSON to monthly meeting (shocking for his position)
 

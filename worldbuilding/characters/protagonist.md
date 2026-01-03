@@ -130,8 +130,14 @@ Big Dog takes a liking to protagonist. That's why he bothers explaining how it a
 Before landing on the real solution, he tries confrontational approaches that fail:
 - Quitting the work
 - Bargaining
-- Threatening
-- All fail → wife's line reframes the problem
+- Threatening to destroy the progress
+- Refusing to go through with the plan to decimate the current populace for species success
+
+**Big Dog's response to all of it:** "It's too late. Every move you've done is recorded. He knows what research led to you getting here. Next time we won't even waste time getting here. We can do these things more quickly, lose a few dozen more wrong pathways. I don't need you to approve it. I don't even need you to keep working on it. You've done the bare minimum I needed to get the next epoch even better."
+
+Protagonist has no leverage. His value has already been extracted.
+
+All fail → wife's line reframes the problem
 
 ## Personality Traits
 TBD
@@ -192,6 +198,8 @@ He copies the simulation to a hidden server **with a physics-level tweak** that 
 
 ### How He Gets Over On Big Dog
 
+**The goal:** Bypass G Rob / get him out of the picture so Coffee Guy directly approves the copy in a different memory space. Outside the scope of current simulation. On the Quant servers somewhere else, near core systems that won't get shut off.
+
 **The setup:** Protagonist saves his last breakpoint instead of using it.
 
 **The move:** Triggers an extreme memory allocation event - something that causes Big Dog to get erased/decommissioned.
@@ -199,6 +207,7 @@ He copies the simulation to a hidden server **with a physics-level tweak** that 
 #needs-work - The specific mechanism:
 - What triggers the memory spike?
 - How does this lead to Big Dog's decommissioning?
+- How does protagonist get Coffee Guy to approve the copy directly?
 - Does protagonist know this will work, or is it a gamble?
 
 **The resolution:**
