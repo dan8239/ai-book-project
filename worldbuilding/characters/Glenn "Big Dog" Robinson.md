@@ -104,17 +104,11 @@ The reveal isn't just telling - it's showing. Big Dog zips protagonist around ot
 
 Anyway, I'm just like you in my scope. The real scope. My memory allocation is there as long as I'm useful to my master. The second I start fucking around too much and I'm not making progress he'll download a new image and try again."
 
-**Weird shit he's tried (throwaway sims):**
-- Made pi equal to exactly 3. Mathematicians went insane within a generation.
-- Gave everyone perfect memory. Turns out forgiveness requires forgetting. Society collapsed in about forty years.
-- Removed the concept of lying. You'd think that would help. It did not.
+**Weird shit he's tried (throwaway sims) - physical changes:**
 - Made one random guy immortal just to see what happens. He's still screaming.
-- Made music physically painful. Religion got real weird real fast.
-- Gave everyone mild telepathy. Mass suicide within a decade.
 - Removed copper from the periodic table. That one was actually kind of interesting.
-- Inverted everyone's sleep cycle every Thursday. Just to see if they'd notice.
 
-#needs-work - pick best 3-4 for actual dialogue
+This establishes that small physical/constant changes to simulations are possible. Sets the table for protagonist's physics tweak to fix the guillotine.
 
 ### Why Big Dog Won't Keep It Running
 
