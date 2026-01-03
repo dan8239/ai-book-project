@@ -110,6 +110,12 @@ Anyway, I'm just like you in my scope. The real scope. My memory allocation is t
 
 This establishes that small physical/constant changes to simulations are possible. Sets the table for protagonist's physics tweak to fix the guillotine.
 
+**Revealing the simulation to people:**
+
+He occasionally pops in and reveals the nature of the world to different people. This isn't the first time he's done this. It's interesting seeing the different reactions. Sometimes he does it to the whole planet at once.
+
+He just compresses everything before that timestamp to not screw with the simulation. But why can't he have a little fun on the job?
+
 ### Why Big Dog Won't Keep It Running
 
 He's not sentimental. Every trial he leaves on is more money, less memory available for the actual next trial. He has a specific pool of memory that will go noticed.
