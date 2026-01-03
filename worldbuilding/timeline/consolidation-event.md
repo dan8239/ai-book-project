@@ -45,10 +45,8 @@ Post-Consolidation (protagonist's simulated world, ~2225)
 - History is heavily censored in museums
 
 ### What People Know
-- Zuckminster Fullerine's name is everywhere
-- The consciousness copy story is known
-- The AGI immediately surpassing him is known
-- They still call the AGI "him" even though nothing of him remains
+
+See [[../characters/zuckminster-fullerine#Cultural Legacy (Post-Consolidation)|Zuckminster Fullerine - Cultural Legacy]]
 
 ## Museum Scene
 

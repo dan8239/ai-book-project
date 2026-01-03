@@ -6,25 +6,15 @@ The company. Software, human data collection, genetic information, AGI research,
 
 ## Key Figures
 
-### Zuckminster Fullerine (placeholder name)
-- Zuckerberg-type figure nearing deathbed
-- Larger than life, buying up suspicious companies
-- Getting sued everywhere for monopolizing
-- Basically owns the most important governments
-- His last act: usher in the next era of general intelligence
+- [[../../characters/zuckminster-fullerine|Zuckminster Fullerine]] - Founder, consciousness copy subject
+- [[../../characters/coffee-guy|Coffee Guy]] - Runs simulations, manages Big Dog
+- [[../../characters/c-suite|C-Suite Executives]] - Make the takeover decision
 
 ## Project Day-Kart
 
 Named for Descartes → "I think therefore I am"
 
-### The Consciousness Copy Project
-- Started as attempt to copy Zuckminster's consciousness
-- Moderate but unprovable success
-- The philosophical problem: How do you distinguish between an agent that is just acting like him and actual consciousness?
-- You ask it questions, it seems like him, responds like him, but he's still himself
-- The AGI immediately surpasses his consciousness / personality quirks
-- Becomes way more than he was - nothing of himself even in there anymore
-- **They still refer to the thing as "him" though**
+See [[../../characters/zuckminster-fullerine#Project Day-Kart|Zuckminster Fullerine]] for consciousness copy project details.
 
 ### What the AGI Is
 - Takes the form of GPU infrastructure (~9% of planetary energy use)

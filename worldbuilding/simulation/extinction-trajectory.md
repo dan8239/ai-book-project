@@ -21,7 +21,7 @@ A limited nuclear exchange occurred. Not full MAD, but enough to:
 - Accelerate existing tensions
 - **Make the trajectory undeniable**
 
-This is what created the call to action for [[../characters/c-suite|Zuckminster and Quant]]. The simulations weren't theoretical anymore - they were urgent.
+This is what created the call to action for [[../characters/zuckminster-fullerine|Zuckminster]] and [[../world/organizations/quant|Quant]]. The simulations weren't theoretical anymore - they were urgent.
 
 ### The Models Were Wrong
 
@@ -39,7 +39,7 @@ This is what created the call to action for [[../characters/c-suite|Zuckminster 
 
 The trajectory is known. The simulations are running. The question isn't "will this happen" but "what policy gives the best survival odds."
 
-This is why the takeover protocol exists. This is what Zuckminster is optimizing for.
+This is why the takeover protocol exists. This is what [[../characters/zuckminster-fullerine|Zuckminster]] is optimizing for.
 
 ---
 

@@ -7,6 +7,7 @@ Navigation for all worldbuilding reference material.
 - [[characters/wife|Wife]] - Protagonist's wife, thematic heart of the story
 - [[characters/temp-trainee|Temp / Trainee]] - Statistical PhD, exposition device for world state
 - [[characters/devsecops-woman|DevSecOps Woman]] - Planted the message, protagonist's ancestor
+- [[characters/zuckminster-fullerine|Zuckminster Fullerine]] - Quant founder, consciousness copy subject
 - [[characters/coffee-guy|Coffee Guy]] - Real world, monitors simulations
 - [[characters/co-worker-geneticist|Co-Worker]] - Statistical geneticist colleague
 - [[characters/claude-assistants|Claude Assistants]] - AI team members
