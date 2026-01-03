@@ -8,6 +8,8 @@
 ## Role
 Agricultural Optimization / Machine Learning Expert
 
+**Focus:** Making the faucet bigger. He's optimizing yield - how to get more food out of the system. Not focused on the "why" of the crisis, just solving the immediate problem.
+
 
 ## Questions to answer
 
