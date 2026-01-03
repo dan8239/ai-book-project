@@ -85,20 +85,75 @@ Life is normal. That's the unsettling part.
 People complain about their commute, argue about politics, fall in love, raise kids. The slow squeeze is background noise to daily life.
 
 ### Food System
-- **Indoor/vertical farming:** Energy-intensive, limited scale
-- **Northern agriculture:** Poor soil in newly-arable zones
-- **Protein sources:** Insects, algae, lab-grown (chicken is luxury item)
-- **Crop diversity:** Handful of heat-tolerant engineered staples (narrow genetic base = vulnerability)
-- **The math:** Arable land down 50%, caloric output barely keeping pace with (controlled) population
+
+UBI provided. Food is what can survive in these conditions. Much less meat. The food pyramid is based on FCR (Food Conversion Ratio - calories in ÷ calories out). Less stable but optimized around efficiency.
+
+**Why no cows/pigs:** FCR is terrible (6-10 for beef, 3-4 for pork). Can't justify the calorie math.
+
+**What's left in the oceans:** Anoxic, +10°C hotter water kills most fish. Squid survive in pockets. Jellyfish actually thrive in low-oxygen dead zones (bloom today in polluted waters). Neither is efficient food.
+
+#### Food Pyramid by Tier
+
+**S-Tier (Staples):**
+| Food | FCR | Notes |
+|------|-----|-------|
+| Yeast / SCP | 0.6–0.9 | Doesn't compete with human-edible calories |
+| Black soldier fly larvae | 0.8–1.0 | Indoor, survives everything |
+| Earthworms | 0.9–1.1 | Indoor, survives everything |
+| Microalgae | 0.5–0.8 | Struggles with H₂S/UV but viable |
+| Seaweed (kelp) | 0.4–0.7 | Ocean issues but still grows in some areas |
+| Potatoes | 0.08–0.12 | Heat-tolerant varieties engineered |
+| Cassava / yams | 0.10–0.14 | Tropical staple that survives |
+| Sweet potatoes | 0.12–0.18 | Same |
+| Rice (paddy) | 0.15–0.20 | Where water allows |
+| Wheat | 0.18–0.25 | Limited growing zones now |
+| Maize (corn) | 0.20–0.28 | Weather chaos vulnerability |
+| Legumes | 0.22–0.35 | Essential protein |
+
+**A-Tier (Available):**
+| Food | FCR | Notes |
+|------|-----|-------|
+| Mealworms / grubs | 1.3–1.7 | Indoor protein |
+| Duck (rice-integrated) | 2.2–3.0 | Works with paddy systems |
+| Duck eggs | ~2.5 | Same |
+| Goat milk | 3.5–5.0 | Doesn't need human-edible feed |
+| Buffalo milk | 3.0–4.0 | Same |
+| Goat (meat) | 4–6 | Marginal but available |
+
+**B-Tier (Luxury):**
+| Food | FCR | Notes |
+|------|-----|-------|
+| Squid | 1.2–1.5 | Ocean pockets only, H₂S issues |
+| Low-trophic fish | 1.1–1.5 | Very limited |
+| Chicken (broiler) | 1.6–2.0 | Indoor bred, competes for grain |
+| Eggs (grain-fed) | ~2.2 | Same |
+
+**C-Tier (Rare/Elite):**
+| Food | FCR | Notes |
+|------|-----|-------|
+| Pork | 3–4 | Inefficient, grain competition |
+| Sheep / lamb | 5–8 | Almost never |
+| Beef (industrial) | 6–10 | Essentially extinct as food |
+
+**D-Tier (Desperation):**
+| Food | FCR | Notes |
+|------|-----|-------|
+| Jellyfish | ~1.0 | Survives anoxic oceans, terrible nutrition |
 
 ### Energy
+
+All-electric infrastructure. Each home is dual metered:
+
+| Meter | What It Covers | Cost |
+|-------|----------------|------|
+| **Life Support** | Government-provided, covers 1000 sqft per family | Free (part of UBI) |
+| **Submeter** | Anything beyond life support allocation | Fairly expensive |
+
 - Grid is stable - government runs on it, can't afford blackouts
 - Renewables widespread, nuclear where possible
 - Fossil fuels heavily restricted (accelerates the problem)
-- Energy allocation prioritized: essentials first, then everything else
-- Personal energy use is metered and priced, not hard-rationed
 - You can use as much as you want if you can pay for it
-- Most people can't pay for much
+- Most people can't pay for much beyond the life support allocation
 
 ### Birth Control
 - **1 child:** UBI covers it
