@@ -13,17 +13,21 @@ Agricultural Optimization / Machine Learning Expert
 
 ## Questions to answer
 
-### What does he want?
+#### What does he want?
 
-### Why can't he have it?
+#### Why can't he have it?
 
-### What does he need?
+#### What does he need?
 
-### What does he sacrifice to get it?
+#### What does he sacrifice to get it?
 
-### What doesn't he want people to know about him?
+#### What doesn't he want people to know about him?
 
 ## Personality
+
+#### quirks
+
+people remember quirks first. Anything that bothers him or he always does? Do this for side characters too
 
 ### Motivation
 

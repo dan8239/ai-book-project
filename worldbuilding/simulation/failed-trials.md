@@ -394,3 +394,326 @@ AI amplifies all other risks. A misaligned system managing food distribution can
 | Photosynthesis failure | **No** | **No** |
 
 True extinction requires **long-lived environmental or biological hostility**, not just mass death.
+
+---
+
+## Survival Strategy Alternatives
+
+*What Coffee Guy and Zuck already know: every approach has been tried.*
+
+Of 847M+ trials facing biosphere collapse (the most common extinction pathway), civilizations have pursued various survival strategies. Here's what the data shows:
+
+### Strategy Success Rates
+
+| Strategy | Trials Attempted | Peak Survival Rate | Notes |
+|----------|------------------|-------------------|-------|
+| **Interstellar colonization (Project TWO model)** | 2.1M | **23-27%** | Best performing. See [[colonization-program]] |
+| Bunker networks | 89M | 8-11% | Closed system failure, see below |
+| Highland/altitude retreat | 124M | 6-9% | UV exposure, limited agriculture |
+| Underground civilization | 67M | 4-7% | Ecosystem collapse, psychological |
+| Genetic modification (humans only) | 34M | 3-5% | Food chain still collapses |
+| Genetic modification (full biosphere) | 8M | 10-15% | Best Earth-based, but complexity |
+| Geoengineering (SAI) | 156M | 2-4% | Delays but doesn't solve |
+| Space-based UV shielding | 12M | 1-2% | Construction timeline too long |
+| Fusion-powered life support | 45M | 5-8% | Scale/time constraints |
+| Ride it out (minimal intervention) | 290M | 0.3% | Baseline failure rate |
+| Anti-technology regression | 18M | 0.1% | Accelerates collapse |
+
+**Key insight:** Colonization outperforms all Earth-based strategies by 2-10x.
+
+---
+
+### Bunker Networks (8-11% survival)
+
+**What they tried:**
+- Massive underground shelter construction (Swiss model scaled up)
+- NBC filtration, hydroponic food production
+- Nuclear/geothermal power for centuries of operation
+- Population selection (genetic diversity, skills)
+
+**Why it fails:**
+
+**Capacity problem:**
+- Best case: shelter 50-100 million people
+- Earth population at crisis: 6-10 billion
+- Selection process causes social collapse before shelters complete
+
+**Closed system problem:**
+- Biosphere 2 failed with $200M and 8 people
+- Bunkers attempt 1000x population at 1/100th the space per person
+- O₂/CO₂ balance degrades within decades
+- Hydroponic systems require constant maintenance, spare parts
+
+**Duration problem:**
+- H₂S cascade lasts centuries to millennia
+- No bunker system maintains integrity for 500+ years
+- Mechanical failure, seal degradation, filter exhaustion
+- Psychological breakdown over generations
+
+**Exit problem:**
+- Even if bunkers survive, what do they exit into?
+- Surface remains uninhabitable
+- Can't rebuild biosphere from bunker
+
+**Notable trial #445,892,001:**
+Global bunker network held 80M people. Survived 340 years. Internal warfare over resources began year 200. Last bunker fell year 340 to combined systems failure + civil conflict. 0 survivors.
+
+---
+
+### Highland/Altitude Retreat (6-9% survival)
+
+**What they tried:**
+- Mass migration to high altitude (H₂S is heavier than air)
+- Mountain agriculture, filtered settlements
+- Wait out the worst of the cascade
+
+**Why it fails:**
+
+**Capacity problem:**
+- Livable high-altitude land: ~2% of Earth's surface
+- Can support maybe 200-500 million with intensive agriculture
+- Migration causes conflict, infrastructure collapse
+
+**Agriculture problem:**
+- Growing seasons shorter at altitude
+- Less arable land
+- Supply chains from lowlands severed
+
+**UV problem:**
+- Thinner atmosphere = more UV radiation
+- Ozone collapse makes this worse, not better
+- Eventually forces underground anyway
+
+**Equalization problem:**
+- H₂S concentrations rise everywhere over decades
+- Altitude buys 10-30 years, not centuries
+- Eventually same problem as sea level
+
+**Notable trial #234,567,123:**
+Successful highland retreat. 400M survivors at year 50. UV exposure caused crop failures by year 80. Population crashed to 50M by year 120. Last highland settlement fell year 180 to combined H₂S rise + agricultural collapse.
+
+---
+
+### Underground Civilization (4-7% survival)
+
+**What they tried:**
+- Full underground cities (not just bunkers)
+- Geothermal power, mushroom/algae farming
+- Multi-generational underground society
+
+**Why it fails:**
+
+All bunker problems plus:
+
+**Ecosystem problem:**
+- Need massive underground biosphere
+- Biosphere 2 was above ground with sunlight
+- Underground = 100% artificial light = enormous energy
+
+**Energy problem:**
+- Geothermal can power cities
+- But powering full agriculture + life support for millions = orders of magnitude more
+- Geothermal hotspots not evenly distributed
+
+**Psychological problem:**
+- Multi-generational underground habitation
+- Depression, suicide rates climb each generation
+- Birth rates collapse by generation 3-4
+- Voluntary extinction common
+
+**Notable trial #678,234,901:**
+Underground network for 20M people. Geothermal powered. Survived 450 years - one of the longest. Population declined 8% per generation from psychological factors. Final population: 340,000. Emerged to uninhabitable surface, died within 5 years.
+
+---
+
+### Genetic Modification - Humans Only (3-5% survival)
+
+**What they tried:**
+- Modify humans to tolerate H₂S, UV, low O₂
+- Essentially redesign respiratory system
+- Create "adapted" human subspecies
+
+**Why it fails:**
+
+**Food chain problem:**
+- Modified humans still need to eat
+- Can't modify every species humans depend on
+- Agriculture collapses regardless of human modification
+
+**Timeline problem:**
+- Genetic modification takes generations to spread
+- Natural breeding: 25-30 years per generation
+- Need 5-10 generations for population-wide modification
+- Crisis timeline: 50-100 years = 2-4 generations
+
+**Cascading requirements:**
+- H₂S tolerance requires new hemoglobin variant
+- But also new mitochondrial function
+- But also new neural chemistry
+- Each modification has unintended effects
+
+**Notable trial #890,345,678:**
+Aggressive human genetic modification program. 40% of population modified by year 80. Modified humans survived surface conditions. But food production collapsed. Modified humans starved alongside unmodified. Survival rate: 4.2%.
+
+---
+
+### Genetic Modification - Full Biosphere (10-15% survival)
+
+**The best Earth-based approach. Still fails more than it succeeds.**
+
+**What they tried:**
+- Redesign entire agricultural system for new conditions
+- Modified crops, livestock, soil bacteria
+- Artificial pollinators, engineered ecosystems
+
+**Why it works better:**
+- Solves food chain problem
+- Doesn't depend on natural biosphere
+
+**Why it still usually fails:**
+
+**Complexity problem:**
+- Earth ecosystem: millions of species, trillions of interactions
+- Can't model all interactions
+- Unexpected failures cascade
+
+**Time problem:**
+- Still takes 50-100 years to design, test, deploy
+- Crisis accelerating during development
+- Racing against worsening conditions
+
+**Monoculture risk:**
+- Engineered ecosystems are simplified
+- Less redundancy = more fragile
+- Single pathogen can collapse entire food system
+
+**Coverage problem:**
+- Not everyone adopts at same rate
+- Some regions refuse modification
+- Partial adoption = partial protection = failure
+
+**Notable trial #123,789,456:**
+Full biosphere modification program. 80% of agriculture converted by year 60. Novel fungal pathogen emerged year 95 - all modified wheat variants susceptible. Agricultural collapse year 100-110. Population crashed. Survivors: 12.3%.
+
+**This is the comparison point:** Best Earth-based survival rate is 10-15%. Colonization achieves 23-27%. **Colonization is 2x better than the best alternative.**
+
+---
+
+### Geoengineering - Stratospheric Aerosol Injection (2-4% survival)
+
+**What they tried:**
+- Global sulfur injection program
+- Cool the planet, reduce warming pressure
+- Buy time for other solutions
+
+**Why it fails:**
+
+**Symptom treatment:**
+- Addresses temperature, not H₂S or ozone
+- Underlying cascade continues
+- Just delays the inevitable
+
+**Continuous operation:**
+- Must maintain injections indefinitely
+- Any interruption = rapid rebound
+- Social collapse disrupts program = extinction
+
+**Ozone damage:**
+- Sulfur aerosols damage ozone layer
+- Actually accelerates UV problem
+- Trading one extinction risk for another
+
+**Notable trial #567,890,123:**
+Aggressive SAI program delayed temperature rise by 40 years. H₂S release continued regardless. Ozone damage accelerated. When SAI program collapsed during resource conflicts (year 180), temperature spiked 8°C in 5 years. Extinction year 195.
+
+---
+
+### Fusion-Powered Life Support (5-8% survival)
+
+**What they tried:**
+- Crash fusion development program
+- Power massive indoor agriculture
+- Atmospheric scrubbers, sealed cities
+
+**Why it fails:**
+
+**Timeline problem:**
+See [[../research/doomsday-alternatives/fusion-timeline|Fusion Timeline Research]]
+
+- Fusion development: 15-30 years even with crash program
+- Plant construction: 20-30 years to scale
+- Total deployment: 40-60 years
+- Crisis timeline: already in progress
+
+**The construction paradox:**
+- Building fusion plants requires functioning civilization
+- Functioning civilization requires solving the crisis
+- Can't build your way out while collapsing
+
+**Scale problem:**
+- Even with fusion, need to power:
+  - Indoor agriculture for billions
+  - Atmospheric scrubbing at planetary scale
+  - Water desalination globally
+- Infrastructure construction takes longer than crisis allows
+
+**Notable trial #345,678,901:**
+Aggressive fusion program achieved commercial power year 45. But only 12 plants operational when social collapse began year 60. Couldn't build fast enough. Fusion plants abandoned year 85 as maintenance became impossible. Extinction year 130.
+
+---
+
+### Why Colonization Works When Nothing Else Does
+
+**Scale:**
+- Earth solutions: save billions
+- Colonization: save thousands (genetic payload)
+- Thousands is achievable. Billions is not.
+
+**Time arbitrage:**
+- Earth solutions: must work NOW, at scale, continuously
+- Colonization: ship launch is one-time event. Transit can take centuries.
+- Doesn't matter if Earth fails after launch.
+
+**Clean slate:**
+- Earth solutions: retrofit collapsing system
+- Colonization: build fresh on virgin world
+- Not fighting entropy, building from zero
+
+**Designed ecosystem:**
+- Earth: millions of species, can't modify all
+- Colony: 500-1000 engineered species that work together
+- Manageable complexity
+
+**Redundancy:**
+- One Earth, one chance
+- Multiple colony ships, multiple targets
+- Parallel attempts = aggregate probability
+
+**The math:**
+- Best Earth strategy: 10-15% survival
+- Single colony ship: 15-20% success
+- 10 colony ships to different targets: 85%+ species survival
+- 50 colony ships: 99%+ species survival
+
+**This is why Project TWO exists.** Not because colonization is easy. Because everything else is harder.
+
+---
+
+## What Coffee Guy Knows
+
+The dashboard shows all of this. 847M trials. Every strategy attempted millions of times. The numbers are clear:
+
+- Earth-based solutions top out at 15% survival
+- Colonization achieves 25%+ per ship
+- Parallel colonization attempts multiply probability
+- **The golden path is colonization. Always has been.**
+
+Simulations that put all resources into Earth-based survival: 10-15% at best.
+Simulations that invest early in colonization: 20-30%.
+Simulations that do both intelligently: highest performing category.
+
+[[../characters/coffee-guy|Coffee Guy]] watches the trials that are close to the colonization breakthrough. [[../characters/Glenn "Big Dog" Robinson|Big Dog]] nudges them toward the realization. The moral quandary is always the same:
+
+**Do you save some humans by sacrificing resources that could (probably won't) save all humans?**
+
+Most trials can't make that choice. The 0.04% that survive are the ones that do.
