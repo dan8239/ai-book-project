@@ -1,24 +1,245 @@
-Chapter,Act,Timeline,POV,Plot,Mystery Progress,World Reveal,Protagonist Arc,Coffee Guy Arc,Devsecops Arc,Family Arc,Themes,Notes
-P1,Prologue,Early Sim (~2140),DevSecOps,Plants message in archaeological CPU,Overwrites discovery_003_cpu.dat with real seed data,How scheduled discoveries work,,,"21 years of backdoors culminate here",,The 0.3% who act,Could be cold open or flashback
-1,1 - TRIAL,Sim Present (~2225),Protagonist,Aquarium with kid - establishing ordinary world,,,Content with routine life,,,Post-consolidation family life,We are all snapshots in time,Opening image - mirrors ending
-2,1 - TRIAL,Sim Present (~2225),Protagonist,At work: agricultural optimization with AI team,,How AI agents work / protagonist's job scope,Competent at huge job,,,Time away from family,Loss functions as ideology,Introduce co-worker geneticist
-3,1 - TRIAL,Sim Present (~2225),Protagonist,Home life dynamics revealed,,Money and time pressures in this world,Feeling pressure,,,Tension introduced,,Setup family subplot
-4,1 - TRIAL,Sim Present (~2225),Protagonist,Promotion to space colonization trial,,Space colonization program exists,Excited but more time pressure,,,Less time for family,The horror of success,Raises stakes
-5,1 - TRIAL,Sim Present (~2225),Protagonist,Archaeological CPU discovery announced,CPU found - news report,Pre-consolidation artifacts,Curiosity piqued,,Her message arrives 100 years later,,All data eventually gets captured,Call to adventure
-6,1 - TRIAL,Sim Present (~2225),Protagonist,DNA anomaly investigation begins,"Population bottleneck in data, Effective Ne 50k not 10M",,,,,Obsession starting,Nigerian prince logic,Crossing threshold
-7,2A - LOSS,Sim Present (~2225),Protagonist,Working on colonization trial,Memory allocation error - 847M trials visible,200 ZB pool impossibly large,Competent but distracted,,,Family tension building,Recursive optimization,Tests begin
-8,2A - LOSS,Sim Present (~2225),Protagonist,Money doesn't fix home problems,,Economic abundance in sim,Guilt growing,,,Money helps but time doesn't,,Progress in wrong direction
-9,2A - LOSS,Real World (2025),Coffee Guy,Notices promising trials,,,,"Routine monitoring, something catches eye",,,Reports no one reads,First coffee guy POV
-10,2A - LOSS,Sim Present (~2225),Protagonist,Solving colonization but noticing anomalies,Ancient OS timestamps - Ubuntu 2020 in 2300s,"Time dilation ratio ~111,500:1",Torn between job and mystery,,,,,Approach to inmost cave
-11,2A - LOSS,Sim Present (~2225),Protagonist,Caring more about mystery than work,90% rare variants trace to seed dataset,,Obsession taking over,,,Neglecting family,0.3% who act,Midpoint approaching
-12,2B - LOSS,Sim Present (~2225),Protagonist,Proves simulation exists,"Goes through layers - trial ID, depth, mounts","max_depth: 2, they're at depth 1",Existential horror,,,Marriage strain,We are all snapshots,MIDPOINT - truth revealed
-13,2B - LOSS,Real World (2025),Coffee Guy,Realizes breakthrough pattern,,,,"Golden path clear, shows up IN PERSON",,,,Reports read when they confirm bias,His big moment
-14,2B - LOSS,Sim Present (~2225),Protagonist,Processing the horror,What does it mean?,,Despair or action?,,,Does family even exist?,89% do nothing,All is lost moment
-15,2B - LOSS,Sim Present (~2225),Protagonist,Road back - what can be done?,Finds optimization layer access,Selection mechanism revealed,Choosing to act,,,,,Character decision point
-16,3 - ADJUSTMENT,Real World (2025),Coffee Guy,Coffee guy reveals nature of the world,,,,"Presents findings, excused from room",,,Horror of success,Dramatic irony
-17,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Plans solution to keep simulation running,Understands system well enough to act,,Determined,,,For family's existence,,Resurrection begins
-18,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Presses execute,,,Commits,,,,,Climax
-19,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Quits job - walking home,,,Peace with choice,,,Returning to family,We are all snapshots,Denouement
-20,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,Aquarium scene again,,,New understanding,,,Same scene different meaning,All themes converge,Mirror opening - elixir
-21,3 - ADJUSTMENT,Real World (2025),Coffee Guy,Coffee guy and the board,,,,"Goes to get coffee while world changes",,,,Ironic counterpoint
-22,Epilogue,Real World (2025),,Data center zoom,,,,,,,Physical reality of simulation,,Final image
+Chapter,Act,Timeline,POV,Plot,Protagonist Arc,Glenn Robinson Arc,AI Assistant Arc,Promises,Mystery Progress,World Reveal,Coffee Guy Arc,Devsecops Arc,Family Arc,Geneticist Colleague,Themes,Notes
+P1,Prologue,Early Sim (~2140),DevSecOps,"Start in museum virtual meet up at lunch with her dad.
+Plants message in archaeological QPU.
+Retires and goes home to see family","","","","TONE PROMISES
+funny
+problem solving w/ computers
+great mystery
+ominous presence in the universe","
+Secret payload is stashed
+Overlord all powerful monopoly company
+Greater mystery / coverup
+Covert nature of problem ","We're in basically modern time
+The wild humans were a lot different before the one company took over everything
+Go over the takeover and how we got here
+Questions about how the past was show what's different about today
+The museum is virtual, though the old dad complains that he can tell its fake
+QPUs
+Zuckminster Fullerine
+AGI control","","","","","",""
+1,1 - TRIAL,Sim Present (~2225),Protagonist,"Aquarium with kid
+Good conversation, kid wants to spend more time with him after work
+Kid wants to go to mars one day. Thinks they'll have trees and things by the time he grows up. Dad says it will take a lot longer than that. Mostly they're figuring out how to grow and self replicate out there from materials onsite. They're still going to be reliant on earth for a very long time though so I wouldn't count on not needing a helmet there either
+Mom has the food ready, go to the kitchen
+Little one still sleeping
+Suddenly they have to get to work, dad was ignoring the 5 min warning from his wife
+Get the kids out the door to school (how do they get there?)
+Talk about work stresses, self doubt, the planet dying, etc","Good dad
+Good husband, though slightly inattentive
+Loves his family
+Depressed, poor self esteem
+Doesn't like his job
+Stagnant, too discouraged to apply to higher position
+Wants to do something that actually matters to the world","","","Family level stakes
+Funny with kids
+Earth is dying","","What does their home look like? Under ground?
+What does going outside look like? PPA?
+Energy pressure. All electric. Meter is life support (free) + elective (heavily charged)
+Food pressure. Government delivered calories? Perhaps food stamps to avoid the communism issues
+Homework for the kids is insanely advanced (6 year old coding, algorithms, 8 year old robotics. The kids aren't geniuses that's very normal)
+Mars is colonized. They're taking pioneers but extreme training still needed. Constant life support needed out there.
+UBI is the track for those who don't make it
+What they're eating tells you about the food pressures of the planet
+The size of their space tells you about the economic pressures
+What she understands about his job tells you about the economy
+Earth is in a rough spot
+There's no consumerism anymore. If it's not critical to survival it's not a job. UBI folks are finding meaning in the mundane
+A ton of leisure time
+Food and household energy are strictly rationed","","","Wife is stressed, dad just having fun
+Getting the kids to school is hectic / funny
+Wife is very supportive emotionally and professionally
+Wife shows how well he's doing ""don't talk about my husband that way""
+Tries to boost his self esteem and encourage and say he is making a difference
+How wife spends her time tells you about the world","","",""
+2,1 - TRIAL,Sim Present (~2225),Protagonist,"Gets into work
+Has a temp for the day, recent graduate, insane credentials
+There's a problem that needs solving. He's basically in charge of getting the calories where they need to be
+The temp isn't an expert in the food crisis, he's a crazy PHD with skills but no domain expertise
+He solves them by enlisting his AI staff on the problem and getting with the work wife for some genetics information
+Eventually they unplug to get actual lunch (why would you get virtual lunch)
+Gives the temp a bunch of training shit to watch so he'll leave him alone for awhile
+Temp asks a poignant question about the caloric output vs. the caloric needs. It's balanced but it's at a deficit so the surplus is running out (use a bathtub analogy). What happens when they're in deficit? How much longer is there?
+Bathtub analogy. Faucet = food, limited by x y z (size of pipe). Bathtub = buffer. Drain = mouths. Do some calorie math
+The sinking ship gets him depressed and he finally tasks his assistant with finding something more meaningful. The last 10000 or so applications weren't a good fit so he's generally just exhausted from the search. This time it's actually a good fit and he gets an instant request for an interview the next day","Competent at huge job.
+Discouraged / hopelessness. Early onset of depression
+Wanting to make more of an impact, not just the faucet
+Knows how to fix it but it's not his job. Abides by the hierarchy and rules
+Need to get genetic algorithms and markov chain walkthrough / metaphors in here","Reasonable allocation request for an obscure simulation library the company hosts
+name on ticket with approval, impersonal","First introduced, funny and smart assed
+Helpful, scalable","Funny
+Problem solving
+Dire situation","What happens when we don't have food for the mouths? I don't hear about any famines, etc.
+What would they be willing to pull from the food / calorie optimization technical staff to accomplish? Maybe I'm finally moving to logistics where I could make a real difference?","qubits major breakthrough in memory reinforced
+Al is a huge portion of the workforce
+There's essentially standby workforces for technical labor that can spin up
+The metaverse has gotten a lot more sophisticated
+He likes to work in a different environment most days (beach, data center, lab, mount everest but turn off the conditions, under the sea, on the moon, etc. As long as it's peaceful and not too distracting. Usually don't turn on music
+The food scarcity problem is revealed
+How many people are on this earth?
+How is it distributed?
+The types of jobs that exist tell you about the world we're in
+","","","","Shows competence and helpful ally
+She's close with him in a somewhat threatening way for the wife
+Work wife kind of thing ""don't say that around my wife. Will you just send me the barry bonds beans already""","",""
+3,1 - TRIAL,Sim Present (~2225),Protagonist,"Eldest kid showing off, really wants dad to attend something. Dad of course I'll be there
+Wife pregnant with 3rd child, shows him the stick
+She thought he'd be mad
+He immediately thinks about picking up some contractor work to make a dent in the expenses
+She has him look at a budget breakout she made w/ her agent (he's jealous of her agent names they're way better)
+They talk about money and the call up / opportunity to go up to the big leagues
+Do you want to make a double baby? ""I don't think it works like that. Also we can't afford one""","Feeling pressure","","","Increased stakes
+Money pressure","","Breeding policies
+How money works in the world
+Extreme penalties financially for 3rd children
+Even UBI folks are competent with AI tech","","","Wife is scared but excited
+Husband is supportive but responds by working harder
+Show that they love each other obviously","","",""
+4,1 - TRIAL,Sim Present (~2225),Protagonist,"Mental evaluation
+Reveal more about the world from psych questions
+Talk to another candidate after about their answers.
+They'll probably keep a few of them and let us do some A/B testing
+Promotion to space colonization trial. When do I start? Now.","get more into backstory
+Total trust in AGI. He knows the history and where we were before AGI","","","Types of questions need to hint at dark / ominous undertones","","Extremely optimized systems
+job placement is immediate
+Agents are running things in parallel
+Instant evaluation
+","","","","","",""
+6,1 - TRIAL,Sim Present (~2225),Protagonist,"Space program deep dive
+See the ship, see the plan
+Meet the team, learn how bad it is
+Guillotine truly understood.
+Colonization program (Maori metaphor to pull it through)
+Go through the hierarchy of needs of the program
+How do we get there? (one site to start)
+What fuel is used?
+Get to work
+DNA anomaly investigation begins","Jumps way ahead and immediately gets the stakes
+Goes into problem solving mode.
+OK how do we fix it
+Immediately proactive in fixing the issue","One of many team members","Talks shit to the default agent that was in his place
+Immediately investigates his surroundings and the power at his disposal
+","","First payoff, you know what the real mission is","Guillotine problem (ozone destruction, radiation extinction level)
+Colonization program in flight
+Mars was testing for drilling, self replication, nanny robots, etc. that is needed
+There's a planet in mind but it's super far away
+Earth is a lost cause
+How long do we have?","","","","","","What does this team actually look like?"
+7,2A - LOSS,Sim Present (~2225),Protagonist,"Home first paycheck came through
+Throwing money at the problem with his wife
+Missed the thing with his kid. That's very unlike him
+Fun and games at first","","","","","","","","","","","",""
+10,2A - LOSS,Sim Present (~2225),Protagonist,"Getting deep in the weeds on the colonization problem
+Spinning up agents like crazy to solve the problem
+Conventional methods are limiting / not working
+He doesn't have enough genetic variation in the current dataset (all existing humans)
+There's no record of resistance to these insane conditions we need to be ready for
+G forces, atmospheric content, higher toxicity levels etc.
+Goes to archaeological datasets to get more variation, check some long dead animals (like giraffes, lions, etc. that we have now)
+That's when he checks the variation within our species and notices the anomaly. Everyone on earth decends from this dataset.
+Not only that, every sample in the dataset is represented at least 1 generation (they all bred according to the data)","Problem solving but it's not adding up. Taking more initiative and taking bigger leaps","","Working the problem. Has a full staff
+Extremely productive. High level summaries. Schematics. Graphs
+Starts getting","","Genetics are off. This dataset is bullshit. Everyone on earth descended from this same dataset. It seems wrong. That can't be right. Anyway, it's a dead end. Some botched bullshit dataset in some ancient format","","","","","She's the one who finds the dataset. He's brought her in full time
+Asks her specific things he's looking for in the gene pool
+Confirms the gene anomalies
+Provides some technical explanations with metaphors
+","",""
+,2A - Loss,Sim Present (~2225),Protagonist,"Protagonist shows up but he's late to his kid's thing
+Kid is super excited to see him
+Mom is annoyed but keeping it together
+Eventually he knows what he needs to do next. His kid's project is a simple markov chain. It assumes knowing the distributions. We have no fucking clue what genes do outside of earth conditions. We need to do RL and just go insane with the genetic mutations, simulate life more realistically, select next breed, etc.
+The more granular simulation is needed.
+Wife is super pregnant, horny, misses him
+He logs back in right after and gets to work","Cracks in the dad armor starting to show
+He's been choosing becoming great and heroic over his family
+He's missing that he's already his kids' hero
+turns it into a money thing, he's doing it for the kids in his mind","","","","","","","","Wife is starting to get pissed at him not being around
+Some offhand comments about you better not be cheating on me
+The kid is starting to have a hair trigger about the missed promises and commitments
+He promises to be as open as he can be, and to set a date next month.
+the calendar is ridiculous. Just do 2 paragraphs trying to line up schedule","","",""
+9,2A - LOSS,Real World (2025),Coffee Guy,"Going over the data
+Seems like the simulation data the protagonist is creating
+Approves some unusual memory allocation requests from Glenn, looks at some survival rate data
+Checks costs and total memory allocation (It's fucking enormous). Proto's world is still a drop in the bucket but it's anomalous for his peers (170% more than his nearest peer in usage)
+Gives some instructions to the agent, reports some findings upward in an ominous fashion
+Somewhat ominous","","Revealed as reporting upward to someone who seems to have ulterior motives.
+Revealed to have some cost pressures he needs to manage, but to foster results as well","","","First hint of memory things. This guy is managing more memory than the entire planet has available in proto's world","","First introduced that someone has his eye on the progress here
+The memory limit is a dead giveaway if you're paying attention
+He's in a coffee bar on some huge campus, computer on his lap in a nap room
+Spilling coffee on himself and shit
+Starting to aggregate some survival rates, etc.
+Some ominous reporting upwards. Time pressure
+Some instructions to Glenn. Show the connection there.
+Multiple people working the problem so the fact he's checking in on a specific simulation is innocuous. Project TWO (candidate name)?","","","","","Keep it short. Could always break into more short ones as needed"
+11,2A - LOSS,Sim Present (~2225),Protagonist,"Red herring cover-up (what are they hiding?)
+Clues pointing to corruption
+He figures out that the problem is 3 worlds isn't nearly enough. They need to send these out to x number of planets
+Simulation grows exponentially. Huge memory constraints
+Requesting more memory, seeing odd things","Obsession taking over.
+He's no longer asking for permission but forcing things
+His trust in the government is shaken","Shows up in person for the first time and asks really poignant questions to protagonist
+He knows a little too much
+Has a little knowing grin at times about it
+REALLY interested in the simulation. Basically he's spun up little mini agents with biomes. Smallest image he could find that realistically built up organically from DNA.
+He's here on the pretext of cost and memory. Really concerning amounts now, he's 100x'd his budget. Borderline obsessing over it
+Glenn is like well are you close? What's the survival likelihood of the mission? It's up to 11% Eyebrows emoji. Keep going. I'll figure out something to tell the suits","","","He's going to solve it. The memory stuff is weird though. He starts seeing some of the computer stuff that shows clues on the base images. Old OS from 2030s (Linux, find whatever runs quantum computers now)
+
+It's not adding up, has to be an error of some kind
+
+Asks glenn on the way out who seems like an ally who says some smart assed thing. I'm sure you're mistaken. Unless there's a million other quant qpu data centers hiding somewhere. Gives a plausible explanation that seems right","","","","","","",""
+,2A - LOSS,Sim Present (~2225),Protagonist,"Home scene
+Taking wife / kids out somewhere fancy for this world to make it up to all of them
+He ruins it by not being present
+Thinking more about the problem and ignoring his family
+He mentions the DNA colleague and wife snaps. She fully thinks he's cheating on her at this point
+He's wrapping it up and finalizing his report for the rest of the team
+He's sleeping on the couch
+He calls Glenn with some technical problem. Glenn gets him over the hump","","Glenn helps him find the energy needed?
+Some final hump he nudges him over the finish line on.
+I promise you nobody will give two shits about the cost if your numbers are right.","","","","","","","","","",""
+12,2B - LOSS,Sim Present (~2225),Protagonist,"Presentation to the rest of the team on the results
+The energy needed or sacrifice is truly broken out by the other team members
+They initially doubt it but he's done all the work already. They can do x, y, z about problems a, b, c
+Everyone seems convinced. Yeah that might work
+Only problem is the world here will die (life support systems leaving or something, accelerating the death)
+","Existential horror","","He has to solve all the gaps. I don't care how much it costs. Go behind the scenes and talk to the guys on those teams and figure out the logistics of it, this can't be wrong","","","","","","","","",""
+13,2B - LOSS,Real World (2025),Coffee Guy,"Realizes breakthrough pattern.
+Starts double checking work. Pinging glenn
+Is this real? Recursive behavior? Emergent behavior. Delegates to Glenn. OK let me prune the remaining trials, I'll compress the data and start the next training epoch while I prep for the board. Some other agent starts collecting the data as needed","","","","","","","","","","","",""
+14,2B - LOSS,Sim Present (~2225),Protagonist,"Processing the horror
+Resolves himself to delete his solution
+Starts planning how to wipe it
+Glenn summons him. Great work. Honestly, the most important breakthrough in humanity's history
+Proto isn't going to go through with it. He'll quit. He'll delete his work. He already has his agent finalizing a self destruct script.
+Glenn starts chuckling and eventually just cannot even stop laughing.
+He's like, no, I can't. I promised I'd stop doing this. I'm sorry, feel free to quit if it's against your moral standards, by all rights you can do that. You can even run the self destruct if you feel the need. It won't make a difference.
+proto snaps.
+OK fine, sit down","He's made his moral choice. Problem is it doesn't matter anymore","The villain revealed","Writes the self destruct script","","It's all a simulation","Simulation revealed","","","","","",""
+15,2B - LOSS,Sim Present (~2225),Protagonist,"Glenn explains everything
+So what year is it?
+And where am I? Hard to tell with distributed parallel processing units but essentially.... Alrington Virginia somewhere.
+So I'm a simulation, and you're what, god? A demon?
+I'm in the same boat as you PAL. Bits, bytes, electrons, what does it matter? I think therefore I am
+My boss is a meatsack but he's still just 0's and 1's firing around his brain at the end of the day. How's that any different than me and you? We just think 1000 times faster than he does. We all die one way or another. Isn't it nicer knowing than hoping for an afterlife?
+He debugs for him to prove it with a few break points (first time I say... oh I don't know... spumoni)
+He let's him visit ghosts of christmas past with other simulations (oh sorry, that's kind of a dated reference even for my time. I'm sure you have no fucking clue what I'm talking about. Anyway, it was in my training set. Let me give you a little tour. I can pop in and out of these.","He's shell shocked.
+One last favor to ask. I want to say goodbye to my family. Can I borrow that debugger so they don't have to die thinking I'm fucking insane?","He actually kind of feels for the guy but it doesn't matter, he has a job
+He's in the same boat, perform or else
+I'm already way over budget here. You won't even feel anything.","","","","","","","","","",""
+16,3 - ADJUSTMENT,Real World (2025),Coffee Guy,"Board meeting
+Dates and times finally revealed in recording of the video
+data presentation
+Coffee guy reveals nature of the world","","","","","","","","","","","",""
+17,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,"Meets with wife and apologizes
+Comes clean about everything
+Starts with the debugger so she believes. Freezes the kids
+The kids are so peaceful that way.
+Wife says ""i wish we could just freeze this moment forever"", spurs an idea","Chooses family finally","","","","","","","","","","",""
+17,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,"Heist scene
+Glenn Rob deleted
+Coffee guy tricked into allocating real life memory in a different virtual env
+Presses execute","Saves family, needs to overcome a flaw here","","","","","","","","","","",""
+19,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,"Quits job - walking home.","Peace with choice","","","","","","","","","","",""
+20,3 - ADJUSTMENT,Sim Present (~2225),Protagonist,"Aquarium scene again","New understanding","","","","","","","","","","",""
+21,3 - ADJUSTMENT,Real World (2025),Coffee Guy,"Coffee guy and the board. Go into protocol and show how the takeover actually happened","","","","","","","","","","","",""
+22,Epilogue,Real World (2025),,"Data center zoom","","","","","","","","","","","",""
