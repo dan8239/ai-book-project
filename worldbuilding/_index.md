@@ -27,6 +27,7 @@ Navigation for all worldbuilding reference material.
 - [[simulation/master-parameters|Master Parameters]] - The tunable knobs
 - [[simulation/failed-trials|Failed Trials Archive]] - Graveyard of what didn't work
 - [[simulation/extinction-trajectory|Extinction Trajectory]] - The guillotine, what's public vs classified
+- [[simulation/colonization-program|Colonization Program]] - Escape plan, protagonist's job
 - [[simulation/post-consolidation-society|Post-Consolidation Society]] - Governance, tracking
 - [[simulation/technology|Technology]] - AI agents, DNA systems
 - [[simulation/virtual-meetup|Virtual Meetup Space]] - Metaverse for work/interaction
