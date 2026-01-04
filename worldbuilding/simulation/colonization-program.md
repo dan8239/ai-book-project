@@ -1,14 +1,17 @@
-# Colonization Program
+# Project Te Waka Ora
+
+**Alias:** Project TWO (double meaning - the second try of human civilization)
 
 The space colonization effort. Not expansion - escape.
+
+Named for the Polynesian voyagers who colonized the Pacific islands, carrying portable ecosystems in their canoes - taro, pigs, chickens, dogs. They didn't just move people; they moved entire biospheres.
 
 ## Why Colonization Exists
 
 See [[extinction-trajectory#The Guillotine (Classified Knowledge)|The Guillotine]] for full context.
 
-**The public story:** Humanity expands to the stars, insurance policy for species survival.
-
-**The classified truth:** Earth is a write-off. Ozone collapse is coming. Colonization is the only path where humans survive at all.
+**The public story:** Mars colonization has already happened. It's just a science experiment out there. A few thousand moles living underground scraping microbes off of the tunnel walls. How could they pull from the food chain division for that?
+**The classified truth:** Earth is a write-off. Ozone collapse is coming. Colonization is the only path where humans survive at all. Mars needs insane terraforming. Thousands of years. Not nearly enough time or carrying capacity. It's still dependent on imports from Earth. Mars is dead too.
 
 ## The Program
 
@@ -23,7 +26,7 @@ Mass nursery pods with robotic civilization starter kits sent to viable planets:
 
 - Success rate per colony mission is decent (protagonist optimized it)
 - But species survival requires X target colonies for redundancy
-- To hit 97% species survival, you need parallel attempts
+- To hit six sigma species survival, you need parallel attempts
 - Each mission requires enormous energy/resources
 - **The resource extraction would kill a huge percentage of Earth's remaining population**
 
