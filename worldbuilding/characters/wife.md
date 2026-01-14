@@ -12,6 +12,18 @@ Protagonist's wife. Mother of their children. The thematic heart of the story - 
 - Pregnant with 3rd child (taboo in this society)
 - Beautiful, loving, stressed
 - Signaling she needs help (he's missing it)
+- On-grid (lives within the system like her husband)
+- Has a brother living off-grid in a legacy human settlement
+
+## Why She's On-Grid
+
+Childhood H₂S incident. Devastating illness required medical attention - which meant joining the grid.
+
+## The Brother
+
+Her brother is in a legacy human settlement (off-grid). She loves him.
+
+Her husband secretly diverts energy to support the settlement.
 
 ## What She Wants
 - More of the aquarium scene - real world presence

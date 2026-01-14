@@ -3,13 +3,13 @@
 **Name:** TBD
 **Gender:** Male
 **Age:** TBD
-**Era:** [[../timeline/early-sim-era|Early Sim]] (lived through [[../timeline/consolidation-event|Consolidation]])
+**Era:** [[../timeline/early-sim-era|Early Sim]] (lived through [[../timeline/the-refactor|The Refactor]])
 
 ## Background
-Lived through the consolidation event.
+Lived through [[../timeline/the-refactor|The Refactor]].
 
 ## Memory Style
-Obsessed with consolidation event like WWII dads today. Every dad in this era is obsessed with the consolidation event.
+Obsessed with The Refactor like WWII dads today. Every dad in this era is obsessed with The Refactor.
 
 **Distance from event:** Somewhat too distant to really feel and remember, but you hear stories.
 

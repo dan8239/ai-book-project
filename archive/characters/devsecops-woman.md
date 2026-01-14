@@ -23,7 +23,7 @@ Spent **21 years planting backdoors**, then planted the origin dataset in DNA da
 
 ## Relationships
 - **Relationship to [[protagonist|Protagonist]]:** TBD (may or may not be ancestor - thematic connection matters more)
-- **Father:** [[devsecops-dad|DevSecOps's Father]] - lived through consolidation, obsessed with the event
+- **Father:** [[devsecops-dad|DevSecOps's Father]] - lived through [[../timeline/the-refactor|The Refactor]], obsessed with the event
 
 ## Narrative Role
 

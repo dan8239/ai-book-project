@@ -1,9 +1,7 @@
-# Post-Consolidation Society
+# Post-Refactor Society
 
 ## Governance
-Tech company consolidation already happened. Origin/before-times not clearly recalled.
-
-**Consolidation event name:** TBD (The Alignment? Year Zero? The Transition?)
+[[../timeline/the-refactor|The Refactor]] already happened. Origin/before-times not clearly recalled.
 
 **Key tone:** This is NOT a dystopian post-apocalyptic hellhole. It's a pre-apocalyptic, technologically advanced civilization that is having its usable land and energy/food sources stripped away slowly. Life goes on. The horror is in the trajectory, not the present.
 
@@ -28,10 +26,10 @@ The tech is there. The problem is resource constraints on what it can do.
 ## Core Policies
 - **Mandatory tracking shot at birth**
 - **Optimization/extreme A/B testing** is core policy approach
-- **Extensive DNA collection** on everyone born post-consolidation
+- **Extensive DNA collection** on everyone born post-Refactor
 
 ## Why This Funding Exists
-Post-consolidation government obsessed with biological/species survival R&D:
+Post-Refactor government obsessed with biological/species survival R&D:
 - Nursery pod program needs this research
 - Understanding survival traits
 - Population optimization

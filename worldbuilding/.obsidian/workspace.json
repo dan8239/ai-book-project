@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simulation/colonization-program.md",
+                "file": "characters/Glenn \"Big Dog\" Robinson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "colonization-program"
+              "title": "Glenn \"Big Dog\" Robinson"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "simulation/colonization-program.md",
+                "file": "characters/Glenn \"Big Dog\" Robinson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for colonization-program"
+              "title": "Backlinks for Glenn \"Big Dog\" Robinson"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "simulation/colonization-program.md",
+                "file": "characters/Glenn \"Big Dog\" Robinson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from colonization-program"
+              "title": "Outgoing links from Glenn \"Big Dog\" Robinson"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "simulation/colonization-program.md",
+                "file": "characters/Glenn \"Big Dog\" Robinson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of colonization-program"
+              "title": "Outline of Glenn \"Big Dog\" Robinson"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "212fad327e3140df",
   "lastOpenFiles": [
-    "simulation/colonization",
-    "world/organizations/quant.md",
-    "simulation/colonization-program.md",
+    "world/honeycomb.md",
     "characters/protagonist.md",
-    "food/food_dumbbell.html",
-    "timeline/sim-present.md",
-    "food/food_scatter.html",
-    "food/food_treemap.html",
-    "food/generate_charts.py",
-    "food",
-    "timeline/consolidation-event.md.tmp.80881.1767467667604",
-    "characters/zuckminster-fullerine.md",
-    "timeline/real-world-2025.md",
-    "timeline/early-sim-era.md",
-    "timeline/consolidation-event.md",
-    "characters/c-suite.md",
-    "characters/claude-assistants.md",
-    "characters/co-worker-geneticist.md",
+    "characters/protagonist.md.tmp.80881.1767911378477",
+    "characters/protagonist.md.tmp.80881.1767911359665",
+    "mystery/heist-mechanism.md",
+    "_index.md.tmp.80881.1767900507607",
+    "characters/protagonist.md.tmp.80881.1767900492953",
+    "characters/brother-in-law.md",
+    "characters/eldest-son.md",
+    "characters/devsecops-dad.md",
+    "mystery/clues/scheduled-artifacts.md",
+    "mystery/clues/temporal.md",
+    "mystery/clues/infrastructure.md",
+    "mystery/clues/dna-statistical.md",
+    "mystery/clues/_index.md",
+    "timeline/refactor/museum-scene.md",
+    "timeline/refactor/legacy-humans.md",
+    "timeline/refactor/staging-period.md",
+    "timeline/refactor/nanobots.md",
+    "timeline/refactor/mechanics.md",
+    "timeline/refactor/broadcast.md",
+    "timeline/refactor/_index.md",
+    "mystery/clues",
+    "timeline/refactor",
     "characters/devsecops-woman.md",
-    "characters/temp-trainee.md",
-    "characters/Glenn \"Big Dog\" Robinson.md",
-    "simulation/extinction-trajectory.md",
-    "simulation/virtual-meetup.md",
-    "characters/wife.md",
-    "simulation/master-parameters.md",
-    "reference/glossary.md",
-    "mystery/archaeological-cpu.md",
-    "mystery/devsecops-clues.md",
+    "timeline/the-refactor.md",
     "mystery/protagonist-clues.md",
-    "themes/motifs.md",
-    "themes/red-herrings.md",
-    "themes/style-guide.md",
-    "simulation/master-parameters.md.tmp.1753.1767295569427",
-    "world/organizations",
-    "simulation",
-    "world/master-parameters.md.tmp.1753.1767294191258"
+    "mystery/DNA-Clues.md",
+    "mystery/devsecops-clues.md",
+    "simulation/colonization/colonization-program.md",
+    "simulation/post-refactor-society.md",
+    "characters/claude-assistants.md",
+    "simulation/colonization",
+    "food/food_dumbbell.html",
+    "food/food_scatter.html",
+    "food/food_treemap.html"
   ]
 }

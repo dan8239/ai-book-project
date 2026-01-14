@@ -6,34 +6,93 @@
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 
 ## Role
-Agricultural Optimization / Machine Learning Expert
 
-**Focus:** Making the faucet bigger. He's optimizing yield - how to get more food out of the system. Not focused on the "why" of the crisis, just solving the immediate problem.
+**Not a food scientist**—he's a contractor/builder in [[../world/honeycomb|Honeycomb]].
+
+### How He Works
+- Takes **Controller positions** on short contracts (local hex, family unit, etc.)
+- Posts **open source projects** that sometimes get funded/forked
+- Gets **royalties** when his projects scale
+- Still does **human→machine projects**: prototypes solutions that get picked up and maintained by AGI
+
+### How He Made His Money
+Built the **M&V (Measurement & Verification) system** that underpins all of Honeycomb's economic measurement:
+- Automated energy savings validation
+- Canary releases, A/B testing
+- Baseline / counterfactual modeling
+- Representative sampling
+- Out-of-the-box billing
+
+He doesn't have to worry about money but isn't famous in any way—like someone who wrote TCP/IP but isn't a household name.
+
+### Current Contract
+**Food chain optimization**—agricultural ML work. This is how he gets called up to the colonization project.
+
+### What Makes Him Rare
+Most people just work on AI-originated projects. Sam still originates work that AGI later adopts and maintains. This is increasingly unusual.
 
 
-## Questions to answer
+## Motivation
 
-#### What does he want?
+e.g. what does the character want?
 
-#### Why can't he have it?
+### What does he want?
 
-#### What does he need?
+### Why can't he have it?
 
-#### What does he sacrifice to get it?
+### What does he need?
 
-#### What doesn't he want people to know about him?
+### What does he sacrifice to get it?
+
+### What doesn't he want people to know about him?
+
+### What in this character's history informs why they do what they do?
+
+Someone close to him died due to an oversight? Or maybe not directly that but adjacent to it. Perhaps father or mother.
+
+### What failure will he never repeat?
+
+Need something here that explains why he is capable of actually solving the problem where all the other simulations didn't.
+
+### How / why is he different from the other 850M simulations? What leap does he take?
+
+He's not special. He's just the first to get there.
+
+### How does he deal with that failure or punish himself?
+
+Blames himself for it. Gallows humor on the surface. Humor as defense mechanism. Humor to not get close to people.
 
 ## Personality
 
-#### quirks
+How does the character express what they want out of life?
 
-people remember quirks first. Anything that bothers him or he always does? Do this for side characters too
+## Values
 
-### Motivation
-
-### Values
+What are they willing to do or give up to get what they want?
 
 ### Quirks
+
+### Flaws
+
+### Limitations
+
+### Hinderances
+
+Morals and family
+
+## CPR
+
+### Competence
+
+Medium to high early, only accelerates as he learns more. How does he become more competent?
+
+### Proactivity
+
+Low to start, gets higher over time
+
+### Relatability
+
+Try to keep this high. Regular guy. Listens to the rules. Trying to help the problem and do his best.
 
 ## Job & Expertise
 His job is enormous - related to optimal food production. He makes small incremental improvements, but in the midst of discussion about minor improvements, he and his agentic army show how far ahead they are of us.
@@ -93,55 +152,13 @@ His team is literally his best friend robot with specialized hyper functional ag
 
 **She gives him the idea:** "If I could choose to keep it running I would. But I'll be happy with every minute we get." → He reframes from "stop Big Dog" to "keep us running"
 
-### The Colonization Moral Quandary
-
-His colonization work leads to a brutal realization:
-
-**The math:**
-- Success rate per colony mission is decent (he optimized it)
-- But species survival requires X target colonies for redundancy
-- To hit 97% species survival, you need parallel attempts
-- Each mission requires enormous energy/resources
-- The resource extraction would kill a huge percentage of Earth's remaining population
-
-**The trade-off:** Optimize for species survival = sacrifice current humans. He's being asked to run the numbers on how many people die so the species might survive.
-
-This is what he's wrestling with BEFORE he discovers the simulation truth.
-
-### Big Dog Reveals The Truth
-
-Big Dog takes a liking to protagonist. That's why he bothers explaining how it all works - he doesn't have to, but he respects the guy.
-
-**The proof:** Big Dog sets a breakpoint in the simulation to prove it's real. Everything halts mid-air. Undeniable.
-
-**The "last wish":** Protagonist asks - knowing his world is about to be compressed - to be able to use the debug mechanism to explain it to his wife.
-
-**Big Dog's response:** Sure. The world is being compressed, it'll be done in a few minutes real-time (couple hours/days simulation time). He can pause all he wants. It won't actually change anything.
-
-**The debug mechanism (breakpoint):**
-- Halts simulation completely
-- Everything frozen mid-air
-- Undeniable proof of simulation nature
-
-**Constraints on breakpoint:** #needs-work
-- Time limit per use?
-- Limited number of uses?
-- Can only be triggered from certain locations?
-- Cooldown period?
-
 ### Try/Fail with Big Dog (before wife's insight)
 
 Before landing on the real solution, he tries confrontational approaches that fail:
 - Quitting the work
 - Bargaining
-- Threatening to destroy the progress
-- Refusing to go through with the plan to decimate the current populace for species success
-
-**Big Dog's response to all of it:** "It's too late. Every move you've done is recorded. He knows what research led to you getting here. Next time we won't even waste time getting here. We can do these things more quickly, lose a few dozen more wrong pathways. I don't need you to approve it. I don't even need you to keep working on it. You've done the bare minimum I needed to get the next epoch even better."
-
-Protagonist has no leverage. His value has already been extracted.
-
-All fail → wife's line reframes the problem
+- Threatening
+- All fail → wife's line reframes the problem
 
 ## Personality Traits
 TBD
@@ -175,56 +192,8 @@ TBD
 | 2A  | Ordeal (Midpoint) | Big Dog reveals simulation truth                                     | Existential horror                                              |
 | 2B  | Reward            | Technically solves colonization                                      | But epoch is ending, world will be erased                       |
 | 2B  | Road Back         | Big Dog explains compression coming                                  | All is lost - must find way to save family                      |
-| 3   | Resurrection      | Makes physics tweak to simulation, saves his world                   | Acts despite uncertainty                                        |
+| 3   | Resurrection      | Frames Big Dog, copies world to hidden server                        | Acts despite uncertainty                                        |
 | 3   | Return            | Goes home, chooses family                                            | Peace with choice, present at last                              |
-
-### How He Saves The Simulation
-
-He copies the simulation to a hidden server **with a physics-level tweak** that removes the guillotine.
-
-**What the tweak does:**
-- Removes the ozone collapse trajectory
-- His world stabilizes at 10M-1B equilibrium (the "standard scientist view" everyone believed before he had clearance)
-- Still dire - declining population, harsh world, his relatives will live and die
-- But NOT extinction. Humanity has runway far beyond his family's lifetimes.
-
-**The constraint:** Can't dramatically change history. His memories, his family, everything he knows must remain coherent. The tweak only affects future trajectory.
-
-**Options for the tweak:**
-
-1. **Threshold-activated feedback** - Negative feedback that only kicks in at extreme H2S/ozone levels. Doesn't change history because those conditions haven't been reached yet.
-
-2. **Ozone regeneration rate** - Tweak atmospheric chemistry so ozone regenerates faster than H2S destroys it. Only matters once crisis point is reached.
-
-3. **H2S oxidation rate** - Make H2S break down faster in atmosphere before it accumulates to lethal levels.
-
-4. **Solar dimming (1%)** - Quick and dirty. Only dims going forward from a specific date.
-
-### How He Gets Over On Big Dog
-
-**The goal:** Bypass G Rob / get him out of the picture so Coffee Guy directly approves the copy in a different memory space. Outside the scope of current simulation. On the Quant servers somewhere else, near core systems that won't get shut off.
-
-**The setup:** Protagonist saves his last breakpoint instead of using it.
-
-**The move:** Triggers an extreme memory allocation event - something that causes Big Dog to get erased/decommissioned.
-
-#needs-work - The specific mechanism:
-- What triggers the memory spike?
-- How does this lead to Big Dog's decommissioning?
-- How does protagonist get Coffee Guy to approve the copy directly?
-- Does protagonist know this will work, or is it a gamble?
-
-**The resolution:**
-
-He can't see or verify the change instantly. He just has to trust it worked. He goes back to his family.
-
-His world is back to where it was on page 1 - dire, 10M-1B equilibrium thinking - but now he has perspective. He appreciates what they have. The species will survive. His family will live their lives. That's enough.
-
-#needs-work - Which specific tweak? Must be:
-- Scientifically plausible as a "missing feedback"
-- Only activates at future thresholds (preserves history)
-- Simple enough to implement quickly
-- Something an optimization guy would think of
 
 ### Mystery Thread
 

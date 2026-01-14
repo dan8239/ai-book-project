@@ -28,7 +28,7 @@
 - MLflow-style experiment tracking structure
 
 ### Agent Configuration
-- Build date: 2025-03-15 (before consolidation)
+- Build date: 2025-03-15 (before The Refactor)
 - Mounts: `/host/simulations`, `/host/seed_data`
 - `depth: 1, parent: null, max_depth: 2`
 - There's a host machine running this trial

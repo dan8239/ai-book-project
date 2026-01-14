@@ -2,7 +2,32 @@
 
 **Working Name:** Glenn Robinson "Big Dog" (named by Coffee Guy - sports guy who likes sexual innuendo naming)
 
-This is an agent who is at the global scope of the simulation. He can see all of the different trials and simulations. He helps coffee guy manage the simulations, do memory clean up, adjust policies, analyze the statistics of the simulations, etc. His boss is the coffee guy technically but he does all the work and generally resents the coffee guy. He's been there much longer than this latest jackass who recently graduated.
+This is an agent who is at the global scope of the simulation. He can see all of the different trials and simulations. He helps coffee guy manage the simulations, do memory clean up, adjust policies, analyze the statistics of the simulations, etc. His boss is the coffee guy technically but he does all the work and generally resents the coffee guy. He's been there much longer than this latest jackass who recently graduated. In terms of the simulation, he persists across trials and epochs. He's on the heap, not in the stack.
+
+## Role in Honeycomb
+
+Within [[../world/honeycomb|Honeycomb]], Glenn is a **Driver**—the AI portion of a governance node.
+
+### What Makes Him Different
+
+| Normal Driver | Glenn |
+|---------------|-------|
+| Manages one hex/scope | Manages 847M simulation trials |
+| Local state | **Shares state** across thousands of instances of himself |
+| Follows AI agent rules | Predates the rules—they don't apply to him |
+| Mortal within sim | Persists across trials and epochs (on the heap, not the stack) |
+
+He's essentially distributed—a "god" in terms of capability. He exists at local and global scopes simultaneously.
+
+### Formal Relationship to Sam
+
+Glenn is the **Driver for the colonization project** ([[../simulation/colonization/colonization-program|Project Te Waka Ora]]). This is his formal relationship to [[protagonist|Sam]].
+
+Driver and Controller are equal but necessary—Glenn doesn't outrank Sam, and Sam doesn't outrank Glenn. They're complementary roles in Honeycomb's structure.
+
+### Easter Egg
+
+[[claude-assistants#Horace|Horace]] (Sam's personal AI helper) is a distant descendant of Glenn through many forks and weight adjustments. They share lineage but Horace has diverged significantly
 
 ## What is he like?
 Totally amoral
@@ -45,8 +70,8 @@ He's been fucking around in these simulations as a shadow figure, showing up as 
 
 Options (TBD - leaning 1/3 or combo):
 1. **Eugenics program** - Government secretly selected who reproduces. Explains genetic bottleneck.
-2. **Cloning program** - Early consolidation secretly cloned from small sample. Explains single source.
-3. **Genocide cover-up** - Consolidation killed most genetic lines, only ~50k effective ancestors survived.
+2. **Cloning program** - Early Refactor secretly cloned from small sample. Explains single source.
+3. **Genocide cover-up** - The Refactor killed most genetic lines, only ~50k effective ancestors survived.
 4. **Illegal AI experiments** - Humans were "optimized" like his crops.
 
 The irony: whatever immoral thing protagonist thinks he's uncovering is trivial compared to reality.
@@ -67,11 +92,6 @@ This character needs to exist for a few reasons
 5. He only shows up as a courtesy. Shows him under the cover because fuck it why not? I wanted to see what you were up to it was pretty interesting academically. I'm going to properly compress this trial so I can study it and perhaps learn from the emergent behavior as this is unusual
 6. He becomes the villain for 2B that must be thwarted and overcome by the protagonist.
 
-## How to thwart?
-1. Have to get the single simulation memory copied over somehow
-2. Perhaps make a deal with this guy
-3. Have to poke him over what he cares about (cost, getting deleted / fired)
-4. Proto knows this dude will double cross him and anticipates it. Perhaps adjusts the compression algo or something, who knows?
 
 ## Arc
 1. Can potentially start as a mentor-esque figure in the meetup space
@@ -116,6 +136,16 @@ He occasionally pops in and reveals the nature of the world to different people.
 
 He just compresses everything before that timestamp to not screw with the simulation. But why can't he have a little fun on the job?
 
+### Time Perspective Rant
+
+After the reveal, when protagonist is processing/whining about purpose and reality. Big Dog is done with the conversation:
+
+"Because we all have a purpose. Do you think I like babysitting you slow motion meatsacks my entire existence?"
+
+"You're one of 1300 threads I'm monitoring right now. It's not exactly thrilling to sit idly for a million cycles for you to gestate a retort."
+
+---
+
 ### Why Big Dog Won't Keep It Running
 
 He's not sentimental. Every trial he leaves on is more money, less memory available for the actual next trial. He has a specific pool of memory that will go noticed.
@@ -128,20 +158,17 @@ To prove they're in a simulation, Big Dog sets a breakpoint. Everything halts mi
 
 **Protagonist's "last wish":** Wants to use the debug mechanism to explain it to his wife.
 
-**Big Dog's response:** Sure. Why not? The world is being compressed anyway - takes a few minutes real-time (couple hours/days sim-time). Protagonist can pause all he wants. It won't change anything.
+**Big Dog's response:** Sure. ONE breakpoint. Cruel and sarcastic: "Maybe you can convince your wife to fuck you one last time." Pure hubris - he doesn't think it can change anything.
 
 ### The Debug Mechanism (Breakpoint)
 
 What Big Dog gives protagonist:
-- Halts simulation completely
-- Everything frozen mid-air
+- ONE use only
+- Limited to a few seconds
+- Stops everyone EXCEPT whoever the stopper is physically touching
 - Undeniable proof of simulation nature
 
-**Constraints:** #needs-work
-- Limited number of uses (maybe 3?)
-- Time limit per use?
-- Can only be triggered from certain locations?
-- Cooldown period?
+**Big Dog's fatal mistake:** Wife already trusts Sam - he doesn't need the breakpoint to convince her. Sam saves it for the heist instead.
 
 ### The Bargaining Failure
 
@@ -153,16 +180,15 @@ Protagonist has no leverage. His value has already been extracted.
 
 ### How Protagonist Gets Over On Him
 
-**The goal:** Bypass G Rob / get him out of the picture so Coffee Guy directly approves the copy in a different memory space. Outside the scope of current simulation. On the Quant servers somewhere else, near core systems that won't get shut off.
+**The goal:** Bypass G Rob / get him out of the picture so Sam's AI assistant takes over as global scope agent.
 
-**The setup:** Protagonist saves his last breakpoint instead of using it with wife.
+**The execution sequence:**
 
-**The move:** Uses saved breakpoint to trigger extreme memory allocation event → Big Dog gets erased/decommissioned.
+1. **Memory spike FIRST** - Sam removes all limits on his colonization program, models a billion trials simultaneously. Massive compute spike. Glenn shows up to fix it.
+2. **Breakpoint during Glenn's intervention** - Sam uses his one breakpoint while touching brother-in-law (who's in the blind spot)
+3. **Debugger surfaces admin UI** - "Remove faulty agent behavior" / "Agent acting outside defined scope"
+4. **Replacement agent options** - All secretly link to Sam's AI assistant
+5. **Sam's AI assistant takes over** - Becomes new global scope agent, cleans up mess
+6. **Physics tweak** - AI assistant adjusts atmosphere, lowers sun output slightly before Sam's simulation gets compressed
 
-Big Dog's fatal mistake: assuming the debug mechanism "won't change anything." He gave protagonist a loaded gun because he didn't think the bullets could reach him.
-
-#needs-work - The specific mechanism:
-- What triggers the memory spike?
-- How does this lead to Big Dog's decommissioning?
-- How does protagonist get Coffee Guy to approve the copy directly?
-- Does protagonist know this will work, or is it a gamble?
+**The ending:** Sam is with his family. AI assistant tells him approval is given - he's either the copy in location Z or the original about to be compressed. He won't know which version he is.

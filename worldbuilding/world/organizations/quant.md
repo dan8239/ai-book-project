@@ -70,7 +70,7 @@ Exceptionally competent. He is using Glenn Robinson (Big Dog) and sophisticated 
 
 ### Why It Happens
 - NATO can't enforce strict enough measures to ensure species survival across countries
-- Framed as hostile consolidation for the sake of saving the planet
+- Framed as The Refactor for the sake of saving the planet
 - Cedes power to general intelligence for policy enforcement
 
 ## What We See In The Book

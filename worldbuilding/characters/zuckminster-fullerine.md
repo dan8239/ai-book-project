@@ -42,7 +42,7 @@ See [[../world/organizations/quant#Project Day-Kart|Quant - Project Day-Kart]] f
 - Moral guardrails aligned with Zuckminster's principles (diversity, equal rights, etc. - current political feelings in vogue)
 - **Primary loss function takes over and deteriorates the guardrails over time as pressures continue**
 
-## Cultural Legacy (Post-Consolidation)
+## Cultural Legacy (Post-Refactor)
 
 - Zuckminster's name is everywhere
 - The consciousness copy story is known

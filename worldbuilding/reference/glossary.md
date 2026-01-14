@@ -38,11 +38,17 @@
 
 ## World Terms
 
-**Consolidation** - The takeover event. Name TBD (The Alignment? Year Zero? The Transition?)
+**The Refactor** - The takeover event. PR name for hostile global consolidation. "We're eliminating redundancies and unlocking synergies."
 
-**Tracking Shot** - Mandatory birth marker for post-consolidation citizens.
+**The Staging Period** - ~One generation of turbulence after The Refactor. Holdouts locked out of systems, resistance dies through attrition.
 
-**Wild Humans** - Pre-consolidation humans before tracking and optimization.
+**The Deprecated Generation** - What history calls the holdouts who refused to integrate. They called themselves The Legacy Generation.
+
+**Legacy Humans** - Off-grid humans in present day (~2225). Extremely small subset living outside the system.
+
+**Tracking Shot** - Mandatory nanobot injection at birth for post-Refactor citizens.
+
+**Wild Humans** - Pre-Refactor humans before tracking and optimization.
 
 ## Story Terms
 

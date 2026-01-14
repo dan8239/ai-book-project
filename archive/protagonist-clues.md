@@ -39,7 +39,7 @@
 
 **Reveals:**
 - 90% of rare variants trace to seed dataset
-- Variant age clusters at consolidation date
+- Variant age clusters at Refactor date
 - Missing 99% of expected rare variation
 - Effective Ne: 50,000 (not 10 million claimed)
 - Population was bootstrapped from subsample

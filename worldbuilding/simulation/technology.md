@@ -36,7 +36,7 @@ The agents are becoming essentially simulated humans:
 6. The virtual arena is how we engage with the 
 
 ## DNA Systems
-- Extensive DNA collection on everyone born post-consolidation
+- Extensive DNA collection on everyone born post-Refactor
 - GWAS (genome-wide association studies)
 - Population genetics modeling
 - Statistical inference from DNA

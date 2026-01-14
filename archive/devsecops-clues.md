@@ -25,7 +25,7 @@
 **When:** Examines host_agent configuration
 
 **Reveals:**
-- Build date: 2025-03-15 (before consolidation)
+- Build date: 2025-03-15 (before The Refactor)
 - Mounts: `/host/simulations`, `/host/seed_data`
 - `trial_id: 847234762`
 - `depth: 1, parent: null, max_depth: 2`

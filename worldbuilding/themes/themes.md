@@ -17,6 +17,27 @@ Protagonist's world is prosperous, happy, going to the stars. But it required mo
 - Bodily autonomy violations
 - Democratic consent removed
 
+### The Post-Human Solution
+
+The colonization program "succeeds" - but what survives?
+
+- Government policy: "Humans and their descendants survive"
+- Protagonist's solution: Scale + flexibility. Warp biology to fit planets, not planets to fit biology.
+- What lands on other worlds: Flora, fauna, humans - but morphed beyond recognition to survive target conditions
+- Descended from us. Selected from our ecosystem. But hardly "us."
+
+**The question:** Is humanity "saved" if what survives isn't recognizably human?
+
+It technically counts. The morality is murky. Protagonist solves the problem given the constraints - but what has he created?
+
+## Metaphors
+
+**Primary:** Polynesian waka (colony starter boat) - Project TWO as the canoe carrying seeds to new islands.
+
+**Secondary:** Spaceship Earth - the planet as a vessel. (Less central, may find room for it.)
+
+---
+
 ## The Reports Read Only When They Justify What You Already Want
 [[../characters/coffee-guy|Coffee guy's]] reports were ignored for 2,762,639 trials until this one provides the 'golden path'. Decision-makers approve immediately - but the solution is a tech company takeover protocol giving them absolute power.
 

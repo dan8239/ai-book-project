@@ -180,9 +180,9 @@ Across all trials, the 0.04% that reach stability share characteristics:
 4. **Redundancy** - Not dependent on single point of failure
 5. **Long-term investment** - Infrastructure horizon >100 years
 
-The uncomfortable finding: **all successful trials involve consolidation event** - some form of global coordination mechanism that removes local veto power on existential decisions.
+The uncomfortable finding: **all successful trials involve a Refactor event** - some form of global coordination mechanism that removes local veto power on existential decisions.
 
-See [[../mystery/archaeological-cpu|The Archaeological CPU]] for how this finding is discovered.
+See [[DNA-Clues|The Archaeological CPU]] for how this finding is discovered.
 
 ---
 
@@ -415,7 +415,7 @@ Of 847M+ trials facing biosphere collapse (the most common extinction pathway), 
 | Genetic modification (full biosphere) | 8M | 10-15% | Best Earth-based, but complexity |
 | Geoengineering (SAI) | 156M | 2-4% | Delays but doesn't solve |
 | Space-based UV shielding | 12M | 1-2% | Construction timeline too long |
-| Fusion-powered life support | 45M | 5-8% | Scale/time constraints |
+| Geothermal-powered life support | 45M | 5-8% | Scale/time constraints |
 | Ride it out (minimal intervention) | 290M | 0.3% | Baseline failure rate |
 | Anti-technology regression | 18M | 0.1% | Accelerates collapse |
 
@@ -628,37 +628,48 @@ Aggressive SAI program delayed temperature rise by 40 years. H₂S release conti
 
 ---
 
-### Fusion-Powered Life Support (5-8% survival)
+### Geothermal-Powered Life Support (5-8% survival)
 
 **What they tried:**
-- Crash fusion development program
-- Power massive indoor agriculture
+- Supercritical geothermal development (drill to magma-adjacent rock, inject water, extract superheated steam)
+- Power massive indoor agriculture with unlimited clean energy
 - Atmospheric scrubbers, sealed cities
+- Self-replicating robots to build infrastructure
 
 **Why it fails:**
 
-**Timeline problem:**
-See [[../research/doomsday-alternatives/fusion-timeline|Fusion Timeline Research]]
+**The technology works.** Supercritical geothermal provides effectively unlimited energy - no fuel, no emissions, millennia of operation. This is real.
 
-- Fusion development: 15-30 years even with crash program
-- Plant construction: 20-30 years to scale
-- Total deployment: 40-60 years
+**The problem is deployment:**
+
+**Infrastructure timeline:**
+- Supercritical drilling: requires specialized equipment, materials, expertise
+- Each plant needs: drill rigs, turbines, transmission lines, maintenance systems
+- Self-replicating robots need: raw materials, fabrication facilities, rare earth elements
+- Total deployment time: 40-60 years to power civilization at scale
 - Crisis timeline: already in progress
 
 **The construction paradox:**
-- Building fusion plants requires functioning civilization
-- Functioning civilization requires solving the crisis
+- Building geothermal infrastructure requires functioning civilization
+- Self-replicating robots need raw material supply chains
+- Supply chains break down as crisis worsens
 - Can't build your way out while collapsing
 
 **Scale problem:**
-- Even with fusion, need to power:
+- Even with unlimited energy, need to power:
   - Indoor agriculture for billions
   - Atmospheric scrubbing at planetary scale
   - Water desalination globally
 - Infrastructure construction takes longer than crisis allows
 
+**Raw materials problem:**
+- Self-replicating robots need: steel, copper, rare earth elements, silicon, lithium
+- Mining and refining require existing infrastructure
+- As biosphere collapses, mining becomes harder (workers die, supply chains break)
+- Robots can't replicate without feedstock
+
 **Notable trial #345,678,901:**
-Aggressive fusion program achieved commercial power year 45. But only 12 plants operational when social collapse began year 60. Couldn't build fast enough. Fusion plants abandoned year 85 as maintenance became impossible. Extinction year 130.
+Aggressive geothermal program achieved 200 GW capacity by year 45. But only 8% of needed infrastructure built when social collapse began year 60. Self-replicating robot program stalled year 55 - couldn't get rare earth supply. Plants abandoned year 85 as maintenance workers died in euxinic events. Extinction year 130.
 
 ---
 

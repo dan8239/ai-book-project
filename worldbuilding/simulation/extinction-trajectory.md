@@ -112,7 +112,7 @@ H₂S venting from anoxic oceans. Currently in Phase 3:
 - "Sulfide storms" can carry H₂S 50-100km from coast
 - Bodies found in valleys, basements (H₂S pools in low areas)
 
-See [[post-consolidation-society#The Anoxia Threat|Anoxia Threat]] for details.
+See [[post-refactor-society#The Anoxia Threat|Anoxia Threat]] for details.
 
 ---
 

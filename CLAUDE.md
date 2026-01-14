@@ -50,19 +50,23 @@ ai-book-project/
 | `worldbuilding/characters/wife.md` | Wife arc (flat arc, thematic heart) |
 | `outline/outline.csv` | Chapter-by-chapter breakdown |
 
-## Story Summary
+## Logging
 
-A simulation optimization expert discovers his world is one of 847 million trials. His journey from "saving the planet" to "being present with family" mirrors the discovery that the only thing he can actually save is his family - by copying their simulation to a hidden server before the epoch ends.
+All interactions are logged to `logs/interactions.db` (SQLite).
 
-### Main Characters
-- **Protagonist** - ML expert, arc from saving-world to saving-family
-- **Wife** - Flat arc, embodies "this is the only trial we get"
-- **Big Dog** - Global scope agent, functional villain
-- **DevSecOps Woman** - Ancestor who planted the seed data 100 years ago
-- **Coffee Guy** - Real world, ironic flat arc
+### Scripts
+- `scripts/log-interaction.sh "prompt" "response"` — log a single interaction
+- `scripts/session-commit.sh "summary"` — commit all changes with interaction count
 
-### Key Themes
-- The 0.3% who act
-- Loss functions as ideology
-- We are all snapshots in time
-- Presence over achievement
+### Workflow
+1. At end of each substantive interaction, log it
+2. At end of session, run `./scripts/session-commit.sh "Session summary"`
+
+### Querying logs
+```bash
+# View today's interactions
+sqlite3 logs/interactions.db "SELECT * FROM interactions WHERE session_date = date('now');"
+
+# Count by day
+sqlite3 logs/interactions.db "SELECT session_date, COUNT(*) FROM interactions GROUP BY session_date;"
+```

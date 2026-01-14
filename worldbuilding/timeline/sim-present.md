@@ -11,10 +11,10 @@
 Idaho desert area, arid climate, resource constraints visible.
 
 ## Society
-- Tech company consolidation long in the past (origin/before-times not clearly recalled)
+- [[the-refactor|The Refactor]] long in the past (origin/before-times not clearly recalled)
 - Mandatory tracking shot at birth
 - Optimization/extreme A/B testing is core policy
-- Extensive DNA collection on everyone born post-consolidation
+- Extensive DNA collection on everyone born post-Refactor
 
 ## Key Events
 
