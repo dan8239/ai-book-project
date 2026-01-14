@@ -41,6 +41,7 @@ Navigation hub for worldbuilding and manuscript.
 
 ## Simulation (Protagonist's World)
 - [[worldbuilding/world/honeycomb|Honeycomb]] - Global governance, H3 hex grid, Driver/Controller system
+- [[worldbuilding/world/memory-map|Memory Map]] - Family history dashboard device
 - [[worldbuilding/simulation/simulation-architecture|Simulation Architecture]] - 847M trials, structure
 - [[worldbuilding/simulation/optimization-mechanics|Optimization Mechanics]] - Loss functions, selection
 - [[worldbuilding/simulation/master-parameters|Master Parameters]] - The tunable knobs

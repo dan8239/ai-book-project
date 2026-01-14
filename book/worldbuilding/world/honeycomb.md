@@ -73,6 +73,18 @@ The job market is a centralized matching service:
 2. **Project work**: Requested by Drivers, humans apply and execute
 3. **Open source**: Publish your own projects, get funded/forked if useful
 
+### Energy as Currency
+
+Everything is charged by energy use footprint. All data usage — phone texts, asking a question on your phone — your energy use footprint is basically how much money gets spent. Burgers are just literally converted to some rough order of magnitude CO2 equivalency. That's the unit of getting charged for things.
+
+Everything you do just gets charged, like token usage, because you use your phone, there's some device in the cloud that is literally running to serve this. So you get charged your energy use.
+
+### Access Tiers
+
+The base human level survival kind of usage covers day-to-day stuff that's normal. The fact that someone works gives them a feedback mechanism of more access to more advanced ML. It's just a feedback reinforcement loop that's slowly separating the species from post-human and regular human.
+
+This is why Sam has access to the things he does — his work generates enough value to afford advanced AI tooling that regular humans don't get.
+
 ## Sam's Relationship to Honeycomb
 
 [[../characters/protagonist|Sam]] is unusual in this world:
