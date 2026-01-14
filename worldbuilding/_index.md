@@ -57,5 +57,15 @@ Navigation for all worldbuilding reference material.
 - [[themes/red-herrings|Red Herrings]] - Misdirections and false leads
 - [[themes/style-guide|Style Guide]] - POV, tone, structural devices
 
+## Manuscript
+- [[manuscript/01.01.devsecops/chapter|01.01 DevSecOps]]
+- [[manuscript/01.02.the_aquarium/chapter|01.02 The Aquarium]]
+- [[manuscript/01.03.work/chapter|01.03 Work]]
+- [[manuscript/01.04.new_job/chapter|01.04 New Job]]
+- [[manuscript/01.06.birthday/chapter|01.06 Birthday]]
+- [[manuscript/03.07.the_button/chapter|03.07 The Button]]
+- [[manuscript/03.08.coffee_guy/chapter|03.08 Coffee Guy]]
+- [[manuscript/03.09.the_aquarium_pt_ii/chapter|03.09 The Aquarium Pt II]]
+
 ## Reference
 - [[reference/glossary|Glossary]] - Terms and jargon

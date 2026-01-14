@@ -4,17 +4,17 @@
 
 ```
 ai-book-project/
-├── worldbuilding/          # Obsidian vault - reference material
+├── worldbuilding/          # Obsidian vault - everything lives here
 │   ├── characters/         # Character files with arcs
 │   ├── timeline/           # Era definitions
 │   ├── simulation/         # Sim world details
 │   ├── mystery/            # Clue paths
 │   ├── themes/             # Themes, motifs, style guide
+│   ├── manuscript/         # Chapter files (planning + prose)
+│   │   └── [act.chapter.name]/
+│   │       ├── chapter.md  # Scene breakdowns → prose
+│   │       └── notes.json  # Chapter metadata
 │   └── _index.md           # Navigation hub
-├── manuscript/             # Chapter files (planning + prose)
-│   └── [act.chapter.name]/ # Each chapter folder
-│       ├── chapter.md      # Scene breakdowns, then prose
-│       └── notes.json      # Chapter metadata
 ├── outline/                # Structure tracking
 │   └── outline.csv         # Synced with Google Sheet
 ├── scripts/
@@ -36,10 +36,11 @@ ai-book-project/
 - Sync FROM sheet: Run `./scripts/sync-outline.sh`
 - CSV is version controlled, Sheet is for editing
 
-### Manuscript (Markdown → Export)
-- Write prose in `manuscript/` as markdown
+### Manuscript (in Obsidian)
+- Write prose in `worldbuilding/manuscript/` as markdown
+- Work directly in Obsidian alongside worldbuilding notes
+- Wiki-link to characters, locations, etc. from prose
 - Export to Google Docs when needing beta readers/track changes
-- Keep planning/structure version controlled here
 
 ## Key Files
 
