@@ -85,6 +85,38 @@ The base human level survival kind of usage covers day-to-day stuff that's norma
 
 This is why Sam has access to the things he does — his work generates enough value to afford advanced AI tooling that regular humans don't get.
 
+### What's Covered vs. Luxury
+
+**Existence bill (covered by UBI):**
+- Life support
+- Food
+- Healthcare
+- Education
+
+**Luxury (pay-per-use):**
+- You drive a car, you pay for the kilowatt hours to charge the batteries
+- You use a building, the time you're in there, the energy use of that building is split amongst all occupants
+- Using the internet — when I say internet, I mean the clouds. When you're in the clouds, simulating — that's a luxury. That's an expensive compute situation that your life support budget doesn't support. You're not on there unless you're working, basically.
+
+### Inheritance
+
+Stuff is non-transferable for adults. The inheritance tax here is basically almost a use it or lose it. There's no passing down to your kids kind of deal.
+
+You almost donate your energy reserves to a cause you're interested in. You're financing a charity of your choice, essentially, when you pass on.
+
+There's ways to funnel that to your kids in a way, but ultimately, if the kids are not working, not a Controller on a project, they're not getting energy credits.
+
+### M&V Details
+
+How it actually works:
+- Real time usage tracking
+- Workers get real time savings
+- It's always: baseline → performance → savings
+- For things before and after implementation
+- A/B tested, phased rollout across populations
+
+This is how Sam actually makes money — not the food stuff. The M&V system. Food is just a line item in your costs.
+
 ## Sam's Relationship to Honeycomb
 
 [[../characters/protagonist|Sam]] is unusual in this world:

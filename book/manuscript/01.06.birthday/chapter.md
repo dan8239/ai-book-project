@@ -43,6 +43,16 @@ Burgers are just literally converted to some rough order of magnitude CO2 equiva
 
 The base human level survival kind of usage covers day-to-day stuff that's normal. The fact that Sam works gives him this feedback mechanism of more access to more advanced ML. It's just a feedback reinforcement loop that's slowly separating the species from post-human and regular human. That's why he has access to these things as well.
 
+## Scene Ideas
+
+### Newborns as Reinforcement Learning
+
+A conversation Sam has with Ramona about the baby. Thematic observation:
+
+Newborns are pure reinforcement learning. Random search. Feedback loop. When the baby comes it's about how they train the adults. Try random stuff and optimize for the baby not crying. It's a perfect loss function.
+
+---
+
 ## Scene 1
 
 TBD

@@ -1,8 +1,8 @@
 # Protagonist
 
-**Name:** TBD
-**Gender:** TBD
-**Age:** TBD
+**Name:** Sam
+**Gender:** Male
+**Age:** 34
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 
 ## Role
@@ -28,21 +28,34 @@ He doesn't have to worry about money but isn't famous in any way—like someone 
 ### Current Contract
 **Food chain optimization**—agricultural ML work. This is how he gets called up to the colonization project.
 
+Originally a 6-month contract that's been extended at-will. He's not used to such a long commitment. He's been on it for way too long and he's basically fulfilled it. He's now an at-will employee for this system.
+
+The temp in 01.03.work is who he's bringing on to replace him.
+
 ### What Makes Him Rare
 Most people just work on AI-originated projects. Sam still originates work that AGI later adopts and maintains. This is increasingly unusual.
 
 
 ## Motivation
 
-e.g. what does the character want?
-
 ### What does he want?
+
+He wants to be somebody that matters. He wants to do a big thing that will save his name in time and leave a legacy. That's why he keeps doing stuff even though he doesn't need to.
 
 ### Why can't he have it?
 
+The world is ending and nothing he does will matter. The simulation will be compressed.
+
 ### What does he need?
 
+To realize presence with his family IS enough. Legacy doesn't matter.
+
 ### What does he sacrifice to get it?
+
+- His wealth independence (gives 99%+ of his energy credits to the underground folks to get their help)
+- His job and contract with the colonization project (quits)
+- Back to ground zero — on basic income, back to square one
+- But he's happier than at the beginning when he had seemingly everything
 
 ### What doesn't he want people to know about him?
 
@@ -135,9 +148,19 @@ His team is literally his best friend robot with specialized hyper functional ag
 2. **Call up:** Gets promoted to colonization/re-seed program - learns true dire state of Earth
 3. **Mystery begins:** Needs genetic diversity for colony, finds weird dataset in 23andMe-type DB (planted by DevSecOps woman)
 
+## Career Mindset (Early Story)
+
+Sam is kind of bored, but not existentially bored. He's had enough. His contract is fulfilled. He doesn't really need money.
+
+He's mostly thinking about taking some time. He's like, "I don't need to work. I've got enough credits left. We could live for the rest of my life without it." He doesn't need to do any of this stuff. He's just doing it to find purpose.
+
+Early in the book he's talking with [[wife|Ramona]] about maybe it's time to retire. He's already 34. He's not getting any younger.
+
+This shows how the typical career is much shorter. Nobody's grinding for 50 years anymore for work because most people don't have to work at all. You're working for extra credits. Your energy already takes care of life support, food, healthcare, education — all that is covered. All that is part of your existence bill. The only thing extra to that is what you electively use.
+
 ## Relationships
 - **Relationship to [[devsecops-woman|DevSecOps Woman]]:** TBD (thematic parallel matters more than genealogy)
-- **Wife:** [[wife|Wife]] - pregnant with 3rd child
+- **Wife:** [[wife|Ramona]] - pregnant with 3rd child
 - **Children:** 2 kids + 1 on the way (3rd is taboo/penalized in this society)
 
 ### Wife Relationship Arc

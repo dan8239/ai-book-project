@@ -104,6 +104,53 @@ Becomes the new global scope agent. Generates a routine-looking cleanup task lis
 
 ---
 
+## How Sam Gets Legacy Humans to Participate
+
+### Why They Don't Believe Him
+
+First, they don't believe him. They just think he's crazy. "I'm not going to do this, you're insane."
+
+### The Bribe
+
+Sam has been siphoning energy to them for years. He's got about half a percent of his energy income going to them. He figured out a way to make interest on energy almost — he's load shifting.
+
+**The gravity battery:** He's invested in a mechanical energy storage system — a weighted elevator shaft, like an old mine shaft that is gravity battery storage power. It's net positive energy use. He's basically an investor in that.
+
+The underground folks have extended this system so much they can essentially launder energy off of it. Sam is just pumping money into it to float them and get them extra things.
+
+**What Sam smuggles:**
+- Energy credits (through the gravity battery system)
+- Food (when he's working on food optimization, he can lose a pallet or two)
+- Rare metals and supplies (when working on supply chain optimization)
+
+He does this because it's family, but there's a limit to what he can do. They want more, and he won't give them because he's already exposed.
+
+### The Final Deal
+
+At the end, it's: "Screw it. You get everything. Whatever I'm getting, all this stuff, you get all of it. I'm in your pocket. You get it. I'll give you 100% of what I have, and all royalties going in. If I get something new, we're done." Or maybe he even owes 50% on all new endeavors. But for now, they get everything.
+
+**What Sam gives up:**
+- 99%+ of his energy credits
+- All current royalties
+- Possibly future royalties on new endeavors
+
+**What Sam gets:**
+- Their help with the heist
+- He's back to basic income, back to square one
+- But he's with his family
+
+---
+
+## The Gravity Battery (Worldbuilding Tech)
+
+A mechanical energy storage system. Weighted elevator shaft in an old mine shaft. Gravity battery storage power.
+
+This technology might be used more broadly by underground folks — it fits their culture to just essentially be able to store and manage grid capacity with a single storage mechanism.
+
+**How they get power:** Have to figure out how they're getting power. If they're also using nuclear, there's no need for gravity storage. The only reason they'd need it is if they're siphoning wind and solar. Maybe they're getting solar and wind power off of Sam somehow smuggling them this power.
+
+---
+
 ## Open Questions
 
 1. **Specific known vulnerability?**

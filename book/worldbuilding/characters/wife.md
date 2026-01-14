@@ -1,8 +1,8 @@
-# Wife
+# Ramona
 
-**Name:** TBD
+**Name:** Ramona
 **Gender:** Woman
-**Age:** TBD
+**Age:** 31
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 
 ## Role
