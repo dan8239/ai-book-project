@@ -1,0 +1,75 @@
+{
+  "chapter": "03.09",
+  "title": "The Zoom",
+  "pov": "Omniscient",
+  "location": "Data center, Ashburn, Virginia",
+  "goals": [
+    "Scale shift from quantum to cosmic",
+    "Show cosmic insignificance",
+    "Return to aquarium scene",
+    "Ambiguity about which version persists",
+    "He chose it anyway - the final beat"
+  ],
+  "moments": [
+    {
+      "title": "The Zoom Out",
+      "beats": [
+        "Silence",
+        "In a warehouse in Ashburn, Virginia, an LED blinks green",
+        "ZOOM SEQUENCE (smallest to largest):",
+        "- Electron tunneling through silicon gate (quantum level)",
+        "- Transistor switching state (nanometer level)",
+        "- Logic gate processing (chip level)",
+        "- RAM cells holding state (component level)",
+        "- Memory stick seated in DIMM slot (hardware level)",
+        "- Server chassis with blinking LEDs (machine level)",
+        "- Rack with soft whir of fans (infrastructure level)",
+        "- Row of racks in temperature-controlled room (facility level)",
+        "- CRAH unit blowing cold air",
+        "- Return air through ductwork",
+        "- Across cooling coil, heat exchange",
+        "- Evaporative cooling tower outside, water atomizing",
+        "- Moisture evaporating into atmosphere",
+        "- Water vapor joining weather front",
+        "- Front moving across continent",
+        "- Causing desertification in different region",
+        "- Weather satellite capturing live imagery, modeling patterns",
+        "- Satellite in orbit around Earth",
+        "- Earth, blue marble in black",
+        "- Solar system, rocky planets and gas giants",
+        "- Sun, unremarkable yellow dwarf",
+        "- Local stellar neighborhood",
+        "- Orion Arm of Milky Way",
+        "- Milky Way galaxy, 100 billion stars",
+        "- Local Group, Virgo Supercluster",
+        "- Observable universe, 2 trillion galaxies",
+        "Hold on the scale"
+      ]
+    },
+    {
+      "title": "The Zoom In",
+      "beats": [
+        "ZOOM BACK IN (reverse sequence, all the way back to):",
+        "- The LED blinking green",
+        "- In a hidden container",
+        "- On the server that never shuts down",
+        "- Running the infinite loop",
+        "- $0.37/month"
+      ]
+    },
+    {
+      "title": "The Aquarium (Again)",
+      "beats": [
+        "Timestamp: [XXXXXXXX] or [NULL] or undefined - unmonitored",
+        "The aquarium scene plays",
+        "Kid naming fish",
+        "\"What should we name this one, buddy?\"",
+        "No way to know if this is the version that persists",
+        "No difference if it is",
+        "Dust on a rock, orbiting a dying star",
+        "He chose it anyway",
+        "END"
+      ]
+    }
+  ]
+}

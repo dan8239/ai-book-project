@@ -4,30 +4,31 @@
 
 ```
 ai-book-project/
-├── worldbuilding/          # Obsidian vault - everything lives here
-│   ├── characters/         # Character files with arcs
-│   ├── timeline/           # Era definitions
-│   ├── simulation/         # Sim world details
-│   ├── mystery/            # Clue paths
-│   ├── themes/             # Themes, motifs, style guide
-│   ├── manuscript/         # Chapter files (planning + prose)
+├── book/                   # Obsidian vault
+│   ├── manuscript/         # Chapter prose
 │   │   └── [act.chapter.name]/
 │   │       ├── chapter.md  # Scene breakdowns → prose
 │   │       └── notes.json  # Chapter metadata
+│   ├── worldbuilding/      # Reference material
+│   │   ├── characters/
+│   │   ├── timeline/
+│   │   ├── simulation/
+│   │   ├── mystery/
+│   │   ├── themes/
+│   │   └── world/
 │   └── _index.md           # Navigation hub
-├── outline/                # Structure tracking
+├── outline/
 │   └── outline.csv         # Synced with Google Sheet
 ├── scripts/
-│   └── sync-outline.sh     # Pull from Google Sheet to CSV
-└── references/             # Research, inspiration
+└── references/
 ```
 
 ## Workflow
 
-### Worldbuilding (Obsidian)
-- Open `worldbuilding/` folder in Obsidian
+### Obsidian Vault
+- Open `book/` folder in Obsidian
+- `manuscript/` for prose, `worldbuilding/` for reference
 - Use wiki-links to connect concepts
-- Character arcs live in character files
 - `_index.md` is the navigation hub
 
 ### Outline (Google Sheets ↔ CSV)
@@ -36,19 +37,18 @@ ai-book-project/
 - Sync FROM sheet: Run `./scripts/sync-outline.sh`
 - CSV is version controlled, Sheet is for editing
 
-### Manuscript (in Obsidian)
-- Write prose in `worldbuilding/manuscript/` as markdown
-- Work directly in Obsidian alongside worldbuilding notes
-- Wiki-link to characters, locations, etc. from prose
-- Export to Google Docs when needing beta readers/track changes
+### Manuscript
+- Write prose in `book/manuscript/` as markdown
+- Wiki-link to `[[worldbuilding/characters/protagonist|Sam]]` etc.
+- Export to Google Docs for beta readers/track changes
 
 ## Key Files
 
 | File | Purpose |
 |------|---------|
-| `worldbuilding/_index.md` | Navigation for all worldbuilding |
-| `worldbuilding/characters/protagonist.md` | Main character arc + beats |
-| `worldbuilding/characters/wife.md` | Wife arc (flat arc, thematic heart) |
+| `book/_index.md` | Navigation hub |
+| `book/worldbuilding/characters/protagonist.md` | Main character arc + beats |
+| `book/worldbuilding/characters/wife.md` | Wife arc (flat arc, thematic heart) |
 | `outline/outline.csv` | Chapter-by-chapter breakdown |
 
 ## Logging
