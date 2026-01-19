@@ -29,4 +29,7 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 EOF
 )"
 
-echo "Committed session: $SUMMARY ($INTERACTION_COUNT interactions)"
+# Push to remote
+git push
+
+echo "Committed and pushed session: $SUMMARY ($INTERACTION_COUNT interactions)"

@@ -8,6 +8,7 @@ Navigation hub for worldbuilding and manuscript.
 - [[manuscript/01.03.work/chapter|01.03 Work]]
 - [[manuscript/01.04.new_job/chapter|01.04 New Job]]
 - [[manuscript/01.06.birthday/chapter|01.06 Birthday]]
+- [[notes|02.XX Gondola]] - First underground visit, gravity battery reveal
 - [[manuscript/03.07.the_button/chapter|03.07 The Button]]
 - [[manuscript/03.08.coffee_guy/chapter|03.08 Coffee Guy]]
 - [[manuscript/03.09.the_aquarium_pt_ii/chapter|03.09 The Aquarium Pt II]]
@@ -18,9 +19,9 @@ Navigation hub for worldbuilding and manuscript.
 - [[worldbuilding/characters/protagonist|Protagonist]] - Contractor, M&V system creator, food chain optimization
 - [[worldbuilding/characters/wife|Wife]] - Protagonist's wife, thematic heart of the story
 - [[worldbuilding/characters/eldest-son|Eldest Son]] - Anthropology interest, legacy human culture
-- [[worldbuilding/characters/brother-in-law|Brother-in-Law]] - Wife's brother, legacy human settlement
+- [[worldbuilding/characters/twin-sister|Tina]] - Ramona's twin, legacy human settlement
 - [[worldbuilding/characters/temp-trainee|Temp / Trainee]] - Statistical PhD, exposition device for world state
-- [[worldbuilding/characters/zuckminster-fullerine|Zuckminster Fullerine]] - Quant founder, consciousness copy subject
+- [[worldbuilding/characters/grant-melrose|Grant Melrose]] - Quant founder, consciousness copy subject
 - [[worldbuilding/characters/coffee-guy|Coffee Guy]] - Real world, monitors simulations
 - [[worldbuilding/characters/co-worker-geneticist|Co-Worker]] - Statistical geneticist colleague
 - [[worldbuilding/characters/claude-assistants|Claude Assistants]] - AI team members
@@ -40,8 +41,9 @@ Navigation hub for worldbuilding and manuscript.
 - [[worldbuilding/timeline/sim-present|Sim Present (~2225)]] - Protagonist's era
 
 ## Simulation (Protagonist's World)
+- [[worldbuilding/world/rossland|Rossland]] - Sam's hometown, former ski town, legacy human entrance
 - [[worldbuilding/world/honeycomb|Honeycomb]] - Global governance, H3 hex grid, Driver/Controller system
-- [[worldbuilding/world/memory-map|Memory Map]] - Family history dashboard device
+- [[memory-map-gadget|Memory Map]] - Family history dashboard device
 - [[worldbuilding/simulation/simulation-architecture|Simulation Architecture]] - 847M trials, structure
 - [[worldbuilding/simulation/optimization-mechanics|Optimization Mechanics]] - Loss functions, selection
 - [[worldbuilding/simulation/master-parameters|Master Parameters]] - The tunable knobs

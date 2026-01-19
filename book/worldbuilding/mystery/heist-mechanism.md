@@ -6,6 +6,52 @@ Get above Glenn's scope to Coffee Guy's access pathway - base images, core compa
 
 ---
 
+## The Core Exploit: Out-of-Sample Data
+
+**Sam's key insight:** Glenn doesn't have perfect information. His model has blind spots. Tina is one of them.
+
+### The Information Asymmetry
+
+Glenn monitors everyone through nanobot data collection. But legacy humans (~10K population) don't have nanobots. They're technically still simulated, but:
+- Nobody is checking for DNA duplicates among such a small off-grid population
+- Glenn would have to be seriously deep into every simulation to know about Tina
+- Holding all that DNA sequencing in his context window wouldn't make sense
+- **Tina is an identical twin who doesn't exist in Glenn's model**
+
+### How Sam Learns This
+
+Sam discovers this weakness through his **cave optimization work**:
+
+1. **Month 1:** Sam applies his models to optimize the legacy humans' energy use
+2. **Result:** Energy consumption goes UP, not down
+3. **The problem:** His model's assumptions about underground life are wrong
+4. **Solution:** Boots-on-the-ground investigation - he has to actually go there, see the reality
+5. **Discovery:** The model was optimizing for incorrect assumptions
+6. **Fix:** Adjusts the model with real data, it gets dramatically better
+
+**The lesson:** Optimization is only as good as your information. Out-of-sample data breaks models.
+
+### Applying It to Glenn
+
+Sam takes this insight to his space colonization work, solves problems there the same way. Then realizes:
+
+- Glenn has the same weakness
+- Glenn's model doesn't account for everything
+- An **out-of-sample variable** could break his optimization
+- **Tina IS that variable** - identical DNA to Ramona, but invisible to Glenn's monitoring
+
+### Why Tina Matters
+
+- She's Ramona's identical twin
+- She's off-grid (no nanobots, no monitoring)
+- Glenn's model assumes one Ramona
+- But there are functionally TWO - and Glenn doesn't know
+- This creates exploitable ambiguity during the heist
+
+#needs-work - Specific mechanism for how Tina's existence breaks Glenn's response during the heist. Body swap? Misdirection? Location ambiguity?
+
+---
+
 ## The Mechanism
 
 ### Setup
@@ -13,7 +59,7 @@ Get above Glenn's scope to Coffee Guy's access pathway - base images, core compa
 1. **Big Dog gives Sam ONE breakpoint** - hubris and cruelty. Sarcastic: "maybe you can convince your wife to fuck you one last time"
 2. **Wife already trusts Sam** - doesn't need the debugger to convince her
 3. **Sam saves the breakpoint** - uses it for the heist instead
-4. **Brother-in-law gets blackmailed** - "You will believe me. If you don't do this, I cut you off from X. If you do, I give you Y that removes your dependence on above-ground entirely."
+4. **Twin sister gets blackmailed** - "You will believe me. If you don't do this, I cut you off from X. If you do, I give you Y that removes your dependence on above-ground entirely."
 
 ### Breakpoint Rules
 
@@ -56,15 +102,15 @@ Glenn is from early 2000s base image. Old software has known vulnerabilities.
 
 **Use:** Sam exploits this during freeze to view memory / poke around OS for clues. Hacker/heist payoff.
 
-#needs-work - Specific vulnerability TBD. Must combine with debugger and brother-in-law's role.
+#needs-work - Specific vulnerability TBD. Must combine with debugger and twin sister's role.
 
-### Brother-in-Law's Crucial Role (The Blind Spot)
+### Twin Sister's Crucial Role (The Blind Spot)
 
 **The advantage:** Legacy humans don't have nanobots. The AGI monitors everyone through nanobot data collection. Outside of those systems = lot of work to detect.
 
 **Foreshadowing:** Establish early that monitoring outside nanobot systems is expensive/difficult for AGI. Glenn doesn't bother with legacy humans because the cost isn't worth it.
 
-**Brother-in-law's part:** #needs-work - Something he can do from the blind spot that Sam can't do while monitored. Perhaps part of the data Sam needs to see, or a timing coordination, or physically touching Sam during the breakpoint?
+**Twin sister's part:** #needs-work - Something she can do from the blind spot that Sam can't do while monitored. Perhaps part of the data Sam needs to see, or a timing coordination, or physically touching Sam during the breakpoint?
 
 ### The Debugger UI
 
@@ -154,13 +200,13 @@ This technology might be used more broadly by underground folks — it fits thei
 ## Open Questions
 
 1. **Specific known vulnerability?**
-   - Must combine with debugger + brother-in-law's role
+   - Must combine with debugger + twin sister's role
    - Early 2000s base image = what specific exploit?
 
-2. **Brother-in-law's exact role?**
+2. **Twin sister's exact role?**
    - Blind spot advantage is clear
-   - What specifically does he DO during the heist?
-   - Is he physically present? Touching Sam during breakpoint?
+   - What specifically does she DO during the heist?
+   - Is she physically present? Touching Sam during breakpoint?
 
 3. **The blackmail terms?**
    - What does Sam threaten to cut off?

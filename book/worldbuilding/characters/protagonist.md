@@ -4,6 +4,19 @@
 **Gender:** Male
 **Age:** 34
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
+**Location:** [[../world/rossland|Rossland]], BC Kootenays
+
+## Hometown
+
+Sam is from Rossland. Grew up there. Still lives there with his family.
+
+He works remotely — lives in the clouds (metaverse) more than the physical world. Barely notices the dying ski town around him, the changed ecosystem, the faded grandeur. He's always in meetings, always optimizing, always somewhere else.
+
+Met [[wife|Ramona]] there. She's from the legacy human settlement in the mountain. The H₂S incident forced her above-ground for medical care. She ended up in Rossland. They met. She stayed.
+
+The irony: he lives in one of the most interesting physical places on Earth — and barely sees it. The legacy humans 500m below him are more present in the physical world than he is.
+
+---
 
 ## Role
 
@@ -85,7 +98,33 @@ What are they willing to do or give up to get what they want?
 
 ### Quirks
 
+**Territorial about his spaces**
+
+Sam is very particular about his personal areas:
+- His sink
+- His nightstand
+- His dresser
+- His desk
+
+He doesn't like people in his space. Everything has a place. He knows where things are. When someone moves something, he notices immediately.
+
+This isn't about cleanliness - it's about control. His spaces are the few things in life he can actually control. (Connects to his optimization mindset - he's optimized these spaces and doesn't want variables introduced.)
+
 ### Flaws
+
+**Core Flaw: Blind belief in optimization and systems**
+
+Sam believes that every problem has an optimal solution, and that finding it is just a matter of running enough simulations, tuning enough parameters, and analyzing enough data. He treats life like a loss function to minimize.
+
+This flaw is:
+- What makes him good at his job (optimization is literally his expertise)
+- What blinds him to his family (he's optimizing for legacy instead of presence)
+- What Glenn shares (both are "optimal choice" thinkers)
+- What Sam ultimately exploits to beat Glenn
+
+**The Irony:** His optimization mindset is both his greatest strength AND how he defeats Glenn. He recognizes Glenn will always choose the "optimal" answer - and uses that predictability against him.
+
+**Arc:** He must learn that some things can't be optimized. His family doesn't need an optimal solution. They just need him to be present.
 
 ### Limitations
 
@@ -147,6 +186,37 @@ His team is literally his best friend robot with specialized hyper functional ag
 1. **Starts:** Agricultural optimization job, food production at scale
 2. **Call up:** Gets promoted to colonization/re-seed program - learns true dire state of Earth
 3. **Mystery begins:** Needs genetic diversity for colony, finds weird dataset in 23andMe-type DB (planted by DevSecOps woman)
+
+### The Cave Optimization Arc (Key Learning Moment)
+
+Sam takes on a side project optimizing energy use for the legacy humans' underground settlement. This becomes crucial to the heist.
+
+**Month 1: Failure**
+- Sam applies his standard optimization models
+- Result: Energy consumption goes UP, not down
+- His models are making things worse
+
+**The Investigation:**
+- Sam has to do boots-on-the-ground work
+- Actually visits the settlement (First Contact chapter)
+- Sees the reality vs. his assumptions
+- Discovers the model was optimizing for incorrect things
+- Underground life doesn't match above-ground assumptions
+
+**The Fix:**
+- Adjusts the model with real observational data
+- Results improve dramatically
+- The system works once the inputs are correct
+
+**The Lesson:**
+> "Optimization is only as good as your information. Out-of-sample data breaks models."
+
+**Application to Glenn:**
+- Sam realizes Glenn has the same weakness
+- Glenn's model doesn't account for everything
+- What's OUT of Glenn's sample?
+- Answer: **Tina** - identical twin, off-grid, invisible to monitoring
+- This becomes the key to the heist
 
 ## Career Mindset (Early Story)
 

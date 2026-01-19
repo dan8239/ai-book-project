@@ -10,7 +10,7 @@ This lets us expose on the takeover BEFORE it even happens in the book. We show 
 
 #needs-work - What's the sanitized/censored version of history?
 
-- Zuckminster as visionary hero
+- Grant Melrose as visionary hero
 - The Refactor as necessary salvation
 - The Staging Period glossed over
 - Deprecated Generation portrayed as tragic but inevitable

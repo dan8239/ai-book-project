@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "./scripts/session-commit.sh \"Claude session ended\"",
+            "timeout": 120
+          }
+        ]
+      }
+    ]
+  }
+}

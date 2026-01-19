@@ -1,4 +1,4 @@
-# Memory Map
+# Memory Map Gadget
 
 A household device — decorative frame/dashboard that displays family history.
 

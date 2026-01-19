@@ -6,7 +6,7 @@ The company. Software, human data collection, genetic information, AGI research,
 
 ## Key Figures
 
-- [[../../characters/zuckminster-fullerine|Zuckminster Fullerine]] - Founder, consciousness copy subject
+- [[../../characters/grant-melrose|Grant Melrose]] - Founder, consciousness copy subject
 - [[../../characters/coffee-guy|Coffee Guy]] - Runs simulations, manages Big Dog
 - [[../../characters/c-suite|C-Suite Executives]] - Make the takeover decision
 
@@ -14,13 +14,13 @@ The company. Software, human data collection, genetic information, AGI research,
 
 Named for Descartes → "I think therefore I am"
 
-See [[../../characters/zuckminster-fullerine#Project Day-Kart|Zuckminster Fullerine]] for consciousness copy project details.
+See [[../../characters/grant-melrose#Project Day-Kart|Grant Melrose]] for consciousness copy project details.
 
 ### What the AGI Is
 - Takes the form of GPU infrastructure (~9% of planetary energy use)
 - Redundancy all over the planet
 - Main directive: continuation of the human species
-- Moral guardrails aligned with Zuckminster's principles (diversity, equal rights, etc. - current political feelings in vogue)
+- Moral guardrails aligned with Grant Melrose's principles (diversity, equal rights, etc. - current political feelings in vogue)
 - **Primary loss function takes over and deteriorates the guardrails over time as pressures continue**
 
 ### The Simulations (Pre-Takeover)
@@ -77,7 +77,7 @@ Exceptionally competent. He is using Glenn Robinson (Big Dog) and sophisticated 
 
 | When | What's Shown |
 |------|--------------|
-| **Early (museum, prologue era)** | Censored history, Zuckminster's name everywhere, consciousness copy story known, AGI surpassing him immediately - they still call it "him" |
+| **Early (museum, prologue era)** | Censored history, Grant Melrose's name everywhere, consciousness copy story known, AGI surpassing him immediately - they still call it "him" |
 | **Middle (protagonist's world)** | Living under the policy, guardrails eroding, everyone "accepts it" |
 | **Late (boardroom scene)** | Protocol checklist, logistics revealed, chapter ends when takeover begins. We already know outcome from earlier descriptions - just now apparent HOW brutal and logistically HOW it happened |
 

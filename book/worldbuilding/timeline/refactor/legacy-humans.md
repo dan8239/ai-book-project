@@ -6,7 +6,7 @@
 2. Backstory for [[../../characters/wife|Ramona]] (childhood H₂S incident forced her onto grid)
 3. Source of conflict for Ramona / Sam
 4. Red-herring target for mystery (cleansing/genocide type deal)
-5. Brother-in-law character - unseen throughout, integral to saving the simulation
+5. Twin sister character - unseen throughout, integral to saving the simulation
 
 ---
 
@@ -56,13 +56,23 @@ That's all the people above are — just a bunch of mouths that are too far gone
 ### Living Conditions
 
 - Life in a submarine — almost exclusively underground
-- Located in mountain ranges (avoids H₂S in lowlands)
-- One of the larger colonies (~600 people)
-- Carved out from a doomsday bunker
-- Very elaborate entrance, very hard living
+- Located in the mountains near [[../../world/rossland|Rossland]], BC Kootenays (avoids H₂S in lowlands)
+- One of the larger colonies (~10,000 people)
+- Built into old mining tunnels from 1890s-2100s (copper, silver, molybdenum, tungsten)
+- Entrance via old mining tunnel, officially "collapsed"
 - Minimal footprint — can't detect via satellite
-- Can't have things above ground at all
+- No thermal signature: near-perfect heat recovery on ventilation (hot air heats incoming cold air in stages)
 - Little bit of Fremen vibes from Dune — way more people there than you'd think
+
+**See [[../../world/mountain-facility|Mountain Facility Infrastructure]] for detailed documentation of cooling systems, water infrastructure, ventilation, and power generation.**
+
+### Power Infrastructure
+
+- Solar and wind from old ski resort era, kept off main grid
+- Deteriorating efficiency, materials hard to replace
+- New installations hidden rather than repairing visible old ones
+- Satellite sees "abandoned solar farm" — matches expectation
+- Power feeds into gravity battery storage
 
 ### Degradation
 
@@ -89,6 +99,129 @@ The whole underground system is layers and layers, like 100 floors deep of close
 They have to reuse the water. They have to pack in these things. There's certain things that'll grow on the wall. They obviously have horizontal agriculture. They've got places for the mushrooms. They've got places where chickens are — chickens can't grow on the fucking wall, they have to have a spot.
 
 That's all they can really have down there. But the chickens need grain. How are they getting grain? Maybe they're eating fucking grubs. The whole thing is grub farming to feed the chickens. They just figure it out down there. That's what their whole civilization is doing.
+
+### The Closed Water Cycle (Aquaponics)
+
+The entire system is an artificial water cycle. Salmon/trout pools recirculate to the vertical farming systems:
+
+- Fish waste → ammonia → nitrifying bacteria convert to nitrite → nitrate → plants absorb as fertilizer
+- Plants consume CO2 and release O2
+- Water filters through grow beds and returns to fish pools
+- Biofilter media (gravel beds, clay pebbles) colonized by bacteria
+- Minimal energy input — just pumps to circulate water
+- Self-sustaining loop with occasional balancing
+
+UV-exposed mushrooms provide vitamin D. UVB lighting (290-315nm) is the primary lighting source throughout — serves both plant growth and human vitamin D synthesis.
+
+### Cooling dehumidifiers hum in food production areas. Sound of moving water nearly everywhere from the recirculating aquaponics.
+
+---
+
+## Ventilation Culture
+
+Air quality is religion down here. Ventilation is the organizing principle of their entire society.
+
+### Infrastructure
+
+- Ductwork in nearly every room
+- Stack effect utilized everywhere — warm air rises through upcast shafts, draws cool air through downcast
+- Vertical shafts with exhaust fans that modulate as needed
+- Pressure sensors on all ductwork — everyone checks them when they see them
+- Target: negative pressure to outside air (OA) — contaminants flow out, not in
+- CFM targets: ~15-30 per person depending on activity, 0.5-1.0 per chicken
+
+### Tech/Mechanical Rooms
+
+- Well epoxied walls (marine epoxy seals moisture)
+- French drains channel groundwater away
+- Sound of moving water nearly everywhere
+- Dehumidifier humming, or fan humming quietly — always something
+
+### The Soundscape
+
+You're never in silence down here. There's always:
+- Water trickling through aquaponics
+- Dehumidifiers humming in food areas
+- Fans cycling in background
+- Silence means something's wrong
+
+### Entry Ritual
+
+On entering any room:
+1. Pause at threshold
+2. Silence (stop talking)
+3. Look around — visual inspection of indicator strips, vent ribbons
+4. Check watch (wrist-mounted gas monitor)
+5. Resume talking
+
+This is unconscious, automatic. Everyone does it.
+
+### The Cough Protocol
+
+When someone coughs, everyone in earshot checks their watch. Including the cougher. If levels are elevated, cougher politely excuses themselves and will be debriefed later. Not panic — just protocol.
+
+### Wearable Gas Monitors
+
+Wrist-worn monitors standard for everyone:
+- Buzz individually when thresholds approached
+- Simple LCD shows current H₂S/ammonia/O₂ levels
+- No loud alarms — vibration + LED
+- "Check the watch" is reflexive
+
+### Indicator Strips
+
+Color-change strips mounted near entrances. Change color with H₂S/ammonia levels. First thing you see on entry.
+
+### Canaries
+
+Kept as cultural pets — callback to mining history. Not relied on for safety (that's what monitors are for). Prestigious to keep one alive and healthy — proves your air quality. Different colonies have breeding lines they're proud of.
+
+### Characters Are Shorter
+
+Anecdotally shorter in stature than honeycombers. Subtle — not dramatic. Calorie restriction over generations, smaller bodies need fewer calories.
+
+---
+
+## The Gravity Battery
+
+The power source for the entire city. Built over centuries from mine shafts. Energy storage, not generation — they siphon power from above through Sam's laundering scheme.
+
+### Specs
+
+- **Block size:** 3m × 3m × 3m concrete cubes (~65 tons each)
+- **Depth:** 500m (can't see the bottom)
+- **Energy per block:** ~88 kWh at full drop
+
+### Shaft Layout
+
+| Shaft | Grid (X × Y) | Footprint | Blocks | Capacity |
+|-------|--------------|-----------|--------|----------|
+| Main | 80 × 120 | 240m × 360m | 9,600 | 845 MWh |
+| Secondary | 40 × 60 | 120m × 180m | 2,400 | 211 MWh |
+| Tertiary | 40 × 60 | 120m × 180m | 2,400 | 211 MWh |
+| **Total** | | | **14,400** | **1.27 GWh** |
+
+### Energy Budget
+
+- 10,000 people × 18 kWh/day = 180 MWh/day
+- Full battery = ~7 days of reserves
+- Running low is a critical, slow-moving crisis
+
+### Operation
+
+- Blocks drop by demand (random pattern based on load)
+- Never risers and fallers simultaneously
+- Surplus: blocks rise one at a time
+- Deficit: blocks drop one at a time
+- High demand = faster drop rate (more blocks queued)
+
+### Ventilation Integration
+
+Top of each shaft doubles as massive air intake. Stack effect pulls air down, distributes through the city. The battery IS the lungs of the settlement.
+
+### The Display
+
+Status boards show capacity %, active drops, net flow, time to critical threshold (15%). The numbers have been getting worse for years.
 
 ---
 
@@ -139,8 +272,16 @@ For story purposes, subtle hints of early adaptation are plausible — paler ski
 ### [[../../characters/wife|Ramona]]
 
 - Main go-between, welcome in both worlds
-- Her brother is in the colony
+- Her twin sister is in the colony
 - Childhood H₂S incident — devastating illness required medical attention — which meant joining the grid
+
+### The H₂S Incident (Ramona's Origin Story)
+
+It started with everyone's watch going off. Masks on, scrambling out. Ramona was down a level. Tina went back to save her — found her unconscious. They got her out.
+
+Ramona recovered, but the long-term respiratory effects couldn't be treated below. The colony didn't have the medical tech. Above-ground hospitals did — but that meant joining the grid. Getting the nanobots. Becoming trackable.
+
+She's been above ever since. Still welcome in both worlds, but can never go back to living below. Tina stayed.
 
 ### Sam
 
@@ -151,20 +292,62 @@ For story purposes, subtle hints of early adaptation are plausible — paler ski
 
 ### Eldest Son
 
-- Really close with his uncle
-- Gets resistance/legacy beliefs from mom and uncle
+- Really close with his aunt
+- Gets resistance/legacy beliefs from mom and aunt
 
-### Brother-in-Law
+### [[../../characters/twin-sister|Tina]]
 
 - One of the key providers in the colony
 - Big family
 - Unseen throughout the story
+- The one who saved Ramona during the H₂S incident
+
+---
+
+## Sam's Involvement
+
+### Why He Gets More Involved
+
+Sam's colonization project keeps hitting the same walls. His models fail on problems the legacy humans solved 500 years ago. He needs their institutional knowledge:
+- Water recycling gotchas
+- Caloric efficiency tricks
+- Ventilation failure modes
+- Social scheduling that actually works
+- What happens when the battery hits 15%
+
+This data makes his colonization models actually useful. The irony: he's building escape plans for humanity using knowledge from the people who chose to stay.
+
+### The Visits (2-3 max, risky for Sam)
+
+**Visit 1 (Act 1 or early 2A):**
+- Reason: Colonization project data. Realizes legacy humans have solved problems his models keep failing on.
+- Gets cooperation by continuing/increasing energy support
+- Sees the gravity battery for the first time
+
+**Visit 2 (Act 2A):**
+- Reason: Deeper technical consultation. Models are missing something.
+- Blackmail element emerges — they want more than data exchange
+- They want him to solve their energy problem permanently
+
+**Visit 3 (Act 2B/3):**
+- Reason: The heist. Needs the blind spot.
+- Final deal: trades everything for their help
+
+### After Simulation Reveal
+
+Once Sam learns about the simulation, he digs into Glenn's data on survival rates:
+- Underground populations die out sooner in vast majority of trials
+- Occasionally outlasts above-ground
+- Either way, both populations go extinct on current trajectory
+- The simulation knows about legacy humans — they're tracked, just not worth the monitoring cost
+- They're more fucked than honeycombers, not less
 
 ---
 
 ## In The Story
 
-1. Only see them once in the story
+1. See them 2-3 times maximum
 2. Hear about them throughout
 3. Big influence over Ramona and oldest child
 4. Very important to solving the ultimate problem (Sam needs their help for the heist)
+5. Sam's colonization expertise makes him valuable to them; their real-world experience makes them valuable to him

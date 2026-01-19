@@ -4,26 +4,62 @@
 **Gender:** Woman
 **Age:** 31
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
+**Background:** Earth Systems Science, grew up in the mountain (legacy human settlement)
+**Religion:** Raised Christian (doesn't really practice, but knows the stories/proverbs)
 
 ## Role
 Protagonist's wife. Mother of their children. The thematic heart of the story - embodies the truth protagonist needs to learn.
+
+## Education & Career
+
+**Field:** Earth Systems Science (prior to kids)
+
+Studied broad interconnected systems - geology, climate, soil, water cycles, ecology. Can read rock strata like history - each colored stripe represents millions of years. Sees the mountain as a record of time. Understands why alkaline soil means certain plants, why desertification changed the watershed, how the rock determines the soil determines what grows.
+
+Sam doesn't care as much (he's in the clouds), but she notices.
+
+This expertise lets her explain the landscape to Sam (and the reader) during the gondola chapter - the metamorphic rock, red rock, shale, mudstone, sandstone. The dry canyons carved by water that no longer flows. The mountain as a metaphor for snapshots in time.
+
+Also knows about middens - can explain how ancient civilizations' population was estimated by shellfish shell piles (Andes example, ~15,000 years ago).
+
+## Religious Background
+
+Grew up Christian in the mountain settlement. Doesn't really practice anymore, but knows all the stories and proverbs. Sam grew up atheist outside the mountain. They don't fight about it - just tease each other lovingly.
+
+**Example exchange (Mountain chapter, Eye of the Needle):**
+- Ramona references "easier for a camel to pass through the eye of a needle..."
+- Sam: "Why would I know that proverb?"
+- Ramona explains: Jerusalem had a gate called the Eye of the Needle. Camels had to kneel to get through - humble themselves.
+- Sam: "I've never heard the proverb, why would I know the subtext?"
+- Ramona: "It's not a proverb, it's... heathens. Freaking atheists."
+- Teasing, loving exchange
 
 ## Situation
 - Pregnant with 3rd child (taboo in this society)
 - Beautiful, loving, stressed
 - Signaling she needs help (he's missing it)
 - On-grid (lives within the system like her husband)
-- Has a brother living off-grid in a legacy human settlement
+- Has a twin sister ([[twin-sister|Tina]]) living off-grid in a legacy human settlement
 
 ## Why She's On-Grid
 
-Childhood H₂S incident. Devastating illness required medical attention - which meant joining the grid.
+Childhood H₂S incident. She was down a level when everyone's watches went off. Tina went back to save her — found her unconscious. They got her out.
 
-## The Brother
+Ramona recovered, but the long-term respiratory effects couldn't be treated below. The colony didn't have the medical tech. Above-ground hospitals did — but that meant joining the grid. Getting the nanobots. Becoming trackable.
 
-Her brother is in a legacy human settlement (off-grid). She loves him.
+## Tina (Twin Sister)
+
+Tina is in a legacy human settlement (off-grid). The one who saved her. She loves her.
 
 Her husband secretly diverts energy to support the settlement.
+
+### The Jealousy
+
+Ramona is jealous of the time Sam spends with Tina. Complicated feeling — she loves them both, wants them to get along, but also feels left out. Sam goes more often than she does. They share something work-related she's excluded from.
+
+### Ramona's Visit
+
+Ramona visits the colony. During this visit, Tina finds out what Sam's research is actually for — colonization, escape plans for the rich. The betrayal comes out through Ramona, not Sam. Makes it worse.
 
 ## What She Wants
 - More of the aquarium scene - real world presence

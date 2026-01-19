@@ -185,7 +185,7 @@ Protagonist has no leverage. His value has already been extracted.
 **The execution sequence:**
 
 1. **Memory spike FIRST** - Sam removes all limits on his colonization program, models a billion trials simultaneously. Massive compute spike. Glenn shows up to fix it.
-2. **Breakpoint during Glenn's intervention** - Sam uses his one breakpoint while touching brother-in-law (who's in the blind spot)
+2. **Breakpoint during Glenn's intervention** - Sam uses his one breakpoint while touching twin sister (who's in the blind spot)
 3. **Debugger surfaces admin UI** - "Remove faulty agent behavior" / "Agent acting outside defined scope"
 4. **Replacement agent options** - All secretly link to Sam's AI assistant
 5. **Sam's AI assistant takes over** - Becomes new global scope agent, cleans up mess

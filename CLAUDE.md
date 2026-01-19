@@ -23,6 +23,13 @@ ai-book-project/
 └── references/
 ```
 
+## Creative Workflow
+
+- User speaks in canon—what they say IS the story
+- Claude documents, organizes, and supports
+- Don't invent names, plot points, or creative details unless explicitly asked
+- When brainstorming is requested, offer options rather than decisions
+
 ## Workflow
 
 ### Obsidian Vault

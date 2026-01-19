@@ -12,7 +12,7 @@ Really good for exposition for the protagonist, Sam, to talk to his wife, and fo
 
 ## The Memory Map Gift
 
-Sam gives his wife the [[worldbuilding/world/memory-map|Memory Map]] — the dashboard/frame gadget. It's there throughout the rest of the story to be used as needed.
+Sam gives his wife the [[memory-map-gadget|Memory Map]] — the dashboard/frame gadget. It's there throughout the rest of the story to be used as needed.
 
 Boil the lobster a little bit with what this thing's capable of, just to slowly get them immersed in what this thing can do.
 

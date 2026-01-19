@@ -11,6 +11,10 @@ Protagonist's eldest child.
 
 Really interested in anthropology, specifically legacy human culture. Historian type.
 
+## Music
+
+Obsessed with **january_gymrats**. Their music is completely incomprehensible to Sam—sounds like arrhythmic noise layered over what might be vocals, might be machinery. The kid can't understand why his dad doesn't get it.
+
 ## Key Anecdote
 
 Corrects his dad's language:
@@ -20,4 +24,4 @@ Corrects his dad's language:
 ## Beliefs
 
 - Dad is his hero
-- Gets some resistance/legacy beliefs from mom and uncle
+- Gets some resistance/legacy beliefs from mom and aunt (Tina)

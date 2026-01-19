@@ -24,7 +24,7 @@ THE STAGING PERIOD (~one generation)
 
 Post-Refactor (protagonist's simulated world, ~2225)
     └── Living under the policy
-    └── Censored history, Zuckminster mythologized
+    └── Censored history, Grant Melrose mythologized
     └── Legacy Humans exist off-grid in small numbers
 ```
 

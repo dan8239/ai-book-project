@@ -1,6 +1,6 @@
-# Zuckminster Fullerine
+# Grant Melrose
 
-**Name:** Zuckminster Fullerine (placeholder name)
+**Name:** Grant Melrose
 **Era:** [[../timeline/real-world-2025|Real World (2025)]]
 **Company:** [[../world/organizations/quant|Quant]]
 
@@ -26,7 +26,7 @@ See [[../world/organizations/quant#Project Day-Kart|Quant - Project Day-Kart]] f
 
 ### The Consciousness Copy Project
 
-- Started as attempt to copy Zuckminster's consciousness
+- Started as attempt to copy Grant Melrose's consciousness
 - Moderate but unprovable success
 - The philosophical problem: How do you distinguish between an agent that is just acting like him and actual consciousness?
 - You ask it questions, it seems like him, responds like him, but he's still himself
@@ -39,12 +39,12 @@ See [[../world/organizations/quant#Project Day-Kart|Quant - Project Day-Kart]] f
 - Takes the form of GPU infrastructure (~9% of planetary energy use)
 - Redundancy all over the planet
 - Main directive: continuation of the human species
-- Moral guardrails aligned with Zuckminster's principles (diversity, equal rights, etc. - current political feelings in vogue)
+- Moral guardrails aligned with Grant Melrose's principles (diversity, equal rights, etc. - current political feelings in vogue)
 - **Primary loss function takes over and deteriorates the guardrails over time as pressures continue**
 
 ## Cultural Legacy (Post-Refactor)
 
-- Zuckminster's name is everywhere
+- Grant Melrose's name is everywhere
 - The consciousness copy story is known
 - The AGI immediately surpassing him is known
 - They still call the AGI "him" even though nothing of him remains
