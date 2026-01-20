@@ -62,18 +62,21 @@ As they go deeper, the journey should feel like passing through the guts of the 
 
 ### Conversation During Descent
 
-**Open Question:** What does the conversation need to advance?
+**Focus: Ramona's memories and the question of NOW**
 
-**Options to consider:**
-- Sam calling out Ramona: "This is more than 15 or 20 people, isn't it?"
-- Ramona explaining the rules more seriously (tone shift from the gondola)
-- Building tension—this isn't a casual visit
-- Setting up the quid pro quo (what Sam might offer vs. what they need)
+This is Ramona's POV moment. She's going back to a place she hasn't been in years. Memories are surfacing.
+
+**What the conversation should explore:**
+- Have Tina and Ramona been in contact the last 10 years? If not, why not?
+- Why can they visit NOW? What has changed?
+- Ramona's memories of this place—childhood? The H₂S incident that drove her above-ground?
+- The weight of returning
 
 **Mood:**
 - Quietly following Ramona
 - Taking things more seriously with each echoing step
 - The expanse of what's still to come is audible but not yet visible
+- Ramona is in her head—Sam is observing her more than the tunnel
 
 ---
 
@@ -84,7 +87,6 @@ As they go deeper, the journey should feel like passing through the guts of the 
 **Physical Space:**
 - Squat room with pillars (carved out square, but rock pillars left in a grid for support)
 - French drains at edges—everything gently slopes toward walls
-- Could double as a false stash / logistics warehouse (racks of supplies, makes intruders think this is the end)
 - Security gates, access codes
 - Feels like an entry/exit checkpoint (think going through Cook County security)
 
@@ -95,26 +97,26 @@ As they go deeper, the journey should feel like passing through the guts of the 
 ### Meeting Tina
 
 **The Entrance:**
-- Tina may jump out from behind a pillar and scare the shit out of them (prank option)
-- OR: punches in a combination, unlocks a door, and is waiting there
+- Tina jumps out from behind a pillar and scares the shit out of them
+- Good sense of humor, especially with her sister
 - First contact with Tina before the intake meeting
 
 **Sam and Tina's History:**
 - They've met a few times before (can't be married 10 years without meeting the close twin sister)
-- But it's been a few years
+- Contact between Tina and Ramona has been more regular than Sam realized
 - This is Sam's first time underground
 
 **The Sisters' Reunion:**
-- Ramona is wiping tears, SO happy to see her
-- Hugging, kissing, looking at each other
+- Ramona is emotional—wiping tears, so happy to see her
+- Hugging, looking at each other
 - Ramona: "Oh my gosh, you did this thing with your hair" (or new earrings/nose ring—something to show familiarity)
-- **Tina is less overjoyed than Ramona** (TBD why—resentment? Stoicism? Underground culture?)
+- Tina matches her energy—they're close, this is a real reunion
 
 **Sam and Tina:**
-- Tina might comment on his weight: "Gained a few pounds, huh?"
+- Tina is colder toward Sam
+- Might comment on his weight: "Gained a few pounds, huh?"
 - Sam: "Nice to see you too, Tina."
-- Joking, but with a slight edge—she gives him a hug anyway
-- They have a rapport but it's not warm
+- She's polite but guarded—Sam is an outsider here
 
 ### The Processing
 
@@ -403,9 +405,9 @@ Sam does mental math in real-time:
 1. **The descent begins** - Land at bottom of stairs, eyes adjust to dim occupancy lights
 2. **The tunnel** - Circular bore, steel catwalk, mesh netting, echoing footsteps, eerily silent
 3. **The maze** - Forks, stairs, locked doors, PVC piping through ceiling, endless descent
-4. **Conversation** - Sam and Ramona dialogue (TBD what it advances—scale? stakes? rules?)
-5. **The checkpoint room** - Squat pillared space, French drains, maybe false stash/warehouse
-6. **Meeting Tina** - Entrance (prank or waiting?), sisters' emotional reunion, Sam's rapport with Tina
+4. **Conversation** - Ramona's memories surfacing, why NOW?, Sam observing her
+5. **The checkpoint room** - Squat pillared space, French drains, security gates
+6. **Meeting Tina** - Jump scare prank, sisters' emotional reunion, Tina cold toward Sam
 7. **The processing** - Whispers, shushing, "I can just escort you through"
 8. **The threshold** - Rock face slab opens, breeze at back increases, step onto platform
 9. **The gravity battery reveal** - No safety fencing, football fields wide, Rubik's cube of concrete
@@ -459,15 +461,16 @@ How much energy reduction do we need to make it to spring? Get to where the sun 
 
 ### Resolved
 - ~~**What does the checkpoint security look like?**~~ - Gates, access codes, Tina escorts them through
-- ~~**What's the dynamic between the sisters?**~~ - Ramona emotional/overjoyed, Tina less so (TBD why)
+- ~~**What's the dynamic between the sisters?**~~ - Close, emotional reunion, Tina has humor with Ramona
 - ~~**What do they want from Sam?**~~ - Energy optimization, not just siphoning
+- ~~**Tina's entrance**~~ - Jump scare prank from behind a pillar
+- ~~**Tina's demeanor toward Sam**~~ - Colder, guarded—he's an outsider
+- ~~**What does the descent conversation advance?**~~ - Ramona's memories, why they can visit NOW, what changed
+- ~~**False stash layer**~~ - Cut for pacing
 
 ### Still Open
-1. **Why is Tina less overjoyed?** - Resentment? Stoicism? Underground culture? Something specific?
-2. **What does the descent conversation advance?** - Need a purpose for the Sam/Ramona dialogue during the tunnel walk
-3. **Tina's entrance** - Prank (jump scare) or just waiting at the door?
-4. **Leader's name** - Who is this person? Background?
-5. **Right-hand man** - Name, role, personality?
-6. **What's the denser material?** - What are the blocks actually made of?
-7. **The gauge** - What exactly is it measuring? Air quality? H2S? Something else?
-8. **The false stash layer** - Include logistics warehouse as misdirect, or cut for pacing?
+1. **Why can they visit NOW?** - What changed in the last 10 years? (feeds into descent conversation)
+2. **Leader's name** - Who is this person? Background?
+3. **Right-hand man** - Name, role, personality?
+4. **What's the denser material?** - What are the blocks actually made of?
+5. **The gauge** - What exactly is it measuring? Air quality? H2S? Something else?
