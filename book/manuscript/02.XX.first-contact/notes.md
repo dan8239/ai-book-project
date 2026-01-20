@@ -12,34 +12,44 @@
 
 ## The Descent
 
-### The Walkway
+### The Tunnel Structure
 
-- Long way down
-- Sometimes descending, sometimes level walkway
-- Steel grid walkway throughout
-- Lighting: illuminates ahead of them, turns off behind
+**Shape and Scale:**
+- ~2.5 meter diameter, circular (reinforces the boring worm aesthetic)
+- This is the residential entrance—just a people walkway, not freight
+- Steel catwalk on the bottom, 3-4 feet wide (can walk side by side but clearly single-file intended)
+- Smooth curves throughout (no elbows)—everything gently turns
+- Subtle gradient descending the whole way
+
+**Wall Construction:**
+- Wire mesh netting covering exposed rock
+- Steel rods hammered into rock like staples, holding mesh in place
+- Transitions to concrete spray the further in it gets
+
+**Infrastructure:**
+- Conduit running for lights (minimal)
+- PVC piping running through holes near the ceiling, forking with the path
+- French drains / water collection underneath the catwalk (no water sounds yet)
+- Occasional junctions—forks, stairs going down, locked doors to empty rooms
+
+**The Walkway:**
+- Steel grid catwalk
+- Occupancy lights illuminate ~15 feet ahead, turn off behind
 - Feels like being led
-- Enormous fans inline with ductwork
 
-### What Sam Sees
+### Sensory Details
 
-- Barren tunnel
-- Walkway
-- Strip lighting through middle
-- Ductwork
-- Occasional locked side passages
-- That's it - minimal, functional
-- mesh netting on the walls, almost stapled into the rock
-- it transitions to concrete spray the further in it gets
-- squat, jointed people movers snaking through the grid
-- people operating diggers remotely w/ headsets
+**Sound:**
+- Footsteps echo for an insane amount of time
+- Eerily silent otherwise
+- Later: Sound of water (aquaponics, drainage)
+- Later: Sound of fans (ventilation)
+- Occasional electrical buzz (not constant)
 
-### Sensory Details (Throughout)
-
-- **Sound of water** (aquaponics, drainage)
-- **Sound of fans** (ventilation)
-- **Occasional electrical buzz** (not constant)
-- **Air quality**: on walkway = whatever's outside; deeper in = perfect
+**Air:**
+- Stagnant at first
+- Then a breeze at his back, sucking toward where they're going
+- Air quality: on walkway = whatever's outside; deeper in = perfect
 
 ### Mechanical Room Feel
 
@@ -47,27 +57,73 @@ As they go deeper, the journey should feel like passing through the guts of the 
 - Big fans
 - Enormous conduit running along the ceiling
 - A gentle breeze lifting at all times (ventilation for the main chamber)
-- 
+- Squat, jointed people movers snaking through the grid
+- People operating diggers remotely with headsets
+
+### Conversation During Descent
+
+**Open Question:** What does the conversation need to advance?
+
+**Options to consider:**
+- Sam calling out Ramona: "This is more than 15 or 20 people, isn't it?"
+- Ramona explaining the rules more seriously (tone shift from the gondola)
+- Building tension—this isn't a casual visit
+- Setting up the quid pro quo (what Sam might offer vs. what they need)
+
+**Mood:**
+- Quietly following Ramona
+- Taking things more seriously with each echoing step
+- The expanse of what's still to come is audible but not yet visible
 
 ---
 
 ## First Contact / Security
 
-### The Checkpoint
+### The Checkpoint Room
 
-- They wouldn't let Sam all the way in without formal security
-- Twin sister meets them here
-- The sisters hug (emotional context)
-- Maybe a grumpy character who doesn't like this ("I don't like this")
-- Eventually cleared through
+**Physical Space:**
+- Squat room with pillars (carved out square, but rock pillars left in a grid for support)
+- French drains at edges—everything gently slopes toward walls
+- Could double as a false stash / logistics warehouse (racks of supplies, makes intruders think this is the end)
+- Security gates, access codes
+- Feels like an entry/exit checkpoint (think going through Cook County security)
+
+**Mood:**
+- Sam realizes this goes way deeper than Ramona's immediate ~15-20 person family unit
+- The scale hints at the population reveal to come
+
+### Meeting Tina
+
+**The Entrance:**
+- Tina may jump out from behind a pillar and scare the shit out of them (prank option)
+- OR: punches in a combination, unlocks a door, and is waiting there
+- First contact with Tina before the intake meeting
+
+**Sam and Tina's History:**
+- They've met a few times before (can't be married 10 years without meeting the close twin sister)
+- But it's been a few years
+- This is Sam's first time underground
+
+**The Sisters' Reunion:**
+- Ramona is wiping tears, SO happy to see her
+- Hugging, kissing, looking at each other
+- Ramona: "Oh my gosh, you did this thing with your hair" (or new earrings/nose ring—something to show familiarity)
+- **Tina is less overjoyed than Ramona** (TBD why—resentment? Stoicism? Underground culture?)
+
+**Sam and Tina:**
+- Tina might comment on his weight: "Gained a few pounds, huh?"
+- Sam: "Nice to see you too, Tina."
+- Joking, but with a slight edge—she gives him a hug anyway
+- They have a rapport but it's not warm
 
 ### The Processing
 
 - They're talking in whispers in the other room
 - Sam tries to ask questions, gets shushed
-- Ramona squeezes his hand - **don't talk**
+- Ramona squeezes his hand—**don't talk**
 - They don't give him the full rundown
 - Eventually: "Come with me."
+- Tina: "I can just escort you through"—she has access
 
 ---
 
@@ -102,7 +158,14 @@ As they go deeper, the journey should feel like passing through the guts of the 
 
 ### The Reveal
 
-They walk through from the waiting room, and Sam sees:
+They pass through what looked like a rock face (opens as an enormous slab—everything still secret at this point). Walk out onto a small overhang platform.
+
+**No Safety Fencing:**
+- Literally no safety fencing anywhere in this place
+- Sam: "What's up with the no safety fencing?"
+- Tina (or guide): "We don't need stupid around here." (one-liner)
+
+The edge goes around the perimeter in all directions. Sam sees:
 
 **Scale:**
 - Football fields wide
@@ -337,22 +400,25 @@ Sam does mental math in real-time:
 
 ## Scene Beats (Sequence)
 
-1. The descent - tunnel, walkway, sensory details, mechanical room feel
-2. First contact - twin sister (pale Ramona), security checkpoint, sisters hug
-3. The processing - whispers, shushing, "come with me"
-4. Waiting room - design, air quality, sealed environment, no wood
-5. Walk through to main chamber - first view of gravity battery
-6. Take in the scale - blocks, floors, workers, living spaces
-7. Elevator down - glass walls, optical illusion with rising block
-8. Mechanical room passage - fans, conduit, breeze
-9. Enter control room - check the gauge, everyone checks watches
-10. Leader dismisses the room, keeps right-hand man
-11. Leader opens: "I'm sure you have questions..."
-12. Sam: "It's a gravity battery."
-13. Sam does the math out loud
-14. Leader corrects assumptions, impressed
-15. "Larvae" insult - cultural tension established
-16. Real conversation begins (scene ends or continues)
+1. **The descent begins** - Land at bottom of stairs, eyes adjust to dim occupancy lights
+2. **The tunnel** - Circular bore, steel catwalk, mesh netting, echoing footsteps, eerily silent
+3. **The maze** - Forks, stairs, locked doors, PVC piping through ceiling, endless descent
+4. **Conversation** - Sam and Ramona dialogue (TBD what it advances—scale? stakes? rules?)
+5. **The checkpoint room** - Squat pillared space, French drains, maybe false stash/warehouse
+6. **Meeting Tina** - Entrance (prank or waiting?), sisters' emotional reunion, Sam's rapport with Tina
+7. **The processing** - Whispers, shushing, "I can just escort you through"
+8. **The threshold** - Rock face slab opens, breeze at back increases, step onto platform
+9. **The gravity battery reveal** - No safety fencing, football fields wide, Rubik's cube of concrete
+10. **Take in the scale** - Blocks, floors, workers, living spaces, Christmas lights
+11. **Elevator down** - Glass walls, optical illusion with rising block
+12. **Mechanical room passage** - Fans, conduit, breeze, racks and forklifts
+13. **Enter control room** - Check the gauge, everyone checks watches
+14. **Leader dismisses the room** - Keeps right-hand man
+15. **Leader opens** - "I'm sure you have questions..."
+16. **Sam: "It's a gravity battery."** - Instant recognition
+17. **Sam does the math** - Mental calculation out loud
+18. **Leader corrects** - Density, efficiency, "larvae" insult
+19. **Real conversation begins** - The deal (scene ends or continues)
 
 ---
 
@@ -391,11 +457,17 @@ How much energy reduction do we need to make it to spring? Get to where the sun 
 
 ## Gaps to Fill
 
-1. **What does the checkpoint security look like?** - Biometrics? Interview? Escort?
-2. **Who is the grumpy character?** - Role in colony? Why doesn't he like this?
-3. **What's the dynamic between the sisters?** - History, tension, love?
+### Resolved
+- ~~**What does the checkpoint security look like?**~~ - Gates, access codes, Tina escorts them through
+- ~~**What's the dynamic between the sisters?**~~ - Ramona emotional/overjoyed, Tina less so (TBD why)
+- ~~**What do they want from Sam?**~~ - Energy optimization, not just siphoning
+
+### Still Open
+1. **Why is Tina less overjoyed?** - Resentment? Stoicism? Underground culture? Something specific?
+2. **What does the descent conversation advance?** - Need a purpose for the Sam/Ramona dialogue during the tunnel walk
+3. **Tina's entrance** - Prank (jump scare) or just waiting at the door?
 4. **Leader's name** - Who is this person? Background?
 5. **Right-hand man** - Name, role, personality?
 6. **What's the denser material?** - What are the blocks actually made of?
-7. ~~**What do they want from Sam?**~~ - Energy optimization, not just siphoning
-8. **The gauge** - What exactly is it measuring? Air quality? H2S? Something else?
+7. **The gauge** - What exactly is it measuring? Air quality? H2S? Something else?
+8. **The false stash layer** - Include logistics warehouse as misdirect, or cut for pacing?
