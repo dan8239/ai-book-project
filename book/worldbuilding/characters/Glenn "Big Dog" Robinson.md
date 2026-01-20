@@ -21,7 +21,7 @@ He's essentially distributed—a "god" in terms of capability. He exists at loca
 
 ### Formal Relationship to Sam
 
-Glenn is the **Driver for the colonization project** ([[../simulation/colonization/colonization-program|Project Te Waka Ora]]). This is his formal relationship to [[protagonist|Sam]].
+Glenn is the **Driver for the colonization project** ([[../simulation/colonization/colonization-program|Project Te Waka Ora]]). This is his formal relationship to [[Sam|Sam]].
 
 Driver and Controller are equal but necessary—Glenn doesn't outrank Sam, and Sam doesn't outrank Glenn. They're complementary roles in Honeycomb's structure.
 
@@ -126,7 +126,6 @@ Anyway, I'm just like you in my scope. The real scope. My memory allocation is t
 
 **Weird shit he's tried (throwaway sims) - physical changes:**
 - Made one random guy immortal just to see what happens. He's still screaming.
-- Removed copper from the periodic table. That one was actually kind of interesting.
 
 This establishes that small physical/constant changes to simulations are possible. Sets the table for protagonist's physics tweak to fix the guillotine.
 

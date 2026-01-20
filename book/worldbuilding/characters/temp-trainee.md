@@ -5,7 +5,7 @@
 
 ## Role
 
-Statistical / PhD type that [[protagonist|Protagonist]] is getting up to speed on his optimization work.
+Statistical / PhD type that [[Sam|Protagonist]] is getting up to speed on his optimization work.
 
 ## Narrative Function
 

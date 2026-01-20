@@ -35,7 +35,7 @@ Post-Refactor government obsessed with biological/species survival R&D:
 - Population optimization
 - Planetary colonization planning
 
-This is why [[../characters/protagonist|Protagonist]] is deep in DNA data (where [[../characters/devsecops-woman|DevSecOps]] hid message).
+This is why [[Sam|Protagonist]] is deep in DNA data (where [[../characters/devsecops-woman|DevSecOps]] hid message).
 
 ## Geography
 Idaho desert area, arid climate, resource constraints visible.
@@ -44,7 +44,7 @@ Idaho desert area, arid climate, resource constraints visible.
 - The only company that matters is organized with human-in-the-loop AI teams
 - Really small and productive teams
 - AI agents work autonomously on long projects
-- Both [[../characters/protagonist|protagonist]] and [[../characters/co-worker-geneticist|co-worker]] are hyper exceptional at their job but basically run a small staff that are all autonomous (all AI agents)
+- Both [[Sam|Sam]] and [[../characters/co-worker-geneticist|co-worker]] are hyper exceptional at their job but basically run a small staff that are all autonomous (all AI agents)
 
 ## News & Media
 TBD - how does news work in this world?

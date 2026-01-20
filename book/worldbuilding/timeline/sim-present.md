@@ -1,6 +1,6 @@
 # Sim Present (~2225)
 
-**Characters in this era:** [[../characters/protagonist|Protagonist]], [[../characters/co-worker-geneticist|Co-Worker]], [[../characters/claude-assistants|Claude Assistants]]
+**Characters in this era:** [[Sam|Protagonist]], [[../characters/co-worker-geneticist|Co-Worker]], [[../characters/claude-assistants|Claude Assistants]]
 
 ## Timeline Position
 - Dozens of generations after [[early-sim-era|DevSecOps's era]]
@@ -29,6 +29,6 @@ The scheduled discovery happens - CPU planted by [[../characters/devsecops-woman
 See [[../mystery/protagonist-clues|Protagonist's discovery path]].
 
 ## Work & Technology
-- [[../characters/protagonist|Protagonist's]] job: Agricultural optimization, massive ecological optimization engine
+- [[Sam|Protagonist's]] job: Agricultural optimization, massive ecological optimization engine
 - AI agents work autonomously on long projects
 - Teams are small but hyper-productive with AI assistance

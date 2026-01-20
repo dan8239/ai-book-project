@@ -57,7 +57,7 @@ All value is measured through automated energy savings validation:
 - Representative sampling
 - Out-of-the-box billing
 
-*Note: [[../characters/protagonist|Sam]] built the M&V system. He's wealthy from royalties on it.*
+*Note: [[Sam|Sam]] built the M&V system. He's wealthy from royalties on it.*
 
 ### Job Market
 
@@ -119,7 +119,7 @@ This is how Sam actually makes money — not the food stuff. The M&V system. Foo
 
 ## Sam's Relationship to Honeycomb
 
-[[../characters/protagonist|Sam]] is unusual in this world:
+[[Sam|Sam]] is unusual in this world:
 - Built the **M&V system** that underpins all economic measurement
 - Takes **Controller positions** on short contracts (has been a local hex Controller, family Driver, other contracts)
 - Posts **open source projects** that sometimes get funded/forked

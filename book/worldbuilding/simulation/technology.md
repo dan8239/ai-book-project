@@ -9,7 +9,7 @@
 - General intelligence, widely customizable and flexible
 - Embedded into every product
 - [[../world/organizations/google-proxy-company|Company]] runs instances for everyone's agents, every SaaS product
-- This is how [[../characters/protagonist|protagonist]] builds his team
+- This is how [[Sam|Sam]] builds his team
 
 ### Agent Characteristics
 - [[../characters/claude-assistants|Claude assistants]] have athlete nicknames

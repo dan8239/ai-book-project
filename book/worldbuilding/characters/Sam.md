@@ -1,8 +1,8 @@
-# Protagonist
+# Sam Sp
 
 **Name:** Sam
 **Gender:** Male
-**Age:** 34
+**Age:** 31
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 **Location:** [[../world/rossland|Rossland]], BC Kootenays
 
@@ -237,8 +237,8 @@ This shows how the typical career is much shorter. Nobody's grinding for 50 year
 
 | Phase | What he thinks the problem is | Reality |
 |-------|-------------------------------|---------|
-| Act 1 (early) | Money - worried about 3rd kid | Money isn't the issue |
-| Act 2A | Still money - throws money at it (nanny, bigger place) | She's flattered but it doesn't fix anything |
+| Act 1 (early) | Nothing — he's about to do something important | She wants him present for 3rd kid |
+| Act 2A | The job is the problem — once it's done he'll be around | She's closing off, gravitating back toward Tina's world |
 | Act 2B | Finally realizes: time/presence | Being a family was always the issue |
 
 **Key scene:** He's clearly hiding something (simulation discovery). She thinks he's cheating. He tells her the truth. She believes him but doesn't care: "If we're in a simulation or not, how does it change my life?"
@@ -260,17 +260,19 @@ TBD
 
 ### Want / Need / Flaw
 
-- **Flaw:** Can't accept what he can't control. Prioritizes saving everyone over being present with his own family.
-- **Lie he believes:** "If I work hard enough I can fix this"
-- **Want:** To save humanity / the planet
-- **Need:** To realize presence with his family IS enough
-- **Irony:** He can't save Earth. But he CAN save his simulation family - the thing he learned to value is the thing he can actually protect.
+- **Flaw:** Lives in the clouds — tech-obsessed, always optimizing, never present. Prioritizes legacy over the people in front of him.
+- **Lie he believes:** Legacy is meaning. If his name outlasts him, he mattered.
+- **Want:** Legacy — his name on every planet, remembered as the one who saved humanity.
+- **Need:** To realize presence with his family IS enough. Being here matters more than being remembered.
+- **Irony:** He can't save Earth. But he CAN save his simulation family — the thing he learned to value is the thing he can actually protect.
+
+**The arc:** He starts in the clouds chasing legacy. He ends on the ground, present with his family.
 
 ### Arc Trajectory
 
-**Start:** Fighting to save the planet while ignoring family. Wife begging him to be present. He's the one yelling at everyone that it's not too late (but it already is). Those around him have accepted it.
+**Start:** In the clouds — tech-obsessed, optimizing, chasing legacy. Wife begging him to be present. He thinks the colonization project will make him matter.
 
-**End:** Lets go of saving everything. Only cares about his family. Acts (saves the simulation) even knowing it might not matter. The 0.3% who act.
+**End:** On the ground, present. Lets go of legacy. Only cares about his family. Acts (saves the simulation) even knowing it might not matter.
 
 ### Story Beats (Hero's Journey mapped)
 

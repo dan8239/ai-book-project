@@ -7,7 +7,7 @@
 **Usage:** Pre-Refactor humans before tracking, optimization, selection. Baseline. What we were before we were optimized.
 
 ## Archaeological vs Actual
-**Usage:** [[../characters/protagonist|Protagonist]] thinks data is archaeological. Actually it's present-day 'wild' humans. Misunderstanding the past.
+**Usage:** [[Sam|Protagonist]] thinks data is archaeological. Actually it's present-day 'wild' humans. Misunderstanding the past.
 
 ## Self-Replicating Systems
 **Usage:** AI agents, simulations, compression patterns, training cycles. Everything replicates itself.

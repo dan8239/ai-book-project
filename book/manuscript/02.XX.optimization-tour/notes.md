@@ -326,5 +326,5 @@ This creates conflict. Falling out with Ramona. Iciness. He shattered her daydre
 ## Links
 
 - [[../../worldbuilding/world/mountain-facility|Mountain Facility Infrastructure]]
-- [[../../worldbuilding/characters/protagonist|Sam]]
+- [[Sam|Sam]]
 - [[../../worldbuilding/world/rossland|Rossland]]

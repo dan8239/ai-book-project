@@ -179,7 +179,7 @@ The colonization program isn't about expansion. It's about whether ANY humans su
 
 ## How This Is Exposed In Story
 
-[[../characters/protagonist|Protagonist]] is focused on "making the faucet bigger" - optimizing yield. He's not deeply versed in the historical causes.
+[[Sam|Protagonist]] is focused on "making the faucet bigger" - optimizing yield. He's not deeply versed in the historical causes.
 
 [[../characters/temp-trainee|The temp/trainee]] he's getting up to speed is a statistical/PhD type who knows the macro picture. Through training sessions, the temp explains in remedial terms:
 - How we got here (cloud breakup, models wrong)

@@ -119,4 +119,4 @@ He lives in one of the most interesting physical places on Earth - and he barely
 
 - [[mountain-facility|Mountain Facility Infrastructure]] - The legacy human settlement beneath
 - [[../../timeline/refactor/legacy-humans|Legacy Humans]] - The underground civilization
-- [[../characters/protagonist|Sam]] - Lives here, works in the clouds
+- [[Sam|Sam]] - Lives here, works in the clouds

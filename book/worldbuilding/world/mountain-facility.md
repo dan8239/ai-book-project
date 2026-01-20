@@ -194,4 +194,4 @@ There are about a hundred guys named Mike, Steve, and Tim. Sam will need multipl
 
 - [[../../timeline/refactor/legacy-humans|Legacy Humans]] - The settlement this infrastructure supports
 - [[rossland|Rossland]] - The surface town, water being strangled
-- [[../characters/protagonist|Sam]] - Does optimization work here
+- [[Sam|Sam]] - Does optimization work here

@@ -20,5 +20,5 @@ Maybe at the origin story of that company while they're still small.
 Provides the seed data (23andMe-style genetic data) that bootstraps the simulation.
 
 ## Open Questions
-- Is this the same company [[../../characters/protagonist|protagonist]] works at?
+- Is this the same company [[Sam|Sam]] works at?
 - Division, spinoff, or separate partnership with [[google-proxy-company|Google proxy]]?

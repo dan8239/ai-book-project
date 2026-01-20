@@ -6,7 +6,7 @@
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 
 ## Role
-Statistical Geneticist - DNA domain expert who works closely with [[protagonist|Protagonist]].
+Statistical Geneticist - DNA domain expert who works closely with [[Sam|Protagonist]].
 
 ## Expertise
 - Population genetics
@@ -21,7 +21,7 @@ Statistical Geneticist - DNA domain expert who works closely with [[protagonist|
 Takes most of the DNA expertise from the protagonist. Understands what genetic patterns mean - interprets population bottlenecks, linkage disequilibrium, selection signatures.
 
 - Co-worker identifies interesting genetic questions
-- [[protagonist|Protagonist]] builds optimization frameworks to answer them
+- [[Sam|Protagonist]] builds optimization frameworks to answer them
 - Co-worker validates results biologically
 
 **Opening line:** "What are you optimizing for?"
