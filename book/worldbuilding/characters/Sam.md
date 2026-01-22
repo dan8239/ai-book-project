@@ -48,6 +48,21 @@ The temp in 01.03.work is who he's bringing on to replace him.
 ### What Makes Him Rare
 Most people just work on AI-originated projects. Sam still originates work that AGI later adopts and maintains. This is increasingly unusual.
 
+### The Rossland Mining Museum
+
+Sam is the de-facto owner of the Rossland Mining Museum—funded it through an enormous donation, years in the making.
+
+**The cover story:** Historical preservation, tourism revival for the dying ski town.
+
+**The real purpose:**
+1. **Tourism facade** — Creates legitimate traffic to the mountain. First time Ramona can safely visit her sister in 20 years.
+2. **Energy laundering** — Dummy servers that "run the museum" but actually feed power into the legacy human settlement below.
+
+This is how Sam siphons energy without detection. The museum's "compute infrastructure" has anomalous power draw, but it's his museum—who's going to question it?
+
+**The irony:** He built this elaborate years-long scheme so Ramona could see Tina. But he himself is never present with his own family.
+
+---
 
 ## Motivation
 

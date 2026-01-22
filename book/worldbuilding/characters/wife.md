@@ -53,9 +53,18 @@ Tina is in a legacy human settlement (off-grid). The one who saved her. She love
 
 Her husband secretly diverts energy to support the settlement.
 
-### The Jealousy
+### The 20-Year Separation
 
-Ramona is jealous of the time Sam spends with Tina. Complicated feeling — she loves them both, wants them to get along, but also feels left out. Sam goes more often than she does. They share something work-related she's excluded from.
+Since the H₂S incident forced Ramona above-ground:
+- Letters have been their main connection
+- Tina occasionally visits above-ground (risky, incognito, can't use AI services)
+- Ramona has NEVER gone back—too dangerous. She's on-grid. Repeated visits = investigation = "turned off"
+
+Sam made an enormous donation to fund a mining museum restoration, creating a tourism facade. First time Ramona can safely visit.
+
+### The Jealousy (After First Contact)
+
+Once the museum cover is operational, Sam starts going to the settlement regularly for optimization work. Ramona becomes jealous of the time Sam spends with Tina. Complicated feeling — she loves them both, wants them to get along, but also feels left out. Sam goes more often than she does. They share something work-related she's excluded from.
 
 ### Ramona's Visit
 

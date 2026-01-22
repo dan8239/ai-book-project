@@ -24,17 +24,42 @@ It started with everyone's watch going off. Masks on, scrambling out. Ramona was
 
 Ramona recovered above-ground, but the long-term effects couldn't be fixed below. Tina stayed. This is the founding moment of their relationship — she saved her sister's life, then watched her leave forever.
 
+## The 20-Year Separation
+
+**Contact since Ramona left:**
+- Letters (main connection)
+- Tina occasionally visits above-ground—very risky, incognito, can't use any AI-monitored services
+- Ramona has NEVER gone back. Too dangerous. She's on-grid (nanobots). Repeated visits to a deprecated area = investigation = Sam's energy siphoning exposed = "turned off"
+
+**Why it's illegal:**
+- Giving resources to deprecated civilians is illegal
+- Extreme cases: they'll "turn you off"
+- Sam's energy diversion is a serious crime, not just frowned upon
+
+**The Museum Cover:**
+- Sam made an enormous donation to fund a mining museum restoration in Rossland
+- Created a tourism facade—legitimate traffic to the mountain
+- Years in the making, finally operational
+- First time Ramona can safely visit under cover of tourism
+- Sam did this FOR Ramona—irony: he's always elsewhere, but he built this so she could see her sister
+
 ## The Secret Support
 
-Sam secretly diverts extra energy from his allocation to keep the settlement running.
+Sam secretly diverts energy to keep the settlement running—through the Rossland Mining Museum.
 
+**The mechanism:**
+- Sam is de-facto owner of the museum (funded through enormous donation)
+- Dummy servers "run the museum" but actually feed power into the settlement
+- His museum, his compute infrastructure—who's going to question the power draw?
+
+**The family situation:**
 - Sam's whole family is on-grid (he doesn't believe in the legacy lifestyle)
 - Ramona is on-grid (the H₂S incident forced her onto grid for medical care)
 - She loves her sister, so Sam supports them
 
-## The Financial Squeeze
+## The Energy Crisis
 
-Sam's siphoning is a drop in the bucket for a 10,000-person city. He's helping, but not enough. The pressure on him to do more is constant. He's squeezed financially, doesn't quite belong in either world.
+Sam's siphoning is a drop in the bucket for a 10,000-person city. He's helping, but not enough. They need more than energy—they need optimization. That's what brings Sam underground for real work (after the First Contact visit).
 
 ## The AI Knows
 

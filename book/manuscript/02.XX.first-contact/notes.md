@@ -66,11 +66,23 @@ As they go deeper, the journey should feel like passing through the guts of the 
 
 This is Ramona's POV moment. She's going back to a place she hasn't been in years. Memories are surfacing.
 
+**The 20-Year Gap:**
+- Ramona left after the H₂S incident (~20 years ago)
+- Letters have been their main connection
+- Tina occasionally visited above-ground (risky, incognito, can't use AI services)
+- Ramona has NEVER gone back—too dangerous. She's on-grid (nanobots). Repeated visits to a deprecated area = investigation = Sam's energy siphoning exposed = "turned off"
+
+**Why NOW:**
+- Sam made an enormous donation to fund a mining museum restoration
+- Created a tourism facade—legitimate traffic to the mountain
+- This is the payoff of something Sam planned for years
+- First time Ramona can safely visit under cover of tourism
+
 **What the conversation should explore:**
-- Have Tina and Ramona been in contact the last 10 years? If not, why not?
-- Why can they visit NOW? What has changed?
-- Ramona's memories of this place—childhood? The H₂S incident that drove her above-ground?
-- The weight of returning
+- Ramona's memories surfacing—childhood, the H₂S incident, leaving Tina behind
+- The weight of returning after 20 years
+- Maybe gratitude toward Sam for making this possible (even as she wishes he were more present)
+- The irony: he built this elaborate scheme for her, but he's always elsewhere
 
 **Mood:**
 - Quietly following Ramona
@@ -469,7 +481,7 @@ How much energy reduction do we need to make it to spring? Get to where the sun 
 - ~~**False stash layer**~~ - Cut for pacing
 
 ### Still Open
-1. **Why can they visit NOW?** - What changed in the last 10 years? (feeds into descent conversation)
+1. ~~**Why can they visit NOW?**~~ - RESOLVED: Sam's enormous donation funded a mining museum restoration, creating a tourism facade. Legitimate traffic to the mountain = cover for Ramona to visit.
 2. **Leader's name** - Who is this person? Background?
 3. **Right-hand man** - Name, role, personality?
 4. **What's the denser material?** - What are the blocks actually made of?
