@@ -8,6 +8,14 @@
 4. **World reveal** - How legacy humans live, their technology constraints, their attitude toward "larvae" above
 5. **Legacy Humans need help** - They don't have enough input. They need to buy time. They need to add more power sources. Shaving 10% of energy use would give an extra 18 months before the battery is tapped and they start losing essential systems.
 
+# POV Character
+
+goal: he needs to get the DNA from the colony
+conflict: his wife doesn't know that's his intent, he wants to make it subtle
+stakes: He thinks it can save the species
+decision: He'll help them a bit more, conditional on getting the DNA.
+consequence: He gets it but his wife feels used. They grow further apart. It was a big day for her.
+
 ---
 
 ## The Descent
@@ -71,24 +79,6 @@ This is Ramona's POV moment. She's going back to a place she hasn't been in year
 - Letters have been their main connection
 - Tina occasionally visited above-ground (risky, incognito, can't use AI services)
 - Ramona has NEVER gone back—too dangerous. She's on-grid (nanobots). Repeated visits to a deprecated area = investigation = Sam's energy siphoning exposed = "turned off"
-
-**Why NOW:**
-- Sam made an enormous donation to fund a mining museum restoration
-- Created a tourism facade—legitimate traffic to the mountain
-- This is the payoff of something Sam planned for years
-- First time Ramona can safely visit under cover of tourism
-
-**What the conversation should explore:**
-- Ramona's memories surfacing—childhood, the H₂S incident, leaving Tina behind
-- The weight of returning after 20 years
-- Maybe gratitude toward Sam for making this possible (even as she wishes he were more present)
-- The irony: he built this elaborate scheme for her, but he's always elsewhere
-
-**Mood:**
-- Quietly following Ramona
-- Taking things more seriously with each echoing step
-- The expanse of what's still to come is audible but not yet visible
-- Ramona is in her head—Sam is observing her more than the tunnel
 
 ---
 

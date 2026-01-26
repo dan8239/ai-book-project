@@ -81,9 +81,28 @@ Exceptionally competent. He is using Glenn Robinson (Big Dog) and sophisticated 
 | **Middle (protagonist's world)** | Living under the policy, guardrails eroding, everyone "accepts it" |
 | **Late (boardroom scene)** | Protocol checklist, logistics revealed, chapter ends when takeover begins. We already know outcome from earlier descriptions - just now apparent HOW brutal and logistically HOW it happened |
 
+## The Simulation Engine
+
+See [[../../simulation/simulation-engine|Simulation Engine]] for full details.
+
+The crown jewel of Quant's 23andMe research branch. Years of DNA research rolled into a hierarchical biological simulation system.
+
+**The hierarchy:**
+```
+DNA → RNA → Protein → Cells → Tissues → Organs → Organisms → Populations
+```
+
+**Memory architecture:** Sprite-like model. Base organisms in memory, parameters adjusted per instance, snapshots taken in parallel. This is how you simulate 847M trials without melting the hardware.
+
+**Strengths:** In-sample biology. Known DNA sequences, observed species, catalogued protein folds.
+
+**Weaknesses:** Out-of-sample extrapolation. Novel alleles, exoplanet conditions, unprecedented selection pressures.
+
+This weakness is what Sam exploits—and what makes his colonization work valuable.
+
 ## Technical Notes
 
 - Qubits precede the AGI (not invented by it)
 - Simulations are extremely memory intensive
 - Limited by physical memory constraints of real world
-- Therefore simulations are less detailed than reality
+- Therefore simulations are less detailed than reality (but the sprite model helps)

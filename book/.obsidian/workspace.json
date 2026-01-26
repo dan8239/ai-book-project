@@ -8,32 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "476135370e9edc0f",
+            "id": "85422e03d1201a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "worldbuilding/characters/Sam.md",
+                "file": "manuscript/02.XX.first-contact/First Contact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam"
+              "title": "First Contact"
             }
           }
         ]
       },
       {
-        "id": "d77a5d2a75932563",
+        "id": "f02e8b780892563f",
         "type": "tabs",
         "children": [
           {
-            "id": "212fad327e3140df",
+            "id": "c53dc1ff84b53b20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/02.XX.mountain/notes.md",
+                "file": "manuscript/02.XX.first-contact/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,22 +203,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f9214c28e04febe",
+  "active": "85422e03d1201a65",
   "lastOpenFiles": [
+    "manuscript/02.XX.first-contact/notes.md",
+    "manuscript/02.XX.first-contact/First Contact.md",
+    "manuscript/02.XX.mountain/notes.md",
+    "manuscript/02.XX.mountain/Into the Mountain.md",
+    "worldbuilding/world/rossland.md",
+    "worldbuilding/world/mountain-facility.md",
+    "worldbuilding/themes/themes.md",
+    "worldbuilding/themes/motifs.md",
+    "worldbuilding/themes/style-guide.md",
+    "worldbuilding/characters/Sam.md",
+    "worldbuilding/simulation/simulation-engine.md",
     "worldbuilding/timeline/refactor/mechanics.md",
     "worldbuilding/timeline/refactor/broadcast.md",
     "worldbuilding/world/organizations/dna-company.md",
-    "manuscript/02.XX.mountain/Into the Mountain.md",
-    "manuscript/02.XX.mountain/notes.md",
     "2026-01-19.md",
-    "worldbuilding/world/rossland.md",
-    "worldbuilding/world/mountain-facility.md",
     "worldbuilding/world/memory-map-gadget.md",
     "worldbuilding/world/honeycomb.md",
     "worldbuilding/characters/grant-melrose.md",
     "manuscript/02.XX.optimization-tour/notes.md",
     "manuscript/02.XX.optimization-tour",
-    "manuscript/02.XX.first-contact/notes.md",
     "manuscript/03.08.coffee_guy/notes.md",
     "worldbuilding/simulation/honeycomb-policy.md",
     "manuscript/00.00.prologue/notes.md",
@@ -231,12 +236,6 @@
     "worldbuilding/characters/wife.md",
     "manuscript/02.XX.gondola",
     "worldbuilding/characters/twin-sister.md",
-    "manuscript/act_3/chapter.md",
-    "manuscript/03.09.the_zoom/chapter.md",
-    "manuscript/03.08.coffee_guy/chapter.md",
-    "manuscript/03.07.the_button/chapter.md",
-    "manuscript/01.0x.discovery/chapter.md",
-    "manuscript/01.06.birthday/chapter.md",
     "manuscript/act_3/03.09.the_aquarium_pt_ii",
     "manuscript/03.09.the_zoom/notes.json",
     "manuscript/03.08.coffee_guy/notes.json",
