@@ -1,8 +1,14 @@
-# Mr. Spencer (Ramona & Tina's Father)
+# Franklin Ross Spencer (Ramona & Tina's Father)
 
-**Name:** TBD Spencer
+**Name:** Franklin Ross Spencer
+**Dates:** 2137-2178
 **Status:** Deceased
 **Role:** HVAC technician / ventilation expert in the legacy human settlement
+
+**Headstone:**
+> *Franklin Ross Spencer*
+> 2137-2178
+> *Behind every breath, his hand*
 
 ## Expertise
 

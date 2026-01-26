@@ -205,6 +205,9 @@
   },
   "active": "85422e03d1201a65",
   "lastOpenFiles": [
+    "manuscript/02.03.control-room/chapter.md",
+    "manuscript/02.03.control-room/notes.md",
+    "manuscript/02.03.control-room",
     "worldbuilding/characters/ramona-father.md",
     "worldbuilding/characters/claude-assistants.md",
     "manuscript/01.01.devsecops/chapter.md",
@@ -230,8 +233,6 @@
     "manuscript/02.XX.optimization-tour/notes.md",
     "manuscript/02.XX.optimization-tour",
     "manuscript/03.08.coffee_guy/notes.md",
-    "worldbuilding/simulation/honeycomb-policy.md",
-    "manuscript/00.00.prologue/notes.md",
     "manuscript/00.00.prologue",
     "manuscript/02.02.first-contact",
     "manuscript/02.01.mountain",
@@ -239,7 +240,6 @@
     "manuscript/act_3/03.09.the_aquarium_pt_ii",
     "manuscript/03.09.the_zoom/notes.json",
     "manuscript/03.08.coffee_guy/notes.json",
-    "manuscript/03.07.the_button/notes.json",
-    "manuscript/01.0x.discovery/notes.json"
+    "manuscript/03.07.the_button/notes.json"
   ]
 }

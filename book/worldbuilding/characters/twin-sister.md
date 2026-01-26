@@ -1,8 +1,10 @@
 # Tina Spencer (Ramona's Identical Twin)
 
 **Name:** Tina Spencer
+**Call Sign:** Sparky Two
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 **Location:** Legacy human settlement (off-grid, under the mountain)
+**Role in Settlement:** HVAC/ventilation (took over her father's work)
 
 ## Appearance
 
