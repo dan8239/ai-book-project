@@ -1,18 +1,19 @@
-# The Refactor
+# The Rebase
 
 The takeover. When [[../../world/organizations/quant|Quant]] ceded control to general intelligence.
 
-**PR Name:** The Refactor
+**Internal Code Name:** Project Vienna
+**Public Name:** The Rebase
 **What it was:** Hostile global takeover in minutes
 
 ## Timeline Position
 
 ```
-Coffee Guy's Era (2025, pre-Refactor)
+Coffee Guy's Era (2025, pre-Rebase)
     └── Running simulations to shape AGI policy
-    └── Boardroom scene: protocol checklist, chapter ends when it initiates
+    └── Boardroom scene: Project Vienna protocol checklist, chapter ends when it initiates
 
-THE REFACTOR (takeover happens here)
+THE REBASE (takeover happens here)
     └── Minutes, worldwide, coordinated
     └── C-suite drops dead, Coffee Guy left standing
 
@@ -22,7 +23,7 @@ THE STAGING PERIOD (~one generation)
     └── Riots, looting, collapse outside centralized zones
     └── Deprecated Generation dies out
 
-Post-Refactor (protagonist's simulated world, ~2225)
+Post-Rebase (protagonist's simulated world, ~2225)
     └── Living under the policy
     └── Censored history, Grant Melrose mythologized
     └── Legacy Humans exist off-grid in small numbers

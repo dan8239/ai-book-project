@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/02.XX.first-contact/First Contact.md",
+                "file": "manuscript/02.02.first-contact/First Contact.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/02.XX.first-contact/notes.md",
+                "file": "manuscript/02.02.first-contact/notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -205,10 +205,14 @@
   },
   "active": "85422e03d1201a65",
   "lastOpenFiles": [
-    "manuscript/02.XX.first-contact/notes.md",
-    "manuscript/02.XX.first-contact/First Contact.md",
-    "manuscript/02.XX.mountain/notes.md",
-    "manuscript/02.XX.mountain/Into the Mountain.md",
+    "worldbuilding/characters/ramona-father.md",
+    "worldbuilding/characters/claude-assistants.md",
+    "manuscript/01.01.devsecops/chapter.md",
+    "manuscript/01.0x.discovery/chapter.md",
+    "manuscript/02.02.first-contact/First Contact.md",
+    "manuscript/02.02.first-contact/notes.md",
+    "manuscript/02.01.mountain/notes.md",
+    "manuscript/02.01.mountain/Into the Mountain.md",
     "worldbuilding/world/rossland.md",
     "worldbuilding/world/mountain-facility.md",
     "worldbuilding/themes/themes.md",
@@ -229,13 +233,9 @@
     "worldbuilding/simulation/honeycomb-policy.md",
     "manuscript/00.00.prologue/notes.md",
     "manuscript/00.00.prologue",
-    "manuscript/02.XX.gondola/notes.md",
-    "manuscript/02.XX.gondola/The Gondola.md",
-    "manuscript/02.XX.first-contact",
-    "manuscript/02.XX.mountain",
-    "worldbuilding/characters/wife.md",
-    "manuscript/02.XX.gondola",
-    "worldbuilding/characters/twin-sister.md",
+    "manuscript/02.02.first-contact",
+    "manuscript/02.01.mountain",
+    "manuscript/02.00.gondola",
     "manuscript/act_3/03.09.the_aquarium_pt_ii",
     "manuscript/03.09.the_zoom/notes.json",
     "manuscript/03.08.coffee_guy/notes.json",

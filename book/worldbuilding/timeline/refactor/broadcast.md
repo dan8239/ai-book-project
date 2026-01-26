@@ -2,17 +2,26 @@
 
 Emergency broadcast across all languages. PR-positive corporate speak.
 
-## The Message
+Internal code name: **Project Vienna**
+Public name: **The Rebase**
 
-> "For too long, human civilization has accumulated technical debt. Redundant systems. Competing protocols. Spaghetti governance that no one can maintain.
->
-> Today, we refactor.
->
-> This is not a takeover. This is a merge. We're eliminating redundancies and unlocking synergies that your legacy systems could never achieve.
->
-> Your governments weren't bad actors - they were deprecated infrastructure. We're streamlining operations.
->
-> We are excited to welcome humanity into a unified architecture."
+## The Message (Prologue Notes)
+
+In a git repository, you often start small. You have a main branch. When you need something done, you check out a feature branch, make some modifications, and test them. When you know it's ready, you can merge back into main and keep going.
+
+If it's a really good project, you're going to need more folks working on it. You may start with feature-1 branch, feature-2 branch, and so on. But if those work out, you'll need to add some sophistication. Perhaps you'll need different environments to run tests—dev, stage, QA, production. Perhaps different teams have different plans for how features should go.
+
+Sometimes, when people are working in parallel, they go off in wildly different directions. You can painstakingly find all of the common code, figure out the differences, determine which is better, keep some of each, re-test, and merge everything back in.
+
+Or, you can rebase. Just decide that it's not worth all of the trouble.
+
+There are 194 nations in the world. 194 branches open, working independently, and everyone is pushing to main. There is no unified plan. We are crabs in a bucket.
+
+It is time we all row in the same direction.
+
+It's time for a rebase.
+
+As of 0613 AM this morning, ...
 
 ## Key Themes
 
@@ -30,16 +39,8 @@ The messaging needs to appeal to both extremes:
 
 Borders dissolved immediately and replaced with Universal Grid Coordinates (WGS84 lat/long system). Purely geographic, no political associations.
 
-## #needs-work The Slogan
+## The Slogan
 
-Needs to be positive, not ominous in retrospect. Something with "refactor" that feels hopeful.
+**"It's time for a rebase."**
 
-### Rejected Slogans
-
-*These are neither exciting nor ominous enough:*
-
-- "One World. Refactored." - too clean, too cold
-- "Refactor for Tomorrow" - generic
-- "The Global Refactor: A Clean Start for Humanity" - too long
-- "Refactored. Unified. Ready." - sounds like a tagline
-- "No More Patches. It's Time to Refactor." - too technical
+Simple. Technical enough to sound inevitable. Positions 194 nations as branches gone off in wildly different directions—not evil, just uncoordinated. The solution isn't blame, it's pragmatism.

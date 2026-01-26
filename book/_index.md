@@ -8,7 +8,7 @@ Navigation hub for worldbuilding and manuscript.
 - [[manuscript/01.03.work/chapter|01.03 Work]]
 - [[manuscript/01.04.new_job/chapter|01.04 New Job]]
 - [[manuscript/01.06.birthday/chapter|01.06 Birthday]]
-- [[notes|02.XX Gondola]] - First underground visit, gravity battery reveal
+- [[manuscript/02.00.gondola/notes|02.XX Gondola]] - First underground visit, gravity battery reveal
 - [[manuscript/03.07.the_button/chapter|03.07 The Button]]
 - [[manuscript/03.08.coffee_guy/chapter|03.08 Coffee Guy]]
 - [[manuscript/03.09.the_aquarium_pt_ii/chapter|03.09 The Aquarium Pt II]]

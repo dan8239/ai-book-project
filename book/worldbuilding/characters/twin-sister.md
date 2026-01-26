@@ -1,6 +1,6 @@
-# Tina (Ramona's Identical Twin)
+# Tina Spencer (Ramona's Identical Twin)
 
-**Name:** Tina
+**Name:** Tina Spencer
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
 **Location:** Legacy human settlement (off-grid, under the mountain)
 
@@ -20,9 +20,29 @@ Ramona's identical twin sister. Lives off-grid in a legacy human settlement. The
 
 ## The H₂S Incident
 
-It started with everyone's watch going off. Masks on, scrambling out. Ramona was down a level. Tina went back to save her — found her unconscious. They got her out.
+### Tina's Guilt
 
-Ramona recovered above-ground, but the long-term effects couldn't be fixed below. Tina stayed. This is the founding moment of their relationship — she saved her sister's life, then watched her leave forever.
+Tina was helping her [[ramona-father|father]] commission the safety sequencing system. She made an error. When the H₂S event happened, the sequencing didn't execute properly—max exhaust on the affected floor, pressurize above and below. The system her father designed was sound. Her commissioning wasn't.
+
+### What Happened
+
+It started with everyone's watch going off. Masks on, scrambling out. Ramona was down a level—she wasn't supposed to be there. She was with her boyfriend (Tina had told her to dump him).
+
+Their father ran in WITHOUT his gas mask. He barely got Ramona out—she was unconscious. The boyfriend was still down there. Their father went back for him.
+
+They found both bodies later.
+
+### The Aftermath
+
+Ramona recovered above-ground, but the long-term effects couldn't be fixed below. Tina stayed.
+
+**What Tina carries:**
+- Her commissioning error contributed to the system failure
+- Her father died because of it
+- She told Ramona to dump the boyfriend—if Ramona had listened, none of this would have happened
+- She watched her sister leave forever
+
+This is the founding moment of their relationship—and the weight Tina has carried for 20 years.
 
 ## The 20-Year Separation
 

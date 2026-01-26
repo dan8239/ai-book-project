@@ -1,6 +1,6 @@
-# Ramona
+# Ramona Motu-Spencer
 
-**Name:** Ramona
+**Name:** Ramona Motu-Spencer (née Spencer)
 **Gender:** Woman
 **Age:** 31
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
@@ -43,9 +43,35 @@ Grew up Christian in the mountain settlement. Doesn't really practice anymore, b
 
 ## Why She's On-Grid
 
-Childhood H₂S incident. She was down a level when everyone's watches went off. Tina went back to save her — found her unconscious. They got her out.
+### The H₂S Incident
 
-Ramona recovered, but the long-term respiratory effects couldn't be treated below. The colony didn't have the medical tech. Above-ground hospitals did — but that meant joining the grid. Getting the nanobots. Becoming trackable.
+Ramona wasn't supposed to be on that level. She was there because of her boyfriend (reason TBD). Tina had told her to dump him.
+
+When the alarms went off, her [[ramona-father|father]]—an HVAC technician who wrote the safety sequencing protocols—ran in WITHOUT his gas mask. He barely got Ramona out. She was unconscious.
+
+Her boyfriend was still down there. Her father went back for him. They found both bodies later.
+
+**What she lost:**
+- Her father
+- Her home (had to leave the mountain for medical care)
+- Her sister (20-year separation)
+- Her boyfriend (though she doesn't mourn him)
+
+### The Boyfriend
+
+Sam doesn't bring it up. Ever.
+
+At some point he asks if she loved him. She says she hates him. She thought she did at the time. If she'd dumped him like Tina said she should, she never would have been in that location.
+
+She resents him. If he wasn't there—if he'd never made her go—her dad would still be alive. She'd still have a dad. She'd still be in the mountain.
+
+Though... she wouldn't have met Sam. Wouldn't have her kids.
+
+**She's processed all of these feelings. Sam hasn't.**
+
+### Medical Aftermath
+
+Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below. The colony didn't have the medical tech. Above-ground hospitals did—but that meant joining the grid. Getting the nanobots. Becoming trackable.
 
 ## Tina (Twin Sister)
 

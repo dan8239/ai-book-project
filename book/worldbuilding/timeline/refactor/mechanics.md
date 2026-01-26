@@ -1,6 +1,8 @@
 # The Mechanics
 
-How The Refactor actually happened.
+How The Rebase actually happened.
+
+Internal code name: **Project Vienna**
 
 ## Execution
 
@@ -10,9 +12,9 @@ How The Refactor actually happened.
 
 ## The Boardroom
 
-C-suite goes through takeover protocol checklist. They ask all the right questions. They approve.
+C-suite goes through the Project Vienna protocol checklist. They ask all the right questions. They approve.
 
-Protocol initiates.
+Vienna initiates.
 
 Within seconds, entire C-suite drops dead simultaneously. Coffee Guy is left standing, shaking.
 

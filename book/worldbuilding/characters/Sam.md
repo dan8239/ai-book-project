@@ -1,6 +1,6 @@
-# Sam Sp
+# Sam Motu-Spencer
 
-**Name:** Sam
+**Name:** Sam Motu-Spencer (née Motu)
 **Gender:** Male
 **Age:** 31
 **Era:** [[../timeline/sim-present|Sim Present (~2225)]]
@@ -97,7 +97,7 @@ Need something here that explains why he is capable of actually solving the prob
 
 ### How / why is he different from the other 850M simulations? What leap does he take?
 
-He's not special. He's just the first to get there.
+He's not special. He's just the first that glenn lets use his simulator.
 
 ### How does he deal with that failure or punish himself?
 
@@ -288,6 +288,19 @@ TBD
 **Start:** In the clouds — tech-obsessed, optimizing, chasing legacy. Wife begging him to be present. He thinks the colonization project will make him matter.
 
 **End:** On the ground, present. Lets go of legacy. Only cares about his family. Acts (saves the simulation) even knowing it might not matter.
+
+### The Pills (Arc Symbol)
+
+Sam takes anti-depressants. We never name them specifically.
+
+| Phase | Pills | Meaning |
+|-------|-------|---------|
+| Act 1 (Ordinary World) | Taking them | Baseline coping, managed existence |
+| Act 1 (Call to Adventure) | Stops taking them | New job gives him purpose, thinks he doesn't need them |
+| Act 2B (Crisis) | Starts again | Things get hard, retreats to chemical management |
+| Act 3 (Redemption) | Throws them away for good | Genuine transformation, no longer needs external crutch |
+
+The pills track his internal state without dialogue. When he stops them early, it's false confidence. When he restarts, it's regression. When he discards them at the end, it's earned.
 
 ### Story Beats (Hero's Journey mapped)
 

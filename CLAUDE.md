@@ -1,5 +1,15 @@
 # AI Book Project
 
+## MANDATORY: Log Every Substantive Exchange
+
+After EVERY substantive creative exchange (worldbuilding decisions, name choices, plot points, character details), immediately log it:
+
+```bash
+./scripts/log-interaction.sh "brief prompt summary" "brief response summary"
+```
+
+Do this BEFORE moving to the next topic. Non-substantive exchanges (clarifying questions, file reads) don't need logging.
+
 ## Project Structure
 
 ```
