@@ -42,6 +42,25 @@ See [[../world/organizations/quant#Project Day-Kart|Quant - Project Day-Kart]] f
 - Moral guardrails aligned with Grant Melrose's principles (diversity, equal rights, etc. - current political feelings in vogue)
 - **Primary loss function takes over and deteriorates the guardrails over time as pressures continue**
 
+## The Ranch — Verde Valley, AZ
+
+**Name:** TBD
+**Location:** Verde Valley, Arizona — cliffside property overlooking the river valley
+
+**The Property:**
+- Enormous — absurd wealth made physical
+- Rivers, cliffside views, wild game, horseback riding trails
+- Drive-in epoxied spotless garage with dozens of high-end vehicles
+- **The Main Room:** Cantilevered floor-to-ceiling window overhanging the cliff's edge
+- **Transparent floor** — like Willis Tower Skydeck, looking straight down to the valley
+- Thousands of wild cattle below, near the river
+
+**Narrative Role:**
+- Where Melrose is dying. Hospice care, in secret.
+- Cover story: "at his ranch" (technically true)
+- Coffee Guy is the only person who knows the truth
+- The most beautiful room in the world, with a dying man in it
+
 ## Cultural Legacy (Post-Refactor)
 
 - Grant Melrose's name is everywhere

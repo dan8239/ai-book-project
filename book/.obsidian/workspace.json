@@ -6,6 +6,7 @@
       {
         "id": "3ae5adcc76fffc88",
         "type": "tabs",
+        "dimension": 69.20122887864824,
         "children": [
           {
             "id": "85422e03d1201a65",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/02.02.first-contact/First Contact.md",
+                "file": "manuscript/00.00.prologue/Coffee Guy Ride.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Contact"
+              "title": "Coffee Guy Ride"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "f02e8b780892563f",
         "type": "tabs",
+        "dimension": 30.798771121351763,
         "children": [
           {
             "id": "c53dc1ff84b53b20",
@@ -205,6 +207,15 @@
   },
   "active": "85422e03d1201a65",
   "lastOpenFiles": [
+    "manuscript/03.08.coffee_guy/notes.md",
+    "manuscript/00.00.prologue/notes.md",
+    "manuscript/00.00.prologue/Coffee Guy Ride.md",
+    "assets/figures/sunbubble_receipt.png",
+    "assets/figures/best_trial_by_epoch.png",
+    "assets/figures/median_extinction_by_epoch.png",
+    "assets/figures",
+    "assets",
+    "manuscript/02.02.first-contact/First Contact.md",
     "manuscript/02.03.control-room/chapter.md",
     "manuscript/02.03.control-room/notes.md",
     "manuscript/02.03.control-room",
@@ -212,7 +223,6 @@
     "worldbuilding/characters/claude-assistants.md",
     "manuscript/01.01.devsecops/chapter.md",
     "manuscript/01.0x.discovery/chapter.md",
-    "manuscript/02.02.first-contact/First Contact.md",
     "manuscript/02.02.first-contact/notes.md",
     "manuscript/02.01.mountain/notes.md",
     "manuscript/02.01.mountain/Into the Mountain.md",
@@ -229,17 +239,12 @@
     "2026-01-19.md",
     "worldbuilding/world/memory-map-gadget.md",
     "worldbuilding/world/honeycomb.md",
-    "worldbuilding/characters/grant-melrose.md",
-    "manuscript/02.XX.optimization-tour/notes.md",
     "manuscript/02.XX.optimization-tour",
-    "manuscript/03.08.coffee_guy/notes.md",
     "manuscript/00.00.prologue",
     "manuscript/02.02.first-contact",
     "manuscript/02.01.mountain",
     "manuscript/02.00.gondola",
     "manuscript/act_3/03.09.the_aquarium_pt_ii",
-    "manuscript/03.09.the_zoom/notes.json",
-    "manuscript/03.08.coffee_guy/notes.json",
-    "manuscript/03.07.the_button/notes.json"
+    "manuscript/03.09.the_zoom/notes.json"
   ]
 }

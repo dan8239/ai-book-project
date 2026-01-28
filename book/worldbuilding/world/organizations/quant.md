@@ -49,6 +49,19 @@ Exceptionally competent. He is using Glenn Robinson (Big Dog) and sophisticated 
 - Not just a technician - key player in shaping the policy
 - Using the trials to figure out the loss function for the AGI
 
+## Subsidiaries
+
+### Uplift (working name) — Autonomous Transit
+- Single-person self-driving cabs — "skateboard with a bubble on top"
+- Transparent bubble body (windows everywhere except door framing/transmission)
+- Inside: multi-mode exercise machine (row → cycle → etc.)
+- Drivetrain powered partly by rider's pedaling — energy credits offset fare
+- Fresh towels, hamper, self-cleaning interior
+- Audio seamlessly switches from personal headphones to car
+- Display for work/media; "windows" command for tint/privacy
+- End-of-ride stats: kWh generated, kWh spent on transit, calories transferred to drivetrain, energy credits earned
+- One small piece of the Quant conglomerate (like Google Maps/Earth meets Uber)
+
 ## The Takeover
 
 ### Mechanics

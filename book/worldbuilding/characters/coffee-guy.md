@@ -1,6 +1,6 @@
 # Coffee Guy
 
-**Name:** TBD
+**Name:** Damon (Greek: *to tame, to subdue* — also the loyal friend from Damon and Pythias)
 **Age:** TBD
 **Era:** [[../timeline/real-world-2025|Real World (2025)]]
 **Company:** [[../world/organizations/quant|Quant]]
