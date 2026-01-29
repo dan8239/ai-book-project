@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Generate an H3 hexagonal globe visualization — mid-takeover look.
 
-Continental map underneath, silver/gray hex borders, green fills radiating
-outward from major population centers (opacity 0-1). Uses matplotlib + cartopy.
+Continental map underneath with visible coastlines. Green hex fills
+ONLY on land, radiating from major population centers (opacity 0-1).
+Silver/gray hex borders everywhere. Uses matplotlib + cartopy.
 """
 
 import h3
@@ -14,7 +15,7 @@ import cartopy.feature as cfeature
 from pathlib import Path
 
 BG_COLOR = '#0d1117'
-LAND_COLOR = '#141a1f'
+LAND_COLOR = '#111820'
 OCEAN_COLOR = '#0d1117'
 OUTPUT_DIR = Path(__file__).parent.parent / 'book' / 'assets' / 'figures'
 
@@ -74,34 +75,59 @@ def distance_to_nearest_center(lat, lon):
 
 
 def opacity_from_distance(dist_km):
-    """Map distance to opacity: near centers = 1.0, far = 0.0.
-    Sharp falloff over ~2500 km with slight noise for organic feel."""
-    MAX_DIST = 2500.0
-    base = max(0.0, 1.0 - (dist_km / MAX_DIST) ** 1.8)
-    noise = np.random.uniform(-0.06, 0.06)
-    return float(np.clip(base + noise, 0.0, 1.0))
+    """Map distance to opacity: near centers = 0.7, far = 0.0.
+    Sharp falloff over ~2000 km with slight noise."""
+    MAX_DIST = 2000.0
+    MAX_OPACITY = 0.70
+    base = max(0.0, 1.0 - (dist_km / MAX_DIST) ** 1.6)
+    noise = np.random.uniform(-0.05, 0.05)
+    return float(np.clip((base + noise) * MAX_OPACITY, 0.0, MAX_OPACITY))
+
+
+def is_land(lat, lon):
+    """Rough land detection using continental bounding boxes."""
+    regions = [
+        (15, 72, -170, -50),   # North America
+        (-56, 13, -82, -34),   # South America
+        (35, 72, -12, 45),     # Europe
+        (-35, 37, -18, 52),    # Africa
+        (5, 75, 45, 180),      # Asia (east)
+        (-45, -10, 112, 155),  # Australia
+        (5, 35, 68, 98),       # India/SE Asia
+        (30, 46, 128, 146),    # Japan/Korea
+        (-8, 6, 95, 141),      # Indonesia
+        (12, 42, 32, 63),      # Middle East
+        (60, 84, -73, -12),    # Greenland
+    ]
+    for lat_lo, lat_hi, lon_lo, lon_hi in regions:
+        if lat_lo < lat < lat_hi and lon_lo < lon < lon_hi:
+            return True
+    return False
 
 
 def collect_cells(res, step):
-    """Collect all H3 cells at given resolution."""
-    cells = set()
+    """Collect H3 cells, classified as land or ocean."""
+    land_cells = set()
+    ocean_cells = set()
     for lat in np.arange(-70, 75, step):
         for lon in np.arange(-180, 180, step):
-            cells.add(h3.latlng_to_cell(lat, lon, res))
-    return cells
+            cell = h3.latlng_to_cell(lat, lon, res)
+            if is_land(lat, lon):
+                land_cells.add(cell)
+            else:
+                ocean_cells.add(cell)
+    ocean_cells -= land_cells
+    return land_cells, ocean_cells
 
 
 def cell_to_xy(cell):
     """Convert H3 cell boundary to projected x,y coordinates.
-    Returns None if the cell is on the far side of the globe."""
+    Returns None if on the far side of the globe or antimeridian."""
     boundary = h3.cell_to_boundary(cell)
     lons = np.array([b[1] for b in boundary])
     lats = np.array([b[0] for b in boundary])
-
-    # Skip cells that wrap around the antimeridian
     if lons.max() - lons.min() > 180:
         return None
-
     coords = PROJ.transform_points(SRC, lons, lats)
     if np.any(np.isinf(coords[:, :2])):
         return None
@@ -110,8 +136,7 @@ def cell_to_xy(cell):
 
 def cell_center(cell):
     """Return (lat, lon) of cell center."""
-    lat, lon = h3.cell_to_latlng(cell)
-    return lat, lon
+    return h3.cell_to_latlng(cell)
 
 
 def generate_globe():
@@ -123,24 +148,24 @@ def generate_globe():
     ax.spines['geo'].set_edgecolor('#1a1f26')
     ax.spines['geo'].set_linewidth(0.5)
 
-    # --- Continental map underneath ---
+    # --- Base map (underneath everything) ---
     ax.add_feature(cfeature.OCEAN, facecolor=OCEAN_COLOR, zorder=0)
     ax.add_feature(cfeature.LAND, facecolor=LAND_COLOR, edgecolor='none', zorder=1)
-    ax.add_feature(cfeature.COASTLINE, edgecolor='#2a3540', linewidth=0.3, zorder=1)
 
     # --- Collect cells ---
-    all_res1 = collect_cells(res=1, step=4)
-    all_res2 = collect_cells(res=2, step=2)
+    land1, ocean1 = collect_cells(res=1, step=4)
+    land2, ocean2 = collect_cells(res=2, step=2)
+    all_res1 = land1 | ocean1
+    all_res2 = land2 | ocean2
 
-    print(f"  Res 1: {len(all_res1)} cells")
-    print(f"  Res 2: {len(all_res2)} cells")
+    print(f"  Res 1: {len(land1)} land, {len(ocean1)} ocean")
+    print(f"  Res 2: {len(land2)} land, {len(ocean2)} ocean")
 
-    # --- Green fills at res 2, opacity based on distance to pop centers ---
-    # Quantize opacity to ~20 buckets for rendering efficiency
+    # --- Green fills: LAND CELLS ONLY, opacity from distance to pop centers ---
     NBUCKETS = 20
-    fill_buckets = {}  # bucket_index -> list of xy arrays
+    fill_buckets = {}
 
-    for cell in all_res2:
+    for cell in land2:
         xy = cell_to_xy(cell)
         if xy is None:
             continue
@@ -148,41 +173,43 @@ def generate_globe():
         dist = distance_to_nearest_center(lat, lon)
         opacity = opacity_from_distance(dist)
         if opacity < 0.02:
-            continue  # skip near-invisible cells
+            continue
         bucket = int(opacity * NBUCKETS)
         bucket = min(bucket, NBUCKETS - 1)
         fill_buckets.setdefault(bucket, []).append(xy)
 
     for bucket, polys in sorted(fill_buckets.items()):
         opacity = (bucket + 0.5) / NBUCKETS
-        pc = PolyCollection(
+        ax.add_collection(PolyCollection(
             polys,
             facecolors=[(102 / 255, 187 / 255, 106 / 255, opacity)],
             edgecolors='none',
             zorder=2,
-        )
-        ax.add_collection(pc)
+        ))
+
+    # --- Coastlines ON TOP of fills so they're visible ---
+    ax.add_feature(cfeature.COASTLINE, edgecolor='#4a5568', linewidth=0.5, zorder=5)
 
     # --- Silver/gray borders ---
-    # Res 1 borders (large hexagons)
+    # Res 1 (large hexagons, all cells)
     res1_polys = [xy for cell in all_res1 if (xy := cell_to_xy(cell)) is not None]
     if res1_polys:
         ax.add_collection(PolyCollection(
             res1_polys,
             facecolors='none',
-            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.25),
-            linewidths=0.6,
+            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.20),
+            linewidths=0.5,
             zorder=3,
         ))
 
-    # Res 2 borders (medium hexagons)
+    # Res 2 (medium hexagons, all cells)
     res2_polys = [xy for cell in all_res2 if (xy := cell_to_xy(cell)) is not None]
     if res2_polys:
         ax.add_collection(PolyCollection(
             res2_polys,
             facecolors='none',
-            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.15),
-            linewidths=0.25,
+            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.12),
+            linewidths=0.2,
             zorder=4,
         ))
 
