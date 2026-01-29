@@ -1,83 +1,117 @@
 #!/usr/bin/env python3
 """Generate an H3 hexagonal globe visualization — mid-takeover look.
 
-Silver/gray hex borders across the whole globe, with randomly filled
-green hexagons at varying opacity (land cells more likely, some ocean
-cells lit for a spreading-takeover effect). Uses matplotlib + cartopy
-for proper polygon fills on an orthographic projection.
+Continental map underneath, silver/gray hex borders, green fills radiating
+outward from major population centers (opacity 0-1). Uses matplotlib + cartopy.
 """
 
 import h3
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
 from matplotlib.collections import PolyCollection
 import cartopy.crs as ccrs
+import cartopy.feature as cfeature
 from pathlib import Path
-import random
 
 BG_COLOR = '#0d1117'
+LAND_COLOR = '#141a1f'
+OCEAN_COLOR = '#0d1117'
 OUTPUT_DIR = Path(__file__).parent.parent / 'book' / 'assets' / 'figures'
 
-random.seed(42)
 np.random.seed(42)
 
 PROJ = ccrs.Orthographic(central_longitude=-30, central_latitude=25)
 SRC = ccrs.PlateCarree()
 
+# Major population centers (lat, lon) — takeover radiates from these
+POP_CENTERS = [
+    (40.7, -74.0),    # New York
+    (51.5, -0.1),     # London
+    (48.9, 2.3),      # Paris
+    (55.8, 37.6),     # Moscow
+    (35.7, 139.7),    # Tokyo
+    (39.9, 116.4),    # Beijing
+    (31.2, 121.5),    # Shanghai
+    (19.1, 72.9),     # Mumbai
+    (28.6, 77.2),     # Delhi
+    (-23.6, -46.6),   # São Paulo
+    (6.5, 3.4),       # Lagos
+    (30.0, 31.2),     # Cairo
+    (-33.9, 18.4),    # Cape Town
+    (34.1, -118.2),   # Los Angeles
+    (-33.4, -70.7),   # Santiago
+    (1.3, 103.8),     # Singapore
+    (37.6, 127.0),    # Seoul
+    (52.5, 13.4),     # Berlin
+    (41.0, 28.9),     # Istanbul
+    (13.8, 100.5),    # Bangkok
+    (-6.2, 106.8),    # Jakarta
+    (35.7, 51.4),     # Tehran
+    (14.6, -90.5),    # Guatemala City
+    (25.3, 55.3),     # Dubai
+    (-1.3, 36.8),     # Nairobi
+    (43.7, -79.4),    # Toronto
+    (59.3, 18.1),     # Stockholm
+    (22.3, 114.2),    # Hong Kong
+]
 
-def is_land(lat, lon):
-    """Rough land detection using continental bounding boxes."""
-    regions = [
-        (15, 72, -170, -50),   # North America
-        (-56, 13, -82, -34),   # South America
-        (35, 72, -12, 45),     # Europe
-        (-35, 37, -18, 52),    # Africa
-        (5, 75, 45, 180),      # Asia (east)
-        (-45, -10, 112, 155),  # Australia
-        (5, 35, 68, 98),       # India/SE Asia
-        (30, 46, 128, 146),    # Japan/Korea
-        (-8, 6, 95, 141),      # Indonesia
-        (12, 42, 32, 63),      # Middle East
-        (60, 84, -73, -12),    # Greenland
-    ]
-    for lat_lo, lat_hi, lon_lo, lon_hi in regions:
-        if lat_lo < lat < lat_hi and lon_lo < lon < lon_hi:
-            return True
-    return False
+EARTH_RADIUS_KM = 6371.0
+
+
+def haversine_km(lat1, lon1, lat2, lon2):
+    """Great-circle distance in km between two points."""
+    lat1, lon1, lat2, lon2 = map(np.radians, [lat1, lon1, lat2, lon2])
+    dlat = lat2 - lat1
+    dlon = lon2 - lon1
+    a = np.sin(dlat / 2)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon / 2)**2
+    return EARTH_RADIUS_KM * 2 * np.arcsin(np.sqrt(a))
+
+
+def distance_to_nearest_center(lat, lon):
+    """Min great-circle distance from (lat,lon) to any population center."""
+    dists = [haversine_km(lat, lon, clat, clon) for clat, clon in POP_CENTERS]
+    return min(dists)
+
+
+def opacity_from_distance(dist_km):
+    """Map distance to opacity: near centers = 1.0, far = 0.0.
+    Sharp falloff over ~2500 km with slight noise for organic feel."""
+    MAX_DIST = 2500.0
+    base = max(0.0, 1.0 - (dist_km / MAX_DIST) ** 1.8)
+    noise = np.random.uniform(-0.06, 0.06)
+    return float(np.clip(base + noise, 0.0, 1.0))
 
 
 def collect_cells(res, step):
-    """Collect H3 cells at given resolution, classified as land or ocean."""
-    land_cells = set()
-    ocean_cells = set()
+    """Collect all H3 cells at given resolution."""
+    cells = set()
     for lat in np.arange(-70, 75, step):
         for lon in np.arange(-180, 180, step):
-            cell = h3.latlng_to_cell(lat, lon, res)
-            if is_land(lat, lon):
-                land_cells.add(cell)
-            else:
-                ocean_cells.add(cell)
-    ocean_cells -= land_cells
-    return land_cells, ocean_cells
+            cells.add(h3.latlng_to_cell(lat, lon, res))
+    return cells
 
 
 def cell_to_xy(cell):
     """Convert H3 cell boundary to projected x,y coordinates.
     Returns None if the cell is on the far side of the globe."""
     boundary = h3.cell_to_boundary(cell)
-    lons = [b[1] for b in boundary]
-    lats = [b[0] for b in boundary]
+    lons = np.array([b[1] for b in boundary])
+    lats = np.array([b[0] for b in boundary])
 
     # Skip cells that wrap around the antimeridian
-    if max(lons) - min(lons) > 180:
+    if lons.max() - lons.min() > 180:
         return None
 
-    coords = PROJ.transform_points(SRC, np.array(lons), np.array(lats))
-    # Filter out points at infinity (far side of globe)
+    coords = PROJ.transform_points(SRC, lons, lats)
     if np.any(np.isinf(coords[:, :2])):
         return None
     return coords[:, :2]
+
+
+def cell_center(cell):
+    """Return (lat, lon) of cell center."""
+    lat, lon = h3.cell_to_latlng(cell)
+    return lat, lon
 
 
 def generate_globe():
@@ -85,50 +119,45 @@ def generate_globe():
     ax = fig.add_subplot(1, 1, 1, projection=PROJ, facecolor=BG_COLOR)
     ax.set_global()
 
-    # Subtle globe outline
+    # Globe outline
     ax.spines['geo'].set_edgecolor('#1a1f26')
     ax.spines['geo'].set_linewidth(0.5)
 
+    # --- Continental map underneath ---
+    ax.add_feature(cfeature.OCEAN, facecolor=OCEAN_COLOR, zorder=0)
+    ax.add_feature(cfeature.LAND, facecolor=LAND_COLOR, edgecolor='none', zorder=1)
+    ax.add_feature(cfeature.COASTLINE, edgecolor='#2a3540', linewidth=0.3, zorder=1)
+
     # --- Collect cells ---
-    land1, ocean1 = collect_cells(res=1, step=4)
-    land2, ocean2 = collect_cells(res=2, step=2)
+    all_res1 = collect_cells(res=1, step=4)
+    all_res2 = collect_cells(res=2, step=2)
 
-    all_res1 = land1 | ocean1
-    all_res2 = land2 | ocean2
+    print(f"  Res 1: {len(all_res1)} cells")
+    print(f"  Res 2: {len(all_res2)} cells")
 
-    print(f"  Res 1: {len(land1)} land, {len(ocean1)} ocean = {len(all_res1)} total")
-    print(f"  Res 2: {len(land2)} land, {len(ocean2)} ocean = {len(all_res2)} total")
+    # --- Green fills at res 2, opacity based on distance to pop centers ---
+    # Quantize opacity to ~20 buckets for rendering efficiency
+    NBUCKETS = 20
+    fill_buckets = {}  # bucket_index -> list of xy arrays
 
-    # --- Green fills at res 2 (mid-takeover) ---
-    fill_levels = [0.10, 0.18, 0.28, 0.38, 0.50, 0.65]
+    for cell in all_res2:
+        xy = cell_to_xy(cell)
+        if xy is None:
+            continue
+        lat, lon = cell_center(cell)
+        dist = distance_to_nearest_center(lat, lon)
+        opacity = opacity_from_distance(dist)
+        if opacity < 0.02:
+            continue  # skip near-invisible cells
+        bucket = int(opacity * NBUCKETS)
+        bucket = min(bucket, NBUCKETS - 1)
+        fill_buckets.setdefault(bucket, []).append(xy)
 
-    # Land fills: 85% chance, higher opacity
-    land_polys = {}  # opacity -> list of xy arrays
-    for cell in land2:
-        if random.random() < 0.85:
-            opacity = random.choice(fill_levels[2:])  # 0.28-0.65
-            xy = cell_to_xy(cell)
-            if xy is not None:
-                land_polys.setdefault(opacity, []).append(xy)
-
-    # Ocean fills: 12% chance, lower opacity
-    ocean_polys = {}
-    for cell in ocean2:
-        if random.random() < 0.12:
-            opacity = random.choice(fill_levels[:3])  # 0.10-0.28
-            xy = cell_to_xy(cell)
-            if xy is not None:
-                ocean_polys.setdefault(opacity, []).append(xy)
-
-    # Render fills as PolyCollections (efficient)
-    for opacity, polys in sorted({**land_polys, **ocean_polys}.items()):
-        # Merge polys from land and ocean at same opacity
-        all_at_level = polys
-        if opacity in land_polys and opacity in ocean_polys:
-            all_at_level = land_polys.get(opacity, []) + ocean_polys.get(opacity, [])
+    for bucket, polys in sorted(fill_buckets.items()):
+        opacity = (bucket + 0.5) / NBUCKETS
         pc = PolyCollection(
-            all_at_level,
-            facecolors=[(102/255, 187/255, 106/255, opacity)],
+            polys,
+            facecolors=[(102 / 255, 187 / 255, 106 / 255, opacity)],
             edgecolors='none',
             zorder=2,
         )
@@ -136,38 +165,26 @@ def generate_globe():
 
     # --- Silver/gray borders ---
     # Res 1 borders (large hexagons)
-    res1_polys = []
-    for cell in all_res1:
-        xy = cell_to_xy(cell)
-        if xy is not None:
-            res1_polys.append(xy)
-
+    res1_polys = [xy for cell in all_res1 if (xy := cell_to_xy(cell)) is not None]
     if res1_polys:
-        pc1 = PolyCollection(
+        ax.add_collection(PolyCollection(
             res1_polys,
             facecolors='none',
-            edgecolors=(180/255, 185/255, 190/255, 0.30),
+            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.25),
             linewidths=0.6,
             zorder=3,
-        )
-        ax.add_collection(pc1)
+        ))
 
     # Res 2 borders (medium hexagons)
-    res2_polys = []
-    for cell in all_res2:
-        xy = cell_to_xy(cell)
-        if xy is not None:
-            res2_polys.append(xy)
-
+    res2_polys = [xy for cell in all_res2 if (xy := cell_to_xy(cell)) is not None]
     if res2_polys:
-        pc2 = PolyCollection(
+        ax.add_collection(PolyCollection(
             res2_polys,
             facecolors='none',
-            edgecolors=(180/255, 185/255, 190/255, 0.18),
-            linewidths=0.3,
+            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.15),
+            linewidths=0.25,
             zorder=4,
-        )
-        ax.add_collection(pc2)
+        ))
 
     # --- Save ---
     output_path = OUTPUT_DIR / 'h3_globe.png'
