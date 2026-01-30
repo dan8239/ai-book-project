@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Generate an H3 hexagonal globe visualization — mid-takeover look.
 
-High-contrast continental map underneath. Green hex fills ONLY on land
-cells, random opacity 0-1. Silver/gray hex borders everywhere.
-Uses matplotlib + cartopy.
+Uses actual Natural Earth land geometry for accurate coastline-following
+fills. Green hex fills ONLY on cells whose centers fall within real land
+polygons. Random opacity 0-1. Silver/gray hex borders everywhere.
 """
 
 import h3
@@ -12,10 +12,14 @@ import matplotlib.pyplot as plt
 from matplotlib.collections import PolyCollection
 import cartopy.crs as ccrs
 import cartopy.feature as cfeature
+from cartopy.io import shapereader
+from shapely.geometry import Point
+from shapely.ops import unary_union
+from shapely.prepared import prep
 from pathlib import Path
 
 BG_COLOR = '#0d1117'
-LAND_COLOR = '#0f151c'
+LAND_COLOR = '#1a2230'   # noticeably lighter than ocean
 OCEAN_COLOR = '#0a0e13'
 OUTPUT_DIR = Path(__file__).parent.parent / 'book' / 'assets' / 'figures'
 
@@ -25,35 +29,24 @@ PROJ = ccrs.Orthographic(central_longitude=-30, central_latitude=25)
 SRC = ccrs.PlateCarree()
 
 
-def is_land(lat, lon):
-    """Rough land detection using continental bounding boxes."""
-    regions = [
-        (15, 72, -170, -50),   # North America
-        (-56, 13, -82, -34),   # South America
-        (35, 72, -12, 45),     # Europe
-        (-35, 37, -18, 52),    # Africa
-        (5, 75, 45, 180),      # Asia (east)
-        (-45, -10, 112, 155),  # Australia
-        (5, 35, 68, 98),       # India/SE Asia
-        (30, 46, 128, 146),    # Japan/Korea
-        (-8, 6, 95, 141),      # Indonesia
-        (12, 42, 32, 63),      # Middle East
-        (60, 84, -73, -12),    # Greenland
-    ]
-    for lat_lo, lat_hi, lon_lo, lon_hi in regions:
-        if lat_lo < lat < lat_hi and lon_lo < lon < lon_hi:
-            return True
-    return False
+def build_land_geometry():
+    """Load Natural Earth land polygons and build a prepared geometry for fast lookup."""
+    shpfile = shapereader.natural_earth(resolution='110m', category='physical', name='land')
+    reader = shapereader.Reader(shpfile)
+    land_geom = unary_union(list(reader.geometries()))
+    return prep(land_geom)
 
 
-def collect_cells(res, step):
-    """Collect H3 cells, classified as land or ocean."""
+def collect_cells(res, step, land_prep):
+    """Collect H3 cells, classified using actual land geometry."""
     land_cells = set()
     ocean_cells = set()
     for lat in np.arange(-70, 75, step):
         for lon in np.arange(-180, 180, step):
             cell = h3.latlng_to_cell(lat, lon, res)
-            if is_land(lat, lon):
+            # Check cell center against real land polygons
+            clat, clon = h3.cell_to_latlng(cell)
+            if land_prep.contains(Point(clon, clat)):
                 land_cells.add(cell)
             else:
                 ocean_cells.add(cell)
@@ -76,6 +69,9 @@ def cell_to_xy(cell):
 
 
 def generate_globe():
+    print("Loading land geometry...")
+    land_prep = build_land_geometry()
+
     fig = plt.figure(figsize=(10, 10), facecolor=BG_COLOR)
     ax = fig.add_subplot(1, 1, 1, projection=PROJ, facecolor=BG_COLOR)
     ax.set_global()
@@ -88,20 +84,23 @@ def generate_globe():
     ax.add_feature(cfeature.OCEAN, facecolor=OCEAN_COLOR, zorder=0)
     ax.add_feature(cfeature.LAND, facecolor=LAND_COLOR, edgecolor='none', zorder=1)
 
-    # --- Collect cells ---
-    land1, ocean1 = collect_cells(res=1, step=4)
-    land2, ocean2 = collect_cells(res=2, step=2)
+    # --- Collect cells using real land geometry ---
+    land1, ocean1 = collect_cells(res=1, step=4, land_prep=land_prep)
+    land2, ocean2 = collect_cells(res=2, step=2, land_prep=land_prep)
+    # Res 3 for fine-grained land fills
+    land3, ocean3 = collect_cells(res=3, step=1.0, land_prep=land_prep)
     all_res1 = land1 | ocean1
     all_res2 = land2 | ocean2
 
     print(f"  Res 1: {len(land1)} land, {len(ocean1)} ocean")
     print(f"  Res 2: {len(land2)} land, {len(ocean2)} ocean")
+    print(f"  Res 3: {len(land3)} land, {len(ocean3)} ocean")
 
-    # --- Green fills: LAND CELLS ONLY, random opacity 0-1 ---
+    # --- Green fills: res 3 LAND CELLS ONLY, random opacity 0-1 ---
     NBUCKETS = 20
     fill_buckets = {}
 
-    for cell in land2:
+    for cell in land3:
         xy = cell_to_xy(cell)
         if xy is None:
             continue
@@ -121,7 +120,7 @@ def generate_globe():
             zorder=2,
         ))
 
-    # --- Coastlines ON TOP — bright enough to see ---
+    # --- Coastlines ON TOP — bright enough to contrast ---
     ax.add_feature(cfeature.COASTLINE, edgecolor='#8899aa', linewidth=0.7, zorder=5)
 
     # --- Silver/gray borders ---
