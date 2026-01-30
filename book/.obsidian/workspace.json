@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/00.03.unretirement/notes.md",
+                "file": "worldbuilding/themes/themes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "themes"
             }
           },
           {
@@ -236,6 +236,9 @@
   },
   "active": "a39f07e56f0f70c2",
   "lastOpenFiles": [
+    "worldbuilding/themes/style-guide.md",
+    "worldbuilding/themes/red-herrings.md",
+    "worldbuilding/themes/motifs.md",
     "manuscript/00.03.unretirement/notes.md",
     "manuscript/00.03.unretirement",
     "manuscript/02.02.first-contact/First Contact.md",
@@ -273,9 +276,6 @@
     "manuscript/02.03.control-room",
     "worldbuilding/characters/ramona-father.md",
     "worldbuilding/characters/claude-assistants.md",
-    "manuscript/01.01.devsecops/chapter.md",
-    "manuscript/01.0x.discovery/chapter.md",
-    "manuscript/02.01.mountain/notes.md",
     "manuscript/02.XX.optimization-tour",
     "manuscript/00.00.prologue",
     "manuscript/02.02.first-contact",
