@@ -96,7 +96,9 @@ def generate_globe():
     print(f"  Res 2: {len(land2)} land, {len(ocean2)} ocean")
     print(f"  Res 3: {len(land3)} land, {len(ocean3)} ocean")
 
-    # --- Green fills: res 3 LAND CELLS ONLY, random opacity 0-1 ---
+    # --- Green fills: res 3 LAND CELLS ONLY ---
+    # ~33% transparent (no fill), rest get random opacity 0-1
+    GREEN = (66 / 255, 187 / 255, 106 / 255)  # single green color
     NBUCKETS = 20
     fill_buckets = {}
 
@@ -104,6 +106,8 @@ def generate_globe():
         xy = cell_to_xy(cell)
         if xy is None:
             continue
+        if np.random.random() < 0.33:
+            continue  # 33% stay transparent
         opacity = np.random.uniform(0.0, 1.0)
         if opacity < 0.03:
             continue
@@ -115,7 +119,7 @@ def generate_globe():
         opacity = (bucket + 0.5) / NBUCKETS
         ax.add_collection(PolyCollection(
             polys,
-            facecolors=[(102 / 255, 187 / 255, 106 / 255, opacity)],
+            facecolors=[(*GREEN, opacity)],
             edgecolors='none',
             zorder=2,
         ))
@@ -130,8 +134,8 @@ def generate_globe():
         ax.add_collection(PolyCollection(
             res1_polys,
             facecolors='none',
-            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.20),
-            linewidths=0.5,
+            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.25),
+            linewidths=0.8,
             zorder=3,
         ))
 
@@ -141,8 +145,8 @@ def generate_globe():
         ax.add_collection(PolyCollection(
             res2_polys,
             facecolors='none',
-            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.12),
-            linewidths=0.2,
+            edgecolors=(180 / 255, 185 / 255, 190 / 255, 0.16),
+            linewidths=0.35,
             zorder=4,
         ))
 
