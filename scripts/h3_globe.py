@@ -19,7 +19,7 @@ from shapely.prepared import prep
 from pathlib import Path
 
 BG_COLOR = '#0d1117'
-LAND_COLOR = '#c0c8d0'   # near-white gray
+LAND_COLOR = '#6d7480'   # mid-gray between #1a2230 and #c0c8d0
 OCEAN_COLOR = '#0a0e13'
 OUTPUT_DIR = Path(__file__).parent.parent / 'book' / 'assets' / 'figures'
 
@@ -106,9 +106,9 @@ def generate_globe():
         xy = cell_to_xy(cell)
         if xy is None:
             continue
-        if np.random.random() < 0.50:
-            continue  # 33% stay transparent
-        opacity = np.random.uniform(0.0, 1.0)
+        if np.random.random() < 0.40:
+            continue  # 40% stay transparent
+        opacity = np.random.uniform(0.25, 1.0)
         if opacity < 0.03:
             continue
         bucket = int(opacity * NBUCKETS)
