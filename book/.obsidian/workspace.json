@@ -14,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/00.00.prologue/Coffee Guy Ride.md",
+                "file": "manuscript/00.00.prologue/Honeycomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coffee Guy Ride"
+              "title": "Honeycomb"
+            }
+          },
+          {
+            "id": "c59d566c3013b02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "worldbuilding/timeline/refactor/mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mechanics"
             }
           }
         ]
@@ -207,15 +221,36 @@
   },
   "active": "85422e03d1201a65",
   "lastOpenFiles": [
+    "manuscript/02.02.first-contact/First Contact.md",
+    "manuscript/02.02.first-contact/notes.md",
+    "manuscript/02.01.mountain/Into the Mountain.md",
+    "manuscript/02.00.gondola/The Gondola.md",
+    "manuscript/02.00.gondola/notes.md",
+    "manuscript/00.00.prologue/Honeycomb.md",
+    "assets/figures/h3_globe.png",
+    "worldbuilding/timeline/refactor/broadcast.md",
+    "worldbuilding/timeline/refactor/mechanics.md",
+    "worldbuilding/simulation/honeycomb-policy.md",
+    "worldbuilding/simulation/post-refactor-society.md",
+    "worldbuilding/simulation/optimization-mechanics.md",
+    "worldbuilding/characters/grant-melrose.md",
+    "worldbuilding/characters/c-suite.md",
+    "worldbuilding/timeline/real-world-2025.md",
+    "worldbuilding/timeline/early-sim-era.md",
+    "worldbuilding/timeline/refactor/museum-scene.md",
+    "assets/figures/extinction_histogram_rebase_comparison.png",
+    "assets/figures/extinction_histogram_rebase_only.png",
+    "assets/figures/extinction_histogram_stacked.png",
+    "assets/figures/extinction_histogram_overall.png",
+    "assets/figures/extinction_treemap.png",
+    "assets/figures/extinction_dumbbell.png",
+    "assets/figures/extinction_ridgeline.png",
     "manuscript/03.08.coffee_guy/notes.md",
     "manuscript/00.00.prologue/notes.md",
-    "manuscript/00.00.prologue/Coffee Guy Ride.md",
     "assets/figures/sunbubble_receipt.png",
     "assets/figures/best_trial_by_epoch.png",
-    "assets/figures/median_extinction_by_epoch.png",
     "assets/figures",
     "assets",
-    "manuscript/02.02.first-contact/First Contact.md",
     "manuscript/02.03.control-room/chapter.md",
     "manuscript/02.03.control-room/notes.md",
     "manuscript/02.03.control-room",
@@ -223,22 +258,8 @@
     "worldbuilding/characters/claude-assistants.md",
     "manuscript/01.01.devsecops/chapter.md",
     "manuscript/01.0x.discovery/chapter.md",
-    "manuscript/02.02.first-contact/notes.md",
     "manuscript/02.01.mountain/notes.md",
-    "manuscript/02.01.mountain/Into the Mountain.md",
     "worldbuilding/world/rossland.md",
-    "worldbuilding/world/mountain-facility.md",
-    "worldbuilding/themes/themes.md",
-    "worldbuilding/themes/motifs.md",
-    "worldbuilding/themes/style-guide.md",
-    "worldbuilding/characters/Sam.md",
-    "worldbuilding/simulation/simulation-engine.md",
-    "worldbuilding/timeline/refactor/mechanics.md",
-    "worldbuilding/timeline/refactor/broadcast.md",
-    "worldbuilding/world/organizations/dna-company.md",
-    "2026-01-19.md",
-    "worldbuilding/world/memory-map-gadget.md",
-    "worldbuilding/world/honeycomb.md",
     "manuscript/02.XX.optimization-tour",
     "manuscript/00.00.prologue",
     "manuscript/02.02.first-contact",

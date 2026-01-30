@@ -49,20 +49,20 @@ The SunBubble display dutifully streamed the content from his device, but the au
 
 ![Extinction Subcategories](../../assets/figures/extinction_histogram_overall.png)
 
-"Median survival has risen up to 192–"
+"Median survival has climbed to 192–"
 "Yes, split the distribution by Operation Rebase for me, please."
 
 ![Extinction Subcategories](../../assets/figures/extinction_histogram_rebase_comparison.png)
 
-The assistant continued. "Without rebase, short term extinction scenarios are much more dominant. There's more variance in the rebase scenarios, as well as a longer average outcome."
-Damon stood on his seat as the resistance increased on the cycle. "Show me the distribution by primary cause of extinction. Give me the delta between extinction scenario rates for rebase and non-rebase in a dumbbell plot, as well."
+The assistant continued. "Without rebase, short term extinction scenarios are much more dominant. Higher variance in the rebase scenarios, and a longer average outcome."
+Damon stood off his seat as the resistance increased on the cycle. "Show me the distribution by primary cause of extinction. Give me the delta between extinction scenario rates for rebase and non-rebase in a dumbbell plot, as well."
 
 ![Species Survival Distribution](../../assets/figures/extinction_histogram_stacked.png)
 
 ![Extinction Category Shift](../../assets/figures/extinction_dumbbell.png)
 
 "Notably, biosphere collapse, AI misalignment, and natural disaster rate went–"
-"That's all just survivorship bias. The short term risks are no longer present. Give me cause subcategory rates with median outcome in a treemap, just for the rebase scenarios. Any significant changes in the rates in the latest epoch?"
+"That's all survivorship bias. The short term risks are no longer present. Give me cause subcategory rates with median outcome in a treemap, just for the rebase scenarios. Any significant changes in the rates in the latest epoch?"
 
 ![Extinction Subcategories](../../assets/figures/extinction_treemap.png)
 
@@ -76,9 +76,9 @@ Damon's thighs were starting to burn, and his shirt was soaked. His bpm was at 1
 
 As the car switched back and forth up the ever increasing slope, it crested a ridge and Damon could see a large drove of cattle down in the valley, thousands of them milling about the river. The musky smell of the animals hit him hard, even from a great distance. Damon tried counting a section of the herd and gave up at a hundred. For all the acreage Grant had sunk into his re-wilding project, Damon had never seen more than a few dozen on the commute. The animals were free to roam as they pleased. Ultimately, they were still penned in, but did it really matter if they'd never notice the fence?
 
-As he retreated up the mountain the individual cattle began to blur into points. Motion propagated through the herd in ripples. Damon thought they looked less like animals than particles bumping randomly into each other. They transferred their kinetic energy through to the neighboring animals in waves, like air flowing over a wing in a wind tunnel. The flow looked like a laminar fluid where the crowd was more dense–fast and orderly. It was turbulent and chaotic in more sparse areas.
+As he retreated up the mountain the individual cattle began to blur into points. Motion propagated through the herd in ripples. Damon thought they looked less like animals than particles bumping randomly into each other. They transferred their kinetic energy through to the neighboring animals in waves, like air flowing over a wing in a wind tunnel. The flow was laminar where the crowd was more dense–fast and orderly. It was turbulent and chaotic in more sparse areas.
 
-He hit 180 watt hours of generation on his ride and his device buzzed. He checked his watch as he spun down, 168 bpm, 55 breaths per minute. He coasted down for a few minutes, alternating small sips of water and coffee. He monitored his heart rate until it was down under 100.
+He hit 180 watt hours of generation on his ride and his device buzzed. He checked his watch as he spun down, 168 bpm, 55 breaths per minute. He coasted down for a few minutes, alternating small sips of water and coffee. He monitored his heart rate until it was down under 100. Uniform solar arrays whipped past his windows
 
 One last switchback and they pulled up to the Melrose Ranch. It was a bit of a misnomer at this altitude — compound, maybe, or lair. The underground parking garage door opened as the SunBubble approached. It drove right up to the locker room entrance, past dozens of high end vehicles Damon couldn't name if his life depended on it. He grabbed his bag and glanced at the receipt — 7.2 kilowatt-hours consumed, 0.18 offset by pedaling, $109.14 net. Fifteen bucks a kilowatt-hour to ride in a glass box up a mountain. At least he saved three dollars.
 
@@ -88,7 +88,7 @@ He could fit his condo into Grant's master bedroom twice. Floor to ceiling windo
 
 Damon walked towards the medical bed in the corner. The old man raised it to a sitting position, checking his watch. "A four minute shower, new record by you! Equally as impressive a barrier as the four minute mile, in my humble opinion. I saw you ride in on one of our glorified skateboards here again. Please take one of the cars in the garage, I beg you." 
 
-Grant looked ghastly, more beard than he'd ever seen on him before. He was noticeably skinnier from just a week ago. Two german shepherds lay beside his bed on the rug, one ancient, the other was new, a puppy. Neither was the right age to mob Damon, which he appreciated. A short, vaguely feminine robot was changing his catheter bag.
+Grant looked ghastly, more beard than he'd ever seen on him before. He was noticeably skinnier from just a week ago. Two german shepherds lay beside his bed on the rug, one ancient, the other was new, a puppy. Neither was of the age to mob Damon, which he appreciated. A short, vaguely feminine robot was changing his catheter bag.
 
 Damon went to the window to see if the herd was visible from this vantage. "I think I saw every cow you own down in the valley today, I've never seen so many before."
 
@@ -114,7 +114,7 @@ Damon shared content from his device on the bedside display.
 
 "Well, technically, filtering for rebase it's more like a 290 year improvement. As for the best case, one of the trials in the last epoch was anomalous. Frankly, extraordinary. Confirmed census size over 50 billion individuals. Effective population size increased from today's 25k to over a million. Heterozygosity 10x current levels. The population is not only thriving, it's on the verge of speciation. It's the first successful policy, by all accounts. It will only get better from here on out."
 
-Grant closed his eyes and let out a long, deep sigh. "So it's done then. Unbelievable work. I care a lot less about you blowing through our quarterly compute budget this week, all of a sudden."
+Grant closed his eyes and let out a long, deep sigh. "So it's done then. Unbelievable work. I care a lot less about you blowing through our quarterly compute budget this week."
 
 Damon quickly clarified the result. "I haven't had a chance to dig deeper into the policies of the seed pool, yet. I mean, it's safe to remove non-rebase scenarios from the search space, but I'll need a little more time to figure out what the specific advancements were. Obviously, we'll need to run more epochs for the policy to solidify, as well. We need to eliminate chance, we need to turn the black box white, we ne—"
 
@@ -146,9 +146,9 @@ He poured himself another glass of whiskey, more like four fingers this time. He
 
 ------------------------------------------------------
 
-Grant's office was built right off the master. Damon's condo could most likely only fit into this room once. An enormous curved display took up the entirety of the one opaque wall. On it there were 5 globes, hexagon grids wrapping the each world map like a mesh net. Each honeycomb subdivided into smaller honeycombs recursively. In front of the display was a 15 foot black desk. Damon knew it to be African Blackwood via Grant, but he suspected that might just be a fancy name for ebony. Damon sat down, sweeping dust clear to make room for his workstation.
+Grant's office was built right off the master. Damon's condo could most likely only fit into this room once. An enormous curved display took up the entirety of the one opaque wall. On it there were 5 globes, hexagon grids wrapping each world map like a mesh net. Each honeycomb subdivided into smaller honeycombs recursively. In front of the display was a 15 foot black desk. Damon knew it to be African Blackwood via Grant, but he suspected that might just be a fancy name for ebony. Damon sat down, sweeping dust clear to make room for his workstation.
 
-The only other item on the desk was a glass sculpture the size of a child's basketball, refracting the sun into a dozen spectra across the ebony. It was made of nested shells — an outer cage of twenty triangles containing a shell of twelve pentagons, containing a smaller cage of twenty triangles, containing twelve smaller pentagons, on and on, each layer perfectly seated inside the last, alternating geometries all the way down past what the eye could follow. Grant had commissioned it decades ago. It was the original inspiration for the Quant logo, and Grant's favorite conversation piece. He liked to call it his Russian Mashdorka Doll set.
+The only other item on the desk was a glass sculpture the size of a child's basketball, refracting the sun into a dozen spectra across the ebony. It was made of nested shells — an outer cage of twenty triangles containing a shell of twelve pentagons, containing a smaller cage of twenty triangles, containing twelve smaller pentagons, on and on, each layer perfectly seated inside the last, alternating geometries all the way down past what the eye could follow. Grant had commissioned it decades ago. It was the original inspiration for the Quant logo, and Grant's favorite conversation piece. He liked to call it his "Russian Mashdorka Doll set."
 
 Damon logged on, put on his headset and opened the video conferencing link. He was pulled into a virtual command center — tiered rows of workstations facing a wall of main displays, each station bristling with its own array of panels. The largest of the main displays had the same five globes he had seen in Grant's real-life office. Grant was already in the space in a full suit. He beamed at the head of the director's console. Or, at least this version of him did. He was clean shaven, looking 10 years younger.
 
@@ -156,7 +156,7 @@ Damon logged on, put on his headset and opened the video conferencing link. He w
 
 Damon heard the real Grant hacking up a lung a few feet away leaking through his headset. He isolated his audio to focus on the meeting. "Thank you, sir."
 
-Nearly a hundred people filled the virtual command center, chiming as they materialized out of thin air. A dozen heads of state joined like it was a daily stand up call. United States, Russia, China, Japan, England, France, Canada, Brazil, it seemed the entire UN and more had representation. A handful of suits from each of the former FAANG companies, accompanied by engineers at the workstations. Logistics, telecommunication, energy, defense contractors, financial institutions were all represented. He recognized the logos on most of the avatars but he was ashamed to admit that he didn't know the names of the majority of the people on the call. This was not his world. He suddenly remembered with profound shame that he was wearing a hoodie.
+Nearly a hundred people filled the virtual command center, chiming as they materialized out of thin air. A dozen heads of state joined like it was a daily stand up call. United States, Russia, China, Japan, England, France, Canada, Brazil, it seemed the entire UN and more had representation. A handful of suits from each of the former FAANG companies, accompanied by engineers at the workstations. Logistics, telecommunication, energy, defense contractors, financial institutions were all represented. He recognized the logos on most of the avatars but he was ashamed to admit that he didn't know the names of the majority of the people on the call. This was not his world. He remembered with profound shame that he was wearing a hoodie.
 
 "It's 0900, let's get to it. T-minus 2 minutes. Recording in progress." Grant took charge of the room instantly.
 
@@ -168,7 +168,7 @@ The alarm beeped three times, clinically. A progress bar appeared: 1%. Five glob
 
 The first globe started filling in from grey. *Communications.* Hexagons blinked to green in small chunks, like sections of a grid restoring power after a blackout. They radiated outward from city to city. Damon's personal device and watch buzzed, then went black. The room lagged for half a second, overcorrected, then stabilized — like a refresh rate catching up to itself.
 
-The second globe was already chasing the first. *Command and Control.* Military command centers, SCADA systems, classified networks. The phases weren't sequential — they were cascading. Ten seconds in and both globes were nearly solid green. Teams were talking over each other on their headsets, the room growing louder
+The second globe was already chasing the first. *Command and Control.* Military command centers, SCADA systems, classified networks. The phases weren't sequential — they were cascading. Ten seconds in and both globes were nearly solid green. Teams were talking over each other on their headsets, the room growing louder.
 
 *Critical Infrastructure.* The third globe was filling before he finished reading the checklist. Damon wondered how many people just lost power, water, and gas. It was Monday at 9am in the US. How many planes were in the air right now? 25,000? 
 
@@ -180,13 +180,15 @@ A few grey hexagons remained, but the tense buzz had settled into something more
 
 The progress bar read 94%. The label had changed to *Phase 6*. There wasn't a sixth globe.
 
-Damon heard murmurs — others had noticed too. Then a thud. A man beside him had collapsed. Damon started toward him and he vanished. Another thud. He looked up. At least ten percent of the room dropped hard to the ground, then disappeared. He looked to Grant, who was laser focused on his terminal as if nobody else was in the room. Voices swelled and the elation was being swept away by panic in the room.
+Damon heard murmurs — others had noticed too. Then a thud. A man beside him had collapsed. Damon started toward him and he vanished. Another thud. He looked up. A dozen bodies dropped hard to the ground, then disappeared. He looked to Grant, who was laser focused on his terminal as if nobody else was in the room. Voices swelled and the elation was being swept away by panic in the room.
 
 Damon threw his headset off and he was back in Grant's office. He shoved his device across the desk. His watch buzzed against his wrist — he clawed it off like it had bitten him and left it where it fell.
 
 Grant was coughing in the next room. Damon stood and walked toward the bedroom. He made it three steps before he realized his jeans were soaked. He'd pissed himself and hadn't noticed.
 
 Grant was snoring wheezily, asleep. Julianne was back, fussing over his IV.
+
+How much had Grant slept through?
 
 He saw Grant's device cut to an emergency screen with color bars, then switch to a video feed of Honeycomb, surrounded by the various heads of state in an official looking office.
 
