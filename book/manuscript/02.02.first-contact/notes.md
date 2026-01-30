@@ -233,6 +233,22 @@ Tina's radio crackles:
 
 ---
 
+## TODO: Ramona's Reaction to Sam's Real Motive
+
+### Problem
+The current prose has Sam as a wide-eyed tourist — impressed, doing mental math, following Ramona's lead. But per the outline, Sam agreed to this visit because he needs legacy human DNA for his colonization work. He traded optimization help for DNA access. Ramona brought him here to see her sister and her father's grave. These are fundamentally different reasons to be in the same place.
+
+### What needs to happen in this chapter
+Ramona discovers (or begins to suspect) that Sam didn't come for her. The moment the "deal" surfaces — Sam offering to optimize their energy systems in exchange for DNA data — Ramona should realize this isn't the family visit she thought it was. He turned her homecoming into a business trip.
+
+### Possible beats
+1. **The deal scene (with the Chief/leader):** Sam pivots from tourist to negotiator. Ramona watches him work and initially feels proud — he's impressive. Then she hears what he's asking for (DNA, biological data, failure records) and realizes this was his plan all along.
+2. **The confrontation:** Doesn't need to be explosive here. A cold look. A quiet "You knew you were going to do this before we got on the gondola." Sam tries to justify — "I can help them AND get what I need." She's not wrong and he's not wrong, but the betrayal is in the lie of omission.
+3. **The fallout carries forward:** She doesn't leave. She stays because this is her sister, her father's grave, her home. But the warmth from the gondola is gone. Sam got what he came for. She didn't.
+
+### Tone
+This shouldn't be a screaming match. The gravity battery reveal, the orchard, the father's grave — those emotional beats should still land. But underneath them, Ramona is processing that her husband used her family as a means to an end. The anger is quiet and devastating, not loud. It's the same dynamic as the birthday dinner: he's present physically but absent in purpose.
+
 ## Scene Beats (Sequence)
 
 1. **The descent begins** - Land at bottom of stairs, eyes adjust to dim occupancy lights

@@ -117,6 +117,22 @@ Before they arrive, Ramona briefs Sam:
 1. **How does Ramona convince Sam to come?** - What's the inciting reason for this visit?
 2. **Ramona's geology expertise** - What specifically did she study? How does she explain the strata?
 
+## TODO: Pacing & Tension
+
+### Problem
+The gondola chapter reads as a sweet, playful date. That's good — but it currently has no undercurrent of tension. Structurally, it sits between the Birthday Dinner (where Sam rejected his wife's intimacy and logged back on) and Contact (where motivations collide). It needs to carry some weight from what came before and foreshadow what's coming.
+
+### Option A: Thread mystery clues into the ride
+Sam is physically present but mentally chewing on the work anomalies from Space Progress (memory allocation, ancient OS, population bottleneck). He notices something about the gondola's navigation system, the billing infrastructure, or the resort's energy grid that reminds him of what he found. Ramona's geology lecture ("snapshots in time," "millions of years frozen in rock") echoes the simulation timestamps without Sam making the connection. The mystery stays in his head and the reader's even during a scenic chapter.
+
+### Option B: Accept the valley, lean into dramatic irony
+The gondola is a deliberate palate cleanser after digital chapters. The tension comes from the unknown (what's inside the mountain?) and from dramatic irony: the reader knows Sam's marriage is eroding, even if this scene feels temporarily warm. The playful banter reads differently after the birthday dinner rejection. Trust the reader to feel the gap between how nice this looks and how fragile it actually is.
+
+### Option C (from outline review): Acknowledge the undercurrent directly
+Sam is lying about why he agreed to come. He wants the mountain's DNA data for his colonization work. Ramona thinks he finally took her up on visiting Tina. Add small beats where Sam's guilt surfaces — he's being unusually agreeable, overcompensating, or avoiding eye contact when Ramona talks about how much this visit means to her. The playfulness is real but it's built on a lie, and the reader should feel that even if Ramona doesn't yet.
+
+**Recommendation:** Combine A and C. Sam is distracted by work clues AND lying about his motivation. The gondola is warm on the surface but the reader knows two things Ramona doesn't: his mind is elsewhere, and he has an ulterior motive. This makes the Contact blowup feel inevitable rather than sudden.
+
 ---
 
 ## Scene Beats (Sequence)
