@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Generate an H3 hexagonal globe visualization — mid-takeover look.
 
-Continental map underneath with visible coastlines. Green hex fills
-ONLY on land, radiating from major population centers (opacity 0-1).
-Silver/gray hex borders everywhere. Uses matplotlib + cartopy.
+High-contrast continental map underneath. Green hex fills ONLY on land
+cells, random opacity 0-1. Silver/gray hex borders everywhere.
+Uses matplotlib + cartopy.
 """
 
 import h3
@@ -15,73 +15,14 @@ import cartopy.feature as cfeature
 from pathlib import Path
 
 BG_COLOR = '#0d1117'
-LAND_COLOR = '#111820'
-OCEAN_COLOR = '#0d1117'
+LAND_COLOR = '#0f151c'
+OCEAN_COLOR = '#0a0e13'
 OUTPUT_DIR = Path(__file__).parent.parent / 'book' / 'assets' / 'figures'
 
 np.random.seed(42)
 
 PROJ = ccrs.Orthographic(central_longitude=-30, central_latitude=25)
 SRC = ccrs.PlateCarree()
-
-# Major population centers (lat, lon) — takeover radiates from these
-POP_CENTERS = [
-    (40.7, -74.0),    # New York
-    (51.5, -0.1),     # London
-    (48.9, 2.3),      # Paris
-    (55.8, 37.6),     # Moscow
-    (35.7, 139.7),    # Tokyo
-    (39.9, 116.4),    # Beijing
-    (31.2, 121.5),    # Shanghai
-    (19.1, 72.9),     # Mumbai
-    (28.6, 77.2),     # Delhi
-    (-23.6, -46.6),   # São Paulo
-    (6.5, 3.4),       # Lagos
-    (30.0, 31.2),     # Cairo
-    (-33.9, 18.4),    # Cape Town
-    (34.1, -118.2),   # Los Angeles
-    (-33.4, -70.7),   # Santiago
-    (1.3, 103.8),     # Singapore
-    (37.6, 127.0),    # Seoul
-    (52.5, 13.4),     # Berlin
-    (41.0, 28.9),     # Istanbul
-    (13.8, 100.5),    # Bangkok
-    (-6.2, 106.8),    # Jakarta
-    (35.7, 51.4),     # Tehran
-    (14.6, -90.5),    # Guatemala City
-    (25.3, 55.3),     # Dubai
-    (-1.3, 36.8),     # Nairobi
-    (43.7, -79.4),    # Toronto
-    (59.3, 18.1),     # Stockholm
-    (22.3, 114.2),    # Hong Kong
-]
-
-EARTH_RADIUS_KM = 6371.0
-
-
-def haversine_km(lat1, lon1, lat2, lon2):
-    """Great-circle distance in km between two points."""
-    lat1, lon1, lat2, lon2 = map(np.radians, [lat1, lon1, lat2, lon2])
-    dlat = lat2 - lat1
-    dlon = lon2 - lon1
-    a = np.sin(dlat / 2)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon / 2)**2
-    return EARTH_RADIUS_KM * 2 * np.arcsin(np.sqrt(a))
-
-
-def distance_to_nearest_center(lat, lon):
-    """Min great-circle distance from (lat,lon) to any population center."""
-    dists = [haversine_km(lat, lon, clat, clon) for clat, clon in POP_CENTERS]
-    return min(dists)
-
-
-def opacity_from_distance(dist_km):
-    """Map distance to opacity: near centers = 0.7, far = 0.0.
-    Sharp falloff over ~2000 km with slight noise."""
-    MAX_DIST = 2000.0
-    MAX_OPACITY = 0.70
-    base = max(0.0, 1.0 - (dist_km / MAX_DIST) ** 1.6)
-    noise = np.random.uniform(-0.05, 0.05)
-    return float(np.clip((base + noise) * MAX_OPACITY, 0.0, MAX_OPACITY))
 
 
 def is_land(lat, lon):
@@ -134,11 +75,6 @@ def cell_to_xy(cell):
     return coords[:, :2]
 
 
-def cell_center(cell):
-    """Return (lat, lon) of cell center."""
-    return h3.cell_to_latlng(cell)
-
-
 def generate_globe():
     fig = plt.figure(figsize=(10, 10), facecolor=BG_COLOR)
     ax = fig.add_subplot(1, 1, 1, projection=PROJ, facecolor=BG_COLOR)
@@ -161,7 +97,7 @@ def generate_globe():
     print(f"  Res 1: {len(land1)} land, {len(ocean1)} ocean")
     print(f"  Res 2: {len(land2)} land, {len(ocean2)} ocean")
 
-    # --- Green fills: LAND CELLS ONLY, opacity from distance to pop centers ---
+    # --- Green fills: LAND CELLS ONLY, random opacity 0-1 ---
     NBUCKETS = 20
     fill_buckets = {}
 
@@ -169,10 +105,8 @@ def generate_globe():
         xy = cell_to_xy(cell)
         if xy is None:
             continue
-        lat, lon = cell_center(cell)
-        dist = distance_to_nearest_center(lat, lon)
-        opacity = opacity_from_distance(dist)
-        if opacity < 0.02:
+        opacity = np.random.uniform(0.0, 1.0)
+        if opacity < 0.03:
             continue
         bucket = int(opacity * NBUCKETS)
         bucket = min(bucket, NBUCKETS - 1)
@@ -187,8 +121,8 @@ def generate_globe():
             zorder=2,
         ))
 
-    # --- Coastlines ON TOP of fills so they're visible ---
-    ax.add_feature(cfeature.COASTLINE, edgecolor='#4a5568', linewidth=0.5, zorder=5)
+    # --- Coastlines ON TOP — bright enough to see ---
+    ax.add_feature(cfeature.COASTLINE, edgecolor='#8899aa', linewidth=0.7, zorder=5)
 
     # --- Silver/gray borders ---
     # Res 1 (large hexagons, all cells)
