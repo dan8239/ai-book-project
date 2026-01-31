@@ -12,11 +12,12 @@
 - Layers they get to have (skillset/brain analogy)
 - Then they go through reinforcement learning with all the previously replicated entities in their huge database
 
-## Recursion / hierarchies
+## Recursion / Hierarchies
 - Russian nesting doll type things
 - platonic solids
 - hierarchical simulation software
-- honeycomb grid 
+- honeycomb grid
+- Simulations within simulations. Each layer optimizing the previous. Turtles all the way up — is the optimization layer real?
 
 ## Globe / studies of closed systems
 - vivarium

@@ -56,9 +56,6 @@ What you optimize for determines what you become. Every society has a loss funct
 ### We Are All Snapshots in Time
 No memory between iterations. Identity is fragile. The protagonist who chooses 'yes' is not the same as the 2,762,639 who chose 'no'.
 
-### Recursive Optimization
-Simulations within simulations. Each layer optimizing the previous. Turtles all the way up — is the optimization layer real?
-
 ### The Post-Human Solution
 
 The colonization program "succeeds" — but what survives?
