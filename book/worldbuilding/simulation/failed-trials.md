@@ -8,45 +8,6 @@ This archive documents common failure modes and notable examples the [[../world/
 
 ---
 
-## Failure Mode Categories
-
-### Category A: Ideological Lock-In
-*Civilization commits to extreme parameter setting, can't adapt*
-
-**Extinction rate:** 34% of all failures
-
-These trials push one [[master-parameters|parameter]] to maximum, build identity around it, then can't course-correct when conditions change.
-
-### Category B: Coordination Collapse
-*Can't solve collective action problems at scale*
-
-**Extinction rate:** 28% of all failures
-
-Often fails at energy transition, climate response, or pandemic - problems requiring global coordination.
-
-### Category C: Resource Depletion Spiral
-*Consumption exceeds regeneration, collapse accelerates*
-
-**Extinction rate:** 23% of all failures
-
-Usually hits around year 80-150 when accumulated environmental debt comes due.
-
-### Category D: Technology Misalignment
-*Powerful tools, wrong optimization targets*
-
-**Extinction rate:** 11% of all failures
-
-AI, biotech, or nanotech optimizing for wrong objective. Fast collapses (often <50 years).
-
-### Category E: External Event
-*Asteroid, supervolcano, gamma ray burst*
-
-**Extinction rate:** 4% of all failures
-
-Bad luck. Parameters irrelevant.
-
----
-
 ## Notable Failed Trials
 
 ### Trial #12,847,291 - "The Libertarian Collapse"

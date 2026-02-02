@@ -105,9 +105,13 @@ Blames himself for it. Gallows humor on the surface. Humor as defense mechanism.
 
 How does the character express what they want out of life?
 
+Humor, always
+
 ## Values
 
 What are they willing to do or give up to get what they want?
+
+Time, especially as it relates to people close to him
 
 ### Quirks
 
