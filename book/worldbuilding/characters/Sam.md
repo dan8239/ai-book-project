@@ -75,11 +75,13 @@ To realize presence with his family IS enough. Legacy doesn't matter.
 
 ### What doesn't he want people to know about him?
 
-He's cares more about work than his kids.
+He's cares more about work than his family. He needs to be needed. The wealth, the legacy talk, the "my name on every planet" — that's the polished version. Underneath  
+it: he's terrified of being forgettable. Not in a fame way. In a "if I stop being useful, why am I here" way. Ramona loves him for who he is. That's not enough for him, and he knows that says something ugly about him. He'd never admit that his wife's unconditional love doesn't feel like enough — that he needs the problem, the client, the proof that he matters to     
+strangers. That's the thing he hides.  
 
 ### What in this character's history informs why they do what they do?
 
-Someone close to him died due to an oversight? Or maybe not directly that but adjacent to it. Perhaps father or mother.
+First generation wealthy. He grew up invisible. On basic. Just fucking cattle. He felt like a leaf blowing in the wind. Nobody ever looked at him twice. He wants his name to ring out. He wants control.
 
 ### What failure will he never repeat?
 
