@@ -1,1 +1,1 @@
-"What are you optimizing for?" Sam 
+"What are you optimizing for?" Sam scrutinized the results
