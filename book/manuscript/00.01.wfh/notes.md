@@ -59,6 +59,19 @@ Sam optimizes species mix and genetic tuning of highland food forests for specif
 
 ---
 
+## Excluded Species (zone 8/9b failures in this world)
+
+| Species | Why it fails |
+|---------|-------------|
+| Citrus (orange, lemon, grapefruit) | Thin leaf cuticles, high stomatal density. One sulfide storm kills entire orchard. No resprout from root. Years of growth lost in one afternoon. |
+| Avocado | Shallow roots, 270 liters per fruit. Obscene water cost in arid highland. Poor H2S recovery. |
+| Tomato, eggplant (Solanaceae) | Thin-skinned, high stomatal density, shallow roots. H2S kills outright. UV degrades fruit. Survive only in underground farms. |
+| Almond | 12 liters per nut. Also needs pollinators — insect populations devastated by UV and H2S. No pollinators, no almonds. |
+| Wheat, barley | Thin stalks, high surface area, no cuticle protection. One sulfide event flattens a field. Grow underground only. |
+| Grapes | Thin leaves, shallow roots, need specific humidity. UV burns fruit, H2S kills foliage. Wine is a memory. |
+
+---
+
 ## TODO
 
 - [ ] Define the specific site/contract Sam is finishing

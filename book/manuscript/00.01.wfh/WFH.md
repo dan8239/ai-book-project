@@ -1,4 +1,8 @@
-"What are you optimizing for?" Sam scrutinized the results
+"What are you optimizing for?" Sam questioned the results of Dorothea's latest Monte Carlo simulation, eyeing a histogram of total caloric output across 50,000 simulations of the contour farming site.
+
+"Calories per hectare, averaged over a 10 year period." Dorothea replied instantly. 
+
+
 
 1. Land survey with Dorothea
 	1. monte carlo simulation
