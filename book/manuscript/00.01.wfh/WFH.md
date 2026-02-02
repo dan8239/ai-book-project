@@ -1,6 +1,36 @@
-"What are you optimizing for?" Sam questioned the results of Dorothea's latest Monte Carlo simulation, eyeing a histogram of total caloric output across 50,000 simulations of the contour farming site.
+"What are you optimizing for?" Sam questioned the results of Dorothea's latest Monte Carlo simulation, eyeing a histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
-"Calories per hectare, averaged over a 10 year period." Dorothea replied instantly. 
+"Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original spec from the contract." Dorothea replied instantly.
+
+Sam looked up from their shared display in thought. The foothills above them were swarming with bulldozers leveling dirt into contoured steps. Unmanned excavators on the lowest levels were filling in fieldstone terrace walls. They systematically plucked the best shaped stone from truck beds, then placed each like a piece of a jigsaw puzzle into the retaining wall. Trucks were moving the displaced earth farther up the construction site to temporary dump sites.
+
+"Show me the 5th percentile outcome in year 15, Dorothea."
+
+She clicked about on her tablet theatrically, then looked up. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the side.
+
+BOOM. BOOM. BOOM. A deep percussive sound thundered through the landscape. Sam closed his eyes in concentration. Dorothea summarized the scene, unfazed.
+
+"In year 9 a landslide compromised the structure. Infiltration rate was consistently around 8 mm/hr before the incident, dropping to 4 afterwards. 28% of trials that didn't meet minimum production threshold had excess runoff. 11% had a catastrophic structural failure due to deferred maintenance. This had both."
+
+"Is poor retention the most common failure scenario? Show me the next most common."
+
+Dorothea didn't bother with the superficial clicking on her device this time, the scene blinked to a slightly different flavor of the same landscape. This showed even less of the terrace productive, upper layers doing better than the bottom.
+
+"Excess retention is responsible for 47% of the underperforming scenarios, with eventual salinization of the soil killing production."
+
+BOOM. BOOM. BOOM. BOOM. Louder this time. Sam checked the time, when did it get so late? Dorothea patiently waited further instruction.
+
+"Take me back to present."
+
+The scene went dark, with most of the construction activity dead. A few electric motors working in low light remained cleaning up the site.
+
+"Earlier in the day, smart-ass. I'd like to see the structure. Bring up all the crops in your search space."
+
+Dorothea smiled coyly, and turned the lights back on. The hillside buzzed with activity again. Sam perused the crop list across the 7 layers of This site was similar to the ones in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues with lower moisture than the models predicted that his town had.
+
+"Optimize for calories per liter instead of hectare, and do so over a 75 year window. Don't discount future yield more than 10% in the rewards. Put penalties in place for "
+
+
 
 
 
