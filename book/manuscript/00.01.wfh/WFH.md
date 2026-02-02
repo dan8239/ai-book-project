@@ -34,4 +34,10 @@
 		1. build character
 		2. colonize mars stuff
 		3. show them really advanced reading
-		4. 
+		4. kid wants him to chaperone on the field trip
+7. Brings his dish right into bed and collapses into it
+	1. Wife is perfect
+	2. She talks about the kids, not them
+	3. You should be there. He has a field trip next week kind of thing (or cats/rats)
+	4. Convo goes to 3rd kid
+	5. 
