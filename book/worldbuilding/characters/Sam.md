@@ -85,7 +85,13 @@ First generation wealthy. He grew up invisible. On basic. Just fucking cattle. H
 
 ### What failure will he never repeat?
 
-Need something here that explains why he is capable of actually solving the problem where all the other simulations didn't.
+He got out. His people didn't. He had the talent to escape — saw patterns, got noticed by someone, got pulled into optimization work. But he left others behind. Not dramatically — no burning bridges, no betrayal. He just... left. Moved up, moved on, stopped calling. The people he grew up with are still on basic, still cattle. He tells himself he earned it. He tells himself there was nothing he could do. But he knows he didn't try. He chose himself.
+
+That's the failure he'll never repeat — except he's repeating it with different people. He's choosing the work over Ramona, over the kids, over the mountain people. Every time he picks the project over the person standing in front of him, he's doing the same thing he did when he was twenty. He just can't see it because now he frames it as *providing* instead of *leaving*.
+
+The Honeycomb job is loaded with this: "my name on every planet" isn't just ego. It's proof that he mattered. That getting out was worth it. That all the people he left behind would look up and see his name and know he did something with the chance they didn't get. Ramona would find that heartbreaking if she understood it fully — he's still performing for an audience that stopped watching decades ago.
+
+The mountain people are exactly who he left behind. Off-grid, invisible, surviving on nothing. When he treats them as a data source instead of people, he's doing the thing again. When Tina shows up at his house furious, she's the ghost of everyone he walked away from.
 
 ### How / why is he different from the other 850M simulations? What leap does he take?
 
@@ -194,46 +200,43 @@ His team is literally his best friend robot with specialized hyper functional ag
 2. **Call up:** Gets promoted to colonization/re-seed program - learns true dire state of Earth
 3. **Mystery begins:** Needs genetic diversity for colony, finds weird dataset in 23andMe-type DB (planted by DevSecOps woman)
 
-### The Cave Optimization Arc (Key Learning Moment)
+### The Mountain Optimization Arc (Key Learning Moment)
 
-Sam takes on a side project optimizing energy use for the legacy humans' underground settlement. This becomes crucial to the heist.
+Sam trades 4x energy improvement (2 weeks, no exposure) for the mountain's multi-generational closed-system data — agricultural records, population records, energy inputs, failure points.
 
-**Month 1: Failure**
-- Sam applies his standard optimization models
-- Result: Energy consumption goes UP, not down
-- His models are making things worse
-
-**The Investigation:**
-- Sam has to do boots-on-the-ground work
-- Actually visits the settlement (First Contact chapter)
-- Sees the reality vs. his assumptions
-- Discovers the model was optimizing for incorrect things
-- Underground life doesn't match above-ground assumptions
-
-**The Fix:**
-- Adjusts the model with real observational data
-- Results improve dramatically
-- The system works once the inputs are correct
+**Month 1: False win**
+- Energy drops 30% — looks great on paper
+- But apples are dying (not enough chill days), water depleting (abused free cooling), people pissed
+- He optimized one variable and wrecked everything else
 
 **The Lesson:**
-> "Optimization is only as good as your information. Out-of-sample data breaks models."
+- You can't optimize everything — you have to choose what to sacrifice
+- Models are useful but wrong. Real life is not a model.
+- The whole system is coupled: water, food, freezing days, cooling, energy
+
+**The Fix:**
+- Has to balance the whole system, make tradeoffs, sacrifice some metrics
+- Crushes estimated savings once he balances it properly
+
+**Application to colonization:**
+- Flips his approach: stop optimizing the environment to fit humans → optimize biology to fit the environment
+- Bottoms-up modeling: protein folding → chemical pathways → cell viability → tissue → organ → organism
+- What lands on other worlds is descended from us but barely recognizable — sacrifice what "human" looks like to survive
 
 **Application to Glenn:**
-- Sam realizes Glenn has the same weakness
-- Glenn's model doesn't account for everything
-- What's OUT of Glenn's sample?
-- Answer: **Tina** - identical twin, off-grid, invisible to monitoring
+- Glenn has the same flaw: optimizing for cost/speed, trusts his model completely
+- Glenn's model doesn't account for what's invisible to the system
+- Answer: **Tina** — identical twin, off-grid, no nanobots, invisible to monitoring
+- Legacy humans are below Glenn's resolution — he doesn't know they exist
 - This becomes the key to the heist
 
 ## Career Mindset (Early Story)
 
-Sam is kind of bored, but not existentially bored. He's had enough. His contract is fulfilled. He doesn't really need money.
+Sam can't stop working. It's not boredom — it's compulsion. He doesn't know who he is when he's not solving something. Ramona knows this. The kids know this. He's the dad who's physically home but mentally somewhere else, and has been for years.
 
-He's mostly thinking about taking some time. He's like, "I don't need to work. I've got enough credits left. We could live for the rest of my life without it." He doesn't need to do any of this stuff. He's just doing it to find purpose.
+He doesn't need the money. They're wealthy — first-generation, self-made. Ramona's point: "We have enough. You can stop now." But stopping feels like dying to him. The contract isn't him killing time. It's him sneaking a fix.
 
-Early in the book he's talking with [[wife|Ramona]] about maybe it's time to retire. He's already 34. He's not getting any younger.
-
-This shows how the typical career is much shorter. Nobody's grinding for 50 years anymore for work because most people don't have to work at all. You're working for extra credits. Your energy already takes care of life support, food, healthcare, education — all that is covered. All that is part of your existence bill. The only thing extra to that is what you electively use.
+Nobody grinds for 50 years anymore — most people don't have to work at all. Energy covers life support, food, healthcare, education. You work for extra credits and elective use. Sam has more than enough. He works because he needs the proof that he matters.
 
 ## Relationships
 - **Relationship to [[devsecops-woman|DevSecOps Woman]]:** TBD (thematic parallel matters more than genealogy)
