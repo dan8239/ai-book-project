@@ -26,9 +26,11 @@ The scene went dark, with most of the construction activity dead. A few electric
 
 "Earlier in the day, smart-ass. I'd like to see the structure. Bring up all the crops in your search space."
 
-Dorothea smiled coyly, and turned the lights back on. The hillside buzzed with activity again. Sam perused the crop list across the 7 layers of This site was similar to the ones in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues with lower moisture than the models predicted that his town had.
+Dorothea smiled coyly, and turned the lights back on. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the ones in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues with lower moisture than the models predicted that his town had.
 
-"Optimize for calories per liter instead of hectare, and do so over a 75 year window. Don't discount future yield more than 10% in the rewards. Put penalties in place for "
+"
+
+Optimize for calories per liter instead of hectare, and do so over a 75 year window. Don't discount future yield more than 10% in the rewards. Put penalties in place for "
 
 
 
