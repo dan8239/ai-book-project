@@ -36,18 +36,6 @@ Built the **M&V (Measurement & Verification) system** that underpins all of Hone
 - Representative sampling
 - Out-of-the-box billing
 
-He doesn't have to worry about money but isn't famous in any way—like someone who wrote TCP/IP but isn't a household name.
-
-### Current Contract
-**Food chain optimization**—agricultural ML work. This is how he gets called up to the colonization project.
-
-Originally a 6-month contract that's been extended at-will. He's not used to such a long commitment. He's been on it for way too long and he's basically fulfilled it. He's now an at-will employee for this system.
-
-The temp in 01.03.work is who he's bringing on to replace him.
-
-### What Makes Him Rare
-Most people just work on AI-originated projects. Sam still originates work that AGI later adopts and maintains. This is increasingly unusual.
-
 ### The Rossland Mining Museum
 
 Sam is the de-facto owner of the Rossland Mining Museum—funded it through an enormous donation, years in the making.
@@ -68,7 +56,7 @@ This is how Sam siphons energy without detection. The museum's "compute infrastr
 
 ### What does he want?
 
-He wants to be somebody that matters. He wants to do a big thing that will save his name in time and leave a legacy. That's why he keeps doing stuff even though he doesn't need to.
+He wants to be somebody that matters. He wants to do a big thing that will save his name in time and leave a legacy. That's why he keeps doing stuff even though he doesn't need to. He can't stop working and making money.
 
 ### Why can't he have it?
 
@@ -86,6 +74,8 @@ To realize presence with his family IS enough. Legacy doesn't matter.
 - But he's happier than at the beginning when he had seemingly everything
 
 ### What doesn't he want people to know about him?
+
+He's cares more about work than his kids.
 
 ### What in this character's history informs why they do what they do?
 
