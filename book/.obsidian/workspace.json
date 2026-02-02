@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "worldbuilding/simulation/failed-trials.md",
+                "file": "manuscript/00.01.wfh/WFH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "failed-trials"
+              "title": "WFH"
             }
           },
           {
@@ -236,6 +236,10 @@
   },
   "active": "a39f07e56f0f70c2",
   "lastOpenFiles": [
+    "worldbuilding/simulation/extinction-trajectory.md",
+    "manuscript/00.01.wfh/WFH.md",
+    "manuscript/00.01.wfh",
+    "worldbuilding/simulation/failed-trials.md",
     "worldbuilding/world/caloric-projection.png",
     "worldbuilding/simulation/honeycomb-policy.md",
     "worldbuilding/simulation/master-parameters.md",
@@ -262,8 +266,6 @@
     "worldbuilding/characters/grant-melrose.md",
     "worldbuilding/characters/c-suite.md",
     "worldbuilding/timeline/real-world-2025.md",
-    "worldbuilding/timeline/early-sim-era.md",
-    "worldbuilding/timeline/refactor/museum-scene.md",
     "assets/figures/extinction_histogram_rebase_comparison.png",
     "assets/figures/extinction_histogram_rebase_only.png",
     "assets/figures/extinction_histogram_stacked.png",
@@ -272,7 +274,6 @@
     "assets/figures/extinction_dumbbell.png",
     "assets/figures/extinction_ridgeline.png",
     "assets/figures/sunbubble_receipt.png",
-    "assets/figures/best_trial_by_epoch.png",
     "assets/figures",
     "assets",
     "manuscript/02.03.control-room",
@@ -280,7 +281,6 @@
     "manuscript/00.00.prologue",
     "manuscript/02.02.first-contact",
     "manuscript/02.01.mountain",
-    "manuscript/02.00.gondola",
-    "manuscript/act_3/03.09.the_aquarium_pt_ii"
+    "manuscript/02.00.gondola"
   ]
 }

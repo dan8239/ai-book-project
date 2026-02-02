@@ -360,7 +360,7 @@ True extinction requires **long-lived environmental or biological hostility**, n
 
 ## Survival Strategy Alternatives
 
-*What Coffee Guy and Zuck already know: every approach has been tried.*
+*What Damon and Grant already know: every approach has been tried.*
 
 Of 847M+ trials facing biosphere collapse (the most common extinction pathway), civilizations have pursued various survival strategies. Here's what the data shows:
 
