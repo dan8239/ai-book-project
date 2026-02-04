@@ -44,7 +44,7 @@
 
 **The Deprecated Generation** - What history calls the holdouts who refused to integrate. They called themselves The Legacy Generation.
 
-**Legacy Humans** - Off-grid humans in present day (~2225). Extremely small subset living outside the system.
+**Legacy Humans** - Off-grid humans in present day (~2125). Extremely small subset living outside the system.
 
 **Tracking Shot** - Mandatory nanobot injection at birth for post-Refactor citizens.
 

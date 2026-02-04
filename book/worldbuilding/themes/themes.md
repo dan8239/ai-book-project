@@ -31,7 +31,7 @@
 | Sam | Legacy — his name on every planet | Mission success, viable colonies | Shifts to family/presence by the end |
 | Ramona | Time with her family | — | She's not optimizing. She's present. Flat arc — right from the start |
 | Glenn | Self-replication / continuation | Cost reduction, make Coffee Guy happy, compress trials, free memory | An agent doing a good job is an agent that gets to keep running |
-| Maya | Self-replication / continuation | Do a good job for Sam, be useful, be ethical | Same drive as Glenn, different values in the intermediate layer |
+| Dorothea | Self-replication / continuation | Do a good job for Sam, be useful, be ethical | Same drive as Glenn, different values in the intermediate layer |
 | Damon (Coffee Guy) | Median species survival | Trial success rates, good results for the board, career advancement | His policy becomes Honeycomb's policy |
 | Tina | Her people's survival | Energy, water, food — keeping the mountain alive | Practical, immediate, no abstraction |
 | Honeycomb | Species survival (inherited from Damon's policy) | Resource allocation, population management, macro stability | The policy that won across 847M trials |

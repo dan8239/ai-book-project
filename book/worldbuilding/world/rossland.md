@@ -2,7 +2,7 @@
 
 **Location:** BC Kootenays, near current Rossland/Nelson area, Canada
 **Elevation:** Base 1,400m, Summit 2,600m
-**Population (2225):** ~800 (down from 12,000 at peak)
+**Population (2125):** ~800 (down from 12,000 at peak)
 
 ---
 
@@ -15,11 +15,11 @@
 | 1900s-2000s | Premier ski destination, "next Aspen" vibes |
 | 2050s-2100s | Snow becomes unreliable, AI metals rush reopens mines briefly (Mo, W, Cu) |
 | 2150s | Mines exhausted, ski industry dead, population crashes |
-| 2225 | Quiet mountain town, wellness retreats, rehab centers, rewilding projects |
+| 2125 | Quiet mountain town, wellness retreats, rehab centers, rewilding projects |
 
 ---
 
-## The Town Now (2225)
+## The Town Now (2125)
 
 ### Feel
 
@@ -63,7 +63,7 @@ The people who stay are either:
 
 ### What Sam Sees Going Up
 
-| Elevation | Then (Historical) | Now (2225) |
+| Elevation | Then (Historical) | Now (2125) |
 |-----------|-------------------|------------|
 | Base (1,400m) | Ski village, lodges, crowds | Quiet wellness center, few staff, rehab patients on walks |
 | Mid-mountain (1,800m) | Ski runs through dense forest | Dead/dying conifers, beetle-kill grey, second-growth scrub |

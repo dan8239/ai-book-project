@@ -23,7 +23,7 @@ THE STAGING PERIOD (~one generation)
     └── Riots, looting, collapse outside centralized zones
     └── Deprecated Generation dies out
 
-Post-Rebase (protagonist's simulated world, ~2225)
+Post-Rebase (protagonist's simulated world, ~2125)
     └── Living under the policy
     └── Censored history, Grant Melrose mythologized
     └── Legacy Humans exist off-grid in small numbers

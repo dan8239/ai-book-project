@@ -3,7 +3,7 @@
 **Name:** Ramona Motu-Spencer (née Spencer)
 **Gender:** Woman
 **Age:** 31
-**Era:** [[../timeline/sim-present|Sim Present (~2225)]]
+**Era:** [[../timeline/sim-present|Sim Present (~2125)]]
 **Background:** Earth Systems Science, grew up in the mountain (legacy human settlement)
 **Religion:** Raised Christian (doesn't really practice, but knows the stories/proverbs)
 

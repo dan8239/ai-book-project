@@ -206,7 +206,7 @@ Nearly 5m high apple tree, covered in ripe apples. Small granite cross being swa
 
 **Headstone:**
 > *Franklin Ross Spencer*
-> 2137-2178
+> 2037-2078
 > *Behind every breath, his hand*
 
 3 out of every 10 trees have small headstones in similar places.

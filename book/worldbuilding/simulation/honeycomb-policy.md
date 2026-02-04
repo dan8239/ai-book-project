@@ -83,7 +83,7 @@ This is the transitional governance structure - humans nominally in control.
 
 The board is phased out entirely. Replaced by the **driver-controller system** (Honeycomb governance). Human oversight ends. The system runs itself.
 
-### Sam's Era (~2225)
+### Sam's Era (~2125)
 - Policy has been running for ~200 years
 - Fully autonomous
 - [[glenn-big-dog|Glenn "Big Dog" Robinson]] is the current epoch manager

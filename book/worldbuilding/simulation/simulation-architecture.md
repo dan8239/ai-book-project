@@ -44,5 +44,5 @@ All dated 2025, read-only, immutable. This is the source - everything bootstrapp
 ## Scheduled Discoveries
 Located at `/sim/artifacts/scheduled_discoveries/`:
 - Pre-generated archaeological finds for future years
-- `discovery_003_cpu.dat` scheduled for year 2225
+- `discovery_003_cpu.dat` scheduled for year 2125
 - Discoveries are scripted, not random

@@ -54,7 +54,7 @@ Big Dog is globally scoped - manages 847M simulations. No reason to embed in one
 |------|--------------|
 | **First intro (Act 1)** | Protagonist submits resource request, gets approved. Signed "G. Robinson, Compute Allocation Specialist." Just a name in the system. |
 | **Async rapport (Act 2A)** | Protagonist asks something technical, gets weirdly personal/helpful reply. Asks a follow-up question too close to the bone. Big Dog notices. Starts paying attention. |
-| **Before reveal (late 2A)** | Protagonist digging through logs, sees maintenance history. Frank Thomas (2180-2195), Randy Johnson (2195-2210), Glenn Robinson (2210-present). Same role, same access patterns. Not a lineage - one entity with different handles. |
+| **Before reveal (late 2A)** | Protagonist digging through logs, sees maintenance history. Frank Thomas (2080-2095), Randy Johnson (2095-2110), Glenn Robinson (2110-present). Same role, same access patterns. Not a lineage - one entity with different handles. |
 | **Physical appearance (Midpoint)** | Shows up in person. "We should talk." |
 
 ### The Sports Names Easter Egg

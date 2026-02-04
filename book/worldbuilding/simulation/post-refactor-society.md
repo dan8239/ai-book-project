@@ -51,7 +51,7 @@ TBD - how does news work in this world?
 
 ---
 
-## Climate State (~2225, +6°C above pre-industrial)
+## Climate State (~2125, +6°C above pre-industrial)
 
 ### What's Gone
 - **Ice:** Arctic ice-free year-round, Greenland largely gone, West Antarctic collapsed

@@ -38,7 +38,7 @@ Navigation hub for worldbuilding and manuscript.
   - [[worldbuilding/timeline/refactor/legacy-humans|Legacy Humans]] - Off-grid survivors
   - [[worldbuilding/timeline/refactor/museum-scene|Museum Scene]] - Exposition device
 - [[worldbuilding/timeline/early-sim-era|Early Sim (~2125-2150)]] - Post-Refactor, pre-protagonist
-- [[worldbuilding/timeline/sim-present|Sim Present (~2225)]] - Protagonist's era
+- [[worldbuilding/timeline/sim-present|Sim Present (~2125)]] - Protagonist's era
 
 ## Simulation (Protagonist's World)
 - [[worldbuilding/world/rossland|Rossland]] - Sam's hometown, former ski town, legacy human entrance

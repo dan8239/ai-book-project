@@ -58,16 +58,67 @@ Dorothea was replying when he felt pressure on his lap. His headset was forcibly
 
 "No, look me in mine eyes, Daddy."
 
-"OK, what's up buddy? How was your day?"
+Sam turned and made eye contact, smiling. "What's up buddy? How was your day?"
 
 "Daddy, did you know your beard is connected to your hair?" Clyde asked sternly as rubbed Sam's sideburns with his index finger. "See?"
 
-"No, that can't be right." Sam feigned shock, putting his fingers by Clyde's to double check.
+"No, that can't be right." Sam feigned shock, putting his fingers over Clyde's to double check.
 
-"IT IS!" Clyde belly laughed and jumped off of Sam's groin out of the swivel chair.
+"IT IS!" Clyde belly laughed and jumped from the swivel chair, leveraging himself off of Sam's groin.
 
-"DADDY! STEVIE! STEVIE IS MAKING THE SPEEDY BOX CATCH ME!" Clyde has a physical incapability of speaking at normal volume when he got excited. He sprinted out of Sam's office, then down the long hallway to the main living area. His bare feet slapped off the composite hardwood. He stood jumping and laughing as he entered the kitchen area.
+"DADDY! 'TEVIE! 'TEVIE IS MAKING THE 'PIDER CATCH ME!" Clyde has a physical incapability of speaking at normal volume when he got excited. He sprinted out of Sam's office, then down the long hallway to the main living area. His bare feet slapped off the composite hardwood. Sam followed out into the hall and swore as he stepped on a hard dinosaur toy. He could see Clyde jumping and laughing at the end of the hall, on the edge of the kitchen.
 
+As he turned into the open space, Clyde was running around the island and laughing, pointing to the ground. Ramona was scraping the remnants of a child's plate into the compost bin. As Clyde sprinted past, she deftly placed the fork down on the island and stopped Clyde with an open hand to his chest. She got down into a squat to talk at his level. "No sprinting through the kitchen, please. If you're going to be goofing please do it in the living room."
+"OKAY MOMMY!" Clyde yelled directly into her mouth in performative compliance, then continued his elated sprint to his brother's side.
+
+Sam kissed Ramona on the cheek and put his arms around her from behind. She smiled and collapsed gently into him, then nodded at the other end of the island. "Your plate is ready, it might need a zap. These boys need to get up to bed. How was work?"
+
+"Hectic, as usual! I can do bedtime. This looks great, thank you." Sam's bowl was the only one remaining on the island.
+
+"DADDY! DADDY!" Clyde pulled at Sam's sweats as he pointed to a small 4-wheeled remote control car on the floor of the living room. He mostly made sound effects and mimed running, jumping and screaming from then on. The car was a simple matte black box with oversized wheels. It looked like a little server rack with an foam antenna sticking straight up.
+
+Stevie was at his device, typing and smiling. "I adjusted the loss function to use shaped rewards this afternoon in class and it's doing WAY better. Look." 
+
+Clyde laughed insanely in anticipatory joy.
+
+Stevie pressed a button on his device and the bot spun to life. It slewed suddenly at Clyde, aligning itself in small, quick adjustments, then gave chase. and Clyde ran in circles around the island, having the time of his life. Ramona closed her eyes and took a few deep breaths with her palms grounded against the island. Clyde was much faster, but the bot was relentless. It pursued until Clyde was out of sight, then would change to the other direction and surprise him as he turned the corner. Stevie laughed quietly to himself sitting on the couch.
+
+The bot's foam antennae forked and flailed slowly when Clyde got near, attempting to tag him. Eventually Clyde abandoned the island, sliding past the bot onto his knees, then scrambling towards the corner of the living room. Now, the bot had him cornered. Tiny servo motors whined as it slowly splayed its antennae into a spider-like, frozen posture. 
+
+Clyde laughed maniacally, covering his face with his hands, gasping for breath. He took a step one way, the bot shadowed. Another way, same result. Clyde looked at his mother, then he jumped up onto the couch and ran on the cushions, cackling. The robot mirrored Clyde's movement, lagging slightly behind.
+
+"CLYDE!" Stevie shouted as his younger brother jumped over him, gathering speed as his arms pumped wildly. 
+"NO RUNNING ON THE COUCH!" The levy of Ramona's self-regulatory breath-work had finally breeched.
+Sam dipped his flatbread into the lukewarm sweetmash and took a bite, then popped the bowl into the microwave, pressing a few buttons.
+
+Clyde took the turn at the elbow of the couch. The robot had taken a better angle and was catching up.
+
+"HIIIIIIIYAHHHH!" Clyde jumped directly on the robot with arms swinging. He knocked it onto its antenna, wheels spinning back and forth, rotating itself lamely as motors whirred.
+
+"NO HITTING, CLYDE! IT'S AGAINST THE RULES!" Stevie ran over to the device and set it upright. Clyde finally stopped swinging his arms and making punch sound effects as he saw tears welling up in Stevie's eyes.
+"Sorry, 'tevie." He was genuinely remorseful, and extremely winded.
+
+"OK boys, time for bed!" Sam got up off the island stool and walked over to the boys. Clyde sprinted down the hall, WAPwapwapwapwapwapwapwap.
+"Now that they're nice and riled up." Ramona smirked.
+Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the images still saved."
+"It's time, buddy. I'll help you with it in the morning." Sam reasoned.
+"YOU ALWAYS HATE ME!" Stevie shouted back at his dad.
+"Stevie!" Ramona defended her husband.
+"That's one." Sam said, calmly.
+Stevie made an enraged sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout. "It's hard being ten."
+
+Sam followed down the hall. Stevie went into the bathroom and was brushing his teeth angrily. As Sam walked past the kids' bedroom door Clyde was midair, jumping from the top bunk. He had pulled out the trundle bed from under the bottom bunk and piled up a few stuffed animals.
+
+"Buddy, there's a ring buffer of 15 minutes. It will have the images for your training set, even if the connection dropped for a bit. Don't worry. And I don't hate you, I love you."
+Stevie spit venom (toothpaste). He didn't deign a reply.
+"You know, technically that was its first time winning the game. That data might be your seed episode. I bet you'll go through a phase transition with a few more examples like that."
+"You think so?" Stevie's rage melted.
+"Sure thing! And if the shaped rewards are looking good, try curriculum rewards next. You can start by catching your little brother, then once it figures that one out have it try to catch me and your mom."
+
+They chatted a bit longer while they brushed and peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
+
+Ramona walked in and set Sam's dinner on the boys' dresser.
+"Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted, rifling through the bookshelf.
 
 
 

@@ -53,7 +53,7 @@ They walked through room after room on the floor, starting a lap around the cent
 They hopped on a free lift together and Tina entered 16F-2 into the interface. The glided, up to the 2nd level, then into the stacks, whipping past countless trees. Each row had trees at varying stages of production. There were young trees and old in each row. Some aisles had blossoms, others had small buds developing. Some had huge, ripe apples. Rotting apples were everywhere on the soil at the bases of those trees. There were trees losing their leaves. There were leafless, dormant trees covered in artificially created snow. Eventually they made it to an apple tree nearly 5m high, covered in apples ready for picking. A small granite cross was being swallowed up by the roots of the tree, which seemingly grew around the stone. She noticed that 3 out of every 10 trees had a small headstone in a similar place.
 
 *Franklin Ross Spencer*
-2137-2178
+2037-2078
 *Behind every breath, his hand*
 
 Ramona talked a lot about her dad, but always as though he were still around. In 9 years of marriage she'd never confided in him how he'd passed. He suspected it had something to do with her leaving the Mountain, but figured she'd tell him when she was ready.

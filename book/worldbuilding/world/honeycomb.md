@@ -1,6 +1,6 @@
 # Honeycomb
 
-**Era:** [[../timeline/sim-present|Sim Present (~2225)]]
+**Era:** [[../timeline/sim-present|Sim Present (~2125)]]
 
 The global governance system that replaced nation-states after [[../timeline/refactor|The Refactor]].
 
