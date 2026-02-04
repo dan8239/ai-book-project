@@ -134,7 +134,7 @@ Then at bedtime use this one
 
 "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized entirely by stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand.
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. His mind was drifting back to the 
 **
 
 **Every night max says “Dada will you ‘tay in here a little while?” All cute to try to get me to stay in bed with him. Usually I will once every couple of weeks until he falls asleep. One night he says it and when I say no he immediately gets angry and says “DADA YOU HAVEN'T ‘TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE”**
