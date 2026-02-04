@@ -120,28 +120,30 @@ They chatted a bit longer while they brushed and peed, then cajoled Clyde into d
 Ramona walked in and set Sam's dinner on the boys' dresser.
 "Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted, rifling through the bookshelf.
 
+*** book should remind him of work
 
+*** check notes, animal history book, maybe save space book for later
 
+*** make sure to drop a space colonization thing if not though
 
-
-
-**Miles (4) daddy did you know your beard is connected to your hair? *rubs sideburns with index finger” see?**
+*** maybe just one-liner the amazing mammals stuff, describing him turning the pages too quickly.
 
 That reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite, Moringa, Buckthorn, Clover. Every variable in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
 
+Then at bedtime use this one
 
+"FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized entirely by stuffies.
 
-Younger child ideas
-
+Sam scratched Clyde's back with his left, and Stevie's with his right hand.
 **
 
-Toy playing song: beep beep beep, we're going on a musical adventure!
+**Every night max says “Dada will you ‘tay in here a little while?” All cute to try to get me to stay in bed with him. Usually I will once every couple of weeks until he falls asleep. One night he says it and when I say no he immediately gets angry and says “DADA YOU HAVEN'T ‘TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE”**
 
-Max (3), rageful: I’M NOT GOING ON A MUSICAL ADVENTURE
 
-**
 
-**Every night max says “Dada will you ‘tay in here a little while?” All cute to try to get me to stay in bed with him. Usually I will once every couple of weeks until he falls asleep. One night he says it and when I say no he immediately gets angry and says “DADA YOU HAVEN'T ‘TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY”**
+"No, buddy. I stayed last night until you were both asleep. And I said next WEEK, not tomorrow."
+
+
 
 **Max mad at mom for not letting him watch a show: “Go in the toilet and be flushed!”**
 
