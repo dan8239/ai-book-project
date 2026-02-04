@@ -132,7 +132,9 @@ Ramona walked in and set Sam's dinner on the boys' dresser.
 "Whose turn is it to pick the book?" Sam asked, legs splayed on the trundle.
 "ME!" both children replied, then started bickering.
 "I think we read yours last night, Stevie, it's Clyde's turn."
-Stevie put his 
+Stevie put his hardcover book about space back into the shelf, defeated. The binding was duct taped thoroughly. Sam couldn't recall the title hiding underneath.
+
+Clyde plopped down on Sam's lap holding *Magnificent Mammals*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, holding the book while Clyde rapidly flipped pages
 
 *** book should remind him of work
 
