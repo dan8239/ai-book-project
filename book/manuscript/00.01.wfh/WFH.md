@@ -108,11 +108,11 @@ Stevie protested as he brought the robot back over to his device. "NO! I just ne
 
 "YOU ALWAYS HATE ME!" Stevie shouted back at his dad.
 
-"Stevie!" Ramona defended her husband.
+"Steven Wesley!" Ramona defended her husband.
 
 "That's one," Sam said calmly.
 
-Stevie made an enraged sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout.
+Stevie made an enraged sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout and put her hand on his.
 
 "It's hard being ten."
 
@@ -120,32 +120,35 @@ Sam followed down the hall. Stevie went into the bathroom and was brushing his t
 
 "Buddy, there's a ring buffer of 15 minutes. It will have the images for your training set, even if the connection dropped for a bit. Don't worry. And I don't hate you, I love you."
 Stevie spit venom (toothpaste). He didn't deign a reply.
-"You know, technically that was its first time winning the game. That data might be your seed episode. I bet you'll go through a phase transition with a few more examples like that."
+"You know, technically that was its first time finishing the objective. That data might be your seed episode. I bet you'll go through a phase transition with a few more examples like that."
 "You think so?" Stevie's rage melted.
 "Sure thing! And if the shaped rewards are looking good, try curriculum rewards next. You can start by catching your little brother, then once it figures that one out have it try to catch me and your mom."
 
 They chatted a bit longer while they brushed and peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
 
 Ramona walked in and set Sam's dinner on the boys' dresser.
-"Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted, rifling through the bookshelf.
+"Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted. They paid her little attention as they rifled through the bookshelf.
+
+"Whose turn is it to pick the book?" Sam asked, legs splayed on the trundle.
+"ME!" both children replied, then started bickering.
+"I think we read yours last night, Stevie, it's Clyde's turn."
+Stevie put his 
 
 *** book should remind him of work
 
 *** check notes, animal history book, maybe save space book for later
 
-*** make sure to drop a space colonization thing if not though
-
 *** make sure to ask for a game of h-o-r-s-e and deny it
 
 *** maybe just one-liner the amazing mammals stuff, describing him turning the pages too quickly.
 
-That reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite, Moringa, Buckthorn, Clover. Every variable in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
+"Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening.
 
-Then at bedtime use this one
+"Not tonight, buddy, it's late," replied Sam evenly.
 
-"FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie yelled with haste, then dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized entirely by stuffies.
+"Awww! FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie yelled with haste, then dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized by pioneering stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand. His mind was drifting back to the last terrace site and Dorothea's loss function.
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite, Moringa, Buckthorn, Clover. Every variable you fixed in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
 
 "DAD." Stevie had been saying something.
 
@@ -153,18 +156,18 @@ Sam scratched Clyde's back with his left, and Stevie's with his right hand. His 
 
 "Did you know Olympus Mons is so big that if you stood on top you wouldn't even know you were on a mountain? The slope is so gradual your brain would think you were on flat ground." Stevie spoke with his cheek to the mattress, eye level with his dad.
 "Wow, I didn't know that," Sam replied neutrally.
-"And the base is wider than all of France. And it's 3 times taller than Mount Everest." 
+"And the base is wider than a whole hex. And it's 3 times taller than Mount Everest." 
 "I think I knew that last one."
 "Dad, did you know it takes 20 minutes for light to get there. So every robot on Mars has to think for itself. If it gets stuck in a hole, it's 40 minutes before anyone even knows."
-"Well I'm glad you're learning how to do it then! Someone has to teach those robots how to miss those potholes."
+"Well I'm glad you're learning how to build them then! Someone has to teach those robots about potholes."
 "Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
 "Yes, I learned that when I was a kid, too. Did you learn that at school?"
-"My teacher and my assistant both told me. I'm going to go live there and be a mars farmer when I grow up. You and mom and Clyde can come, too." 
+"My teacher told me and my assistant told me, too. I'm going to be a Mars farmer when I grow up. You and mom and Clyde can come, too." 
 
-Sam replied pragmatically. "Well, there's still only a few approved people that get to go there. And they're still a long ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
-Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys.
+Sam replied pragmatically. "Well, there's still only a few people that get to go there each mission. And they're still a LONG ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
+Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys on the cheek.
 
-Clyde showed some final signs of life. "Daddy, my friend Alonzo's dad is on Mars and he's going to visit him for Christmas in a space ship."
+Clyde showed some final signs of life. "Daddy, my friend Alonzo's dad is on Mars and he's going to visit him for Christmas in a 'paceship."
 
 Ramona projected her voice from the bedroom across the hall. "I know Allie and Marcus, he lives a mile down the road so don't believe Alonzo's little tales, Clyde!"
 
@@ -174,12 +177,12 @@ Clyde rolled over and put his hand directly over Sam's face. "Dada will you 'tay
 
 "Not tonight, buddy, next week."
 
-Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE"
+Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE."
 
-"It's yesterday, Clyde, not LASTerday," Stevie mumbled, barely audible, dreaming.
+"It's yesterday," Stevie mumbled, barely audible, dreaming.
 
-"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
-Clyde surprisingly rolled over and put up no further resistance.
+"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
+Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
 **TODO***
 
