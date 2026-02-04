@@ -126,6 +126,8 @@ Ramona walked in and set Sam's dinner on the boys' dresser.
 
 *** make sure to drop a space colonization thing if not though
 
+*** make sure to ask for a game of h-o-r-s-e and deny it
+
 *** maybe just one-liner the amazing mammals stuff, describing him turning the pages too quickly.
 
 That reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite, Moringa, Buckthorn, Clover. Every variable in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
@@ -134,141 +136,37 @@ Then at bedtime use this one
 
 "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized entirely by stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand. His mind was drifting back to the 
-**
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. His mind was drifting back to the last terrace site and Dorothea's loss function.
 
-**Every night max says “Dada will you ‘tay in here a little while?” All cute to try to get me to stay in bed with him. Usually I will once every couple of weeks until he falls asleep. One night he says it and when I say no he immediately gets angry and says “DADA YOU HAVEN'T ‘TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE”**
+"DAD." Stevie had been saying something.
 
+"Sorry, what did you say, buddy?" Sam refocused. Stevie was fading, Clyde was blinking slowly but alert on his belly.
 
+"Did you know Olympus Mons is so big that if you stood on top you wouldn't even know you were on a mountain? The slope is so gradual your brain would think you were on flat ground." Stevie spoke with his cheek to the mattress, eye level with his dad.
+"Wow, I didn't know that", Sam replied neutrally.
+"And the base is wider than all of France. And it's 3 times taller than Mount Everest." 
+"I think I knew that last one."
+"Dad, did you know it takes 20 minutes for light to get there. So every robot on Mars has to think for itself. If it gets stuck in a hole, it's 40 minutes before anyone even knows."
+"Well I'm glad you're learning how to do it then! Someone has to teach those robots how to miss those potholes."
+"Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
+"Yes, I learned that when I was a kid, too. Did you learn that at school?"
+"My teacher and my assistant both told me. I'm going to go live there and be a mars farmer when I grow up. You and mom and Clyde can come, too." 
+Sam replied pragmatically. "Well, there's still only a few approved people that get to go there. And they're still a long ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
+Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys. 
+Clyde showed some final signs of life. "Daddy, my friend Alonzo's dad is on Mars and he's going to visit him for Christmas in a space ship."
+Ramona projected her voice from the bedroom across the hall. "I know Allie and Marcus, and they're on basic just like Momma so don't believe Alonzo's little tales, Clyde!" 
+"Goodnight, boys, I love you." Sam went back for one more hug each.
+Clyde rolled over and put his hand directly over Sam's face. "Dada will you 'tay in here a little while?" He asked sweetly. 
+"Not tonight, buddy, next week."
+Clyde was very hurt. “DADA YOU HAVEN'T ‘TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE”
+"It's yesterday, Clyde, not LASTerday." Stevie mumbled, barely audible as if dreaming.
+"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
+Clyde surprisingly rolled over and put up no further resistance.
 
-"No, buddy. I stayed last night until you were both asleep. And I said next WEEK, not tomorrow."
+**TODO***
 
-
-
-**Max mad at mom for not letting him watch a show: “Go in the toilet and be flushed!”**
-
-**
-
-Dad (35): I love you buddy, good night
-
-Max (3), sighs with exasperation: yeah you too
-
-**
-
-**
-
-Putting cinnamon sugar on Max's toast
-
-“ENOUGH, DADA! Enough.”
-
-**
-
-**
-
-Dada (34) ok buddy goodnight
-
-Max (3) come on Dada, one more story for the road
-
-**
-
-"DADDA YOUR PENIS IS HUGE"
-
-**
-
-Max (4) “daddy can you hold my nuts cuz I have to go to the bathroom”
-
-*hands me a bag of almonds*
-
-**
-
-**
-
-Max (4.5) burying a gold fish
-
-“bye fish I love you! I hope you had a good life! Have fun in heaven!”
-
-**
-
-lasterday
-
-**Miles (3.9) daddy daddy daddy daddy daddy daddy slime is not boogers slime is just related to boogers**
-
-**Miles (4) people are actually animals. Because people are monkeys. They're just talking monkeys**
-
-**
-
-**Miles (4) daddy did you know your beard is connected to your hair? *rubs sideburns with index finger” see?**
-
-Fish names
-
-  
-
-Pongo
-
-Perdita
-
-Fire
-
-Wiggly
-
-Spot
-
-Floppy tail
-
-Kitty
-
-Bobcat
-
-  
-  
-
-Big fin
-
-Black handsome
-
-Lazer eyes
-
-Stripes
-
-Red flash
-
-  
-  
-
-Ghost (shrimp)
-
-  
-
-Snails
-
-Shell
-
-Hard
-
-Slimer
-
-Slimey
-
-Sticker
-
-**
-
-
-1. Banging through headset a third time, far off voice
-	1. It's his kid, not his wife
-	2. DADDY, THE FISH DIED
-	3. Wife has one plate out with his food on it, the rest of the plates are bussed
-	4. He takes it up to their room
-	5. The other kid is jumping from the top bunk down onto the trundle bed
-	6. They overwhelm him
-	7. Get them to bed, but have goals
-		1. build character
-		2. colonize mars stuff
-		3. show them really advanced reading
-		4. kid wants him to chaperone on the field trip
-2. Brings his dish right into bed and collapses into it
+1. Brings his dish right into bed and collapses into it
 	1. Wife is perfect
 	2. She talks about the kids, not them
 	3. You should be there. He has a field trip next week kind of thing (or cats/rats)
 	4. Convo goes to 3rd kid
-	5. 
