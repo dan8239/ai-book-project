@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/00.01.wfh/notes.md",
+                "file": "manuscript/00.01.wfh/WFH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "WFH"
             }
           },
           {
@@ -249,8 +249,8 @@
   },
   "active": "a39f07e56f0f70c2",
   "lastOpenFiles": [
-    "manuscript/00.01.wfh/WFH.md",
     "manuscript/00.01.wfh/notes.md",
+    "manuscript/00.01.wfh/WFH.md",
     "worldbuilding/characters/claude-assistants.md",
     "worldbuilding/simulation/extinction-trajectory.md",
     "manuscript/00.01.wfh",

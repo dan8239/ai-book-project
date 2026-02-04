@@ -60,7 +60,15 @@ Dorothea was replying when he felt pressure on his lap. His headset was forcibly
 
 "OK, what's up buddy? How was your day?"
 
-"Daddy, did you know your beard is connected to your hair?" Clyde rubbed Sam's sideburns softly with his index finger, very seriously. "See?"
+"Daddy, did you know your beard is connected to your hair?" Clyde asked sternly as rubbed Sam's sideburns with his index finger. "See?"
+
+"No, that can't be right." Sam feigned shock, putting his fingers by Clyde's to double check.
+
+"IT IS!" Clyde belly laughed and jumped off of Sam's groin out of the swivel chair.
+
+"DADDY! STEVIE! STEVIE IS MAKING THE SPEEDY BOX CATCH ME!" Clyde has a physical incapability of speaking at normal volume when he got excited. He sprinted out of Sam's office, then down the long hallway to the main living area. His bare feet slapped off the composite hardwood. He stood jumping and laughing as he entered the kitchen area.
+
+
 
 
 
