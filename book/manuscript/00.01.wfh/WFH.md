@@ -1,12 +1,12 @@
 "What are you optimizing for?" Sam questioned the results of Dorothea's latest Monte Carlo simulation, eyeing a histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
-"Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original spec from the contract." Dorothea replied professionally.
+"Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original spec from the contract," Dorothea replied professionally.
 
 Sam looked up from their shared display in thought. The foothills above them were swarming with bulldozers leveling dirt into contoured steps. Unmanned excavators on the lowest levels were filling in fieldstone terrace walls. They systematically plucked the best shaped stone from truck beds, then placed each like a piece of a jigsaw puzzle into the retaining wall. Trucks were moving the displaced earth farther up the construction site to temporary dump sites.
 
 "Show me the 5th percentile outcome in year 15, Dorothea."
 
-She clicked about on her tablet theatrically, then looked up. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the side.
+She clicked about on her tablet theatrically, then looked up. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
 
 "In year 9 a landslide compromised the structure. Infiltration rate was consistently around 8 mm/hr before the incident, dropping to 4 afterwards. 28% of trials that didn't meet minimum production threshold had excess runoff. 11% had a catastrophic structural failure due to deferred maintenance. This trial had both."
 
@@ -24,7 +24,7 @@ When he opened his eyes again the site was dark, with most of the construction a
 
 "Earlier in the day, you pedant. I'd like to see the structure. Let me see all the crops in your search space." Sam couldn't help a smile.
 
-Dorothea winked at him flirtatiously then turned the lights back on. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown, luckily. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. Unexplainably low.
+Dorothea winked at him insolently then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown, luckily. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. Unexplainably low.
 
 "You're working off of a dated crop list. Don't even bother wasting the compute on half of this stuff. Lose anything with thin leaf cuticles. Citrus, wheat, barley, grapes. A single sulfane storm rolls through at this elevation and it'll kill off an entire crop yield. UV radiation will damage whatever survives that. Forget shallow roots and annuals as well. Avocado, tomato, eggplant. Lose anything that needs pollinators."
 
@@ -34,15 +34,13 @@ Dorothea winked at him flirtatiously then turned the lights back on. The hillsid
 
 BOOM. BOOM. BOOM. BOOM. Louder this time. Sam checked the time. When did it get so late? Dorothea patiently waited further instruction.
 
-Sam closed his eyes again, shutting out the noise. "Optimize for calories per liter instead of hectare, and do so over a 75 year window. Water is the limiting factor here, not area. You're also overproducing. Minimize any seasonal surplus production greater than the throughput capacity of the distribution system. We want the rolling production as steady as possible throughout all seasons. Don't discount future yield more than 10% in the rewards. Put penalties in place for soil pH outside of 6-7.5."
+Sam closed his eyes again, shutting out the noise. "Optimize for calories per liter instead of hectare, and do so over a 75 year window. Water is the limiting factor here, not area. You're also overproducing. Minimize any seasonal surplus production greater than the throughput capacity of the distribution system. We want the rolling production as steady as possible throughout all seasons."
 
-"Friendly reminder that the contract says we're maximizing production over a 10-year period." Dorothea pushed back gently.
+"Friendly reminder that the contract says we're maximizing production over a 10-year period," Dorothea pushed back gently.
 
-"Just do it, I'll handle the driver."
+"Just do it, I'll handle the driver. Also, don't discount future yield more than 10% in the rewards. And put penalties in place for soil pH outside of 6-7.5."
 
-Dorothea paused for a few seconds, then started up again.
-
-"Initial trials are promising, this epoch looks like we'll hit quota at a 5% higher rate already. That will obviously improve with each epoch. Do you want to run through the remaining 4 sites tonight?"
+Dorothea paused for a few seconds, then started up again. "Initial trials are promising, this epoch looks like we'll hit quota at a 5% higher rate already. That will obviously improve with each epoch. Do you want to run through the remaining 4 sites tonight?"
 
 "No, it'll have to wait until tomorrow. Also, put this exchange in your training set as undesirable behavior. Your smart-assery has drifted a touch high for my taste. Please put on some looser fitting clothing, as well."
 
@@ -60,7 +58,7 @@ Dorothea was replying when he felt pressure on his lap. His headset was forcibly
 
 Sam turned and made eye contact, smiling. "What's up buddy? How was your day?"
 
-"Daddy, did you know your beard is connected to your hair?" Clyde asked sternly as rubbed Sam's sideburns with his index finger. "See?"
+"Daddy, did you know your beard is connected to your hair?" Clyde asked sternly before he rubbed Sam's sideburns with his index finger. "See?"
 
 "No, that can't be right." Sam feigned shock, putting his fingers over Clyde's to double check.
 
@@ -71,7 +69,9 @@ Sam turned and made eye contact, smiling. "What's up buddy? How was your day?"
 As he turned into the open space, Clyde was running around the island and laughing, pointing to the ground. Ramona was scraping the remnants of a child's plate into the compost bin. As Clyde sprinted past, she deftly placed the fork down on the island and stopped Clyde with an open hand to his chest. She got down into a squat to talk at his level. "No sprinting through the kitchen, please. If you're going to be goofing please do it in the living room."
 "OKAY MOMMY!" Clyde yelled directly into her mouth in performative compliance, then continued his elated sprint to his brother's side.
 
-Sam kissed Ramona on the cheek and put his arms around her from behind. She smiled and collapsed gently into him, then nodded at the other end of the island. "Your plate is ready, it might need a zap. These boys need to get up to bed. How was work?"
+Sam kissed Ramona on the cheek and put his arms around her from behind. She smiled and collapsed gently into him, then nodded at the other end of the island.
+
+"Your plate is ready, it might need a zap. These boys need to get up to bed. How was work?"
 
 "Hectic, as usual! I can do bedtime. This looks great, thank you." Sam's bowl was the only one remaining on the island.
 
@@ -81,15 +81,15 @@ Stevie was at his device, typing and smiling. "I adjusted the loss function to u
 
 Clyde laughed insanely in anticipatory joy.
 
-Stevie pressed a button on his device and the bot spun to life. It slewed suddenly at Clyde, aligning itself in small, quick adjustments, then gave chase. and Clyde ran in circles around the island, having the time of his life. Ramona closed her eyes and took a few deep breaths with her palms grounded against the island. Clyde was much faster, but the bot was relentless. It pursued until Clyde was out of sight, then would change to the other direction and surprise him as he turned the corner. Stevie laughed quietly to himself sitting on the couch.
+Stevie pressed a button on his device and the bot spun to life. It slewed suddenly at Clyde, aligning itself in small, quick adjustments, then gave chase. Clyde ran in circles around the island, having the time of his life. Ramona closed her eyes and took a few deep breaths with her palms grounded against the island. Clyde was much faster, but the bot was relentless. It pursued until Clyde was out of sight, then would change to the other direction and surprise him as he turned the corner. Stevie laughed quietly to himself sitting on the couch.
 
 The bot's foam antennae forked and flailed slowly when Clyde got near, attempting to tag him. Eventually Clyde abandoned the island, sliding past the bot onto his knees, then scrambling towards the corner of the living room. Now, the bot had him cornered. Tiny servo motors whined as it slowly splayed its antennae into a spider-like, frozen posture. 
 
-Clyde laughed maniacally, covering his face with his hands, gasping for breath. He took a step one way, the bot shadowed. Another way, same result. Clyde looked at his mother, then he jumped up onto the couch and ran on the cushions, cackling. The robot mirrored Clyde's movement, lagging slightly behind.
+Clyde gasped for breath smiling ear to ear. He took a step one way, the bot shadowed. Another way, same result. Clyde looked at his mother, then he jumped up onto the couch and ran on the cushions, cackling. The robot lagged slightly behind.
 
 "CLYDE!" Stevie shouted as his younger brother jumped over him, gathering speed as his arms pumped wildly. 
-"NO RUNNING ON THE COUCH!" The levy of Ramona's self-regulatory breath-work had finally breeched.
-Sam dipped his flatbread into the lukewarm sweetmash and took a bite, then popped the bowl into the microwave, pressing a few buttons.
+"NO RUNNING ON THE COUCH!" The levee of Ramona's self-regulatory breath-work had finally breached.
+Sam dipped his sorghum flatbread into the lukewarm sweetmash and took a bite, then popped the bowl into the microwave, pressing a few buttons.
 
 Clyde took the turn at the elbow of the couch. The robot had taken a better angle and was catching up.
 
@@ -99,13 +99,22 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 "Sorry, 'tevie." He was genuinely remorseful, and extremely winded.
 
 "OK boys, time for bed!" Sam got up off the island stool and walked over to the boys. Clyde sprinted down the hall, WAPwapwapwapwapwapwapwap.
-"Now that they're nice and riled up." Ramona smirked.
+
+"Now that they're nice and riled up," Ramona smirked.
+
 Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the images still saved."
-"It's time, buddy. I'll help you with it in the morning." Sam reasoned.
+
+"It's time, buddy. I'll help you with it in the morning," Sam reasoned.
+
 "YOU ALWAYS HATE ME!" Stevie shouted back at his dad.
+
 "Stevie!" Ramona defended her husband.
-"That's one." Sam said, calmly.
-Stevie made an enraged sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout. "It's hard being ten."
+
+"That's one," Sam said calmly.
+
+Stevie made an enraged sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout.
+
+"It's hard being ten."
 
 Sam followed down the hall. Stevie went into the bathroom and was brushing his teeth angrily. As Sam walked past the kids' bedroom door Clyde was midair, jumping from the top bunk. He had pulled out the trundle bed from under the bottom bunk and piled up a few stuffed animals.
 
@@ -134,7 +143,7 @@ That reminded Sam he should specify a few of the pioneer plants to prioritize in
 
 Then at bedtime use this one
 
-"FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized entirely by stuffies.
+"FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie yelled with haste, then dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized entirely by stuffies.
 
 Sam scratched Clyde's back with his left, and Stevie's with his right hand. His mind was drifting back to the last terrace site and Dorothea's loss function.
 
@@ -143,7 +152,7 @@ Sam scratched Clyde's back with his left, and Stevie's with his right hand. His 
 "Sorry, what did you say, buddy?" Sam refocused. Stevie was fading, Clyde was blinking slowly but alert on his belly.
 
 "Did you know Olympus Mons is so big that if you stood on top you wouldn't even know you were on a mountain? The slope is so gradual your brain would think you were on flat ground." Stevie spoke with his cheek to the mattress, eye level with his dad.
-"Wow, I didn't know that", Sam replied neutrally.
+"Wow, I didn't know that," Sam replied neutrally.
 "And the base is wider than all of France. And it's 3 times taller than Mount Everest." 
 "I think I knew that last one."
 "Dad, did you know it takes 20 minutes for light to get there. So every robot on Mars has to think for itself. If it gets stuck in a hole, it's 40 minutes before anyone even knows."
@@ -151,15 +160,24 @@ Sam scratched Clyde's back with his left, and Stevie's with his right hand. His 
 "Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
 "Yes, I learned that when I was a kid, too. Did you learn that at school?"
 "My teacher and my assistant both told me. I'm going to go live there and be a mars farmer when I grow up. You and mom and Clyde can come, too." 
+
 Sam replied pragmatically. "Well, there's still only a few approved people that get to go there. And they're still a long ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
-Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys. 
+Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys.
+
 Clyde showed some final signs of life. "Daddy, my friend Alonzo's dad is on Mars and he's going to visit him for Christmas in a space ship."
-Ramona projected her voice from the bedroom across the hall. "I know Allie and Marcus, and they're on basic just like Momma so don't believe Alonzo's little tales, Clyde!" 
+
+Ramona projected her voice from the bedroom across the hall. "I know Allie and Marcus, he lives a mile down the road so don't believe Alonzo's little tales, Clyde!"
+
 "Goodnight, boys, I love you." Sam went back for one more hug each.
-Clyde rolled over and put his hand directly over Sam's face. "Dada will you 'tay in here a little while?" He asked sweetly. 
+
+Clyde rolled over and put his hand directly over Sam's face. "Dada will you 'tay in here a little while?" he asked sweetly.
+
 "Not tonight, buddy, next week."
-Clyde was very hurt. “DADA YOU HAVEN'T ‘TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE”
-"It's yesterday, Clyde, not LASTerday." Stevie mumbled, barely audible as if dreaming.
+
+Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LONG DAY. AND YOU SAID LASTERDAY YOU WOULD 'TAY IN HERE A LITTLE WHILE"
+
+"It's yesterday, Clyde, not LASTerday," Stevie mumbled, barely audible, dreaming.
+
 "No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
 Clyde surprisingly rolled over and put up no further resistance.
 
