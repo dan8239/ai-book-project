@@ -249,6 +249,8 @@
   },
   "active": "a39f07e56f0f70c2",
   "lastOpenFiles": [
+    "manuscript/02.05.none-of-it-matters/notes.md",
+    "manuscript/02.05.none-of-it-matters",
     "manuscript/act_3/reunion-notes.md",
     "manuscript/act_3/heist-notes.md",
     "manuscript/03.07.the_button/notes.md",
@@ -277,7 +279,6 @@
     "manuscript/02.02.first-contact/First Contact.md",
     "manuscript/02.02.first-contact/notes.md",
     "manuscript/02.01.mountain/Into the Mountain.md",
-    "manuscript/02.00.gondola/The Gondola.md",
     "assets/figures/h3_globe.png",
     "assets/figures/extinction_histogram_rebase_comparison.png",
     "assets/figures/extinction_histogram_rebase_only.png",
@@ -293,7 +294,6 @@
     "manuscript/02.XX.optimization-tour",
     "manuscript/00.00.prologue",
     "manuscript/02.02.first-contact",
-    "manuscript/02.01.mountain",
-    "manuscript/02.00.gondola"
+    "manuscript/02.01.mountain"
   ]
 }

@@ -23,9 +23,9 @@ A limited nuclear exchange occurred. Not full MAD, but enough to:
 
 This is what created the call to action for [[../characters/grant-melrose|Grant Melrose]] and [[../world/organizations/quant|Quant]]. The simulations weren't theoretical anymore - they were urgent.
 
-### The Models Were Wrong
+### All Models Are Wrong, Some Are Useful
 
-**What scientists predicted:** Gradual warming, manageable with adaptation, stabilization possible.
+**What scientists predicted:** Gradual warming, manageable with adaptation, stabilization possible. Every major climate model was too conservative.
 
 **What actually happened:**
 
@@ -34,6 +34,10 @@ This is what created the call to action for [[../characters/grant-melrose|Grant 
 2. **Stratocumulus cloud breakup** - At ~1,200ppm CO2, low marine clouds collapsed. These had been reflecting massive amounts of sunlight. Their loss added another 8°C almost instantly.
 
 3. **The cascade locked in** - By the time anyone understood what was happening, +12-14°C was committed.
+
+**The exception:** Honeycomb's model. Every other climate model was too timid — built by institutions afraid of being wrong, hedging, building in conservative assumptions. Honeycomb's model was the only one aggressive enough to predict the actual trajectory. This is why Honeycomb was trusted with governance — they were right when everyone else was wrong.
+
+**The thematic question this raises:** What if Honeycomb's model is also wrong? The weather inside the simulation is driven by Honeycomb's assumptions. If their model overshot — if Earth isn't actually doomed — then the entire colonization program, the entire simulation, is based on a false premise. All models are wrong. Even the one that was "right."
 
 ### Present Day (Coffee Guy's Era, 2025)
 

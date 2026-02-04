@@ -32,5 +32,11 @@ Both protagonist and co-worker are hyper exceptional at their job but basically 
 ## Relationship to Protagonist
 Work colleague (NOT romantic interest). They work closely together for various projects at their company.
 
+## Key Lines
+
+> "We haven't changed a bit. It's easy to think of ancient humans as stupid or cavemen. Human DNA has remained essentially unchanged for 300,000 years. If time travel was real and you swapped your son with one from 250,000 B.C. at 10 years old, you'd still have a kid building robots, and your son wouldn't have seen a campfire in his entire life."
+
+Seeds the colonization problem — the DNA isn't the issue. Humans are adaptable. The environment is the variable.
+
 ## Personality Traits
 TBD
