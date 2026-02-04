@@ -29,5 +29,11 @@ Merging Catalyst + Debate into one chapter is the right call. The current outlin
   references the pregnancy without weaponizing it. The point is she doesn't fight him. She just sees him clearly, and he can't 
   sit with that, so he rationalizes harder.                                                                                    
                                                                                                                                
-  That's more devastating than an argument. He's not choosing legacy over his wife's objections. He's choosing legacy over her 
-  quiet truth. Much harder to forgive himself for later.       
+  That's more devastating than an argument. He's not choosing legacy over his wife's objections. He's choosing legacy over her
+  quiet truth. Much harder to forgive himself for later.
+
+---
+
+## Beat: Astronomy line
+
+When Sam gets the job offer (colonization/space), he says something like: "I really don't know the first thing about astrology." Ramona: "It's astronomy. Maybe Stevie can help you." — Callback to Stevie's solar system book from bedtime in 00.01. Light moment that also shows Ramona centering the kids even in a career conversation.

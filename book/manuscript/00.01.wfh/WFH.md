@@ -50,7 +50,7 @@ BOOM. BOOM. BOOM. A child's voice was carrying through the mountains. "DADDY, DA
 
 "OK, I gotta go, run a few thousand epochs and see if we can converge overnight."
 
-Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 4 year old, Kurtis, was on his lap mid conversation.
+Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 4 year old, Clyde, was on his lap mid conversation.
 
 "DADDY! DADDY! DADDY! DADDY! DADDY!"
 
@@ -60,7 +60,7 @@ Dorothea was replying when he felt pressure on his lap. His headset was forcibly
 
 "OK, what's up buddy? How was your day?"
 
-"Daddy, did you know your beard is connected to your hair?" Kurtis rubbed Sam's sideburns softly with his index finger, very seriously. "See?"
+"Daddy, did you know your beard is connected to your hair?" Clyde rubbed Sam's sideburns softly with his index finger, very seriously. "See?"
 
 
 

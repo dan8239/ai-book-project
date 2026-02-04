@@ -135,6 +135,12 @@ Sam is lying about why he agreed to come. He wants the mountain's closed-system 
 
 ---
 
+## TODO: Haast's Eagle Callback
+
+When Ramona mentions hawks/owls/predatory birds being gone (line 24 of prose), Sam should reference Clyde's *Amazing Animals* book. "Clyde's book has a Haast's eagle in it. Wingspan wider than I am tall. Hunted things the size of me." Connects his home life to Ramona's world. Shows he does absorb the kids' stuff even when he seems absent.
+
+---
+
 ## Scene Beats (Sequence)
 
 1. Gondola ride up - landscape, skiing memory, briefing

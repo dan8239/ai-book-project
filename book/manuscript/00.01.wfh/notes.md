@@ -72,9 +72,42 @@ Sam optimizes species mix and genetic tuning of highland food forests for specif
 
 ---
 
+## The House
+
+~2000 sqft, long skinny footprint like a Chicago two-flat. 2 bed 2 bath. Nothing crazy — first-gen wealthy, neither Sam nor Ramona has the instinct to sprawl. Money goes to museum scheme, energy credits for the mountain, Sam's work infrastructure.
+
+The house is a mess. Evidence of one-parent operation. Ramona is outnumbered by two kids (almost three), Sam is absent. At some point Sam offers to get a domestic unit to help. "You can put them in stealth, it's like they're not even there." Ramona's reaction TBD but this is a character beat — he solves human problems with machines.
+
+## The Kids
+
+**Clyde (4)** — the sideburn kid. Bedtime book: *Amazing Animals* — woolly mammoths, Haast's eagle, woolly rhino, gorillas. Notes in the book mention all elephants, all eagles/vultures/hawks gone (some falcons remain). Rhinos, gorillas, orangutans extinct. Book is dog-eared and taped back together.
+
+**Stevie (9)** — reads first at bedtime. Book about the solar system. He's basically editorializing at this point, not reading — knows it by heart. Goes over the sun's core and atmospheric layers briefly. How it will swallow Earth whole. Book is dog-eared and taped back together.
+
+### Recurring beat: the activity Sam keeps refusing
+
+Stevie asks Sam to do something with him — play H-O-R-S-E, a board game, build something, TBD. First time: bedtime, can't do it. Later in book: refuses for work. End of book: Sam finally does the thing. "Have you ever seen a real horse, daddy?" Ramona is finishing up *Amazing Animals* with Clyde in the background.
+
+### Stuffies
+
+Stuffed tardigrade, woolly mammoth, dinosaurs. Kids don't know what half of them are. Just soft and named something absurd.
+
+## Pillow Talk
+
+- Wife's dinner plate is out, rest bussed. He takes his plate to bed.
+- She talks about the kids, not them. Field trip, etc.
+- He offers domestic unit. She declines or deflects.
+- 3rd kid reveal. Not a bomb — intimate, she's been waiting for the right moment.
+- 3rd kid surcharge: "We pay the surcharge. It's nobody's business." She got a look from the doctor / a neighbor said something. The judgment isn't financial — it's moral. He writes a check for a problem she carries the weight of.
+- His reaction to pregnancy: first instinct logistical/financial, catches himself, Ramona clocks the delay.
+
+---
+
 ## TODO
 
 - [ ] Define the specific site/contract Sam is finishing
 - [ ] Dorothea introduction — colleague dynamic before AI reveal
 - [ ] The "wrong thing" in this scene — what is Sam optimizing for that misses the point?
 - [ ] Mechanism for Honeycomb job to enter his awareness
+- [ ] Stevie's activity — what does he keep asking Sam to do? (H-O-R-S-E? Board game? Build something?)
+- [ ] Domestic unit beat — Sam's offer, Ramona's response

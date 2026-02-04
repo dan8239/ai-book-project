@@ -245,7 +245,8 @@ Nobody grinds for 50 years anymore — most people don't have to work at all. En
 ## Relationships
 - **Relationship to [[devsecops-woman|DevSecOps Woman]]:** TBD (thematic parallel matters more than genealogy)
 - **Wife:** [[wife|Ramona]] - pregnant with 3rd child
-- **Children:** 2 kids + 1 on the way (3rd is taboo/penalized in this society)
+- **Children:** Stevie (9), Clyde (4), + 1 on the way (3rd is taboo/penalized — surcharge, social judgment)
+- **Closed-system aquarium:** Gift for Clyde later in the story. Ramona sets it up. Clyde doesn't understand it's a closed system, wants to feed the fish. Aquarium mirrors the mountain, mirrors colonization.
 
 ### Wife Relationship Arc
 
