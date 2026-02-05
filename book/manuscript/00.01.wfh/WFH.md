@@ -134,7 +134,7 @@ Ramona walked in and set Sam's dinner on the boys' dresser.
 "I think we read yours last night, Stevie, it's Clyde's turn."
 Stevie put his hardcover book about space back into the shelf, defeated. The binding was duct taped thoroughly. Sam couldn't recall the title hiding underneath.
 
-Clyde plopped down on Sam's lap holding *Magnificent Mammals*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, holding the book while Clyde rapidly flipped pages
+Clyde plopped down on Sam's lap holding *Magnificent Mammals*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, holding the book while Clyde rapidly flipped pages.
 
 *** book should remind him of work
 
@@ -144,11 +144,11 @@ Clyde plopped down on Sam's lap holding *Magnificent Mammals*. Stevie sat down n
 
 *** maybe just one-liner the amazing mammals stuff, describing him turning the pages too quickly.
 
-"Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening.
+"Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening, shooting on his miniature basketball hoop hanging over the door.
 
 "Not tonight, buddy, it's late," replied Sam evenly.
 
-"Awww! FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie yelled with haste, then dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized by pioneering stuffies.
+Stevie dropped the ball with minimal protest. "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie yelled with haste, then dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized by pioneering stuffies.
 
 Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite, Moringa, Buckthorn, Clover. Every variable you fixed in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
 
