@@ -141,19 +141,15 @@ Clyde plopped down on Sam's lap holding *Magnificent Mammals*. Stevie sat down n
 "Can't we do a different one tonight?" Stevie complained.
 "We can do one for Clyde and one for you," replied Sam.
 
-Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread.
+Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, clear tape holding several sections of it together.
 
-"The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of it's DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
+Sam started reading, with Clyde interjecting at various places he had memorized the content. "The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of it's DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
 
-That reminded Sam, he had forgotten to specify to Dorothea the rotational grazing strategy of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. 
+That reminded Sam, he had forgotten to specify to Dorothea the rotational grazing strategy of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime.
 
 "OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
 
-
-
-*** book should remind him of work
-
-*** check notes, animal history book, maybe save space book for later
+Stevie took over reading this section.
 
 *** make sure to ask for a game of h-o-r-s-e and deny it
 
