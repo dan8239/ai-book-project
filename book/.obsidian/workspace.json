@@ -9,6 +9,20 @@
         "dimension": 99.99999999999999,
         "children": [
           {
+            "id": "11c31415ce17f407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/00.01.wfh/WFH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WFH"
+            }
+          },
+          {
             "id": "a39f07e56f0f70c2",
             "type": "leaf",
             "state": {
@@ -184,8 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a39f07e56f0f70c2",
+  "active": "11c31415ce17f407",
   "lastOpenFiles": [
+    "worldbuilding/themes/themes.md",
     "manuscript/00.01.wfh/WFH.md",
     "manuscript/00.03.unretirement/notes.md",
     "manuscript/02.05.none-of-it-matters/notes.md",
@@ -207,7 +222,6 @@
     "worldbuilding/simulation/post-refactor-society.md",
     "worldbuilding/simulation/simulation-architecture.md",
     "worldbuilding/simulation/technology.md",
-    "worldbuilding/themes/themes.md",
     "worldbuilding/themes/style-guide.md",
     "worldbuilding/themes/red-herrings.md",
     "worldbuilding/themes/motifs.md",
