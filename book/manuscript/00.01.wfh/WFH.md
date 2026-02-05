@@ -134,10 +134,10 @@ Ramona walked in and set Sam's dinner on the boys' dresser.
 "I think we read yours last night, Stevie, it's Clyde's turn."
 Stevie put his hardcover book about space back into the shelf, defeated. The binding was duct taped thoroughly. Sam couldn't recall the title hiding underneath.
 
-Clyde plopped down on Sam's lap holding *Magnificent Mammals*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, sitting on his lap.
+Clyde plopped down on Sam's lap holding *Amazing Animals!*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, sitting on his lap.
 
 "Which animal do you want tonight?"
-"GRILLA!" Yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy into his lap. Stevie grabbed his stuffed Tardigrade and set it beside him on the bed.
+"GRILLA!" yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy into his lap. Stevie grabbed his stuffed Tardigrade and set it beside him on the bed.
 "Can't we do a different one tonight?" Stevie complained.
 "We can do one for Clyde and one for you," replied Sam.
 
@@ -149,7 +149,7 @@ That reminded Sam, he had forgotten to specify to Dorothea the rotational grazin
 
 "OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
 
-Stevie took over reading this section.
+Stevie took over reading this section. It had a section for each different era, animals all depicted walking in the same direction as time. Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic
 
 *** make sure to ask for a game of h-o-r-s-e and deny it
 
