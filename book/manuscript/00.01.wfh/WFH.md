@@ -232,9 +232,14 @@ Sam finished up the socks and was starting to put stacks of clothes back into th
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
 Ramona was teary eyed. "I thought you'd be mad."
 "Mad, are you crazy?! This is wonderful. When did you find out?"
-"About twenty minutes ago. We'll need to adjust the budget, out of pocket kids are not cheap."
-"Oh, we'll be fine! There's no such thing as an OOPs baby, regardless of what your sister says."
-""
+"About twenty minutes ago. We'll need to adjust the budget, 3rd kids are not cheap. I haven't even had a look at the out of pocket penalties, yet, but I've heard they're ridiculous."
+"Oh, we'll be fine! There's no such thing as an OOPs baby, regardless of what your sister says. We can afford it, don't let anyone guilt trip you." Sam was elated.
+"I think we were 4x our energy allowance this week." Ramona's zen had evaporated.
+"It will be fine. I love you. I always will. We have plenty of savings, and I'll be home to help. We can always adjust a few things, I optimize for a living, if you recall."
+Ramona finally smiled again. "I love you too."
+Sam set a few stacks of laundry aside off of the bed. "Can I interest you in making a double baby?"
+Ramona chuckled, "I don't think it works like that."
+Sam turned out the lights and crawled into bed next to his wife.
 
 **TODO***
 
