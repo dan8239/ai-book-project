@@ -153,15 +153,11 @@ Sam started reading, with Clyde interjecting at various places he had memorized 
 
 That reminded Sam, he had forgotten to specify to Dorothea the range of optimal grazing rotations of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime. He should have her reach out to his biotechnologist for drought tolerant varieties–
 
-"OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
-
-Stevie took hold of the book from Sam and began to read. It had a section for each different era, animals all depicted walking in the same direction as time. Sam never got into old animals like most kids
-
-Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic showed woolly mammoths, saber toothed cats, giant armadillos towards the left. There were huge monsters in the sea. The middle had big cats, hairless elephants, huge birds, whales. Far to the right it was the present day. Humans, pigs, chickens, cats, rats, lots of smaller animals. Jellyfish dominated the ocean. Sam let his mind drift back to work as Stevie read to Clyde.
+"OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the orca page. Stevie loved all of the old sea monsters. Sam let Stevie take the wheel and read to Clyde for a few more minutes.
 
 When Stevie was finished, Sam very theatrically held both sides of the book and snapped it closed with an elongated "Theeeeeeeeeeeeeee END." Clyde pulled his hand back and giggled.
 
-"Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening, shooting on his miniature basketball hoop hanging over the door.
+"Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening. He stood up quickly and got a few shots up on his miniature basketball hoop hanging on the door.
 
 "Not tonight, buddy, it's late," replied Sam automatically.
 
@@ -181,7 +177,7 @@ Sam scratched Clyde's back with his left, and Stevie's with his right hand. The 
 "Well I'm glad you're learning how to build them then! Someone has to teach those robots about potholes."
 "Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
 "Yes, I learned that when I was a kid, too. Did you learn that at school?"
-"My teacher told me and my assistant told me, too. I'm going to be a Mars farmer when I grow up. You and mom and Clyde can come, too." 
+"My teacher told me and my assistant told me, too. I'm going to live on Mars when I grow up. You and mom and Clyde can come, too." 
 
 Sam replied pragmatically. "Well, there's still only a few people that get to go there each mission. And they're still a LONG ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
 Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys on the cheek.
@@ -202,6 +198,24 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 
 "No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
+
+Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again sweetmash.
+
+"You know he really loves when you play basketball with him," Ramona nudged, gently.
+"How were they today?" Sam mumbled, mouth full.
+"Good. Clyde has a field trip to the planetarium, he asked if you could go. They're looking for chaperones."
+"I bet Stevie's jealous"
+
+
+"We should just buy all identical socks, it would make life a lot easier." 
+"I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter.
+"I'll put it away before bed. Why don't you let me buy us a domestic unit? What's all the money for if we don't ever spend it?"
+"Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her arm up, gesturing to the LifeMonitor embedded subcutaneously.
+Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
+"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick to him and finished up her stack of clothing.
+
+
+Well, I think "
 
 **TODO***
 
