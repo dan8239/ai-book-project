@@ -154,17 +154,17 @@ That reminded Sam, he had forgotten to specify to Dorothea the range of optimal 
 
 "OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
 
-Stevie took hold of the book from Sam and began to read. It had a section for each different era, animals all depicted walking in the same direction as time. Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic showed woolly mammoths, saber toothed cats, giant armadillos towards the left. The middle had big cats, hairless elephants, huge birds, whales, humans. Far to the right it was the present day. Humans, pigs, chickens, cats, rats, lots of smaller animals. Nothing in the ocean. Sam let his mind drift back to work as Stevie read to Clyde.
+Stevie took hold of the book from Sam and began to read. It had a section for each different era, animals all depicted walking in the same direction as time. Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic showed woolly mammoths, saber toothed cats, giant armadillos towards the left. There were huge monsters in the sea. The middle had big cats, hairless elephants, huge birds, whales. Far to the right it was the present day. Humans, pigs, chickens, cats, rats, lots of smaller animals. Jellyfish dominated the ocean. Sam let his mind drift back to work as Stevie read to Clyde.
 
 When Stevie was finished, Sam very theatrically held both sides of the book and snapped it closed with an elongated "Theeeeeeeeeeeeeee END." Clyde pulled his hand back and giggled.
 
 "Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening, shooting on his miniature basketball hoop hanging over the door.
 
-"Not tonight, buddy, it's late," replied Sam evenly.
+"Not tonight, buddy, it's late," replied Sam automatically.
 
-Stevie dropped the ball with minimal protest. "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" Stevie yelled with haste, then dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was colonized by pioneering stuffies.
+Stevie dropped the ball with minimal protest, then declared the start of the race with an auctioneer's cadence, "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" He dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was typically without biological life, pioneered only by stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite, Moringa, Buckthorn, Clover. Every variable you fixed in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
 
 "DAD." Stevie had been saying something.
 
