@@ -1,18 +1,18 @@
 "What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
-"Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original spec from the contract," Dorothea replied professionally.
+"Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original site spec, if you had bothered to read it." Dorothea replied sarcastically.
 
 Sam looked up from their shared display in thought. The foothills above them were swarming with bulldozers leveling dirt into contoured steps. Unmanned excavators on the lowest levels were filling in fieldstone terrace walls. They systematically plucked the best shaped stone from truck beds, then placed each like a piece of a jigsaw puzzle into the retaining wall. Trucks were moving the displaced earth farther up the construction site to temporary dump sites.
 
-"Show me the 5th percentile outcome in year 15, Dorothea."
+"That's what you're for. Show me the 5th percentile outcome in year 15, Dorothea, and turn down the sarcasm 3%, please."
 
-She clicked about on her tablet theatrically, then looked up. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
+She closed her eyes for a moment. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
 
 "In year 9 a landslide compromised the structure. Infiltration rate was consistently around 8 mm/hr before the incident, dropping to 4 afterwards. 28% of trials that didn't meet minimum production threshold had excess runoff. 11% had a catastrophic structural failure due to deferred maintenance. This trial had both."
 
 "Is poor retention the most common failure scenario? Show me the next most common."
 
-Dorothea didn't bother with the superficial clicking on her device this time, the scene blinked to a slightly different flavor of the same landscape. The terrace seemed more dead than last time, upper layers doing slightly better than the bottom.
+The scene blinked to a slightly different flavor of the same landscape. The terrace seemed more dead than last time, upper layers doing slightly better than the bottom.
 
 "Excess retention is responsible for 47% of the underperforming scenarios, with eventual salinization of the soil killing production."
 
@@ -22,11 +22,11 @@ BOOM. BOOM. BOOM. A deep percussive sound thundered through the landscape. Sam c
 
 When he opened his eyes again the site was dark, with most of the construction activity finished for the night. Only a few electric front loaders working in low light remained, tidying up for the night.
 
-"Earlier in the day, you pedant. I'd like to see the structure. Let me see all the crops in your search space." Sam couldn't help a smile.
+"Earlier in the day, you pedant. I'd like to see the structure. Let me see all the crops in your search space." Sam couldn't help a smile. Apparently 3% wasn't nearly enough.
 
-Dorothea winked at him insolently then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown, luckily. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. Unexplainably low.
+Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The total so.
 
-"You're working off of a dated crop list. Don't even bother wasting the compute on half of this stuff. Lose anything with thin leaf cuticles. Citrus, wheat, barley, grapes. A single sulfane storm rolls through at this elevation and it'll kill off an entire crop yield. UV radiation will damage whatever survives that. Forget shallow roots and annuals as well. Avocado, tomato, eggplant. Lose anything that needs pollinators."
+"You're working off of a dated crop list. Don't even bother wasting the compute on half of this stuff. Lose anything with thin leaf cuticles. Citrus, wheat, barley, grapes. A single sulfane storm rolls through at this elevation and it'll kill off an entire crop yield. UV radiation will damage whatever survives that. Forget shallow roots and annuals as well. Avocado, tomato, eggplant. Lose anything that would need pollinators."
 
 "Done. Would you like me to re-run the optimization?"
 
@@ -38,9 +38,9 @@ Sam closed his eyes again, shutting out the noise. "Optimize for calories per li
 
 "Friendly reminder that the contract says we're maximizing production over a 10-year period," Dorothea pushed back gently.
 
-"Just do it, I'll handle the driver. Also, don't discount future yield more than 10% in the rewards. And put penalties in place for soil pH outside of 6-7.5."
+"Just do it, I'll handle the driver. Also, don't discount future yield more than 10% in the rewards. And put penalties in place for soil pH outside of 6-7.5. Rerun it."
 
-Dorothea paused for a few seconds, then started up again. "Initial trials are promising, this epoch looks like we'll hit quota at a 5% higher rate already. That will obviously improve with each epoch. Do you want to run through the remaining 4 sites tonight?"
+Dorothea froze for a half of a second, then gave status. "Initial trials are promising, this epoch looks like we'll hit quota at a 5% higher rate already. That will obviously improve with each epoch. Do you want to run through the remaining 4 sites tonight?"
 
 "No, it'll have to wait until tomorrow. Also, put this exchange in your training set as undesirable behavior. Your smart-assery has drifted a touch high for my taste. Please put on some looser fitting clothing, as well."
 
