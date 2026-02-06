@@ -143,17 +143,20 @@ Clyde plopped down on Sam's lap holding *Amazing Animals!*. Stevie sat down next
 
 Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, clear tape holding several sections of it together.
 
+"Daddy, grilla is unstinkable?" Clyde asked.
+"Extinct," corrected Stevie.
+"Grilla is unstinked, right?" Clyde looked up at his father.
+Stevie answered for Sam. "We can bring it back if we ever wanted to, don't worry. Just gone for now."
+
 Sam started reading, with Clyde interjecting at various places he had memorized the content. "The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of it's DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
 
-That reminded Sam, he had forgotten to specify to Dorothea the rotational grazing strategy of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime.
+That reminded Sam, he had forgotten to specify to Dorothea the range of optimal grazing rotations of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime.
 
 "OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
 
-Stevie took over reading this section. It had a section for each different era, animals all depicted walking in the same direction as time. Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic
+Stevie took hold of the book from Sam and began to read. It had a section for each different era, animals all depicted walking in the same direction as time. Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic showed woolly mammoths, saber toothed cats, giant armadillos towards the left. The middle had big cats, hairless elephants, huge birds, whales, humans. Far to the right it was the present day. Humans, pigs, chickens, cats, rats, lots of smaller animals. Nothing in the ocean. Sam let his mind drift back to work as Stevie read to Clyde.
 
-*** make sure to ask for a game of h-o-r-s-e and deny it
-
-*** maybe just one-liner the amazing mammals stuff, describing him turning the pages too quickly.
+When Stevie was finished, Sam very theatrically held both sides of the book and snapped it closed with an elongated "Theeeeeeeeeeeeeee END." Clyde pulled his hand back and giggled.
 
 "Daddy, can we play H-O-R-S-E?" Stevie tried to stretch the evening, shooting on his miniature basketball hoop hanging over the door.
 
