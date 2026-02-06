@@ -163,7 +163,7 @@ When Stevie was finished, Sam very theatrically held both sides of the book and 
 
 Stevie dropped the ball with minimal protest, then declared the start of the race with an auctioneer's cadence, "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" He dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was typically without biological life, pioneered only by stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function.
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function. He made a mental note to look into the water modeling software again, it didn't make sense why only Rossland was so far below expected.
 
 "DAD." Stevie had been saying something.
 
@@ -199,23 +199,42 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 "No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
-Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again sweetmash.
+Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again mash.
 
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
 "How were they today?" Sam mumbled, mouth full.
-"Good. Clyde has a field trip to the planetarium, he asked if you could go. They're looking for chaperones."
-"I bet Stevie's jealous"
+"Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
+"I bet Stevie's jealous. I can't. Contract is up in 2 weeks so there's a big push to finish before then."
+"I figured as much, I'm signed up to go. Stevie's doing really well in algorithms and automation, apparently."
+"That's great! They're sweet boys."
 
+Sam switched to underwear, trying to match Ramona's meticulous folds.
 
-"We should just buy all identical socks, it would make life a lot easier." 
-"I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter.
+"Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of my life skipping folds." 
+Ramona remained focused on one of Stevie's shirts. "Why do anything like you're just trying to get it over with? It's not always about optimizing some process."
+
+She continued, "I'm really excited for the contract to be over. It will be nice to just be a family and slow down. Are you ready for retirement?"
+"Absolutely. I could use a break."
+"Well, retirement isn't really a break. You're almost 35.  You've been working non-stop for almost 20 years. You also promised this was the last one before you took it, in case you forgot."
+"I didn't forget, It's hard to think of myself as retired. It's just done? I always felt like I was destined for more than working for Honeycomb for a few years."
+"Don't sell yourself short. You're a wonderful man, and you've had a wonderful career. You've completed over 100 contracts. I've never even met someone with more than 30 besides you. We're all very proud of you, the boys especially."
+"117, to be exact." Sam corrected.
+
+They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
+
+"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence.
+"I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
 "I'll put it away before bed. Why don't you let me buy us a domestic unit? What's all the money for if we don't ever spend it?"
 "Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her arm up, gesturing to the LifeMonitor embedded subcutaneously.
 Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
-"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick to him and finished up her stack of clothing.
+"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
 
-
-Well, I think "
+Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
+Ramona was teary eyed. "I thought you'd be mad."
+"Mad, are you crazy?! This is wonderful. When did you find out?"
+"About twenty minutes ago. We'll need to adjust the budget, out of pocket kids are not cheap."
+"Oh, we'll be fine! There's no such thing as an OOPs baby, regardless of what your sister says."
+""
 
 **TODO***
 
