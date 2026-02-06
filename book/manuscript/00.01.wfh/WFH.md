@@ -24,7 +24,7 @@ When he opened his eyes again the site was dark, with most of the construction a
 
 "Earlier in the day, you pedant. I'd like to see the structure. Let me see all the crops in your search space." Sam couldn't help a smile. Apparently 3% wasn't nearly enough.
 
-Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The total so.
+Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The totals there were inexplicable, given the annual rainfall.
 
 "You're working off of a dated crop list. Don't even bother wasting the compute on half of this stuff. Lose anything with thin leaf cuticles. Citrus, wheat, barley, grapes. A single sulfane storm rolls through at this elevation and it'll kill off an entire crop yield. UV radiation will damage whatever survives that. Forget shallow roots and annuals as well. Avocado, tomato, eggplant. Lose anything that would need pollinators."
 
@@ -38,7 +38,7 @@ Sam closed his eyes again, shutting out the noise. "Optimize for calories per li
 
 "Friendly reminder that the contract says we're maximizing production over a 10-year period," Dorothea pushed back gently.
 
-"Just do it, I'll handle the driver. Also, don't discount future yield more than 10% in the rewards. And put penalties in place for soil pH outside of 6-7.5. Rerun it."
+"Just do it, I'll handle the driver. Also, don't discount future yield more than 10% in the rewards. And put penalties in place for soil pH outside of 6-7.5. You can re-run it."
 
 Dorothea froze for a half of a second, then gave status. "Initial trials are promising, this epoch looks like we'll hit quota at a 5% higher rate already. That will obviously improve with each epoch. Do you want to run through the remaining 4 sites tonight?"
 
@@ -64,7 +64,7 @@ Sam turned and made eye contact, smiling. "What's up buddy? How was your day?"
 
 "IT IS!" Clyde belly laughed and jumped from the swivel chair, leveraging himself off of Sam's groin.
 
-"DADDY! 'TEVIE! 'TEVIE IS MAKING THE 'PIDER CATCH ME!" Clyde has a physical incapability of speaking at normal volume when he got excited. He sprinted out of Sam's office, then down the long hallway to the main living area. His bare feet slapped off the composite hardwood. Sam followed out into the hall and swore as he stepped on a hard dinosaur toy. He could see Clyde jumping and laughing at the end of the hall, on the edge of the kitchen.
+"DADDY! 'TEVIE! 'TEVIE IS MAKING THE BIG 'PIDER CATCH ME!" Clyde has a physical incapability of speaking at normal volume when he got excited. He sprinted out of Sam's office, then down the long hallway to the main living area. His bare feet slapped off the composite hardwood. Sam followed out into the hall and swore as he stepped on a hard dinosaur toy. He could see Clyde jumping and laughing at the end of the hall, on the edge of the kitchen.
 
 As he turned into the open space, Clyde was running around the island and laughing, pointing to the ground. Ramona was scraping the remnants of a child's plate into the compost bin. As Clyde sprinted past, she deftly placed the fork down on the island and stopped Clyde with an open hand to his chest. She got down into a squat to talk at his level. "No sprinting through the kitchen, please. If you're going to be goofing please do it in the living room."
 "OKAY MOMMY!" Clyde yelled directly into her mouth in performative compliance, then continued his elated sprint to his brother's side.
@@ -95,7 +95,7 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 
 "HIIIIIIIYAHHHH!" Clyde jumped directly on the robot with arms swinging. He knocked it onto its antenna, wheels spinning back and forth, rotating itself lamely as motors whirred.
 
-"NO HITTING, CLYDE! IT'S AGAINST THE RULES!" Stevie ran over to the device and set it upright. Clyde finally stopped swinging his arms and making punch sound effects as he saw tears welling up in Stevie's eyes.
+"NO HITTING, CLYDE! IT'S AGAINST THE RULES!" Stevie ran over to the device and set it upright. One of the antennae had broken. Clyde finally stopped swinging his arms and making punch sound effects as he saw tears welling up in Stevie's eyes.
 "Sorry, 'tevie." He was genuinely remorseful, and extremely winded.
 
 "OK boys, time for bed!" Sam got up off the island stool and walked over to the boys. Clyde sprinted down the hall, WAPwapwapwapwapwapwapwap.
@@ -104,27 +104,26 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 
 Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the images still saved."
 
-"It's time, buddy. I'll help you with it in the morning," Sam reasoned.
-
+"It's time, buddy. I'll help you with it in the morning," said Sam.
 "YOU ALWAYS HATE ME!" Stevie shouted back at his dad.
-
-"Steven Wesley!" Ramona defended her husband.
-
+"Steven George!" Ramona defended her husband.
 "That's one," Sam said calmly.
 
-Stevie made an enraged sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout and put her hand on his.
+Stevie made a sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout and put her hand on his.
 
 "It's hard being ten."
 
-Sam followed down the hall. Stevie went into the bathroom and was brushing his teeth angrily. As Sam walked past the kids' bedroom door Clyde was midair, jumping from the top bunk. He had pulled out the trundle bed from under the bottom bunk and piled up a few stuffed animals.
+Sam followed down the hall. Stevie went into the bathroom and was brushing his teeth a bit too hard. As Sam walked past the kids' bedroom door Clyde was midair, jumping from the top bunk. He had pulled out the trundle bed from under the bottom bunk and piled up a few stuffed animals.
 
 "Buddy, there's a ring buffer of 15 minutes. It will have the images for your training set, even if the connection dropped for a bit. Don't worry. And I don't hate you, I love you."
 Stevie spit venom (toothpaste). He didn't deign a reply.
+"We can print a new antenna in the morning, it won't take more than a couple of minutes."
+Stevie washed his toothbrush and put it away, frowning.
 "You know, technically that was its first time finishing the objective. That data might be your seed episode. I bet you'll go through a phase transition with a few more examples like that."
 "You think so?" Stevie's rage melted.
 "Sure thing! And if the shaped rewards are looking good, try curriculum rewards next. You can start by catching your little brother, then once it figures that one out have it try to catch me and your mom."
 
-They chatted a bit longer while they brushed and peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
+They chatted a bit longer while  peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
 
 Ramona walked in and set Sam's dinner on the boys' dresser.
 "Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted. They paid her little attention as they rifled through the bookshelf.
@@ -153,7 +152,7 @@ Sam started reading, with Clyde interjecting at various places he had memorized 
 
 That reminded Sam, he had forgotten to specify to Dorothea the range of optimal grazing rotations of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime. He should have her reach out to his biotechnologist for drought tolerant varieties–
 
-"OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the orca page. Stevie loved all of the old sea monsters. Sam let Stevie take the wheel and read to Clyde for a few more minutes.
+"OK my turn!" Stevie whipped the page back to the index. Stevie traced his finger down, then flipped systematically to the orca page. Stevie loved all of the old sea monsters. Sam let Stevie take the wheel and read to Clyde for a few more minutes.
 
 When Stevie was finished, Sam very theatrically held both sides of the book and snapped it closed with an elongated "Theeeeeeeeeeeeeee END." Clyde pulled his hand back and giggled.
 
@@ -199,45 +198,45 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 "No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
-Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again mash.
+Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
 
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
 "How were they today?" Sam mumbled, mouth full.
 "Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
 "I bet Stevie's jealous. I can't. Contract is up in 2 weeks so there's a big push to finish before then."
-"I figured as much, I'm signed up to go. Stevie's doing really well in algorithms and automation, apparently."
-"That's great! They're sweet boys."
+"I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently."
 
 Sam switched to underwear, trying to match Ramona's meticulous folds.
 
-"Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of my life skipping folds." 
+"Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of laundry in my life." 
 Ramona remained focused on one of Stevie's shirts. "Why do anything like you're just trying to get it over with? It's not always about optimizing some process."
 
 She continued, "I'm really excited for the contract to be over. It will be nice to just be a family and slow down. Are you ready for retirement?"
 "Absolutely. I could use a break."
 "Well, retirement isn't really a break. You're almost 35.  You've been working non-stop for almost 20 years. You also promised this was the last one before you took it, in case you forgot."
 "I didn't forget, It's hard to think of myself as retired. It's just done? I always felt like I was destined for more than working for Honeycomb for a few years."
-"Don't sell yourself short. You're a wonderful man, and you've had a wonderful career. You've completed over 100 contracts. I've never even met someone with more than 30 besides you. We're all very proud of you, the boys especially."
-"117, to be exact." Sam corrected.
+"Don't sell yourself short. You're a wonderful man, and you've had a wonderful career. We're all very proud of you, the boys especially."
 
 They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
 
 "We should just buy all identical socks, it would make life a lot easier." Sam broke the silence.
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
 "I'll put it away before bed. Why don't you let me buy us a domestic unit? What's all the money for if we don't ever spend it?"
-"Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her arm up, gesturing to the LifeMonitor embedded subcutaneously.
+"Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her left arm up, where the LifeMonitor was embedded.
 Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
 "I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
 
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
 Ramona was teary eyed. "I thought you'd be mad."
-"Mad, are you crazy?! This is wonderful. When did you find out?"
-"About twenty minutes ago. We'll need to adjust the budget, 3rd kids are not cheap. I haven't even had a look at the out of pocket penalties, yet, but I've heard they're ridiculous."
-"Oh, we'll be fine! There's no such thing as an OOPs baby, regardless of what your sister says. We can afford it, don't let anyone guilt trip you." Sam was elated.
+"Mad, are you nuts?! This is wonderful. When did you find out?"
+"About twenty minutes ago. We'll need to adjust the budget, 3rd kids are not cheap. I haven't even had a look at the out of pocket penalties, yet, but I've heard they're ridiculous. And I'm sure all the school moms are going to be talking behind my back."
+"Oh, we'll be fine! We can afford it, don't let anyone guilt trip you." Sam was elated.
 "I think we were 4x our energy allowance this week." Ramona's zen had evaporated.
-"It will be fine. I love you. I always will. We have plenty of savings, and I'll be home to help. We can always adjust a few things, I optimize for a living, if you recall."
+"It will be fine. I'll be home to help, and we have more than enough saved up. We can always adjust a few things, I optimize for a living, if you recall."
+"Would you still love us if all this went away?" Ramona asked, gesturing to the room.
+"Of course. I loved you when we were both on basic, years before my first contract."
 Ramona finally smiled again. "I love you too."
-Sam set a few stacks of laundry aside off of the bed. "Can I interest you in making a double baby?"
+Sam set a few stacks of laundry aside off of the bed. "Now, can I interest you in making a double baby?"
 Ramona chuckled, "I don't think it works like that."
 Sam turned out the lights and crawled into bed next to his wife.
 
