@@ -143,14 +143,15 @@ Clyde plopped down on Sam's lap holding *Amazing Animals!*. Stevie sat down next
 
 Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, clear tape holding several sections of it together.
 
-"Daddy, grilla is unstinkable?" Clyde asked.
+"Daddy, grilla is unstinkable, right?" Clyde asked.
 "Extinct," corrected Stevie.
 "Grilla is unstinked, right?" Clyde looked up at his father.
 Stevie answered for Sam. "We can bring it back if we ever wanted to, don't worry. Just gone for now."
+Clyde squeezed his gorilla and squirmed a bit, finding a comfortable place on Sam's lap.
 
 Sam started reading, with Clyde interjecting at various places he had memorized the content. "The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of it's DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
 
-That reminded Sam, he had forgotten to specify to Dorothea the range of optimal grazing rotations of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime.
+That reminded Sam, he had forgotten to specify to Dorothea the range of optimal grazing rotations of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime. He should have her reach out to his biotechnologist for drought tolerant varieties–
 
 "OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
 
