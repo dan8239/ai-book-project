@@ -1,4 +1,4 @@
-"What are you optimizing for?" Sam questioned the results of Dorothea's latest Monte Carlo simulation, eyeing a histogram of total caloric output across 50,000 simulations of the terraced farming site.
+"What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
 "Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original spec from the contract," Dorothea replied professionally.
 
