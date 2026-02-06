@@ -155,7 +155,13 @@ That reminded Sam, he had forgotten to specify to Dorothea the range of optimal 
 
 "OK my turn!" Stevie whipped the page back to the index. Sam realized he'd read the entire page without processing any of it. Stevie traced his finger down, then flipped systematically to the timelines page.
 
-Stevie took hold of the book from Sam and began to read. It had a section for each different era, animals all depicted walking in the same direction as time. Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic showed woolly mammoths, saber toothed cats, giant armadillos towards the left. There were huge monsters in the sea. The middle had big cats, hairless elephants, huge birds, whales. Far to the right it was the present day. Humans, pigs, chickens, cats, rats, lots of smaller animals. Jellyfish dominated the ocean. Sam let his mind drift back to work as Stevie read to Clyde.
+Stevie took hold of the book from Sam and began to read. It had a section for each different era, animals all depicted walking in the same direction as time. 
+
+"Certops!" Clyde pointed.
+"Extinct," Stevie was driving now.
+""
+
+Precambrian, Paleozoic, Mesozoic. The animals grew bigger left to right, from single celled, to alien looking water creatures, up on land, into dinosaurs. Then they started to shrink. Cenozoic showed woolly mammoths, saber toothed cats, giant armadillos towards the left. There were huge monsters in the sea. The middle had big cats, hairless elephants, huge birds, whales. Far to the right it was the present day. Humans, pigs, chickens, cats, rats, lots of smaller animals. Jellyfish dominated the ocean. Sam let his mind drift back to work as Stevie read to Clyde.
 
 When Stevie was finished, Sam very theatrically held both sides of the book and snapped it closed with an elongated "Theeeeeeeeeeeeeee END." Clyde pulled his hand back and giggled.
 
