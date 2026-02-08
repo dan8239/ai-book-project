@@ -28,7 +28,7 @@ ai-book-project/
 │   │   └── world/
 │   └── _index.md           # Navigation hub
 ├── outline/
-│   └── outline.csv         # Synced with Google Sheet
+│   └── outline.xlsx        # Master outline (v_2 tab)
 ├── scripts/
 └── references/
 ```
@@ -48,11 +48,9 @@ ai-book-project/
 - Use wiki-links to connect concepts
 - `_index.md` is the navigation hub
 
-### Outline (Google Sheets ↔ CSV)
-- Master outline lives in Google Sheet: `1N8DdsXJxRHvBXT1OhOviCNYx9wbZg1XJWgqIBlJihqc`
-- Sync TO sheet: Ask Claude to sync outline.csv to Google Sheet
-- Sync FROM sheet: Run `./scripts/sync-outline.sh`
-- CSV is version controlled, Sheet is for editing
+### Outline
+- Master outline: `outline/outline.xlsx` (v_2 tab)
+- Contains chapter-by-chapter breakdown with beats, purposes, and plot points
 
 ### Manuscript
 - Write prose in `book/manuscript/` as markdown
@@ -66,7 +64,7 @@ ai-book-project/
 | `book/_index.md` | Navigation hub |
 | `book/worldbuilding/characters/protagonist.md` | Main character arc + beats |
 | `book/worldbuilding/characters/wife.md` | Wife arc (flat arc, thematic heart) |
-| `outline/outline.csv` | Chapter-by-chapter breakdown |
+| `outline/outline.xlsx` | Chapter-by-chapter breakdown (v_2 tab) |
 
 ## Logging
 
