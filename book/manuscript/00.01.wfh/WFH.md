@@ -123,7 +123,7 @@ Stevie washed his toothbrush and put it away, frowning.
 "You think so?" Stevie's rage melted.
 "Sure thing! And if the shaped rewards are looking good, try curriculum rewards next. You can start by catching your little brother, then once it figures that one out have it try to catch me and your mom."
 
-They chatted a bit longer while  peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
+They chatted a bit longer while Stevie peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
 
 Ramona walked in and set Sam's dinner on the boys' dresser.
 "Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted. They paid her little attention as they rifled through the bookshelf.
@@ -148,7 +148,7 @@ Stevie gave a futile attempt to teach Clyde how the index worked, but his younge
 Stevie answered for Sam. "We can bring it back if we ever wanted to, don't worry. Just gone for now."
 Clyde squeezed his gorilla and squirmed a bit, finding a comfortable place on Sam's lap.
 
-Sam started reading, with Clyde interjecting at various places he had memorized the content. "The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of it's DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
+Sam started reading, with Clyde interjecting at various places he had memorized the content. "The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of its DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
 
 That reminded Sam, he had forgotten to specify to Dorothea the range of optimal grazing rotations of the terrace. They'd need goats, rabbits, and chickens on the fallow sections. He'd need to double check if the maintenance budget already had allocations for periodic rotations. He began writing out the to-do list in his head for after bedtime. He should have her reach out to his biotechnologist for drought tolerant varieties–
 
@@ -203,23 +203,16 @@ Sam grunted himself off the bed on the floor, grabbing his dinner off of the dre
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
 "How were they today?" Sam mumbled, mouth full.
 "Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
-"I bet Stevie's jealous. I can't. Contract is up in 2 weeks so there's a big push to finish before then."
-"I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently."
-
-Sam switched to underwear, trying to match Ramona's meticulous folds.
+"I bet Stevie's jealous. I can't. Work is hectic."
+"I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently. How was work?"
+"It was fine." Sam switched to underwear, trying to match Ramona's meticulous folds.
 
 "Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of laundry in my life." 
-Ramona remained focused on one of Stevie's shirts. "Why do anything like you're just trying to get it over with? It's not always about optimizing some process."
-
-She continued, "I'm really excited for the contract to be over. It will be nice to just be a family and slow down. Are you ready for retirement?"
-"Absolutely. I could use a break."
-"Well, retirement isn't really a break. You're almost 35.  You've been working non-stop for almost 20 years. You also promised this was the last one before you took it, in case you forgot."
-"I didn't forget, It's hard to think of myself as retired. It's just done? I always felt like I was destined for more than working for Honeycomb for a few years."
-"Don't sell yourself short. You're a wonderful man, and you've had a wonderful career. We're all very proud of you, the boys especially."
+Ramona remained focused on one of Stevie's shirts. "Why do anything like you're just trying to get it over with? You know I don't like when you try to optimize me."
 
 They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
 
-"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence.
+"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife a bit.
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
 "I'll put it away before bed. Why don't you let me buy us a domestic unit? What's all the money for if we don't ever spend it?"
 "Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her left arm up, where the LifeMonitor was embedded.
@@ -228,22 +221,20 @@ Sam finished up the socks and was starting to put stacks of clothes back into th
 
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
 Ramona was teary eyed. "I thought you'd be mad."
-"Mad, are you nuts?! This is wonderful. When did you find out?"
-"About twenty minutes ago. We'll need to adjust the budget, 3rd kids are not cheap. I haven't even had a look at the out of pocket penalties, yet, but I've heard they're ridiculous. And I'm sure all the school moms are going to be talking behind my back."
-"Oh, we'll be fine! We can afford it, don't let anyone guilt trip you." Sam was elated.
-"I think we were 4x our energy allowance this week." Ramona's zen had evaporated.
-"It will be fine. I'll be home to help, and we have more than enough saved up. We can always adjust a few things, I optimize for a living, if you recall."
-"Would you still love us if all this went away?" Ramona asked, gesturing to the room.
-"Of course. I loved you when we were both on basic, years before my first contract."
-Ramona finally smiled again. "I love you too."
-Sam set a few stacks of laundry aside off of the bed. "Now, can I interest you in making a double baby?"
-Ramona chuckled, "I don't think it works like that."
-Sam turned out the lights and crawled into bed next to his wife.
-
-**TODO***
-
-1. Brings his dish right into bed and collapses into it
-	1. Wife is perfect
-	2. She talks about the kids, not them
-	3. You should be there. He has a field trip next week kind of thing (or cats/rats)
-	4. Convo goes to 3rd kid
+Sam chuckled. Ramona followed suit, relieved.
+Sam's laughter escalated slowly, until he was belly laughing. He pulled away, wiping tears from his eyes.
+"What? Most people aren't very excited about the third. Out-of-pocket... thought you might be upset."
+"I put in my notice last week, dear. Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
+Ramona sat frozen, mouth slightly ajar.
+"I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even. I will find something soon. I hate my job. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
+Ramona shook her head in disbelief. "I love you. If you hated your job you could have talked to me. Why didn't you tell me? You said work was fine today."
+Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't ready for an oops. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
+Ramona paused and took a breath. "Look. I don't care if we're level 5, or 8, or 32. When I met you you were what? 28?. I grew up unleveled. It doesn't matter. Why don't we just take some time? I'd rather you have the time with us than more energy and a bigger house."
+"I love you too. But the boys won't be in level 5, or even level 4. You have my word. I've been looking, it will happen. When are you due? Why didn't you tell me?"
+"I'm 3 weeks, so June 3. My monitor alerted me but I had to double check."
+"That's wonderful. I'll have plenty of time to find something. It will be nice to spend some more time with you all while I look."
+Ramona relented. She gave him a kiss and leaned into his chest. "That will be nice. Why don't you just retire? We can float down the ladder for a few years and enjoy each other."
+"Don't tempt me." They kissed, longer this time.
+"Do you want to make a double baby?" Sam asked.
+"I don't think it works that way." Ramona replied, eyes half open.
+"DADDA CAN YOU COME WIPE MY BUTT?!" Clyde yelled from the bathroom.
