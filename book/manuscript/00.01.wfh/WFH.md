@@ -210,7 +210,7 @@ Sam grunted himself off the bed on the floor, grabbing his dinner off of the dre
 "Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of laundry in my life." 
 Ramona remained focused on one of Stevie's shirts. "Why do anything like you're just trying to get it over with? You know I don't like when you try to optimize me."
 
-They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
+They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him? 
 
 "We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife a bit.
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
@@ -225,7 +225,9 @@ Sam chuckled. Ramona followed suit, relieved.
 Sam's laughter escalated slowly, until he was belly laughing. He pulled away, wiping tears from his eyes.
 "What? Most people aren't very excited about the third. Out-of-pocket... thought you might be upset."
 "I put in my notice last week, dear. Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
-Ramona sat frozen, mouth slightly ajar.
+
+Ramona sat frozen, mouth slightly ajar. wapwapwapwapwapWAPWAP in the hallway, a door slammed. Clyde was using the bathroom. 
+
 "I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even. I will find something soon. I hate my job. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
 Ramona shook her head in disbelief. "I love you. If you hated your job you could have talked to me. Why didn't you tell me? You said work was fine today."
 Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't ready for an oops. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
@@ -237,4 +239,4 @@ Ramona relented. She gave him a kiss and leaned into his chest. "That will be ni
 "Don't tempt me." They kissed, longer this time.
 "Do you want to make a double baby?" Sam asked.
 "I don't think it works that way." Ramona replied, eyes half open.
-"DADDA CAN YOU COME WIPE MY BUTT?!" Clyde yelled from the bathroom.
+"DADDY CAN YOU WIPE MY BUTT?!" Clyde yelled from the other room.
