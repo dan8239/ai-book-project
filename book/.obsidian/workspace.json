@@ -214,6 +214,8 @@
   },
   "active": "304b7082500df191",
   "lastOpenFiles": [
+    "manuscript/00.02.unretirement/notes.md",
+    "manuscript/00.02.unretirement",
     "manuscript/00.01.wfh/notes.md",
     "manuscript/00.01.wfh/WFH.md",
     "worldbuilding/themes/themes.md",
@@ -243,7 +245,6 @@
     "manuscript/00.03.unretirement",
     "manuscript/02.02.first-contact/First Contact.md",
     "manuscript/02.02.first-contact/notes.md",
-    "manuscript/02.01.mountain/Into the Mountain.md",
     "assets/figures/h3_globe.png",
     "assets/figures/extinction_histogram_rebase_comparison.png",
     "assets/figures/extinction_histogram_rebase_only.png",
@@ -258,7 +259,6 @@
     "manuscript/02.03.control-room",
     "manuscript/02.XX.optimization-tour",
     "manuscript/00.00.prologue",
-    "manuscript/02.02.first-contact",
-    "manuscript/02.01.mountain"
+    "manuscript/02.02.first-contact"
   ]
 }
