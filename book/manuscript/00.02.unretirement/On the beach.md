@@ -1,3 +1,3 @@
 Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates. He licked the yolk off of the plates and threw them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked their water balance on the display. He hesitated over the start button, then ran a quick sniff test on his armpits. He adjusted the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
 
-Those appeared to have been the last of the eggs for this week. Ramona had
+Those appeared to have been the last of the eggs for this week. They'd have to stretch
