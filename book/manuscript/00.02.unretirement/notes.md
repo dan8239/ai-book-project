@@ -1,3 +1,17 @@
+1. Plot goals
+	1. Call to action
+	2. Resist the call
+2. Characters
+	1. Dorothea
+	2. Tina / Ramona dynamic
+	3. Sam resisting call
+3. Situation
+	1. Money constraints
+	2. rationing
+	3. Looking for smaller places
+	4. casually finding something for his son's birthday
+
+
 The spatial setup is doing real work. Ramona is at the museum (connected to Tina, connected to legacy humans, connected to   
 the physical world). Sam is in the clouds (connected to AI, optimization, abstraction). She's literally in the real world    
 while he's in a virtual one. You don't have to say a word about the thematic divide — it's in the geography. When she walks  
