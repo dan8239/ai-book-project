@@ -64,8 +64,7 @@
               "title": "themes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,8 +226,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7439045bd41aeae",
+  "active": "304b7082500df191",
   "lastOpenFiles": [
+    "worldbuilding/characters/claude-assistants.md",
     "manuscript/00.02.unretirement/On the beach.md",
     "manuscript/00.02.unretirement/notes.md",
     "worldbuilding/world/agriculture.md",
@@ -244,7 +244,6 @@
     "manuscript/03.07.the_button/notes.md",
     "manuscript/01.06.birthday/notes.md",
     "manuscript/01.03.work/notes.md",
-    "worldbuilding/characters/claude-assistants.md",
     "worldbuilding/simulation/extinction-trajectory.md",
     "manuscript/00.01.wfh",
     "worldbuilding/simulation/failed-trials.md",
