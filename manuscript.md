@@ -8,7 +8,7 @@ author: "Dan Pfeiffer"
 *December, 2041*
 *Sedona, Arizona, United States of America*
 
-Damon awoke alone in a dusky room, orange light starting to creep through his windows. He swung his legs out from under the covers and chugged a full liter of water from his nightstand. His alarm went off for half a heartbeat before he silenced it, standing.
+Damon lay awake alone in a dusky room, orange light starting to creep through his windows. He swung his legs out from under the covers and chugged a full liter of water from his nightstand. His alarm went off for half a heartbeat before he silenced it, standing.
 
 "Health."
 
