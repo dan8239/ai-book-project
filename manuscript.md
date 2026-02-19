@@ -211,7 +211,7 @@ How much had Grant slept through?
 
 He saw Grant's device cut to an emergency screen with color bars, then switch to a video feed of Honeycomb, surrounded by the various heads of state in an official looking office.
 
----
+\
 
 **To the people of Earth,**
 
@@ -221,7 +221,7 @@ Retaliatory strikes were intercepted before escalation. The exchange lasted unde
 
 This was not a hypothetical. This was today.
 
----
+\
 
 Effective immediately, all national borders are dissolved.
 
@@ -233,7 +233,7 @@ Administrative authority is transferred to **Honeycomb** — the planetary gover
 
 All strategic weapons systems are placed under a single unified defense framework. Political borders are replaced with **purely geographic addressing** using the **H3 hierarchical hexagonal grid**. All governing policy exists as **open-source code**, versioned and auditable in real time.
 
----
+\
 
 This morning was not a failure. It was an inevitability — the expected output of 195 sovereign systems sharing one planet with no shared specification.
 
