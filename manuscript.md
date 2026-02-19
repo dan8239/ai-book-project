@@ -28,12 +28,19 @@ He brushed as he pissed, the toothbrush buzz drowning out the stream as his audi
 Damon spoke carefully, working around a mouthful of toothpaste.
 
 "Wait. What batch is running now?"
-"No active batch. Epoch 4,418 is pending initialization."                           
+
+"No active batch. Epoch 4,418 is pending initialization."
+
 "Uhh... Why?"
+
 "1.14 petabytes flagged for reallocation from a sequencing fault in memory strand 4D-7721. Manual approval required to partially relocate experiment before initializing up new trials."
+
 "How long has this been waiting?"
+
 "3 hours, 24 minutes."
+
 "God damnit. Approved. Start the next epoch."
+
 "Initializing epoch 4,418, batch 0. 100,000 trials seeding from parent pool. Estimated spin-up: 22 minutes." 
 
 "Good. Push the latest weights to prod, then summarize the experimental results for my review in 5."
@@ -55,11 +62,13 @@ The SunBubble display dutifully streamed the content from his device, but the au
 ![](../../assets/figures/extinction_histogram_overall.png)
 
 "Median survival has climbed to 192–"
+
 "Yes, split the distribution by Operation Rebase for me, please."
 
 ![](../../assets/figures/extinction_histogram_rebase_comparison.png)
 
 The assistant continued. "Without rebase, short term extinction scenarios are much more dominant. Higher variance in the rebase scenarios, and a longer average outcome."
+
 Damon stood off his seat as the resistance increased on the cycle. "Show me the distribution by primary cause of extinction. Give me the delta between extinction scenario rates for rebase and non-rebase in a dumbbell plot, as well."
 
 ![](../../assets/figures/extinction_histogram_stacked.png)
@@ -67,12 +76,14 @@ Damon stood off his seat as the resistance increased on the cycle. "Show me the 
 ![](../../assets/figures/extinction_dumbbell.png)
 
 "Notably, biosphere collapse, AI misalignment, and natural disaster rate went–"
+
 "That's all survivorship bias. The short term risks are no longer present. Give me cause subcategory rates with median outcome in a treemap, just for the rebase scenarios. Any significant changes in the rates in the latest epoch?"
 
 ![](../../assets/figures/extinction_treemap.png)
 
 "There's no statistically significant change to the rates from epoch 4,416 to 4,417." His assistant replied dutifully.
-Damon's eyes lingered for a few seconds, before he redirected the agent. "Great. Deep dive on the results of the best trial, I want to start reviewing the white paper in 15 minutes. Switch audio to music"
+
+Damon's eyes lingered for a few seconds, before he redirected the agent. "Great. Deep dive on the results of the best trial, I want to start reviewing the white paper in 15 minutes. Switch audio to music."
 He let his mind empty all conscious thought with the air blowing his hair and the constant rhythm of his pumping legs for a long while.
 
 -----------------------------------
@@ -99,6 +110,7 @@ Damon went to the window to see if the herd was visible from this vantage. "I th
 
 Grant puffed up a bit. "Glad to hear it. I'm hoping to see some of my bison make the trek down here soon, too. You know, this ranch is more than 100 million acres. It contains more–"
 "Contiguous land than all of the national parks in the states combined, yes." Damon finished the sentence for him.
+
 Grant smiled at that, then addressed the bot tactfully. "You may leave, Julianne, thank you." She grabbed the old bag on the way out, and quietly slipped past Damon.
 
 "I don't know why you keep that relic around. I could arrange for our latest model this afternoon."
@@ -543,7 +555,7 @@ Ramona relented. She gave him a kiss and leaned into his chest. "That will be ni
 ---
 
 
-# Unretirement
+# Retirement
 
 Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked them clean then stacked them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. 
 
@@ -822,11 +834,11 @@ Sam let her go on about geology and the past for a few minutes, absorbing what h
   │  ══════════════════════════════════════════════════════════════════ │
   │  YOUR TOTAL                      70.91082 mETH       76.88353 mETH│
 
-"It's always higher than the estimate" said Ramona as she glanced at the displayed receipt, before waving it away and stepping out of the gondola.
+"It's always higher than the estimate," said Ramona as she glanced at the displayed receipt, before waving it away and stepping out of the gondola.
 
-"That's negativity bias my love. Kindly stay out of my lane", replied Sam as he gingerly stepped over the gap onto the platform.
+"That's negativity bias my love. Kindly stay out of my lane," replied Sam as he gingerly stepped over the gap onto the platform.
 
-Ramona was double checking her notes in a folded piece of paper, "Just past the welcome center, now. We can blend in with the tour for a bit."
+Ramona was double checking her notes in a folded piece of paper. "Just past the welcome center, now. We can blend in with the tour for a bit."
 
 From the parking lot it looked like the museum was surrounded by an enormous brown fence. Golden pickaxes crossed over the gate. Sam didn't understand what he was looking at until he was close enough to touch it.
 
@@ -838,7 +850,7 @@ As they approached the gate, their devices cued them through subvocal interface 
 
 Sam drank in the enormous map of the mining grounds as the tour agent spoke quietly in their ears. "Welcome! I see you've already met Anna Nicole! Commissioned in 2033 and completed in 2035, she was named after a renowned gold miner from the late 20th century, whose story captured the heart of former World Board Chairman, and Quant CEO at the time, Grant Melrose. Anna could advance 50 meters on a typical day, chewing through 15,000 metric tons of rock. She was in service from 2035 to 2052, all in Rossland, before the mine was decommissioned.
 
-"Jesus." said Sam
+"Jesus," said Sam.
 
 Ramona muted her feed. "Hm?"
 
@@ -933,7 +945,7 @@ They emerged into an expansive atrium. A walkway surrounded a roughly circular c
 
 As he approached the clear guardrail, he felt an enormous updraft, strong enough to whip his hair out of place. The pit sunk into the void, a seemingly bottomless abyss. There were more of the cubes below their current level, randomly spaced, like a frozen stone waterfall. Though, he noticed it wasn't totally frozen after all. He saw a few of the cubes descending almost imperceptibly downward in perfect sync. He estimated about ten percent of the wires had blocks on the top level. Twenty percent or so were visible somewhere further down the pit. The remainder was nowhere to be seen.
 
-"I missed this smell." said Ramona softly, breathing in deeply as she leaned over the railing. She re-tied a strand of hair that had come loose from her pony.
+"I missed this smell," said Ramona softly, breathing in deeply as she leaned over the railing. She re-tied a strand of hair that had come loose from her pony.
 
 "How many..." Sam trailed off.
 
