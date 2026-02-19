@@ -2,7 +2,7 @@
 *December, 2041*
 *Sedona, Arizona, United States of America*
 
-Damon awoke alone in a dusky room, orange light starting to creep through his windows. He swung his legs out from under the covers and chugged a full liter of water from his nightstand. His alarm went off for half a heartbeat before he silenced it, standing.
+Damon lay awake in a dusky room, orange light starting to creep through his windows. He swung his legs out from under the covers and chugged a full liter of water from his nightstand. His alarm went off for half a heartbeat before he silenced it, standing.
 
 "Health."
 
@@ -16,7 +16,7 @@ He stood at the sink as he squeezed toothpaste onto his brush.
 
 "No, thank you. Work summary and call a SunBubble for 6 minutes."
 
-He brushed as he pissed, the toothbrush buzz drowning out the stream as his audio crescendoed automatically.
+He brushed as he pissed, the toothbrush buzz drowning out the stream as his audio increased volume to compensate.
 
 "Epoch 4,417 closed. 2.4 million trials concluded across 24 batches. Top 0.5% retained unmodified — 12,000 elites. Top 15% selected for crossover — 360,000 parent trials seeding next generation. Median extinction improved from 174 to 192 years. Stop condition 10,000 years median unmet — current progress: 1.9%. Best trial exceeded the 20,000-year maximum projection window. Policy update complete, weights adjusted."
 

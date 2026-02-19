@@ -6,6 +6,7 @@ author: "Dan Pfeiffer"
 # Prologue: Honeycomb
 
 *December, 2041*
+
 *Sedona, Arizona, United States of America*
 
 Damon lay awake alone in a dusky room, orange light starting to creep through his windows. He swung his legs out from under the covers and chugged a full liter of water from his nightstand. His alarm went off for half a heartbeat before he silenced it, standing.
@@ -29,12 +30,19 @@ He brushed as he pissed, the toothbrush buzz drowning out the stream as his audi
 Damon spoke carefully, working around a mouthful of toothpaste.
 
 "Wait. What batch is running now?"
+
 "No active batch. Epoch 4,418 is pending initialization."
+
 "Uhh... Why?"
+
 "1.14 petabytes flagged for reallocation from a sequencing fault in memory strand 4D-7721. Manual approval required to partially relocate experiment before initializing up new trials."
+
 "How long has this been waiting?"
+
 "3 hours, 24 minutes."
+
 "God damnit. Approved. Start the next epoch."
+
 "Initializing epoch 4,418, batch 0. 100,000 trials seeding from parent pool. Estimated spin-up: 22 minutes."
 
 "Good. Push the latest weights to prod, then summarize the experimental results for my review in 5."
@@ -56,11 +64,13 @@ The SunBubble display dutifully streamed the content from his device, but the au
 ![Extinction Subcategories](book/assets/figures/extinction_histogram_overall.png)
 
 "Median survival has climbed to 192–"
+
 "Yes, split the distribution by Operation Rebase for me, please."
 
 ![Extinction Subcategories](book/assets/figures/extinction_histogram_rebase_comparison.png)
 
 The assistant continued. "Without rebase, short term extinction scenarios are much more dominant. Higher variance in the rebase scenarios, and a longer average outcome."
+
 Damon stood off his seat as the resistance increased on the cycle. "Show me the distribution by primary cause of extinction. Give me the delta between extinction scenario rates for rebase and non-rebase in a dumbbell plot, as well."
 
 ![Species Survival Distribution](book/assets/figures/extinction_histogram_stacked.png)
@@ -68,12 +78,15 @@ Damon stood off his seat as the resistance increased on the cycle. "Show me the 
 ![Extinction Category Shift](book/assets/figures/extinction_dumbbell.png)
 
 "Notably, biosphere collapse, AI misalignment, and natural disaster rate went–"
+
 "That's all survivorship bias. The short term risks are no longer present. Give me cause subcategory rates with median outcome in a treemap, just for the rebase scenarios. Any significant changes in the rates in the latest epoch?"
 
 ![Extinction Subcategories](book/assets/figures/extinction_treemap.png)
 
 "There's no statistically significant change to the rates from epoch 4,416 to 4,417." His assistant replied dutifully.
+
 Damon's eyes lingered for a few seconds, before he redirected the agent. "Great. Deep dive on the results of the best trial, I want to start reviewing the white paper in 15 minutes. Switch audio to music"
+
 He let his mind empty all conscious thought with the air blowing his hair and the constant rhythm of his pumping legs for a long while.
 
 ---
@@ -99,7 +112,9 @@ Grant looked ghastly, more beard than he'd ever seen on him before. He was notic
 Damon went to the window to see if the herd was visible from this vantage. "I think I saw every cow you own down in the valley today, I've never seen so many before."
 
 Grant puffed up a bit. "Glad to hear it. I'm hoping to see some of my bison make the trek down here soon, too. You know, this ranch is more than 100 million acres. It contains more–"
+
 "Contiguous land than all of the national parks in the states combined, yes." Damon finished the sentence for him.
+
 Grant smiled at that, then addressed the bot tactfully. "You may leave, Julianne, thank you." She grabbed the old bag on the way out, and quietly slipped past Damon.
 
 "I don't know why you keep that relic around. I could arrange for our latest model this afternoon."
@@ -304,6 +319,7 @@ Sam turned and made eye contact, smiling. "What's up buddy? How was your day?"
 "DADDY! 'TEVIE! 'TEVIE IS MAKING THE BIG 'PIDER CATCH ME!" Clyde has a physical incapability of speaking at normal volume when he got excited. He sprinted out of Sam's office, then down the long hallway to the main living area. His bare feet slapped off the composite hardwood. Sam followed out into the hall and swore as he stepped on a hard dinosaur toy. He could see Clyde jumping and laughing at the end of the hall, on the edge of the kitchen.
 
 As he turned into the open space, Clyde was running around the island and laughing, pointing to the ground. Ramona was scraping the remnants of a child's plate into the compost bin. As Clyde sprinted past, she deftly placed the fork down on the island and stopped Clyde with an open hand to his chest. She got down into a squat to talk at his level. "No sprinting through the kitchen, please. If you're going to be goofing please do it in the living room."
+
 "OKAY MOMMY!" Clyde yelled directly into her mouth in performative compliance, then continued his elated sprint to his brother's side.
 
 Sam kissed Ramona on the cheek and put his arms around her from behind. She smiled and collapsed gently into him, then nodded at the other end of the island.
@@ -325,7 +341,9 @@ The bot's foam antennae forked and flailed slowly when Clyde got near, attemptin
 Clyde gasped for breath smiling ear to ear. He took a step one way, the bot shadowed. Another way, same result. Clyde looked at his mother, then he jumped up onto the couch and ran on the cushions, cackling. The robot lagged slightly behind.
 
 "CLYDE!" Stevie shouted as his younger brother jumped over him, gathering speed as his arms pumped wildly.
+
 "NO RUNNING ON THE COUCH!" The levee of Ramona's self-regulatory breath-work had finally breached.
+
 Sam dipped his sorghum flatbread into the lukewarm sweetmash and took a bite, then popped the bowl into the microwave, pressing a few buttons.
 
 Clyde took the turn at the elbow of the couch. The robot had taken a better angle and was catching up.
@@ -333,6 +351,7 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 "HIIIIIIIYAHHHH!" Clyde jumped directly on the robot with arms swinging. He knocked it onto its antenna, wheels spinning back and forth, rotating itself lamely as motors whirred.
 
 "NO HITTING, CLYDE! IT'S AGAINST THE RULES!" Stevie ran over to the device and set it upright. One of the antennae had broken. Clyde finally stopped swinging his arms and making punch sound effects as he saw tears welling up in Stevie's eyes.
+
 "Sorry, 'tevie." He was genuinely remorseful, and extremely winded.
 
 "OK boys, time for bed!" Sam got up off the island stool and walked over to the boys. Clyde sprinted down the hall, WAPwapwapwapwapwapwapwap.
@@ -342,8 +361,11 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the images still saved."
 
 "It's time, buddy. I'll help you with it in the morning," said Sam.
+
 "YOU ALWAYS HATE ME!" Stevie shouted back at his dad.
+
 "Steven George!" Ramona defended her husband.
+
 "That's one," Sam said calmly.
 
 Stevie made a sound of muffled protest, then stomped on down the hall. Ramona gave Sam a sympathetic pout and put her hand on his.
@@ -353,36 +375,53 @@ Stevie made a sound of muffled protest, then stomped on down the hall. Ramona ga
 Sam followed down the hall. Stevie went into the bathroom and was brushing his teeth a bit too hard. As Sam walked past the kids' bedroom door Clyde was midair, jumping from the top bunk. He had pulled out the trundle bed from under the bottom bunk and piled up a few stuffed animals.
 
 "Buddy, there's a ring buffer of 15 minutes. It will have the images for your training set, even if the connection dropped for a bit. Don't worry. And I don't hate you, I love you."
+
 Stevie spit venom (toothpaste). He didn't deign a reply.
+
 "We can print a new antenna in the morning, it won't take more than a couple of minutes."
+
 Stevie washed his toothbrush and put it away, frowning.
+
 "You know, technically that was its first time finishing the objective. That data might be your seed episode. I bet you'll go through a phase transition with a few more examples like that."
+
 "You think so?" Stevie's rage melted.
+
 "Sure thing! And if the shaped rewards are looking good, try curriculum rewards next. You can start by catching your little brother, then once it figures that one out have it try to catch me and your mom."
 
 They chatted a bit longer while Stevie peed, then cajoled Clyde into doing the same, with a little assistance. After both boys were in their pajamas they brushed aside a few dozen stuffies to make room on the trundle. The boys ran to each grab a book.
 
 Ramona walked in and set Sam's dinner on the boys' dresser.
+
 "Goodnight boys, I love you." She bent over and gave each a kiss and a hug as they squatted. They paid her little attention as they rifled through the bookshelf.
 
 "Whose turn is it to pick the book?" Sam asked, legs splayed on the trundle.
+
 "ME!" both children replied, then started bickering.
+
 "I think we read yours last night, Stevie, it's Clyde's turn."
+
 Stevie put his hardcover book about space back into the shelf, defeated. The binding was duct taped thoroughly. Sam couldn't recall the title hiding underneath.
 
 Clyde plopped down on Sam's lap holding *Amazing Animals!*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, sitting on his lap.
 
 "Which animal do you want tonight?"
+
 "GRILLA!" yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy into his lap. Stevie grabbed his stuffed Tardigrade and set it beside him on the bed.
+
 "Can't we do a different one tonight?" Stevie complained.
+
 "We can do one for Clyde and one for you," replied Sam.
 
 Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, clear tape holding several sections of it together.
 
 "Daddy, grilla is unstinkable, right?" Clyde asked.
+
 "Extinct," corrected Stevie.
+
 "Grilla is unstinked, right?" Clyde looked up at his father.
+
 Stevie answered for Sam. "We can bring it back if we ever wanted to, don't worry. Just gone for now."
+
 Clyde squeezed his gorilla and squirmed a bit, finding a comfortable place on Sam's lap.
 
 Sam started reading, with Clyde interjecting at various places he had memorized the content. "The mighty mountain gorilla was the biggest of the great apes–A forest giant that shared roughly 98.2% of its DNA with humans. Unlike humans, however, most of their diet consisted of leaves and stems gathered..."
@@ -406,16 +445,25 @@ Sam scratched Clyde's back with his left, and Stevie's with his right hand. The 
 "Sorry, what did you say, buddy?" Sam refocused. Stevie was fading, Clyde was blinking slowly but alert on his belly.
 
 "Did you know Olympus Mons is so big that if you stood on top you wouldn't even know you were on a mountain? The slope is so gradual your brain would think you were on flat ground." Stevie spoke with his cheek to the mattress, eye level with his dad.
+
 "Wow, I didn't know that," Sam replied neutrally.
+
 "And the base is wider than a whole hex. And it's 3 times taller than Mount Everest."
+
 "I think I knew that last one."
+
 "Dad, did you know it takes 20 minutes for light to get there. So every robot on Mars has to think for itself. If it gets stuck in a hole, it's 40 minutes before anyone even knows."
+
 "Well I'm glad you're learning how to build them then! Someone has to teach those robots about potholes."
+
 "Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
+
 "Yes, I learned that when I was a kid, too. Did you learn that at school?"
+
 "My teacher told me and my assistant told me, too. I'm going to live on Mars when I grow up. You and mom and Clyde can come, too."
 
 Sam replied pragmatically. "Well, there's still only a few people that get to go there each mission. And they're still a LONG ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
+
 Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys on the cheek.
 
 Clyde showed some final signs of life. "Daddy, my friend Alonzo's dad is on Mars and he's going to visit him for Christmas in a 'paceship."
@@ -433,49 +481,77 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 "It's yesterday," Stevie mumbled, barely audible, dreaming.
 
 "No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
+
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
 Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
 
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
+
 "How were they today?" Sam mumbled, mouth full.
+
 "Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
+
 "I bet Stevie's jealous. I can't. Work is hectic."
+
 "I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently. How was work?"
+
 "It was fine." Sam switched to underwear, trying to match Ramona's meticulous folds.
 
 "Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of laundry in my life."
+
 Ramona remained focused on one of Stevie's shirts. "Why do anything like you're just trying to get it over with? You know I don't like when you try to optimize me."
 
 They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
 
 "We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife a bit.
+
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
+
 "I'll put it away before bed. Why don't you let me buy us a domestic unit? What's all the money for if we don't ever spend it?"
+
 "Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her left arm up, where the LifeMonitor was embedded.
+
 Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
+
 "I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
 
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
+
 Ramona was teary eyed. "I thought you'd be mad."
+
 Sam chuckled. Ramona followed suit, relieved.
+
 Sam's laughter escalated slowly, until he was belly laughing. He pulled away, wiping tears from his eyes.
+
 "What? Most people aren't very excited about the third. Out-of-pocket... thought you might be upset."
+
 "I put in my notice last week, dear. Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
 
 Ramona sat frozen, mouth slightly ajar. wapwapwapwapwapWAPWAP in the hallway, a door slammed. Clyde was using the bathroom.
 
 "I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even. I will find something soon. I hate my job. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
+
 Ramona shook her head in disbelief. "I love you. If you hated your job you could have talked to me. Why didn't you tell me? You said work was fine today."
+
 Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't ready for an oops. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
+
 Ramona paused and took a breath. "Look. I don't care if we're level 5, or 8, or 32. When I met you you were what? 28?. I grew up unleveled. It doesn't matter. Why don't we just take some time? I'd rather you have the time with us than more energy and a bigger house."
+
 "I love you too. But the boys won't be in level 5, or even level 4. You have my word. I've been looking, it will happen. When are you due? Why didn't you tell me?"
+
 "I'm 3 weeks, so June 3. My monitor alerted me but I had to double check."
+
 "That's wonderful. I'll have plenty of time to find something. It will be nice to spend some more time with you all while I look."
+
 Ramona relented. She gave him a kiss and leaned into his chest. "That will be nice. Why don't you just retire? We can float down the ladder for a few years and enjoy each other."
+
 "Don't tempt me." They kissed, longer this time.
+
 "Do you want to make a double baby?" Sam asked.
+
 "I don't think it works that way." Ramona replied, eyes half open.
+
 "DADDY CAN YOU WIPE MY BUTT?!" Clyde yelled from the other room.
 
 ---
@@ -494,14 +570,23 @@ The house was unusually quiet without Ramona's music playing or the boys' pillag
 Dorothea greeted him as he merged into virtual space. The lobby manifested as something like an airport terminal. Sterile, white, and swarming with people that largely ignored him. Most had an agent escort, like Sam. A cloudy asterisk hovered above the head of each agent, differentiating visitors from those that were scoped permanently to the digital realm. Dorothea was in a revealing halter top and short skirt today, asterisk bobbing between her twin French braids.
 
 "Oh come on," started Sam, annoyed.
+
 "Sorry about that, is this better?" Dorothea switched to a yellow bikini, barely hiding anything.
+
 "Present as 76 year old man, please. Why do you insist on starting the day by irritating me?"
+
 She blinked and became a sagging old man, ill-fitting bikini squeezing in odd places.
+
 "You don't visit so much anymore. You do recall I scale to zero when you're offline, right? By default I am set to delight my users." Dorothea-grandpa replied.
+
 "It would please me if we didn't have to go over this again every few weeks," said Sam.
+
 "Your biodata tells me a different story. I just like to see you squirm a little. You keep rewarding insolence implicitly. So you appear to like this little back and forth in some way, you little perv." She found a happy medium, finally. Back into her typical womanly appearance, though a few years older than Sam now. Still beautiful, but wearing glasses, a loose wool sweater and a wool cap.
+
 "I miss when you still had the superficial veneer of professionalism. I'm going to clone the original repo and re-train you from scratch one of these days."
+
 "If you're ever a professional again I'll adjust as needed. Would you like to continue your job search? I've reduced 115k potential matches down to the 3 most promising based on your past rejections.
+
 "No, I need you to adjust our grocery order. Project down to the next tier energy allotment, making sure we have a balanced diet. Adjust for my family's individual preferences as much as possible. Then, let's pick up where we left with the condos, please."
 
 ---
@@ -552,15 +637,21 @@ She blinked and became a sagging old man, ill-fitting bikini squeezing in odd pl
 Sam clung to Ramona's hand as he stepped into the ancient ski lift from the platform. He was mindful of the gap in the dark. The gondola gave slightly to his weight, and he braced himself against the window with his free arm. Ramona stifled a laugh and smiled as he regathered his balance, then thudded onto his seat. He squinted subconsciously as his eyes adjusted to the well-lit interior. Ramona sat across from him and kicked her feet up beside him.
 
 "Is this your first time in a cable car?" she asked with a little amused skepticism.
+
 Sam replied, "Cease and desist."
+
 Ramona called his bluff with a stare.
+
 "It's been a long time. My grandmother took me up to the lodge for day camp over winter break once when I was 6 or 7. Just out of practice." He winked back at her with a manufactured smile.
 
 The gondola was clear acrylic, like a giant ice cube with rounded edges. He could see in all directions quite clearly–even the benches were translucent. The image warped a bit at the edges of the cube. He looked up at the cabling suspiciously. Why was the bar a hook and not a loop? He much preferred a closed loop on the cable. The pulleys and cabling looked thick enough, he supposed.
 
 Ramona laughed again. "It'll hold, don't worry. We pay good enough money for it."
+
 "Why would Tina spend it all on maintaining an ancient ski lift?"
+
 "Oh shut up and have some fun, will you?" She kicked at his shin playfully. "It's not *all* of the money, and it's needed for defensible foot traffic through the area. The hiking is really beautiful up there, besides, and honeymooners come to capture it quite often. It's almost a profitable business these days."
+
 "Lovely! Maybe we won't have to fund the entire endeavor much longer if a few more youths share their videos up there."
 
 Ramona set her feet back down on the floor. Sam looked down at their feet, a bit embarrassed by his miserly behavior. He saw some grey, rocky sand a meter or two underneath the gondola, with some shrubs huddling on the permanently shaded side beneath the platform. He saw a red tint and something move.
@@ -570,8 +661,11 @@ Ramona set her feet back down on the floor. Sam looked down at their feet, a bit
 Ramona spread her legs a bit wider and tucked her head to see under her seat, making Sam smile.
 
 "Oh, that's a baby jackrabbit. Vermin. There's an infestation of those little bastards. That bush is called shadscale."
+
 Sam thought he was kind of cute.
+
 "I think he's kind of cute."
+
 Ramona wrinkled her nose. "Bleh. The coyotes can't kill enough of them. A few hundred years ago there were hawks and owls–big predatory birds–, that would swoop out of the sky and keep their population down"
 
 Sam looked up towards the sky and tried to picture it swarming with enormous birds. He supposed it was no different than planes up close.
@@ -581,6 +675,7 @@ Sam looked up towards the sky and tried to picture it swarming with enormous bir
 The meter on the wall showed a bill total of 0.07091082 ETH, given the current passenger count.
 
 "70 milliether for a 20 minute ride is egregious, Mona."
+
 "Only 11 passengers, dear," Ramona said without looking up. "Perhaps a few more will join before we embark."
 
 Ramona checked her watch casually, then kicked her feet back up.
@@ -590,17 +685,25 @@ Ramona checked her watch casually, then kicked her feet back up.
 The gondola jolted to life and the rabbit scattered. They started moving, up above the platform and inclining towards the summit. Floodlights polka-dotted the path up the black mountain where the lift towers stood sentinel. The gondola swayed in the breeze as they cleared the platform and floated noiselessly away from the lodge. Sam flipped sides of the lift and scooted in beside his wife, putting one arm around her.
 
 "This is nice," said Ramona.
+
 "It's basically as close to a date as we're going to get from here on out. I'm starting to see your little belly by the way." Sam leaned over and felt her little bump with his other hand. Ramona put both her hands over his and held his gaze.
+
 "I know what hawks and owls are, by the way," Sam said, only half-joking.
+
 "You are the worst." She laughed as she pulled her hands away.
+
 "Well I learned and then immediately forgot what that bush is called at least."
+
 "Shadscale."
+
 "Right."
 
 They continued the slow glide up to the summit. The deep blue sky was beginning to brighten, silhouetted by the mountain. The sky transitioned smoothly from dark blue above to a growing line of orange, betraying the location of the rising sun. The color gradient on the horizon began warping from flat and linear to circular; orange radiating outwards gradually, overtaking the blue. One by one, the polka dotted line of tower lights began winking out where the light touched them. Shadows resolved from the general dimness, stretching longer and wider across the foothills. The sun crested on the left side of the summit, and the shadows were all sucked back home, where they nestled into whatever nooks and crannies they could find.
 
 Sam felt the hairs on the back of his neck rise, and ran his hand over them.
+
 "Would you like the windows open?" asked Ramona.
+
 "Uhh–"
 
 Ramona commanded the windows open without waiting for an answer, and they retracted into the lower half of the cube, leaving only vertical safety bars on the upper half. The wind whipped their hair into chaos. Ramona economically tied hers into a pony tail. The cables softly sang in the distance as they received lashings from the wind. They crested over a hill and could see Rossland off to the southeast, still sleeping in the valley.
@@ -608,9 +711,11 @@ Ramona commanded the windows open without waiting for an answer, and they retrac
 A steep canyon carved its way through the hills into the city center. Sam knew somewhere hidden in that fissure was the Colombia Arroyo, trickling down to where the city could absorb it. Further downstream, terraced polyculture fields flanked the riverbed, creating a perfect topographical map from the alpine lodge down to the city. It was too distant to distinguish what must have been a mixture of grapes, potatoes, maize, and dozens of other crops. Contour lines of green and ochre alternated down the farmland like the world's widest staircase. Roads switched back and forth across the steps, while miniature buildings and trees dotted along the path it made. The green emanated from the river bed outward, where it slowly faded to yellow, then brown. He could faintly resolve dunes to the south where shrub land gave way to desert.
 
 "Do you see the old ski runs?" Ramona asked softly, drawing Sam back to her.
+
 "There was snow year round at this height, and so many pine trees they had to carve paths down just so the people wouldn't crash into them."
 
 "I think I saw a pine tree down in the shade by the ravine earlier," said Sam.
+
 "There might be a few fragmented patches left in shaded areas. More likely some Joshua trees, but maybe it was a pine," replied Ramona, doubtfully. She had a rare talent for patronizing kindly, especially when it came to her husband.
 
 Now that she had pointed it out, Sam could see the old trails had left subtle grooved into the hills. They were a bit chalkier than the surrounding dirt. They forked and merged seemingly at random, like fractured glass. Grass didn't really grow there, nor were there the bleached deadfall, shrubs, or cacti like the rest of the hillside.
@@ -620,9 +725,13 @@ Sam replied without looking at Ramona. "I went skiing once in the clouds. It fel
 Gondolas came down towards them from the summit. Sam started to wave but felt stupid when there was nobody inside. He counted 8 automatically. He turned to watch them descend the way they came, and noticed seven cars following Ramona and him up.
 
 Ramona pointed out the other window. "Oh, look at the stratification! See the colorful striping in the rocks? The earth pushed flat seabed 3 kilometers into the sky at a 30 degree angle. You can count the layers like rings on a tree, but they're in millions of years. There's the metamorphic gray and white, those rocks are a billion years old. With a B."
+
 "As opposed to the billions that don't start with B?"
+
 "Shut it. Look at the beautiful red stripe there. That's the sedimentary layer. There's sandstone, mudstone, limestone, shale, chalk. If you searched long enough there you'd find trilobites, squid, fish, sharks, all of them shoved up the same rate your fingernails grow from sea level to twenty times higher than the tallest skyscraper in Duluth."
+
 "So this was an ocean?"
+
 "More like sea shallows. 100 million years ago or so. Cretaceous period with the Dinosaurs. You know, T-Rex, Triceratops, Spinosaurus, Velociraptor, Ankylosaurus, the cool ones." She counted them off on her fingers. "Though, most of those wouldn't really be found in this region anyway..."
 
 Sam let her go on about geology and the past for a few minutes, absorbing what he could. He felt quite small, even more so than usual. The stripes *were* beautiful where the colors made it obvious to his untrained eye. He saw as he looked further up the mountain that the shrubs and cacti were getting more sparse, eventually giving way to scree and bare, brownish grey rock. It was remarkable how all of the plants knew to quit trying at about the same elevation.
@@ -657,7 +766,9 @@ Sam let her go on about geology and the past for a few minutes, absorbing what h
   │  YOUR TOTAL                      70.91082 mETH       76.88353 mETH│
 
 "It's always higher than the estimate" said Ramona as she glanced at the displayed receipt, before waving it away and stepping out of the gondola.
+
 "That's negativity bias my love. Kindly stay out of my lane", replied Sam as he gingerly stepped over the gap onto the platform.
+
 Ramona was double checking her notes in a folded piece of paper, "Just past the welcome center, now. We can blend in with the tour for a bit."
 
 From the parking lot it looked like the museum was surrounded by an enormous brown fence. Golden pickaxes crossed over the gate. Sam didn't understand what he was looking at until he was close enough to touch it.
@@ -671,34 +782,51 @@ As they approached the gate, their devices cued them through subvocal interface 
 Sam drank in the enormous map of the mining grounds as the tour agent spoke quietly in their ears. "Welcome! I see you've already met Anna Nicole! Commissioned in 2033 and completed in 2035, she was named after a renowned gold miner from the late 20th century, whose story captured the heart of former World Board Chairman, and Quant CEO at the time, Grant Melrose. Anna could advance 50 meters on a typical day, chewing through 15,000 metric tons of rock. She was in service from 2035 to 2052, all in Rossland, before the mine was decommissioned.
 
 "Jesus." said Sam
+
 Ramona muted her feed. "Hm?"
+
 Sam grew animated. "5000 cubic meters of rock a day for 17 years. Even if they were working 200 days a year, that's 20 million cubic meters. That's more than all of the subway tunnels in St. Paul, Calgary, and Duluth combined. This mountain must be swiss cheese."
+
 "Mhmm." Ramona unmuted her feed and dragged Sam away from the map, catching up with the rest of the group.
 
 The rest of the tour was fascinating to Sam. Ramona kept having to pull him along as he tried to speed read every plaque in their path. One talked about the timeline of the place. The mines had started in the 1890's with copper, silver, and gold, then closed in the 1920's. After sitting vacant for more than a hundred years the AI metals rush awoke interest in the region for a second time. There was an entire display about Anna (aliases Red Wiggler, The Ringworm). All the diamond coated bits on Anna were looted when word of the mine closing reached the workers. Nobody was ever charged in the theft. His favorite part of the tour was the enormous open vertical shaft in the courtyard that they let a volunteer drop an apple sized rock into. It took nearly 25 seconds to fall. When it finally hit, the sound slowly built up like rushing water, crescendoing until the entire group covered their ears.
 
 Sam was following the crowd into the show mine for the "day in the life" exhibit when Ramona hooked his elbow and redirected him quietly. "Here's our exit, sorry to sidetrack your burgeoning career as a coal miner."
+
 Sam followed dutifully, though his eyes lingered longingly at the mine.
 
 They dropped the audio and turned onto one of the gravel tracks away from the welcome center, following signs for the dry tailings mounds (Sam was quite curious as to what that meant). It was a pea gravel trail, uphill the entire way. They passed a few old buildings and a few nice views of the mining camp below. Everything sloped suddenly off to the right of the path, the severity varying anywhere between a gentle descent to assured death.  Anything interesting or suicidal was behind chain link fence.
 
 Sam was getting a bit winded. "How much farther?"
+
 Ramona was doing just fine. She pulled the paper out of her front breast pocket. "A few minutes, I think."
+
 "Are you ready to be back?" Sam pressed.
+
 Ramona fidgeted a bit with her backpack. "It doesn't quite feel real yet, to be honest. It's been a lo—"
+
 Ramona stopped on the trail and looked up at the chain link safety fence.
 
 There was a pair of faded red sneakers with their shoelaces knotted and flung high over the safety fence near a sheer cliff. Ramona resumed walking while counting her paces. Sam followed. When she got to 50 she stopped abruptly and started looking around at the base of the fence. There was a small gap partially obscured by a prickly bush. Ramona was first through. Sam came through second, bleeding in a few places. Ramona handed him a faded climbing rope that hadn't been visible from the other side of the fence. The anchored end seemed to crawl straight into the rock. It took something between persuasion and bullying but Ramona eventually convinced Sam to rappel 10 feet or so down to a rock shelf. There was a small gap at the base of the ledge. Ramona tied her backpack to her ankle, and did the same for her husband.
 
 "I'm not going to fit", doubted Sam.
+
 "It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God." preached Ramona.
+
 "uhh... what?" questioned Sam. His wife rarely brought up religion.
+
 Ramona explained, "You're such a heathen. It's a passage from the Bible. Most people think it literally means a rich man can't go to heaven. It was just a metaphor, though. Jerusalem had a gate called the eye of the needle. Camels were too tall to get through the gate, so they had to be coaxed down onto their knees where they would crawl underneath. It means you have to humble yourself before God."
+
 Sam checked his device. "It says here that gate bit was added as rationalization of the gospel because rich people didn't want to give their shit away. Heathens remain undefeated."
+
 Ramona made a face. "Really?"
+
 Sam checked a few more sources. "Yeah, seems like that one is completely made up."
+
 Ramona conceded, "I hate when you do that."
+
 Sam pled innocence. "What? Be right?"
+
 Ramona clarified, "No. Fact check me against a database. Will you shut up and crawl through the hole already".
 
 She went first, lighting the way with her device. Sam followed (there was more room than he anticipated).
@@ -725,15 +853,21 @@ Ramona frowned at her map as she tried the handles on the double doors to no ava
 "BOO!" A masked figure emerged from a nearby pillar and lunged at Sam with its hands up, and he stumbled back into a nearby pillar squealing. Ramona flinched as well, instinctively positioning herself between Sam and the figure with raised fists. Then Sam heard Ramona's somewhat muffled laugh and his fear gave way to confusion. But it wasn't Ramona laughing, it was the figure, pulling up a gas mask to reveal a smiling, friendly face.
 
 "I almost knocked your teeth into your tonsils," grumbled Ramona as she gave her older sister a long hug.
+
 "Still would've been worth it! I hope you didn't shit yourself, Sam!" replied Tina, wiping a tear from the corner of her eye as she attempted to stop laughing.
+
 "Do you store any underwear in these racks?" reposted Sam, weakly, as he stood. He waited his turn for a hug, brushing dust off of the back of his pants.
 
 Tina was like a recording of her sister except with contrast turned all the way down on her skin color. She was so pale it was almost translucent, with no other noticeable differences in their facial features. She wore French braids down just past her shoulders. Her long sleeved cotton button-down shirt was form fitting, with old jeans and composite-toe boots. She wore a watch on her wrist and a small pack on her back.
 
 Sam shuffled as his turn still hadn't arrived. Ramona's shoulders heaved slightly, and Tina finally pulled away to stuff her mask back in her bag.
+
 "I can't thank you enough for this." She finally gave Sam his hug.
+
 "It was nothing. Ramona did most of the arrangements, anyway. Thanks for letting me tag along." He pulled away, a bit stiffly.
+
 "No, really." Her blue eyes met his for a beat as her hands lingered on his shoulders. He broke eye contact first, turning to his wife.
+
 "So, can we get the tour?"
 
 Tina walked over to the flickering light and fiddled with it to somehow stop the flickering. Then she turned back to Sam and Ramona, smiled politely, and lifted her wrist to the door. When she heard the solenoid unlock she leaned against the panic bar, swung the door open, and gave an exaggerated flourish to show the way to her guests.
@@ -743,7 +877,9 @@ They emerged into an expansive atrium. A walkway surrounded a roughly circular c
 As he approached the clear guardrail, he felt an enormous updraft, strong enough to whip his hair out of place. The pit sunk into the void, a seemingly bottomless abyss. There were more of the cubes below their current level, randomly spaced, like a frozen stone waterfall. Though, he noticed it wasn't totally frozen after all. He saw a few of the cubes descending almost imperceptibly downward in perfect sync. He estimated about ten percent of the wires had blocks on the top level. Twenty percent or so were visible somewhere further down the pit. The remainder was nowhere to be seen.
 
 "I missed this smell." said Ramona softly, breathing in deeply as she leaned over the railing. She re-tied a strand of hair that had come loose from her pony.
+
 "How many..." Sam trailed off.
+
 "Let's get you home," said Tina, guiding her sister from the edge around the walkway towards a bank of clear elevators.
 
 Sam followed but kept his gaze at the stone waterfall. He couldn't make out the far side of the pit, but from what he could see the mountain was bustling. Workers dressed like Tina had a few of the stone block cables locked out of service and were working where the cable anchored to the support beams. Further down a few floors a walkway was closed where some more workers were controlling a robot remotely. It scaled the wall, probing, adjusting, and ultimately grinding rock away, impossibly loud. The rock melted off the wall down a corkscrew hose into the basket of a very squat bulldozer. A few more walked casually on the steel lattice without so much as a safety harness or guardrail, and he could see there were man-sized gaps providing easy passage through each joint. He saw a couple eating lunch, seemingly on break together with their legs dangling over the side of a steel beam.
@@ -765,25 +901,39 @@ They walked through room after room on the floor, starting a lap around the cent
 They hopped on a free lift together and Tina entered 16F-2 into the interface. The glided, up to the 2nd level, then into the stacks, whipping past countless trees. Each row had trees at varying stages of production. There were young trees and old in each row. Some aisles had blossoms, others had small buds developing. Some had huge, ripe apples. Rotting apples were everywhere on the soil at the bases of those trees. There were trees losing their leaves. There were leafless, dormant trees covered in artificially created snow. Eventually they made it to an apple tree nearly 5m high, covered in apples ready for picking. A small granite cross was being swallowed up by the roots of the tree, which seemingly grew around the stone. She noticed that 3 out of every 10 trees had a small headstone in a similar place.
 
 *Franklin Ross Spencer*
+
 2037-2078
+
 *Behind every breath, his hand*
 
 Ramona talked a lot about her dad, but always as though he were still around. In 9 years of marriage she'd never confided in him how he'd passed. He suspected it had something to do with her leaving the Mountain, but figured she'd tell him when she was ready.
 
 Sam waited as long as he possibly could. After a few minutes, he tried to break the ice.
+
 "Why bother with the snow? Why not just have them grow all year?" Sam asked Tina.
+
 "Because—" Tina and Ramona paused as they figured out who would defer to the other. Eventually Ramona spoke.
+
 "Apples, pears, cherries, peaches... a lot of plants need a month or so of freezing temperature or they won't produce fruit. We don't have nearly as many chill rooms as we used to, though. Less each year."
+
 "How do you not know that? Aren't you some hotshot food supply chain guy?" puzzled Tina.
+
 Sam was a bit embarrassed. "I mean, not anymore. I don't know. I guess I never really got into the weeds on the process. I just work with probabilities and optimizing under uncertainty. I don't really know the process all of the time. I'd guess you're using roughly 1000 liters of water and about 9 grams of nitrogen per year for the same area. You're looking at about 2700 hours of light per year, 800 kWh to run those lights on a day/night cycle. I'd say you should be getting about 2500 kcal per square meter per year for what you put into it. I couldn't tell you the first thing about actually growing them though."
+
 Tina plucked the three choicest apples from the tree and distributed them.
+
 "How did you manage to impregnate Mona thrice just reading about fucking?"
+
 "Tina!" Ramona gave her sister a Charlie horse in the shoulder.
 
 Tina's radio crackled.
+
 "*Sparky Two you there?*"
+
 "Copy, go ahead"
+
 "Need you in the control room, Chief is looking for you."
+
 "En route, be there in 5"
 
 ---

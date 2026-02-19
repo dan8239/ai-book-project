@@ -13,13 +13,19 @@ TEMP=$(mktemp)
 sed '/^>/d' manuscript.md | cat -s > "$TEMP"
 
 # Convert with pandoc
+REFDOC=""
+if [ -f reference.docx ] && [ "$FORMAT" = "docx" ]; then
+  REFDOC="--reference-doc=reference.docx"
+fi
+
 pandoc "$TEMP" \
   -f markdown \
   -o "$OUTPUT" \
   --resource-path=. \
   --toc \
   --toc-depth=1 \
-  --top-level-division=chapter
+  --top-level-division=chapter \
+  $REFDOC
 
 rm "$TEMP"
 echo "Exported to $OUTPUT"
