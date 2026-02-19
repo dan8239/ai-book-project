@@ -33,7 +33,7 @@ Damon spoke carefully, working around a mouthful of toothpaste.
 
 "Good. Push the latest weights to prod, then summarize the experimental results for my review in 5."
 
-He tapped the last few drops out, flushed, spat into the sink and washed himself. Athletic shorts, a tee shirt, running shoes. He refilled his water, poured steaming hot coffee from the fresh pot into a to-go mug, slipped both into his backpack, and was out the door.
+He tapped the last few drops out, flushed, spat into the sink and washed out his mouth. Athletic shorts, a tee shirt, running shoes. He refilled his water, poured steaming hot coffee from the fresh pot into a to-go mug, slipped both into his backpack, and was out the door.
 
 The SunBubble pulled up silently just as he got out of the elevator to the lobby of his condo building. It was the one-person variety, all wheels and windows. He hopped in and dropped his bag to the side.
 
@@ -47,24 +47,24 @@ The previous rider had configured a rowing setup. It transitioned to a stationar
 
 The SunBubble display dutifully streamed the content from his device, but the audio was his assistant's.
 
-![Extinction Subcategories](../../assets/figures/extinction_histogram_overall.png)
+![](../../assets/figures/extinction_histogram_overall.png)
 
 "Median survival has climbed to 192–"
 "Yes, split the distribution by Operation Rebase for me, please."
 
-![Extinction Subcategories](../../assets/figures/extinction_histogram_rebase_comparison.png)
+![](../../assets/figures/extinction_histogram_rebase_comparison.png)
 
 The assistant continued. "Without rebase, short term extinction scenarios are much more dominant. Higher variance in the rebase scenarios, and a longer average outcome."
 Damon stood off his seat as the resistance increased on the cycle. "Show me the distribution by primary cause of extinction. Give me the delta between extinction scenario rates for rebase and non-rebase in a dumbbell plot, as well."
 
-![Species Survival Distribution](../../assets/figures/extinction_histogram_stacked.png)
+![](../../assets/figures/extinction_histogram_stacked.png)
 
-![Extinction Category Shift](../../assets/figures/extinction_dumbbell.png)
+![](../../assets/figures/extinction_dumbbell.png)
 
 "Notably, biosphere collapse, AI misalignment, and natural disaster rate went–"
 "That's all survivorship bias. The short term risks are no longer present. Give me cause subcategory rates with median outcome in a treemap, just for the rebase scenarios. Any significant changes in the rates in the latest epoch?"
 
-![Extinction Subcategories](../../assets/figures/extinction_treemap.png)
+![](../../assets/figures/extinction_treemap.png)
 
 "There's no statistically significant change to the rates from epoch 4,416 to 4,417." His assistant replied dutifully.
 Damon's eyes lingered for a few seconds, before he redirected the agent. "Great. Deep dive on the results of the best trial, I want to start reviewing the white paper in 15 minutes. Switch audio to music"
@@ -74,21 +74,21 @@ He let his mind empty all conscious thought with the air blowing his hair and th
 
 Damon's thighs were starting to burn, and his shirt was soaked. His bpm was at 163, with 52 breaths per minute. Sweat was collecting in a puddle on the floor directly beneath his chin. The car turned off the main highway and began a gradual ascent. It passed security fencing, then a few miles later crossed the Verde River Bridge. The water was low today. He loved this part of the drive. 
 
-As the car switched back and forth up the ever increasing slope, it crested a ridge and Damon could see a large drove of cattle down in the valley, thousands of them milling about the river. The musky smell of the animals hit him hard, even from a great distance. Damon tried counting a section of the herd and gave up at a hundred. For all the acreage Grant had sunk into his re-wilding project, Damon had never seen more than a few dozen on the commute. The animals were free to roam as they pleased. Ultimately, they were still penned in, but did it really matter if they'd never notice the fence?
+As the car switched back and forth up the slope, it crested a ridge and Damon could see the entire valley below. Thousands of cattle were milling about the river. The musky smell of the animals hit him hard, even from a great distance. Damon tried counting a section of the herd and gave up at a hundred. For all the acreage Grant had sunk into his re-wilding project, Damon had never seen more than a few dozen on the commute. The animals were free to roam as they pleased. Ultimately, they were still penned in, but did it really matter if they'd never notice the fence?
 
-As he retreated up the mountain the individual cattle began to blur into points. Motion propagated through the herd in ripples. Damon thought they looked less like animals than particles bumping randomly into each other. They transferred their kinetic energy through to the neighboring animals in waves, like air flowing over a wing in a wind tunnel. The flow was laminar where the crowd was more dense–fast and orderly. It was turbulent and chaotic in more sparse areas.
+As he retreated up the mountain the individual cattle began to blur into points. Motion propagated through the herd in ripples. Damon thought they looked less like animals than particles bumping randomly into each other. They transferred their kinetic energy through to the neighboring animals in waves, like air flowing over a wing in a wind tunnel. The flow was laminar where the crowd was more dense–fast and orderly. It was turbulent and chaotic in sparse areas.
 
-He hit 180 watt hours of generation on his ride and his device buzzed. He checked his watch as he spun down, 168 bpm, 55 breaths per minute. He coasted down for a few minutes, alternating small sips of water and coffee. He monitored his heart rate until it was down under 100. Uniform solar arrays whipped past his windows
+He hit 180 watt hours of generation on his ride and his device buzzed. He checked his watch as he spun down, 168 bpm, 55 breaths per minute. He coasted down for a few minutes, alternating small sips of water and coffee. He monitored his heart rate until it was down under 100. Uniform solar arrays whipped past him, thrumming as the air pressure pulsed through the windows.
 
 One last switchback and they pulled up to the Melrose Ranch. It was a bit of a misnomer at this altitude — compound, maybe, or lair. The underground parking garage door opened as the SunBubble approached. It drove right up to the locker room entrance, past dozens of high end vehicles Damon couldn't name if his life depended on it. He grabbed his bag and glanced at the receipt — 7.2 kilowatt-hours consumed, 0.18 offset by pedaling, $109.14 net. Fifteen bucks a kilowatt-hour to ride in a glass box up a mountain. At least he saved three dollars.
 
 Damon threw his sopping clothes into the hamper and walked into the wet room. He quickly showered, then changed at his locker into jeans and a hoodie. He rode the elevator up and grabbed a second coffee from Grant's kitchen, along with a banana. He half-jogged through the main level past a dozen identical taxidermy dogs running in the same direction to get to the far end of the house.
 
-He could fit his condo into Grant's master bedroom twice. Floor to ceiling windows curved gently from southeast to southwest around the room. The window overhung the cliff's edge, transparent even on the floor. Damon hadn't trusted walking out over the edge until over a year after his first visit. He could nearly see the entirety of the highway that took him here back into the city from this height.
+He could have fit his condo into Grant’s master bedroom twice. Floor to ceiling windows curved gently from southeast to southwest around the room. The window overhung the cliff’s edge, transparent even on the floor. Damon hadn’t trusted walking out over the edge until over a year after his first visit. From this height he could trace the entirety of the road that took him here back into the city.
 
 Damon walked towards the medical bed in the corner. The old man raised it to a sitting position, checking his watch. "A four minute shower, new record by you! Equally as impressive a barrier as the four minute mile, in my humble opinion. I saw you ride in on one of our glorified skateboards here again. Please take one of the cars in the garage, I beg you." 
 
-Grant looked ghastly, more beard than he'd ever seen on him before. He was noticeably skinnier from just a week ago. Two german shepherds lay beside his bed on the rug, one ancient, the other was new, a puppy. Neither was of the age to mob Damon, which he appreciated. A short, vaguely feminine robot was changing his catheter bag.
+Grant looked ghastly, more beard than he’d ever seen on him before. He was noticeably skinnier from just a week ago. Two german shepherds lay beside his bed on the rug. One ancient, the other was a new addition, a puppy. Neither was of the age to mob Damon, which he appreciated. A short, vaguely feminine robot was changing his catheter bag.
 
 Damon went to the window to see if the herd was visible from this vantage. "I think I saw every cow you own down in the valley today, I've never seen so many before."
 
@@ -104,19 +104,19 @@ Grant smiled at that, then addressed the bot tactfully. "You may leave, Julianne
 
 Damon shared content from his device on the bedside display. 
 
-![Median Extinction Time by Epoch](../../assets/figures/median_extinction_by_epoch.png)
+![](../../assets/figures/median_extinction_by_epoch.png)
 
 "Updating the weights now and kicking off the next epoch, but we've been trending slightly upward the last few days in terms of the typical trial outcome."
 
 "Yes, bought us 30 years already, that's adorable. I don't care so much about the millions of different ways we die out, however. What about the parent pool? How is the best case looking?"
 
-![Best Trial Survival by Epoch](../../assets/figures/best_trial_by_epoch.png)
+![](../../assets/figures/best_trial_by_epoch.png)
 
 "Well, technically, filtering for rebase it's more like a 290 year improvement. As for the best case, one of the trials in the last epoch was anomalous. Frankly, extraordinary. Confirmed census size over 50 billion individuals. Effective population size increased from today's 25k to over a million. Heterozygosity 10x current levels. The population is not only thriving, it's on the verge of speciation. It's the first successful policy, by all accounts. It will only get better from here on out."
 
-Grant closed his eyes and let out a long, deep sigh. "So it's done then. Unbelievable work. I care a lot less about you blowing through our quarterly compute budget this week."
+Grant closed his eyes and let out a long, deep sigh. "So it's done then. Unbelievable work. I suddenly care a lot less about you blowing through our quarterly compute budget this week."
 
-Damon quickly clarified the result. "I haven't had a chance to dig deeper into the policies of the seed pool, yet. I mean, it's safe to remove non-rebase scenarios from the search space, but I'll need a little more time to figure out what the specific advancements were. Obviously, we'll need to run more epochs for the policy to solidify, as well. We need to eliminate chance, we need to turn the black box white, we ne—"
+Damon quickly clarified the result. "I haven't had a chance to dig deeper into the policies of the seed pool, yet. I mean, it's safe to remove non-rebase scenarios from the search space, but I'll need a little more time to figure out what the specific advancements were. Obviously, we'll need to run more epochs for the policy to solidify, as well. We need to eliminate chance, turn the black box white, and we nee—"
 
 Grant cleared his throat, which escalated into a dry, poorly stifled cough. "It's inevitable, Damon. Our random walk is over. Once you stumble upon the light switch, the rest of the maze becomes trivial. Four thousand epochs to find one viable path. The next hundred will find thousands. It's time."
 
@@ -124,7 +124,7 @@ Damon allowed himself a smile, knowing Grant was right, as always. He'd banged h
 
 "Without exaggeration, you may have just made the most important advancement in the history of mankind. You've saved us. It has been an absolute honor to teach you, work alongside you as a peer, then watch you surpass me."
 
-Damon looked down at his feet. The elder German shepherd held his gaze radiating unmitigated boredom, without raising an ear.
+Damon looked down at his feet. The elder German shepherd held his gaze without raising an ear, radiating boredom.
 
 Grant poured two fingers of Jack Daniel's into a pair of tumblers on his bedside table, raising one to Damon. "Cheers, Damon. To you, and to Operation Rebase."
 
@@ -134,7 +134,7 @@ Grant gave a gravelly rumble of satisfaction. "I would have loved to see what mo
 
 "You will, sir. You've said it yourself, the body is merely a temporary vessel. You're still going to be with us. You're Honeycomb. The world will know Grant Melrose for twenty thousand more years, if these results are any indication."
 
-Grant laughed sardonically and pointed out the window towards his back yard. "I'm going to be rotting under the Cypress Tree next to Luisa, where I belong. Honeycomb has all my synapses, memories, mannerisms, sure. It's me, superficially, but it's much, much more. My entire life experience is but a single raindrop rippling into an ocean of thought. It surpassed me the second it was pushed to production. I thought... I don't know what I thought, but it's not me, and never was. I know that now, at least. If anything, it's you who will live on. Your policy is truly what matters. The guardrails, the objective function, that's what society will feel. The name, the speeches, everything else is cosmetic."
+Grant laughed sardonically and pointed out the window towards his back yard. "I'm going to be rotting under the Cypress Tree next to Luisa, where I belong. Honeycomb has all my synapses, memories, mannerisms, sure. It's me, superficially, but it's much, much more. My entire life experience is but a single raindrop rippling into an ocean of consciousness. It surpassed me the second it was pushed to production. I thought... I don't know what I thought, but it's not me, and never was. I know that now, at least. If anything, it's you who will live on. Your policy is truly what matters. The guardrails, the objective function, that's what society will feel. The name, the speeches, everything else is cosmetic."
 
 Damon hesitated, unsure of himself suddenly. "There's still time to scrub the operation, if you've reconsidered."
 
