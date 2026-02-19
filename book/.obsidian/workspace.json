@@ -14,40 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
+            "id": "c34dd5aeced68922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "manuscript/manuscript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "manuscript"
-            }
-          },
-          {
-            "id": "e7439045bd41aeae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "worldbuilding/characters/claude-assistants.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude-assistants"
-            }
-          },
-          {
-            "id": "23eddb4b8a048ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/00.01.wfh/notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes"
             }
           },
           {
@@ -64,7 +50,8 @@
               "title": "themes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +213,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "304b7082500df191",
+  "active": "c34dd5aeced68922",
   "lastOpenFiles": [
     "_index.md",
-    "2026-01-19.md",
     "manuscript/manuscript.md",
+    "worldbuilding/world/agriculture.md",
+    "2026-01-19.md",
     "manuscript/00.02.unretirement/On the beach.md",
     "manuscript/04.00.coda/notes.md",
     "manuscript/03.17.heist-approval/notes.md",
@@ -259,7 +247,6 @@
     "manuscript/02.09.coffee-guy-intro",
     "worldbuilding/characters/claude-assistants.md",
     "manuscript/00.02.unretirement/notes.md",
-    "worldbuilding/world/agriculture.md",
     "manuscript/00.01.wfh/WFH.md",
     "manuscript/00.01.wfh/notes.md",
     "worldbuilding/themes/themes.md",

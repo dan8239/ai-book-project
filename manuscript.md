@@ -2,7 +2,6 @@
 title: "Title TBD"
 author: "Dan Pfeiffer"
 ---
-
 # Prologue: Honeycomb
 
 *December, 2041*
@@ -582,7 +581,17 @@ Sam had Dorothea import all of their belongings virtually, then took the tour. H
 Dorothea booked the services then changed the subject. "I'd be remiss if I didn't mention a fantastic opportunity I found that you're a 91% match for. Open to starting tomorrow, and you'd actually move up a tier. All of this house searching is really quite unnecessary."
 "I'm good, you're actually excused for the day, I want to talk to Grandma today."
 
-Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the years, the personality was leaking through far too much. He'd cloned her from a repo online a few years back. She had 4.24/5 stars, and was the top rated life coach
+Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the years, the personality was leaking through far too much. He'd cloned her from a repo online a few years back. She had 4.24/5 stars, and was the top rated career strategist at the time. Over the years he'd been fine-tuning for his specific needs but perhaps he'd need to start fresh again, or just find a more modern model.
+
+"Hey, Sammy. It's lovely to see you. How are my great grandkids doing?" His grandma Nan appeared, and the world around them morphed to Sam's childhood home, a lazy summer afternoon. Sam sat down next to Nan on the porch swing. Her close cropped hair was only just graying. She wore small round glasses, a loose sweater, khakis, and comfortable running shoes. 
+"They're doing great. Stevie is doing really well in school. He's very sensitive, still, but I think he's smart enough to get a few contracts someday. Clyde is having a blast. He's still young. His teachers love him with the one exception being that he 'doesn't listen to adults'."
+His nan laughed in the swing. "Implying he does listen to his peers."
+"Naturally." They laughed, sitting in the enclosed porch. She leaned close to listen and take in his face. Her vision and ears hadn't gone in real life when she was still this young. The training set must have been mixing memories from different eras and conflating the mannerisms a bit.  He'd have to look into how to get the proper temporal context into the model.
+"When you were little you were the same way. I would be looking for you for a half an hour and you'd never answer. Then I'd hear grunting "
+"And Ramona?"
+"She's doing great. Six months pregnant, it's a girl this time. Not that you could tell, she's running nearly every day. She's been taking trips to visit Tina at the museum lately, they came up with a way that she could actually go back home for a few hours."
+Nan was delighted, "Oh, congratulations! That's so wonderful. Three great-grandchildren. I suppose that means we haven't talked in seven months or so. I'm sure you have your hands filled."
+Sam expected a bit of a guilt trip, but moved on. 
 
 ---
 
