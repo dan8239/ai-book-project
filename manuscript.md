@@ -2,7 +2,7 @@
 title: "Title TBD"
 author: "Dan Pfeiffer"
 ---
-# Prologue: Honeycomb
+# Honeycomb
 
 *December, 2041*
 *Sedona, Arizona, United States of America*
