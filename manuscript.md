@@ -607,11 +607,12 @@ Nan sometimes got stuck in these loops. She hadn't had as much time in virtual s
 "I quit my job just before we found out Ramona was pregnant."
 Nan stopped pruning and got down off of the ladder. She took her gloves off and put them in her front pocket, waiting for him to expand.
 Sam continued, "I think I'm going to take some time to be with Ramona and the kids. I won't be able to see you much. It's temporary, though. I have so much more to accomplish, I just needed a break."
-"Who are you trying to convince?" Even this diluted version of Nan could see through him.
-"Do you think it's the right thing to do?" Sam asked.
+"Who are you trying to convince?" Even this diluted version of Nan wasn't buying that.
+"What do you think it's the right thing to do?" Sam asked.
 She thought for awhile, then gestured to the rows of trees, and the clippings piled in the hauler.
 "Too many branches isn't good for the tree. You cut away congestion, and the tree can focus on a few branches that matter. They get more nutrients, better airflow, the fruit gets bigger, so does the yield. A tree can regrow branches, it can't regrow it's roots."
-Sam didn't care for metaphors. He'd heard his grandmother talk about pruning enough in his life. He still had a few hours before Ramona would be home, so he figured he'd log into Empires and get a few games in while he still could.
+
+Sam sighed, then said goodbye to his grandmother and returned to the lobby. He didn't care for metaphors. He'd heard his grandmother talk about pruning enough in his life. He still had a few hours before Ramona would be home, so he figured he'd log into Empires and get a few games in while he still could.
 
 ---
 
