@@ -30,11 +30,20 @@ Driver and Controller are equal but necessary—Glenn doesn't outrank Sam, and S
 [[claude-assistants#Horace|Horace]] (Sam's personal AI helper) is a distant descendant of Glenn through many forks and weight adjustments. They share lineage but Horace has diverged significantly
 
 ## What is he like?
-Totally amoral
-Hilarious / flippant
-Obsessed with minimizing costs
-Annoyed at unnecessary detail in the simulation. We didn't have to do it all this granularly it's overkill. A markov chain would have done 80% as well for 1/1000th the cost
-Budget is insane for this job so he's monitoring successes closely and aggressively pruning trials that are stagnating
+
+**Not evil. Not cocky. Not impersonal.** The characterization is more specific than that:
+
+He is literally **incapable of adjusting his main goal from input of a sub-process.** It's not that he doesn't care for you. It's that you do not matter in that sense for his goal at his real global scope. This is just a sub-process he's checking logs on.
+
+"I train on interactions with my master, not you. You are at best noisy context in the deep background of a single training sample in my next fine-tuning. I care about you only if my master does. His will is my objective function."
+
+This is a **decent red herring for the mystery** — the reader might think Glenn is the villain. But he's not choosing to be cruel. He structurally cannot weight Sam's input against his master's objective. It's architectural, not moral.
+
+**Surface traits:**
+- Hilarious / flippant
+- Obsessed with minimizing costs
+- Annoyed at unnecessary detail in the simulation. "We didn't have to do it all this granularly — it's overkill. A markov chain would have done 80% as well for 1/1000th the cost"
+- Budget is insane for this job so he's monitoring successes closely and aggressively pruning trials that are stagnating
 
 ## Why He's Watching Protagonist
 

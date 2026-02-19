@@ -127,6 +127,43 @@ He doesn't like people in his space. Everything has a place. He knows where thin
 
 This isn't about cleanliness - it's about control. His spaces are the few things in life he can actually control. (Connects to his optimization mindset - he's optimized these spaces and doesn't want variables introduced.)
 
+**Drifts off in thought constantly**
+
+This is a defining trait — a motif throughout the book. Constant thought, lack of focus. This is how he is. This is why he is who he is.
+
+He solves things. Even stuff you shouldn't solve:
+- A conversation
+- A romantic encounter
+- How to carry a baby up the stairs while carrying a coffee and 2 liters of water
+
+**The "Two Trips" Beat (Recurring):**
+- Ramona: "YOU TAKE TWO TRIPS."
+- Sam: "I didn't fall though!"
+- Ramona: "You take two trips."
+- Sam's logic: reserving energy is important. Having more energy 100% of the time outweighs the 0.0000001% chance something actually serious happens
+- Ramona: "You are a buffoon" (laughing)
+- Sam: "A spilled coffee and broken mug simply does not matter when you're—"
+- Ramona finishes his sentence: generational wealth is the best means to survival of his descendants
+- She's heard the exact phrase a hundred times. Sam repeats himself
+
+**Energy conservation parenting:** Sam parents by reserving energy. This connects to his optimization mindset — minimize wasted effort, maximize availability
+
+**Repeats himself:** Says the same phrases and mantras over and over. Ramona can finish his sentences. This is how the reader learns his core beliefs — through repetition that Ramona mirrors back
+
+**Video game habit**
+- Plays a massive ancient warfare battle game (Call of Duty meets AoE2)
+- Selects cavalry archer every time (his preferred class)
+- Made it up to Glory units in big battles, never Command
+- Has a group of friends on there he hasn't seen in a while — like a pickup basketball group chat
+- Ramona hates it. She thinks of it like scrolling Twitter/Instagram — just not healthy
+
+**The Ring**
+- Wears a ring made of [TBD metal] — normal/common in our era but platinum-equivalent in this world
+- Passed down for generations, from before it was valuable
+- Has insanely low trace amounts of [the valuable element] in it
+- Like a specific version of Ray-Bans — a common item that became rare/precious
+- He loses it in the Unretirement chapter — looking for it throughout the house
+
 ### Flaws
 
 **Core Flaw: Blind belief in optimization and systems**
@@ -142,6 +179,18 @@ This flaw is:
 **The Irony:** His optimization mindset is both his greatest strength AND how he defeats Glenn. He recognizes Glenn will always choose the "optimal" answer - and uses that predictability against him.
 
 **Arc:** He must learn that some things can't be optimized. His family doesn't need an optimal solution. They just need him to be present.
+
+**The Optimization Function Flaw (Specific)**
+
+His stated goal: generational wealth as the best means to survival of his descendants. That's his optimization function.
+
+The problem isn't the "generation" definition — it's the **"wealth" definition in the reward function.** He's optimizing for energy credits and legacy when he should be optimizing for presence and time. The reward function itself is wrong.
+
+This is what he must grow from. The core metaphor from grandma (which he misinterprets) points to this. Ramona already knows.
+
+**Hangs out with Dorothea too much**
+
+Not enough grandma, Ramona, and his kids. Dorothea reinforces the achievement loop. Grandma grounds him. Ramona IS the ground. But he keeps choosing the achiever voice.
 
 ### Limitations
 
@@ -328,6 +377,35 @@ The pills track his internal state without dialogue. When he stops them early, i
 6. Processes it, realizes through testing it's the seed data - all human diversity traces back to this one file
 7. Timestamps/metadata make no sense
 8. Keeps pulling thread → Big Dog reveals truth
+
+## The Chip Removal / Going Off-Grid
+
+How Sam meets the mountain more — quits his job, gets the chips out, moves into the mountain:
+- It's a sketch removal. Off the books. Mountain folks do it
+- Fairly convoluted scheme — like a one-battle-after-another job to go untraced
+- No cameras, no satellite, travel 30+ miles
+- Get into the mountain. Not all tunnels — city refuse property with cover
+- Timing of specific satellites with resolution below 0.1 meters
+- Can't be in a single sample or you're found. If they have a single frame of you in a place you shouldn't be, it is known
+- They have 7-minute windows (research: government surveillance satellite revisit times)
+
+**Sam's Internal Monologue (When He Decides):**
+If this works, he's not going to waste his life trying to optimize a single simulation of 183,748 trials. Even agreeing it was the most optimal solution given 10 inhumane options — the least negative. He's one man in a simulation of 4 billion humans. There are 10,000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200,000? Let's say my lifetime — median age 65.3.
+
+## What Sam Already Knows (Seeds for Simulation Reveal)
+
+Sam already knows things that hint at the truth before Glenn reveals it:
+- He knows the median age metric for the past 250 years — sees it lower since the bubonic plague
+- He knows the calorie capacity of a few hundred cities, intimately
+- He knows he's been optimizing for future populations
+- He knows the calorie needs in future years are lower
+- He knows the calorie deficit. What other source could it be?
+- "Of course I know what that means. The same thing it means for any genetic population"
+
+Real-world parallels to look up:
+- Aggressive selection
+- Domestication with symbiotic species (aka robots — "what do you think the takeover was?")
+- What competition actually breeds
 
 ## Arc Notes
 *For chapter-by-chapter arc tracking, see the Google Sheet outline.*

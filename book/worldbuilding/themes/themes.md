@@ -78,3 +78,7 @@ Is humanity "saved" if what survives isn't recognizably human?
 **The Fishbowl/Aquarium:** Opens and closes the book. Fish in a tank, observed but unaware. Humans in a simulation, observed but unaware.
 
 **The Mountain vs. The Clouds:** Physical vs. abstract. Present vs. optimized.
+
+**The Misinterpreted Metaphor:** Grandmother AI gives Sam advice through a metaphor. She meant family first. Sam solves for latency — takes it literally. Dorothea reinforces his wrong interpretation (keeps him working = keeps her running). Ramona interprets it correctly from the start. Sam lives his entire arc on the wrong interpretation. His development happens when he realizes Ramona was right. This is the engine of the central conflict.
+
+**"You Take Two Trips":** Sam carries everything at once (optimizing); Ramona says take two trips (just be present). The smallest domestic disagreement encodes the book's entire thematic argument.

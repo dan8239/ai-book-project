@@ -238,8 +238,7 @@ There are citizens of Earth. Welcome home.
 # Work From Home
 
 *December, 2141*
-*Rossland, Hex 87283*
-*Formerly British Columbia, Canada*
+*Rossland, Hex 9.330*
 
 "What are you optimizing for?" Sam frowned at the visual display. On it was a histogram of total caloric output over 10 years across 50,000 simulations of the terraced farming site.
 
@@ -396,21 +395,15 @@ Stevie put his hardcover book about space back into the shelf, defeated. The bin
 Clyde plopped down on Sam's lap holding *Amazing Animals!*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, sitting on his lap.
 
 "Which animal do you want tonight?"
-
-"GRILLA!" yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy into his lap. Stevie grabbed his stuffed Tardigrade and set it beside him on the bed.
-
+"GRILLA!" yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy and pulled into his lap. Stevie grabbed his stuffed tardigrade and set it beside him on the bed.
 "Can't we do a different one tonight?" Stevie complained.
-
 "We can do one for Clyde and one for you," replied Sam.
 
-Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, clear tape holding several sections of it together.
+Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, tape holding several sections of it together.
 
 "Daddy, grilla is unstinkable, right?" Clyde asked.
-
 "Extinct," corrected Stevie.
-
 "Grilla is unstinked, right?" Clyde looked up at his father.
-
 Stevie answered for Sam. "We can bring it back if we ever wanted to, don't worry. Just gone for now."
 
 Clyde squeezed his gorilla and squirmed a bit, finding a comfortable place on Sam's lap.
@@ -429,30 +422,21 @@ When Stevie was finished, Sam very theatrically held both sides of the book and 
 
 Stevie dropped the ball with minimal protest, then declared the start of the race with an auctioneer's cadence, "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" He dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was typically without biological life, pioneered only by stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function. He made a mental note to look into the water modeling software again, it didn't make sense why only Rossland was so far below expected.
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function. He made a mental note to look into the water modeling software again, it didn't make sense why only Rossland was so far below expected, when the rest of the Pacific Northwest was–
 
 "DAD." Stevie had been saying something.
 
 "Sorry, what did you say, buddy?" Sam refocused. Stevie was fading, Clyde was blinking slowly but alert on his belly.
 
 "Did you know Olympus Mons is so big that if you stood on top you wouldn't even know you were on a mountain? The slope is so gradual your brain would think you were on flat ground." Stevie spoke with his cheek to the mattress, eye level with his dad.
-
 "Wow, I didn't know that," Sam replied neutrally.
-
 "And the base is wider than a whole hex. And it's 3 times taller than Mount Everest."
-
 "I think I knew that last one."
-
 "Dad, did you know it takes 20 minutes for light to get there. So every robot on Mars has to think for itself. If it gets stuck in a hole, it's 40 minutes before anyone even knows."
-
 "Well I'm glad you're learning how to build them then! Someone has to teach those robots about potholes."
-
 "Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
-
 "Yes, I learned that when I was a kid, too. Did you learn that at school?"
-
 "My teacher told me and my assistant told me, too. I'm going to live on Mars when I grow up. You and mom and Clyde can come, too."
-
 Sam replied pragmatically. "Well, there's still only a few people that get to go there each mission. And they're still a LONG ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
 
 Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys on the cheek.
@@ -471,11 +455,11 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 
 "It's yesterday," Stevie mumbled, barely audible, dreaming.
 
-"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
+"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal?" He held up his fingers for Clyde. "I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
 
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
-Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
+Sam grunted himself off the bed on the floor, grabbing his dinner from the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
 
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
 
@@ -483,11 +467,11 @@ Sam grunted himself off the bed on the floor, grabbing his dinner off of the dre
 
 "Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
 
-"I bet Stevie's jealous. I can't. Work is hectic."
+"I bet Stevie's jealous. I can't. Work is hectic, I need to finish this project before next Friday."
 
 "I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently. How was work?"
 
-"It was fine." Sam switched to underwear, trying to match Ramona's meticulous folds.
+"It was fine." Sam switched to folding underwear, trying to match Ramona's meticulous arrangements.
 
 "Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of laundry in my life."
 
@@ -495,7 +479,7 @@ Ramona remained focused on one of Stevie's shirts. "Why do anything like you're 
 
 They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
 
-"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife a bit.
+"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, teasing his wife.
 
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
 
@@ -505,7 +489,7 @@ They folded in silence for a few seconds. Something was a bit off with Ramona. W
 
 Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
 
-"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
+"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing, watching him carefully.
 
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
 
@@ -517,31 +501,35 @@ Sam's laughter escalated slowly, until he was belly laughing. He pulled away, wi
 
 "What? Most people aren't very excited about the third. Out-of-pocket... thought you might be upset."
 
-"I put in my notice last week, dear. Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
+"I put in my notice last week, dear."
 
-Ramona sat frozen, mouth slightly ajar. wapwapwapwapwapWAPWAP in the hallway, a door slammed. Clyde was using the bathroom.
+Ramona sat frozen, mouth slightly ajar.
 
-"I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even. I will find something soon. I hate my job. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
+"Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
+
+wapwapwapwapwapWAPWAP in the hallway, a door slammed. Clyde was using the bathroom.
+
+"I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even around here. It should be easy enough to find something. I can't work there another month. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
 
 Ramona shook her head in disbelief. "I love you. If you hated your job you could have talked to me. Why didn't you tell me? You said work was fine today."
 
-Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't ready for an oops. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
+Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't anticipating an oops. I mean, that's not what I meant. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
 
 Ramona paused and took a breath. "Look. I don't care if we're level 5, or 8, or 32. When I met you you were what? 28?. I grew up unleveled. It doesn't matter. Why don't we just take some time? I'd rather you have the time with us than more energy and a bigger house."
 
 "I love you too. But the boys won't be in level 5, or even level 4. You have my word. I've been looking, it will happen. When are you due? Why didn't you tell me?"
 
-"I'm 3 weeks, so June 3. My monitor alerted me but I had to double check."
+"I'm 3 weeks, so August 3rd. My monitor alerted me but I had to double check."
 
 "That's wonderful. I'll have plenty of time to find something. It will be nice to spend some more time with you all while I look."
 
-Ramona relented. She gave him a kiss and leaned into his chest. "That will be nice. Why don't you just retire? We can float down the ladder for a few years and enjoy each other."
+Ramona relented. She gave him a kiss and leaned into his chest. "That will be nice. Why look at all? Why don't you just retire? We can float down the ladder for a few years and actually enjoy each other."
 
-"Don't tempt me." They kissed, longer this time.
+"Don't tempt me." They kissed, longer this time. Sam was relieved the conversation had gone as smoothly as it had.
 
 "Do you want to make a double baby?" Sam asked.
 
-"I don't think it works that way." Ramona replied, eyes half open.
+"I don't think it works that way." Ramona replied, eyes half open, leaning back onto her pillow.
 
 "DADDY CAN YOU WIPE MY BUTT?!" Clyde yelled from the other room.
 

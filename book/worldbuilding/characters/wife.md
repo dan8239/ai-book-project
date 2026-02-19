@@ -103,6 +103,29 @@ Ramona visits the colony. During this visit, Tina finds out what Sam's research 
 
 She trusts that humans can innovate out of whatever is coming. The purpose is to experience it together.
 
+## On the Grandmother AI
+
+Ramona doesn't like seeing the grandmother AI. It's complicated:
+- "It's her but it's not her. It's just... missing."
+- It misses the dull moments
+- The normal boring non-anomalies
+- **"That's what makes a person, not just the extremes"**
+- Sam's response is always technical: "It's just more memory intensive, you have to select a subset..."
+- She's expressing an emotional truth. He's solving a technical problem. Classic disconnect
+
+### The Metaphor
+- Ramona interprets the grandmother's metaphor **correctly** — family first
+- Sam interprets it literally/functionally (solves for latency)
+- Dorothea reinforces Sam's wrong interpretation
+- This is the core conflict of the book. Ramona is right from the start (flat arc)
+- "Like mana from heaven" — Ramona's line when Sam tells her about the job, attributing it to grandma's advice
+
+### Arc with the AI
+- **Start:** Won't engage with the grandmother AI
+- **End:** Joins Sam and they try to make her better together
+- This is how the AI "meets" Ramona more — and how Ramona meets Sam more
+- Let Ramona reveal some LifeMonitor details through her distaste of it
+
 ## Her Philosophy
 "This is the only trial we get."
 
