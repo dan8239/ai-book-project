@@ -550,7 +550,7 @@ Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As
 
 The boys appeared to have partially sampled the last of the eggs for this week. Sam made himself a small bowl of goat yogurt with pine nuts. He made a mental note to adjust their order for a higher calorie energy ratio next week. It would be easier to taper off their usage over two weeks than reduce it an order of magnitude all at once. He wondered if the boys would change their feelings about eggs once they weren't in the fridge anymore.
 
-The house was unusually quiet without Ramona's music playing or the boys' pillaging. He sat at his desk and logged in as he finished his breakfast. Tomorrow he wouldn't have access to virtual space for more than a few minutes a day, so he planned to spend most of the day online.
+The house was unusually quiet without Ramona's music playing or the boys' pillaging. He rifled through the couch cushions and checked under the couch with one hand between mouthfuls of yogurt. He had lost his wedding ring a few days ago after letting Clyde play with it, and could not seem to find it for the life of him. After a half-hearted minute of searching he gave up and sat at his desk. He logged in to virtual space as he finished his breakfast. Tomorrow he wouldn't have access to for more than a few minutes a day, so he planned to spend most of the day online.
 
 Ramona had gone up the mountain museum again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off a tier demotion 6 months at least if he could just undo that one mistake. At least it made Ramona happy, though.
 
@@ -570,7 +570,19 @@ She blinked and became a sagging old man, ill-fitting bikini squeezing in odd pl
 
 "No, I need you to adjust our grocery order. Project down to the next tier energy allotment, making sure we have a balanced diet. Adjust for my family's individual preferences as much as possible. Then, let's pick up where we left with the condos, please."
 
-The job search hadn't gone as expected. Sam had seemingly lost the motivation to do anything mundane. He just didn't have the grind to optimize some energy grid or supply chain like when he was younger. He'd slowly come to Ramona's side, and was planning to take a long hiatus, at least until 
+The job search hadn't gone as expected. Sam had seemingly lost the motivation to do anything mundane. He just didn't have the hustle in him anymore to optimize some energy grid or supply chain.  Dorothea had matched him with hundreds of drivers and open contracts, but he'd rejected everything. He'd slowly come to Ramona's side, and was planning to take a long hiatus, at least until the baby was in school.
+
+The background adjusted as Dorothea gave him a tour of three lower tier homes. Ramona had been asking him to book the move for weeks, but Sam had put it off until today. 
+
+"Same schooling zone, 4 minute walk from your current location. Here are three options." Dorothea was serviceable as a real estate agent, if a bit unenthusiastic.
+
+Sam had Dorothea import all of their belongings virtually, then took the tour. Honestly, it wasn't as bad as he had expected. Ramona specified running water, radiation shielding, recently tested airlock, 2 beds, 1.5 baths, and a kitchen. The next tier down covered all of that. He walked through the other two places absentmindedly which seemed nearly identical to him.
+
+"Just pick whichever you think Ramona would like the most, then book the move." Ramona tended to plan weeks ahead for things that took less than 10 minutes. 
+Dorothea booked the services then changed the subject. "I'd be remiss if I didn't mention a fantastic opportunity I found that you're a 91% match for. Open to starting tomorrow, and you'd actually move up a tier. All of this house searching is really quite unnecessary."
+"I'm good, you're actually excused for the day, I want to talk to Grandma today."
+
+Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the years, the personality was leaking through far too much. He'd cloned her from a repo online a few years back. She had 4.24/5 stars, and was the top rated life coach
 
 ---
 
