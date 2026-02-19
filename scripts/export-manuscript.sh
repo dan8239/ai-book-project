@@ -9,8 +9,8 @@ FORMAT="${1:-docx}"
 OUTPUT="manuscript.${FORMAT}"
 TEMP=$(mktemp)
 
-# Strip blockquote lines (notes) and clean up excess blank lines
-sed '/^>/d' manuscript.md | cat -s > "$TEMP"
+# Strip blockquote lines (notes), fix image paths for export, clean up excess blank lines
+sed '/^>/d' manuscript.md | sed 's|../../assets/figures/|book/assets/figures/|g' | cat -s > "$TEMP"
 
 # Convert with pandoc
 REFDOC=""

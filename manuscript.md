@@ -59,27 +59,27 @@ The previous rider had configured a rowing setup. It transitioned to a stationar
 
 The SunBubble display dutifully streamed the content from his device, but the audio was his assistant's.
 
-![](book/assets/figures/extinction_histogram_overall.png)
+![](../../assets/figures/extinction_histogram_overall.png)
 
 "Median survival has climbed to 192–"
 
 "Yes, split the distribution by Operation Rebase for me, please."
 
-![](book/assets/figures/extinction_histogram_rebase_comparison.png)
+![](../../assets/figures/extinction_histogram_rebase_comparison.png)
 
 The assistant continued. "Without rebase, short term extinction scenarios are much more dominant. Higher variance in the rebase scenarios, and a longer average outcome."
 
 Damon stood off his seat as the resistance increased on the cycle. "Show me the distribution by primary cause of extinction. Give me the delta between extinction scenario rates for rebase and non-rebase in a dumbbell plot, as well."
 
-![](book/assets/figures/extinction_histogram_stacked.png)
+![](../../assets/figures/extinction_histogram_stacked.png)
 
-![](book/assets/figures/extinction_dumbbell.png)
+![](../../assets/figures/extinction_dumbbell.png)
 
 "Notably, biosphere collapse, AI misalignment, and natural disaster rate went–"
 
 "That's all survivorship bias. The short term risks are no longer present. Give me cause subcategory rates with median outcome in a treemap, just for the rebase scenarios. Any significant changes in the rates in the latest epoch?"
 
-![](book/assets/figures/extinction_treemap.png)
+![](../../assets/figures/extinction_treemap.png)
 
 "There's no statistically significant change to the rates from epoch 4,416 to 4,417." His assistant replied dutifully.
 
@@ -121,13 +121,13 @@ Grant smiled at that, then addressed the bot tactfully. "You may leave, Julianne
 
 Damon shared content from his device on the bedside display. 
 
-![](book/assets/figures/median_extinction_by_epoch.png)
+![](../../assets/figures/median_extinction_by_epoch.png)
 
 "Updating the weights now and kicking off the next epoch, but we've been trending slightly upward the last few days in terms of the typical trial outcome."
 
 "Yes, bought us 30 years already, that's adorable. I don't care so much about the millions of different ways we die out, however. What about the parent pool? How is the best case looking?"
 
-![](book/assets/figures/best_trial_by_epoch.png)
+![](../../assets/figures/best_trial_by_epoch.png)
 
 "Well, technically, filtering for rebase it's more like a 290 year improvement. As for the best case, one of the trials in the last epoch was anomalous. Frankly, extraordinary. Confirmed census size over 50 billion individuals. Effective population size increased from today's 25k to over a million. Heterozygosity 10x current levels. The population is not only thriving, it's on the verge of speciation. It's the first successful policy, by all accounts. It will only get better from here on out."
 
@@ -163,7 +163,7 @@ He poured himself another glass of whiskey, more like four fingers this time. He
 
 ------------------------------------------------------
 
-![](book/assets/figures/h3_globe.png)
+![](../../assets/figures/h3_globe.png)
 
 Grant's office was built right off the master. Damon's condo could most likely only fit into this room once. An enormous curved display took up the entirety of the one opaque wall. On it there were 5 globes, hexagon grids wrapping each world map like a mesh net. Each honeycomb subdivided into smaller honeycombs recursively. In front of the display was a 15 foot black desk. Damon knew it to be African Blackwood via Grant, but he suspected that might just be a fancy name for ebony. Damon sat down, sweeping dust clear to make room for his workstation.
 
