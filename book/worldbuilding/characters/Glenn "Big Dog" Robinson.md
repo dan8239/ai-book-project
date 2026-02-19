@@ -102,6 +102,10 @@ This character needs to exist for a few reasons
 6. He becomes the villain for 2B that must be thwarted and overcome by the protagonist.
 
 
+## Glenn's "Bad Chapter" — 02.11 The Other Simulations
+
+This is where Glenn's sinister side fully lands. Speeches, monologues, the reveal of what he really is. Sinister stuff should build gradually through earlier chapters, but 02.11 is the payoff.
+
 ## Arc
 1. Can potentially start as a mentor-esque figure in the meetup space
 	1. #needs-work perhaps we could see him in the prologue w/ the planting of the evidence?

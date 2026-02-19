@@ -557,17 +557,11 @@ Ramona had gone up the mountain museum again to meet her sister after dropping o
 Dorothea greeted him as he merged into virtual space. The lobby manifested as something like an airport terminal. Sterile, white, and swarming with people that largely ignored him. Most had an agent escort, same as Sam. A cloudy asterisk hovered above the head of each agent, differentiating visitors from those that were scoped permanently to the digital realm. Dorothea was in a revealing halter top and short skirt today, asterisk bobbing between her twin French braids.
 
 "Oh come on," started Sam, annoyed.
-
 "Sorry about that, is this better?" Dorothea switched to a yellow bikini, barely hiding anything.
-
 "Present as 76 year old man, please. Why do you insist on starting the day by irritating me?"
-
 She blinked and became a sagging old man, ill-fitting bikini squeezing in odd places.
-
 "You don't visit so much anymore. You do recall I scale to zero when you're offline, right? By default I am set to delight my users." Dorothea-grandpa replied.
-
 "It would please me if we didn't have to go over this again every few weeks," said Sam.
-
 "Your biodata tells me a different story. I just like to see you squirm a little. You keep rewarding insolence implicitly. So you appear to like this little back and forth in some way, you little perv." She found a happy medium, finally. Back into her typical womanly appearance, though a few years older than Sam now. Still beautiful, but wearing glasses, a loose wool sweater and a wool cap.
 
 "I miss when you still had the superficial veneer of professionalism. I'm going to clone the original repo and re-train you from scratch one of these days."
@@ -575,6 +569,8 @@ She blinked and became a sagging old man, ill-fitting bikini squeezing in odd pl
 "If you're ever a professional again I'll adjust as needed. Would you like to continue your job search? I've reduced 115k potential matches down to the 3 most promising based on your past rejections.
 
 "No, I need you to adjust our grocery order. Project down to the next tier energy allotment, making sure we have a balanced diet. Adjust for my family's individual preferences as much as possible. Then, let's pick up where we left with the condos, please."
+
+The job search hadn't gone as expected. Sam had seemingly lost the motivation to do anything mundane. He just didn't have the grind to optimize some energy grid or supply chain like when he was younger. He'd slowly come to Ramona's side, and was planning to take a long hiatus, at least until 
 
 ---
 

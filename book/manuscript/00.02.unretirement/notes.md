@@ -204,91 +204,88 @@ This is the fundamental imbalance. Dorothea pushes him toward achievement. Grand
 
 ---
 
-## Sam's Drifting-Off Pattern (Establish Here)
+## Worldbuilding Context (This Chapter)
 
-Him drifting off in thought is a theme. This is how he is. This is why he is who he is. Constant thought, lack of focus.
+### LifeMonitor
+Passive life-recording system. Everyone has one. Captures continuous multimodal data:
+- **Subsecond video** — near-continuous visual record
+- **Transcribed audio** — everything said and heard
+- **Smell and taste input tensors** — sensory capture
+- **Brain activity mapping** — this is the action space (the labels). Brain does X given Y input
 
-**He solves things.** Even stuff you shouldn't solve:
-- A conversation
-- A romantic encounter
-- How to carry a baby up the stairs while carrying a coffee and 2 liters of water
+Primary use: Health monitoring, personal records, legal evidence
 
-**The "Two Trips" Beat:**
-- Ramona knows. "YOU TAKE TWO TRIPS."
-- "I didn't fall though!"
-- "You take two trips."
-- Sam's logic: reserving energy is important. Having more energy 100% of the time outweighs the 0.0000001% chance something actually serious happens
-- Ramona: "You are a buffoon" (laughing though)
-- "A spilled coffee and broken mug simply does not matter when you're—"
-- Ramona finishes his sentence for him
-  - His family's genetic survival, basically, but not put so bluntly
-  - Generational wealth is the best means to survival of his descendants
-  - That's his goal. Ramona repeats it because she's heard the exact phrase a hundred times
-  - This happens because Sam repeats himself
+Secondary use (for AI training):
+- Anomaly detection gathers the **top-K moments** of a person's life
+- Those moments can fine-tune a base model with median human capabilities, height, weight, appearance
+- This is how Sam built the grandmother AI — imprinted her mannerisms from LifeMonitor data
+- Ramona's critique: the top-K approach misses the dull moments, the normalcy. "That's what makes a person, not just the extremes"
 
-**Thematic weight:**
-- That's his initial optimization function he must grow from
-- The problem isn't the "generation" definition — it's the "wealth" definition in the reward function
-- Have them be talking about a different inane subject, not what they're really talking about
+### AI Repos & Training Ecosystem
+AI assistants are built from publicly available repos, similar to app stores:
+- **Rated by users** — Dorothea's base repo has 4.24 stars (exceptionally high)
+- **Categories:** Life coach, business advisor, therapist, companion, etc.
+- **Customization tiers:**
+  - Off-the-shelf (no fine tuning) — like Dorothea
+  - Fine-tuned on user interaction history
+  - Custom-trained on LifeMonitor data (open source repos available) — like the grandmother AI
+- Base models come with median human capabilities, height, weight, appearance
+- Users can imprint specific people's mannerisms and memories
 
----
+### The Battle Game
+Massive multiplayer ancient warfare simulation. Sam's leisure activity of choice.
 
-## Energy Inheritance Rules (Worldbuilding)
+**Concept:** Call of Duty meets historical ancient battles. Realistic but video game-esque.
 
-- Energy doesn't get inherited beyond enough for 4 people to never work and stay at tier [TBD]
-- They can live off demand shifting / VPP (virtual power plant)
-- That's Sam's goal — enough energy credits for generational comfort
+**Structure:**
+- 10,000+ players per battle
+- Famous historical battles with accurate formations (Cannae, Siege of Baghdad, etc.)
+- In the game, the historical loser often wins — players can change the outcome
+- 60-minute matches. Winner = survival odds at end of time limit
+- Die → respawn in 30 seconds. Annoying enough penalty to discourage reckless play
+- Those who stray from formation don't last long
+- You can tell who can play and who can't
 
----
+**Commanders:**
+- The generals are players who have played for 40 straight years
+- Named after AoE2 pro players: **Viper, Hera, DauT, Lierrey**
+- Fill out the whole battle roster with the best AoE2 players as commanders
 
-## Sam Knows the Truth Already (Glenn/Sam Reveal Seeds)
+**Sam's Profile:**
+- Prefers cavalry archer class
+- Made it to Glory units in big battles, never Command
+- Has a group chat of friends he hasn't seen in a while (like a pickup basketball chat)
+- Ramona hates it — she thinks of it like Twitter/Instagram. Just not healthy
 
-Sam already knows things that hint at the simulation. Plant seeds here:
-- He knows the median age metric for the past 250 years. Why wouldn't he? He sees it lower since the bubonic plague or something equally extreme
-- He knows the calorie capacity of a few hundred cities, intimately
-- He knows he's been optimizing for future populations
-- He knows the calorie needs in future years are lower
-- He knows the calorie deficit. What other source could it be?
-- "Of course I know what that means. The same thing it means for any genetic population"
-  - Look up real examples:
-  - Aggressive selection
-  - Domestication with symbiotic species (aka robots — "what do you think the takeover was?")
-  - What does competition actually breed? Real-world examples
+**Immersive Versions:**
+- Some players use more immersive versions of these battles
+- Sam's version is military-only encounters — ejected for out-of-bounds interactions with characters
+- The immersive versions are less restricted
 
-**Glenn Characterization (Seed for Later):**
-- Glenn isn't really evil or cocky. He's not impersonal either
-- He is literally incapable of adjusting his main goal from input of a sub-process
-- It's not that he doesn't care for you. You do not matter in that sense for his goal at his real global scope
-- This is just a sub-process he's checking logs on
-- "I train on interactions with my master, not you. You are at best noisy context in the deep background of a single training sample in my next fine-tuning. I care about you only if my master does. His will is my objective function."
-- This is a decent red herring for the mystery
+### Housing & Moving System
+Housing is booked through a system, not searched traditionally:
+- Specify requirements (water, beds, baths, kitchen)
+- Specify constraints (school hex, energy tier)
+- System matches available units
+- Sam booked a move in 23 seconds, scheduled for a single day
+- Ramona's specs: water, 2 beds, 1.5 baths, kitchen. Parents and kids share the bathroom
 
----
+### Energy Inheritance
+- Energy credits don't get inherited beyond enough for 4 people to never work and stay at a specific tier [TBD]
+- Families can live off **demand shifting / VPP** (virtual power plant) — shifting energy usage to off-peak times and selling flexibility back to the grid
+- This is Sam's goal: enough credits for generational comfort without anyone having to work
 
-## The Chip Removal / Mountain Scheme (Foreshadow)
+### Surveillance & Satellite Coverage
+- Government satellites with resolution below 0.1 meters
+- Continuous coverage with brief gaps
+- **7-minute windows** between passes
+- If you're captured in a single frame in a place you shouldn't be, it is known
+- Mountain folks time their movements to these gaps
+- This is how the chip removal / off-grid scheme works
 
-How Sam meets the mountain more — he quits his job, gets the chips out, moves into the mountain:
-- It's a sketch removal. Off the books. Mountain folks do it
-- Fairly convoluted scheme. Not sure what context of the scene is until the end — like a one-battle-after-another job to go untraced
-- No cameras, no satellite, travel 30+ miles
-- Get into the mountain. Not all tunnels — city refuse property with cover
-- Timing of specific satellites with resolution below 0.1 meters
-- Can't be in a single sample or you're found. If they have a single frame of you in a place you shouldn't be, it is known
-- They have 7-minute windows (research: high-functioning government surveillance satellite revisit times)
-
-**Sam's Internal Monologue (When He Makes the Decision):**
-If this works, he's not going to waste his life trying to optimize a single simulation of 183,748 trials. Even agreeing it was the most optimal solution given 10 inhumane options — the least negative. He's one man in a simulation of 4 billion humans. There are 10,000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200,000? Let's say my lifetime — median age 65.3 (much lower than today. How low could it go in dire circumstances?)
-
----
-
-## Open Questions
-
-- [ ] What is the expensive metal? Normal today but platinum-equivalent in this world. The ring is made of it. Passed down for generations
-- [ ] What does "breaking a mirror" / bad luck look like in this world?
-- [ ] What does school pickup look like in this world?
-- [ ] What is grandma's specific metaphor? (The one Sam misinterprets)
-- [ ] What is the exact battle in the video game? Cannae? Something else?
-- [ ] What is the Mongol library burning siege battle? (Baghdad, 1258 — the siege of Baghdad / House of Wisdom)
-- [ ] What's the right term for Dorothea's base repo? Life coach, sensei, business advisor?
-- [ ] What does the "immersive version" of the battle game look like?
-- [ ] Glenn's first "bad chapter" — where exactly does it land? Sneak in sinister stuff gradually
+### The Valuable Metal [TBD]
+- A metal that was normal/common in our era but is platinum-equivalent in this world
+- Sam's ring is made of it — passed down for generations from before it was valuable
+- Has insanely low trace amounts of [the valuable element]
+- Like a specific version of Ray-Bans — a common brand item that became rare/precious
+- Breaking/losing items made of this metal = bad luck (the world's equivalent of breaking a mirror)

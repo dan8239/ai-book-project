@@ -135,18 +135,5 @@ Sam's secondary AI assistant. A therapist-type figure that looks and acts like h
 
 ---
 
-## The Dorothea vs. Grandma Dynamic
-
-Sam hangs out with Dorothea too much. Not enough grandma, Ramona, and his kids.
-
-This is the fundamental imbalance:
-- **Dorothea** pushes him toward achievement
-- **Grandma** grounds him
-- **Ramona** IS the ground
-
-He keeps choosing the achiever voice.
-
----
-
 ## Role in Story
 Shows how AI assistants work in the post-Refactor world. The protagonist's team is literally his best friend robot with specialized hyper functional agents that work asynchronously.
