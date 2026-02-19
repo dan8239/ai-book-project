@@ -237,10 +237,7 @@ There are citizens of Earth. Welcome home.
 
 # Work From Home
 
-*December, 2141*
-*Rossland, Hex 9.330*
-
-"What are you optimizing for?" Sam frowned at the visual display. On it was a histogram of total caloric output over 10 years across 50,000 simulations of the terraced farming site.
+"What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
 "Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original site spec, if you had bothered to read it." Dorothea replied sarcastically.
 
@@ -248,13 +245,13 @@ Sam looked up from their shared display in thought. The foothills above them wer
 
 "That's what you're for. Show me the 5th percentile outcome in year 15, Dorothea, and turn down the sarcasm 3%, please."
 
-She closed her eyes for a moment. The landscape before them blinked and was now finished, with a dense green canopy on the lower levels. The upper levels were brown, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
+She closed her eyes for a moment. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
 
 "In year 9 a landslide compromised the structure. Infiltration rate was consistently around 8 mm/hr before the incident, dropping to 4 afterwards. 28% of trials that didn't meet minimum production threshold had excess runoff. 11% had a catastrophic structural failure due to deferred maintenance. This trial had both."
 
 "Is poor retention the most common failure scenario? Show me the next most common."
 
-The scene flickered to a slightly different flavor of the same landscape. The terrace seemed more dead than last time, upper layers doing slightly better than the bottom.
+The scene blinked to a slightly different flavor of the same landscape. The terrace seemed more dead than last time, upper layers doing slightly better than the bottom.
 
 "Excess retention is responsible for 47% of the underperforming scenarios, with eventual salinization of the soil killing production."
 
@@ -266,7 +263,7 @@ When he opened his eyes again the site was dark, with most of the construction a
 
 "Earlier in the day, you pedant. I'd like to see the structure. Let me see all the crops in your search space." Sam couldn't help a smile. Apparently 3% wasn't nearly enough.
 
-Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside was a blur of reversed motion for a moment, then buzzed with normal activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The totals there were inexplicable, given the annual rainfall.
+Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The totals there were inexplicable, given the annual rainfall.
 
 "You're working off of a dated crop list. Don't even bother wasting the compute on half of this stuff. Lose anything with thin leaf cuticles. Citrus, wheat, barley, grapes. A single sulfane storm rolls through at this elevation and it'll kill off an entire crop yield. UV radiation will damage whatever survives that. Forget shallow roots and annuals as well. Avocado, tomato, eggplant. Lose anything that would need pollinators."
 
@@ -290,7 +287,7 @@ BOOM. BOOM. BOOM. A child's voice was carrying through the mountains. "DADDY, DA
 
 "OK, I gotta go, run a few thousand epochs and see if we can converge overnight."
 
-Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 3 year old, Clyde, was on his lap mid conversation.
+Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 4 year old, Clyde, was on his lap mid conversation.
 
 "DADDY! DADDY! DADDY! DADDY! DADDY!"
 
@@ -316,9 +313,9 @@ Sam kissed Ramona on the cheek and put his arms around her from behind. She smil
 
 "Your plate is ready, it might need a zap. These boys need to get up to bed. How was work?"
 
-"Hectic, as usual. I can do bedtime. This looks great, thank you." Sam's bowl was the only one remaining on the island.
+"Hectic, as usual! I can do bedtime. This looks great, thank you." Sam's bowl was the only one remaining on the island.
 
-"DADDY! DADDY!" Clyde pulled at Sam's sweats as he pointed to a small 4-wheeled remote control car on the floor of the living room. He made sound effects and mimed running, jumping and screaming to explain the situation. The car was a simple matte black box with oversized wheels. It looked like a little server rack with an foam antenna sticking straight up.
+"DADDY! DADDY!" Clyde pulled at Sam's sweats as he pointed to a small 4-wheeled remote control car on the floor of the living room. He mostly made sound effects and mimed running, jumping and screaming from then on. The car was a simple matte black box with oversized wheels. It looked like a little server rack with an foam antenna sticking straight up.
 
 Stevie was at his device, typing and smiling. "I adjusted the loss function to use shaped rewards this afternoon in class and it's doing WAY better. Look."
 
@@ -348,7 +345,7 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 
 "Now that they're nice and riled up," Ramona smirked.
 
-Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the video saved."
+Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the images still saved."
 
 "It's time, buddy. I'll help you with it in the morning," said Sam.
 
@@ -395,15 +392,21 @@ Stevie put his hardcover book about space back into the shelf, defeated. The bin
 Clyde plopped down on Sam's lap holding *Amazing Animals!*. Stevie sat down next to Sam on the bed, leaning on his shoulder. Sam wrapped his arms around Clyde, sitting on his lap.
 
 "Which animal do you want tonight?"
-"GRILLA!" yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy and pulled into his lap. Stevie grabbed his stuffed tardigrade and set it beside him on the bed.
+
+"GRILLA!" yelled Clyde. He spun his head around frantically, then snatched his gorilla stuffy into his lap. Stevie grabbed his stuffed Tardigrade and set it beside him on the bed.
+
 "Can't we do a different one tonight?" Stevie complained.
+
 "We can do one for Clyde and one for you," replied Sam.
 
-Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, tape holding several sections of it together.
+Stevie gave a futile attempt to teach Clyde how the index worked, but his younger brother started swiping pages with both hands to find the Gorilla.  The book fell open to the page as if it had it memorized. Two enormous silverbacks were depicted fighting in the center, with smaller fact boxes and images interspersed throughout the two-page spread. The page was clearly on borrowed time, clear tape holding several sections of it together.
 
 "Daddy, grilla is unstinkable, right?" Clyde asked.
+
 "Extinct," corrected Stevie.
+
 "Grilla is unstinked, right?" Clyde looked up at his father.
+
 Stevie answered for Sam. "We can bring it back if we ever wanted to, don't worry. Just gone for now."
 
 Clyde squeezed his gorilla and squirmed a bit, finding a comfortable place on Sam's lap.
@@ -422,21 +425,30 @@ When Stevie was finished, Sam very theatrically held both sides of the book and 
 
 Stevie dropped the ball with minimal protest, then declared the start of the race with an auctioneer's cadence, "FIRST ONE ON PILLOW GETS BACK SCRATCHED FIRST!" He dove into the lower bunk, while Clyde slammed his head into the trundle pillow and pulled the covers up. They argued over who was first. Clyde liked the trundle, Stevie the lower bunk. The top bunk was typically without biological life, pioneered only by stuffies.
 
-Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function. He made a mental note to look into the water modeling software again, it didn't make sense why only Rossland was so far below expected, when the rest of the Pacific Northwest was–
+Sam scratched Clyde's back with his left, and Stevie's with his right hand. The stuffed animals reminded Sam he should specify a few of the pioneer plants to prioritize in order to get the root system in place earlier. Mesquite (with careful isolation), Moringa, Buckthorn, Clover. Every variable you could fix in the search space mattered for keeping simulation costs down. He also could put water table depth directly in the loss function. He made a mental note to look into the water modeling software again, it didn't make sense why only Rossland was so far below expected.
 
 "DAD." Stevie had been saying something.
 
 "Sorry, what did you say, buddy?" Sam refocused. Stevie was fading, Clyde was blinking slowly but alert on his belly.
 
 "Did you know Olympus Mons is so big that if you stood on top you wouldn't even know you were on a mountain? The slope is so gradual your brain would think you were on flat ground." Stevie spoke with his cheek to the mattress, eye level with his dad.
+
 "Wow, I didn't know that," Sam replied neutrally.
+
 "And the base is wider than a whole hex. And it's 3 times taller than Mount Everest."
+
 "I think I knew that last one."
+
 "Dad, did you know it takes 20 minutes for light to get there. So every robot on Mars has to think for itself. If it gets stuck in a hole, it's 40 minutes before anyone even knows."
+
 "Well I'm glad you're learning how to build them then! Someone has to teach those robots about potholes."
+
 "Dad, did you know the first people on Mars lived inside a glacier? They melted tunnels into the ice cap and used the water for drinking AND for their house."
+
 "Yes, I learned that when I was a kid, too. Did you learn that at school?"
+
 "My teacher told me and my assistant told me, too. I'm going to live on Mars when I grow up. You and mom and Clyde can come, too."
+
 Sam replied pragmatically. "Well, there's still only a few people that get to go there each mission. And they're still a LONG ways away from sustainable agriculture. They're still pretty much entirely reliant on imports from–"
 
 Stevie's snoring cued him to cut his speech short. He stopped the back rubs and kissed both the boys on the cheek.
@@ -455,11 +467,11 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 
 "It's yesterday," Stevie mumbled, barely audible, dreaming.
 
-"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal?" He held up his fingers for Clyde. "I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
+"No, buddy. I stayed last night until you were both asleep, remember? And I said next WEEK, not tomorrow. So in 6 more days I'll stay, deal? I can't stay on this little bed more than once a week or I'm going to need to get back surgery. I love you, I'll see you in the morning."
 
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
-Sam grunted himself off the bed on the floor, grabbing his dinner from the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
+Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
 
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
 
@@ -467,11 +479,11 @@ Sam grunted himself off the bed on the floor, grabbing his dinner from the dress
 
 "Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
 
-"I bet Stevie's jealous. I can't. Work is hectic, I need to finish this project before next Friday."
+"I bet Stevie's jealous. I can't. Work is hectic."
 
 "I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently. How was work?"
 
-"It was fine." Sam switched to folding underwear, trying to match Ramona's meticulous arrangements.
+"It was fine." Sam switched to underwear, trying to match Ramona's meticulous folds.
 
 "Why do you even fold these? Nobody will ever see the wrinkles. I just jam mine in the drawer, I've probably saved 20 hours of laundry in my life."
 
@@ -479,7 +491,7 @@ Ramona remained focused on one of Stevie's shirts. "Why do anything like you're 
 
 They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
 
-"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, teasing his wife.
+"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife a bit.
 
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
 
@@ -489,7 +501,7 @@ They folded in silence for a few seconds. Something was a bit off with Ramona. W
 
 Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
 
-"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing, watching him carefully.
+"I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
 
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
 
@@ -501,35 +513,31 @@ Sam's laughter escalated slowly, until he was belly laughing. He pulled away, wi
 
 "What? Most people aren't very excited about the third. Out-of-pocket... thought you might be upset."
 
-"I put in my notice last week, dear."
+"I put in my notice last week, dear. Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
 
-Ramona sat frozen, mouth slightly ajar.
+Ramona sat frozen, mouth slightly ajar. wapwapwapwapwapWAPWAP in the hallway, a door slammed. Clyde was using the bathroom.
 
-"Don't worry. We have plenty of savings. Even factoring in the third". He looked up at the ceiling, calculating. "We can stay in level 4 for almost a year without me making another microEth."
-
-wapwapwapwapwapWAPWAP in the hallway, a door slammed. Clyde was using the bathroom.
-
-"I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even around here. It should be easy enough to find something. I can't work there another month. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
+"I could not be happier to have another. I promise. This is going to be great. Maybe it'll be a girl to make it a bit more even. I will find something soon. I hate my job. We were going nowhere, it's never going to cash out. We're not even working on the right problem. It's not supply, it's distribution. It doesn't matter if you're trying to fill a bathtub from a pool or an ocean when you're filling it from a straw. The drain is circling and we're wasting our time on something that isn't even the bottleneck."
 
 Ramona shook her head in disbelief. "I love you. If you hated your job you could have talked to me. Why didn't you tell me? You said work was fine today."
 
-Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't anticipating an oops. I mean, that's not what I meant. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
+Sam continued, "I'm sorry, I just didn't think it mattered. I wasn't ready for an oops. Not that we can't pay out of pocket... I told you I'll find something. I want to do something that actually matters. Something to remember me by."
 
 Ramona paused and took a breath. "Look. I don't care if we're level 5, or 8, or 32. When I met you you were what? 28?. I grew up unleveled. It doesn't matter. Why don't we just take some time? I'd rather you have the time with us than more energy and a bigger house."
 
 "I love you too. But the boys won't be in level 5, or even level 4. You have my word. I've been looking, it will happen. When are you due? Why didn't you tell me?"
 
-"I'm 3 weeks, so August 3rd. My monitor alerted me but I had to double check."
+"I'm 3 weeks, so June 3. My monitor alerted me but I had to double check."
 
 "That's wonderful. I'll have plenty of time to find something. It will be nice to spend some more time with you all while I look."
 
-Ramona relented. She gave him a kiss and leaned into his chest. "That will be nice. Why look at all? Why don't you just retire? We can float down the ladder for a few years and actually enjoy each other."
+Ramona relented. She gave him a kiss and leaned into his chest. "That will be nice. Why don't you just retire? We can float down the ladder for a few years and enjoy each other."
 
-"Don't tempt me." They kissed, longer this time. Sam was relieved the conversation had gone as smoothly as it had.
+"Don't tempt me." They kissed, longer this time.
 
 "Do you want to make a double baby?" Sam asked.
 
-"I don't think it works that way." Ramona replied, eyes half open, leaning back onto her pillow.
+"I don't think it works that way." Ramona replied, eyes half open.
 
 "DADDY CAN YOU WIPE MY BUTT?!" Clyde yelled from the other room.
 
@@ -538,15 +546,15 @@ Ramona relented. She gave him a kiss and leaned into his chest. "That will be ni
 
 # Unretirement
 
-Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates. He licked the yolk clean off then stacked them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. He hesitated over the start button, then ran a quick sniff test on his armpits. He set the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
+Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked them clean then stacked them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. He hesitated over the start button, then ran a quick sniff test on his armpits. He set the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
 
-The boys appeared to have partially sampled the last of the eggs for this week. Sam made himself a small bowl of goat yogurt with pine nuts. He made a mental note to adjust their order for lower caloric energy cost next week. It would be easier to taper off their usage over two weeks than reduce their usage an order of magnitude all at once. He wondered if the boys would change their feelings about eggs once they weren't in the fridge anymore.
+The boys appeared to have partially sampled the last of the eggs for this week. Sam made himself a small bowl of goat yogurt with pine nuts. He made a mental note to adjust their order for a higher calorie energy ratio next week. It would be easier to taper off their usage over two weeks than reduce it an order of magnitude all at once. He wondered if the boys would change their feelings about eggs once they weren't in the fridge anymore.
 
-Ramona had gone up the mountain again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off another tier demotion 6 months at least if he could just undo that mistake.
+The house was unusually quiet without Ramona's music playing or the boys' pillaging. He sat at his desk and logged in as he finished his breakfast. Tomorrow he wouldn't have access to virtual space for more than a few minutes a day, so he planned to spend most of the day online.
 
-The house was unusually quiet without Ramona's music playing or the boys' pillaging. He sat at his desk and logged in as he finished his breakfast. It looked like he could afford almost 3 hours online each day the rest of the week.
+Ramona had gone up the mountain museum again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off a tier demotion 6 months at least if he could just undo that one mistake. At least it made Ramona happy, though.
 
-Dorothea greeted him as he merged into virtual space. The lobby manifested as something like an airport terminal. Sterile, white, and swarming with people that largely ignored him. Most had an agent escort, like Sam. A cloudy asterisk hovered above the head of each agent, differentiating visitors from those that were scoped permanently to the digital realm. Dorothea was in a revealing halter top and short skirt today, asterisk bobbing between her twin French braids.
+Dorothea greeted him as he merged into virtual space. The lobby manifested as something like an airport terminal. Sterile, white, and swarming with people that largely ignored him. Most had an agent escort, same as Sam. A cloudy asterisk hovered above the head of each agent, differentiating visitors from those that were scoped permanently to the digital realm. Dorothea was in a revealing halter top and short skirt today, asterisk bobbing between her twin French braids.
 
 "Oh come on," started Sam, annoyed.
 
