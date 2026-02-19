@@ -237,7 +237,11 @@ There are citizens of Earth. Welcome home.
 
 # Work From Home
 
-"What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
+*December, 2141*
+*Rossland, Hex 87283*
+*Formerly British Columbia, Canada*
+
+"What are you optimizing for?" Sam frowned at the visual display. On it was a histogram of total caloric output over 10 years across 50,000 simulations of the terraced farming site.
 
 "Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original site spec, if you had bothered to read it." Dorothea replied sarcastically.
 
@@ -245,13 +249,13 @@ Sam looked up from their shared display in thought. The foothills above them wer
 
 "That's what you're for. Show me the 5th percentile outcome in year 15, Dorothea, and turn down the sarcasm 3%, please."
 
-She closed her eyes for a moment. The same landscape before them was now finished, with a dense green canopy on the lower levels. The upper levels were drier, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
+She closed her eyes for a moment. The landscape before them blinked and was now finished, with a dense green canopy on the lower levels. The upper levels were brown, and most of the water basins were dry. A debris flow sheared a path down through the terraces on the east side of the site.
 
 "In year 9 a landslide compromised the structure. Infiltration rate was consistently around 8 mm/hr before the incident, dropping to 4 afterwards. 28% of trials that didn't meet minimum production threshold had excess runoff. 11% had a catastrophic structural failure due to deferred maintenance. This trial had both."
 
 "Is poor retention the most common failure scenario? Show me the next most common."
 
-The scene blinked to a slightly different flavor of the same landscape. The terrace seemed more dead than last time, upper layers doing slightly better than the bottom.
+The scene flickered to a slightly different flavor of the same landscape. The terrace seemed more dead than last time, upper layers doing slightly better than the bottom.
 
 "Excess retention is responsible for 47% of the underperforming scenarios, with eventual salinization of the soil killing production."
 
@@ -263,7 +267,7 @@ When he opened his eyes again the site was dark, with most of the construction a
 
 "Earlier in the day, you pedant. I'd like to see the structure. Let me see all the crops in your search space." Sam couldn't help a smile. Apparently 3% wasn't nearly enough.
 
-Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside buzzed with activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The totals there were inexplicable, given the annual rainfall.
+Dorothea smirked, then turned the lights back on by rewinding the scene a few hours. The hillside was a blur of reversed motion for a moment, then buzzed with normal activity again. Sam perused the crop list across all 8 layers of the food forest, from the canopy down to the fungal layer. This site was similar to the one in Sam's hometown. Hardiness zone 8B, 500 to 1500 meters in elevation. He wondered if this site would have the same issues his town did with lower moisture than the models predicted. The totals there were inexplicable, given the annual rainfall.
 
 "You're working off of a dated crop list. Don't even bother wasting the compute on half of this stuff. Lose anything with thin leaf cuticles. Citrus, wheat, barley, grapes. A single sulfane storm rolls through at this elevation and it'll kill off an entire crop yield. UV radiation will damage whatever survives that. Forget shallow roots and annuals as well. Avocado, tomato, eggplant. Lose anything that would need pollinators."
 
@@ -287,7 +291,7 @@ BOOM. BOOM. BOOM. A child's voice was carrying through the mountains. "DADDY, DA
 
 "OK, I gotta go, run a few thousand epochs and see if we can converge overnight."
 
-Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 4 year old, Clyde, was on his lap mid conversation.
+Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 3 year old, Clyde, was on his lap mid conversation.
 
 "DADDY! DADDY! DADDY! DADDY! DADDY!"
 
@@ -313,9 +317,9 @@ Sam kissed Ramona on the cheek and put his arms around her from behind. She smil
 
 "Your plate is ready, it might need a zap. These boys need to get up to bed. How was work?"
 
-"Hectic, as usual! I can do bedtime. This looks great, thank you." Sam's bowl was the only one remaining on the island.
+"Hectic, as usual. I can do bedtime. This looks great, thank you." Sam's bowl was the only one remaining on the island.
 
-"DADDY! DADDY!" Clyde pulled at Sam's sweats as he pointed to a small 4-wheeled remote control car on the floor of the living room. He mostly made sound effects and mimed running, jumping and screaming from then on. The car was a simple matte black box with oversized wheels. It looked like a little server rack with an foam antenna sticking straight up.
+"DADDY! DADDY!" Clyde pulled at Sam's sweats as he pointed to a small 4-wheeled remote control car on the floor of the living room. He made sound effects and mimed running, jumping and screaming to explain the situation. The car was a simple matte black box with oversized wheels. It looked like a little server rack with an foam antenna sticking straight up.
 
 Stevie was at his device, typing and smiling. "I adjusted the loss function to use shaped rewards this afternoon in class and it's doing WAY better. Look."
 
@@ -345,7 +349,7 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 
 "Now that they're nice and riled up," Ramona smirked.
 
-Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the images still saved."
+Stevie protested as he brought the robot back over to his device. "NO! I just need a minute. I need to make sure the video saved."
 
 "It's time, buddy. I'll help you with it in the morning," said Sam.
 
