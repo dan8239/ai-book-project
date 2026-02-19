@@ -587,11 +587,16 @@ Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the yea
 "They're doing great. Stevie is doing really well in school. He's very sensitive, still, but I think he's smart enough to get a few contracts someday. Clyde is having a blast. He's still young. His teachers love him with the one exception being that he 'doesn't listen to adults'."
 His nan laughed in the swing. "Implying he does listen to his peers."
 "Naturally." They laughed, sitting in the enclosed porch. She leaned close to listen and take in his face. Her vision and ears hadn't gone in real life when she was still this young. The training set must have been mixing memories from different eras and conflating the mannerisms a bit.  He'd have to look into how to get the proper temporal context into the model.
-"When you were little you were the same way. I would be looking for you for a half an hour and you'd never answer. Then I'd hear grunting "
-"And Ramona?"
-"She's doing great. Six months pregnant, it's a girl this time. Not that you could tell, she's running nearly every day. She's been taking trips to visit Tina at the museum lately, they came up with a way that she could actually go back home for a few hours."
+"When you were little you were the same way. I would be looking for you for a half an hour and you'd never answer. Then I'd walk through the jujube hedges until I heard grunting, and you'd always be there."
+"Grandpa told me I could get sucked down the toilet if I didn't listen to him, I was afraid to sit on it." said Sam, defensively.
+"Well, enjoy them while they're young. The days are long, but the years are short. And Ramona? How's she doing?"
+"She's doing great. Six months pregnant, it's a girl this time. Not that you could tell, she's running nearly every day."
 Nan was delighted, "Oh, congratulations! That's so wonderful. Three great-grandchildren. I suppose that means we haven't talked in seven months or so. I'm sure you have your hands filled."
-Sam expected a bit of a guilt trip, but moved on. 
+Sam expected a bit of a guilt trip, but moved on. "She's been taking trips to visit Tina at the museum lately, they came up with a way that Ramona could actually go back home for a few hours."
+"Well I wish you both the best. How are you feeling about it?"
+"I'm good! I'm good. I can't find my wedding ring, though."
+"Oh, is it tungsten? It's bad luck to lose something tungsten. I'd imagine a wedding ring makes it worse. I'm sure Ramona is livid?"
+Sam recalled the exact training example the bad luck comment had come from, and as if reading his mind the background changed to the 
 
 ---
 
