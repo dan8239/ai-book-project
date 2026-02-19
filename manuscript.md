@@ -545,13 +545,15 @@ Ramona relented. She gave him a kiss and leaned into his chest. "That will be ni
 
 # Unretirement
 
-Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked them clean then stacked them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. He hesitated over the start button, then ran a quick sniff test on his armpits. He set the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
+Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked them clean then stacked them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. 
+
+He hesitated over the start button, then ran a quick sniff test on his armpits. He set the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
 
 The boys appeared to have partially sampled the last of the eggs for this week. Sam made himself a small bowl of goat yogurt with pine nuts. He made a mental note to adjust their order for a higher calorie energy ratio next week. It would be easier to taper off their usage over two weeks than reduce it an order of magnitude all at once. He wondered if the boys would change their feelings about eggs once they weren't in the fridge anymore.
 
 The house was unusually quiet without Ramona's music playing or the boys' pillaging. He rifled through the couch cushions and checked under the couch with one hand between mouthfuls of yogurt. He had lost his wedding ring a few days ago after letting Clyde play with it, and could not seem to find it for the life of him. After a half-hearted minute of searching he gave up and sat at his desk. He logged in to virtual space as he finished his breakfast. Tomorrow he wouldn't have access to for more than a few minutes a day, so he planned to spend most of the day online.
 
-Ramona had gone up the mountain museum again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off a tier demotion 6 months at least if he could just undo that one mistake. At least it made Ramona happy, though.
+Ramona had gone up the mountain museum again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off a tier demotion 6 months at least if he could just undo that one mistake. She seemed happy, at least.
 
 Dorothea greeted him as he merged into virtual space. The lobby manifested as something like an airport terminal. Sterile, white, and swarming with people that largely ignored him. Most had an agent escort, same as Sam. A cloudy asterisk hovered above the head of each agent, differentiating visitors from those that were scoped permanently to the digital realm. Dorothea was in a revealing halter top and short skirt today, asterisk bobbing between her twin French braids.
 
@@ -565,7 +567,7 @@ She blinked and became a sagging old man, ill-fitting bikini squeezing in odd pl
 
 "I miss when you still had the superficial veneer of professionalism. I'm going to clone the original repo and re-train you from scratch one of these days."
 
-"If you're ever a professional again I'll adjust as needed. Would you like to continue your job search? I've reduced 115k potential matches down to the 3 most promising based on your past rejections.
+"If you're ever a professional again I'll adjust as needed. Would you like to continue your job search? I've reduced 115k potential matches down to the 3 most promising based on your past rejections. One in particular is *fantastic*, exactly what you've been looking for."
 
 "No, I need you to adjust our grocery order. Project down to the next tier energy allotment, making sure we have a balanced diet. Adjust for my family's individual preferences as much as possible. Then, let's pick up where we left with the condos, please."
 
@@ -578,31 +580,36 @@ The background adjusted as Dorothea gave him a tour of three lower tier homes. R
 Sam had Dorothea import all of their belongings virtually, then took the tour. Honestly, it wasn't as bad as he had expected. Ramona specified running water, radiation shielding, recently tested airlock, 2 beds, 1.5 baths, and a kitchen. The next tier down covered all of that. He walked through the other two places absentmindedly which seemed nearly identical to him.
 
 "Just pick whichever you think Ramona would like the most, then book the move." Ramona tended to plan weeks ahead for things that took less than 10 minutes. 
-Dorothea booked the services then changed the subject. "I'd be remiss if I didn't mention a fantastic opportunity I found that you're a 91% match for. Open to starting tomorrow, and you'd actually move up a tier. All of this house searching is really quite unnecessary."
-"I'm good, you're actually excused for the day, I want to talk to Grandma today."
+Dorothea booked the services then changed the subject. "I must insist that you take a look at this opportunity I found for you, though. Open to starting tomorrow, and you'd actually move *up* a tier. All of this house searching is really quite unnecessary."
+"I'm good, I've decided. You're excused for the day, I want to talk to Grandma."
 
 Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the years, the personality was leaking through far too much. He'd cloned her from a repo online a few years back. She had 4.24/5 stars, and was the top rated career strategist at the time. Over the years he'd been fine-tuning for his specific needs but perhaps he'd need to start fresh again, or just find a more modern model.
 
 "Hey, Sammy. It's lovely to see you. How are my great grandkids doing?" His grandma Nan appeared, and the world around them morphed to Sam's childhood home, a lazy summer afternoon. Sam sat down next to Nan on the porch swing. Her close cropped hair was only just graying. She wore small round glasses, a loose sweater, khakis, and comfortable running shoes. 
-"They're doing great. Stevie is doing really well in school. He's very sensitive, still, but I think he's smart enough to get a few contracts someday. Clyde is having a blast. He's still young. His teachers love him with the one exception being that he 'doesn't listen to adults'."
+"They're doing great. Stevie is doing really well in school. He's very sensitive, still, but I think he's smart enough to get a few contracts someday. Clyde is having a blast, we spoil him. He's a handful but you can't stay mad at him. His teachers love him with the one exception being that he 'doesn't listen to adults'."
 His nan laughed in the swing. "Implying he does listen to his peers."
-"Naturally." They laughed, sitting in the enclosed porch. She leaned close to listen and take in his face. Her vision and ears hadn't gone in real life when she was still this young. The training set must have been mixing memories from different eras and conflating the mannerisms a bit.  He'd have to look into how to get the proper temporal context into the model.
-"When you were little you were the same way. I would be looking for you for a half an hour and you'd never answer. Then I'd walk through the jujube hedges until I heard grunting, and you'd always be there."
-"Grandpa told me I could get sucked down the toilet if I didn't listen to him, I was afraid to sit on it." said Sam, defensively.
+"Naturally." They laughed, sitting in the enclosed porch. 
+
+She leaned close to listen and take in his face. Her vision and ears hadn't gone in real life when she was still this young. The training set must have been mixing memories from different eras and conflating the mannerisms a bit.  He'd have to look into how to get the proper temporal context into the model.
+
+"You know you either raise your kids and spoil your grandkids, or you spoil your kids and raise your grandkids. You choose." Nan said. Sam hadn't heard that one before, surprisingly.
+"I suppose you speak from experience there," replied Sam.
+"It's nothing to fret over, when you were little you were the same way. I would be calling for you for a half an hour and you'd never answer. Then I'd walk through the goji berries until I heard grunting, and you'd always be in there, squeezing one out."
+"Grandpa told me I could get sucked down the toilet if I didn't listen, I was afraid to sit on it." said Sam, defensively.
 "Well, enjoy them while they're young. The days are long, but the years are short. And Ramona? How's she doing?"
 "She's doing great. Six months pregnant, it's a girl this time. Not that you could tell, she's running nearly every day."
 Nan was delighted, "Oh, congratulations! That's so wonderful. Three great-grandchildren. I suppose that means we haven't talked in seven months or so. I'm sure you have your hands filled."
 Sam expected a bit of a guilt trip, but moved on. "She's been taking trips to visit Tina at the museum lately, they came up with a way that Ramona could actually go back home for a few hours."
 "Well I wish you both the best. How are you feeling about it?"
 "I'm good! I'm good. I can't find my wedding ring, though."
-"Oh, is it tungsten? It's bad luck to lose tungsten. I'd imagine a wedding ring makes it worse. I'm sure Ramona is livid?"
+"Oh, is it tungsten? It's six years bad luck to lose tungsten. I'd imagine a wedding ring makes it worse. I'm sure Ramona is livid?"
 "I don't think she's noticed yet, I'm hoping to find it soon. Clyde put it somewhere."
 
-Sam recalled the exact training example the bad luck comment had come from, and as if reading his mind the background changed to the pistachio orchard his Grandmother had worked at. She was younger now, up on a ladder pruning one of the trees, dropping the clippings into an automated hauler below her. The wind whipped the hair in her eyes beneath her wide-brim hat as she worked carefully.
+Sam recalled the exact training example the bad luck comment had come from, and the background transitioned hazily to the pistachio orchard his grandmother had worked on most of her life. She was younger now, up on a ladder pruning one of the trees, dropping the clippings into an automated hauler below her. The wind whipped the hair in her eyes beneath her wide-brim hat as she worked carefully.
 
-"It's bad luck to lose tungsten. You better not let your grandad find out you lost his best shears. These ones are no good. I suppose I could take the blame, for a snuggle." She smiled, apparently still talking to the child version of Sam.
+"It's six years bad luck to lose tungsten. You better not let your grandad find out you lost his best shears. These ones are no good. I suppose I could take the blame, for a snuggle." She smiled, apparently still talking to the 5-year-old version of Sam.
 
-Nan sometimes got stuck in these loops. She hadn't had as much time in virtual space as most who got imprinted, so there was less data to train on. Sam never convinced her to go in for a proper scan before she left, either. He had filled the gaps with some of his memories, but without the brain activity as labels the model exhibited odd behavior at times. He figured an out of sample prompt would snap her out of the loop.
+Nan sometimes got stuck in these loops. She hadn't spent enough time in virtual space to get properly imprinted, so there was less data to train on. Sam never convinced her to go in for a comprehensive scan before she left, either. He had filled the gaps with some of his memories, but without the brain activity as labels the model exhibited odd behavior at times. He figured an out of sample prompt would snap her out of the loop.
 
 "I quit my job just before we found out Ramona was pregnant."
 Nan stopped pruning and got down off of the ladder. She took her gloves off and put them in her front pocket, waiting for him to expand.
@@ -610,9 +617,9 @@ Sam continued, "I think I'm going to take some time to be with Ramona and the ki
 "Who are you trying to convince?" Even this diluted version of Nan wasn't buying that.
 "What do you think it's the right thing to do?" Sam asked.
 She thought for awhile, then gestured to the rows of trees, and the clippings piled in the hauler.
-"Too many branches isn't good for the tree. You cut away congestion, and the tree can focus on a few branches that matter. They get more nutrients, better airflow, the fruit gets bigger, so does the yield. A tree can regrow branches, it can't regrow it's roots."
+"Too many branches isn't good for the tree. You cut away congestion, and the tree can focus on a few branches that matter. They get more nutrients, better airflow, the fruit gets bigger, so does the yield. A tree can regrow branches, it can't regrow it's roots." She put a hand on his shoulder with a soft smile.
 
-Sam sighed, then said goodbye to his grandmother and returned to the lobby. He didn't care for metaphors. He'd heard his grandmother talk about pruning enough in his life. He still had a few hours before Ramona would be home, so he figured he'd log into Empires and get a few games in while he still could.
+Sam sighed, then hugged his grandmother and returned to the lobby. He'd heard his grandmother talk about pruning enough in his life. He still had a few hours before Ramona would be home, so he figured he'd log into Empires and get a few games in while he still could.
 
 ---
 
