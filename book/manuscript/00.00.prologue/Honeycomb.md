@@ -138,13 +138,15 @@ Grant laughed sardonically and pointed out the window towards his back yard. "I'
 
 Damon hesitated, unsure of himself suddenly. "There's still time to scrub the operation, if you've reconsidered."
 
-"I couldn't stop it even if I wanted to at this point, Damon. Honeycomb has been my public face for 8 months. The horse has left the barn. Now that we have your experiment data, it's inexorable. Besides, the exchange raised the stakes a bit, Honeycomb issued the order an hour ago."
+"I couldn't stop it even if I wanted to at this point, Damon. Honeycomb has been my public face for 8 months. The horse has left the barn. Now that we have your experimental data, it's inexorable. Besides, the exchange raised the stakes a bit, Honeycomb issued the order an hour ago."
 
 He poured himself another glass of whiskey, more like four fingers this time. He didn't think to offer the same to Damon.
 
 "Why don't you join the call? You should be there. Take it in my office so the audio doesn't interfere?"
 
 ------------------------------------------------------
+
+![](../../assets/figures/h3_globe.png)
 
 Grant's office was built right off the master. Damon's condo could most likely only fit into this room once. An enormous curved display took up the entirety of the one opaque wall. On it there were 5 globes, hexagon grids wrapping each world map like a mesh net. Each honeycomb subdivided into smaller honeycombs recursively. In front of the display was a 15 foot black desk. Damon knew it to be African Blackwood via Grant, but he suspected that might just be a fancy name for ebony. Damon sat down, sweeping dust clear to make room for his workstation.
 

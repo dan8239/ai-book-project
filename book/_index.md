@@ -3,7 +3,7 @@
 Navigation hub for worldbuilding and manuscript.
 
 ## Manuscript
-- [[../manuscript|Full Manuscript]] — single source of truth, edit here
+- [[manuscript/manuscript|Full Manuscript]] — single source of truth, edit here
 - [[manuscript/01.01.devsecops/chapter|01.01 DevSecOps]]
 - [[manuscript/01.02.the_aquarium/chapter|01.02 The Aquarium]]
 - [[manuscript/01.03.work/chapter|01.03 Work]]

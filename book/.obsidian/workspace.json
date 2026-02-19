@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/00.02.unretirement/On the beach.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "On the beach"
+              "title": "_index"
             }
           },
           {
@@ -228,6 +228,8 @@
   },
   "active": "304b7082500df191",
   "lastOpenFiles": [
+    "manuscript/manuscript.md",
+    "manuscript/00.02.unretirement/On the beach.md",
     "manuscript/04.00.coda/notes.md",
     "manuscript/03.17.heist-approval/notes.md",
     "manuscript/03.16.heist/notes.md",
@@ -254,7 +256,6 @@
     "manuscript/02.10.space-victory",
     "manuscript/02.09.coffee-guy-intro",
     "worldbuilding/characters/claude-assistants.md",
-    "manuscript/00.02.unretirement/On the beach.md",
     "manuscript/00.02.unretirement/notes.md",
     "worldbuilding/world/agriculture.md",
     "manuscript/00.01.wfh/WFH.md",
@@ -263,7 +264,6 @@
     "manuscript/00.03.unretirement/notes.md",
     "manuscript/02.05.none-of-it-matters/notes.md",
     "manuscript/act_3/reunion-notes.md",
-    "manuscript/act_3/heist-notes.md",
     "worldbuilding/world/caloric-projection.png",
     "assets/figures/h3_globe.png",
     "assets/figures/extinction_histogram_rebase_comparison.png",
