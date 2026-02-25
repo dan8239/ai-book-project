@@ -20,7 +20,7 @@ The irony: he lives in one of the most interesting physical places on Earth — 
 
 ## Role
 
-**Not a food scientist**—he's a contractor/builder in [[../world/honeycomb|Honeycomb]].
+he's a contractor/builder in [[../world/honeycomb|Honeycomb]].
 
 ### How He Works
 - Takes **Controller positions** on short contracts (local hex, family unit, etc.)

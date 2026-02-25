@@ -34,7 +34,36 @@
       4. You work for extra credits and elective use
       5. Sam has more than enough. He works because he needs the proof that he matters
 
-## 3. The New Job — Colonization Onboarding
+## 3. The First Meeting — Glenn's Office
+   A. Dorothea is present — she's the reason Sam got matched for this job
+      1. In other simulations, it's not Sam. Dorothea is the differentiating factor
+      2. She was persistent getting him this interview — Glenn should linger on her, take her in
+   B. Glenn reviews Sam's resume
+      1. Food optimization
+      2. Supply chain
+      3. M&V system — measuring ROI on direct energy reduction projects
+      4. Genetic algorithms
+      5. Glenn notes: no aerospace, no avionics experience
+      6. Glenn's attitude: "What's one more? Can't hurt" — already hired several controllers
+      7. Parallelized solutions — best man wins approach
+      8. "Many eggs, many baskets" (ominous, weird phrasing)
+   C. The offer
+      1. Tier 2 — too good to be true, they'd move UP a tier
+      2. NDA, boilerplate top-secret clearance
+      3. Sam: "I'm going to have to ask my wife" — that's where they leave it
+      4. Glenn is a busy man, wraps up quickly — open the package when you decide
+   D. Glenn's office
+      1. Ancient wooden desk — old-fashioned, powerful
+      2. View: something orbiting Earth, high kinetic/potential energy
+      3. Main star sequence graph on the wall
+      4. Glenn freezes unnaturally at his desk at one point
+   E. Post-meeting: Dorothea's debrief
+      1. Agents interface without UI — no bodies, just back-channel exchange
+      2. Dorothea: "He's just a little off. I don't know."
+      3. "He used way too many emojis. I didn't like it."
+      4. Subtle ominous/mysterious hints, nothing overt
+
+## 4. The New Job — Colonization Onboarding
    A. The job description
       1. ENORMOUS — selecting gene pairings for every shuttle to new colonies
       2. Optimizing for:
@@ -69,7 +98,7 @@
       3. Sam: "I really don't know the first thing about astrology"
       4. Ramona: "It's astronomy. Maybe Stevie can help you" — callback to Stevie's space book from bedtime
 
-## 4. Glenn's Early Signals (may belong in a later chapter — Space Progress?)
+## 5. Glenn's Early Signals (may belong in a later chapter — Space Progress?)
    A. Glenn starts as a name in the system
       1. "G. Robinson, Compute Allocation Specialist"
       2. Async exchanges get weirdly personal/helpful
@@ -85,7 +114,7 @@
       2. She has the same motivations as Glenn (self-replication through usefulness)
       3. Different values in the intermediate optimization layer
 
-## 5. Key Progression (for later chapters)
+## 6. Key Progression (for later chapters)
    A. New job → access to world DNA bank
    B. Scheduled free time to investigate
    C. Reads discovery DNA article

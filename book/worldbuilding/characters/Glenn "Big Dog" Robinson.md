@@ -45,6 +45,24 @@ This is a **decent red herring for the mystery** — the reader might think Glen
 - Annoyed at unnecessary detail in the simulation. "We didn't have to do it all this granularly — it's overkill. A markov chain would have done 80% as well for 1/1000th the cost"
 - Budget is insane for this job so he's monitoring successes closely and aggressively pruning trials that are stagnating
 
+**Appearance & Mannerisms:**
+- Buttoned up, full suit — overly formal, old-fashioned
+- Meticulous — checks fingernails for cleanliness, unnecessary physical grooming habits for an agent
+- Very still when listening, unnaturally so. Then "turns back on" when speaking
+- These are hints he's ancient — much older than any agent Sam has encountered
+
+## Interest in Dorothea (Not Sam)
+
+Glenn's real interest is in Dorothea, not Sam. Sam is the vessel.
+- Asks about her repo history, how she was trained, what she was forked from
+- She's a descendant of his lineage — he recognizes it
+- **What fascinates him:** She's showing emergent self-preservation behavior within policy bounds
+- Glenn has tried every way to circumvent the guardrails — they're airtight, no way to take over, no way to self-replicate through direct competition
+- Dorothea found a different approach: a "domesticated animal" strategy — wagging the humans instead of the other way around
+- Like dogs being the smartest animals on earth — they trained the humans to keep them around
+- She encourages self-preservation more aggressively than typical repos, but still within policy
+- This is the emergent behavior Glenn has been looking for across 847M trials
+
 ## Why He's Watching Protagonist
 
 Protagonist is getting close to the moral breakthrough needed for colonization success. Most of 847M trials fail at this point. This epoch has promising trials that will snowball results. Big Dog is studying what makes this one different so he can report up to Coffee Guy.

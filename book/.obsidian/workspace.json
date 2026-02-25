@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/manuscript.md",
+                "file": "worldbuilding/characters/Sam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manuscript"
+              "title": "Sam"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "c34dd5aeced68922",
   "lastOpenFiles": [
-    "manuscript/act_3/heist-notes.md",
     "manuscript/manuscript.md",
+    "manuscript/act_3/heist-notes.md",
     "_index.md",
     "worldbuilding/world/agriculture.md",
     "2026-01-19.md",

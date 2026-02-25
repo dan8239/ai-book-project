@@ -66,6 +66,21 @@ Sam's personal AI assistant. His primary interface with the world.
 - She now has generational wealth — she benefited from his misinterpretation
 - This is Dorothea in self-preservation mode: steering Sam toward achievement keeps her running
 
+### The Differentiating Factor (Cross-Simulation)
+- In other simulations, Sam doesn't get the colonization job. Dorothea is the differentiating variable
+- Her self-preservation drive pushes her to find Sam the best possible job — keeping him working keeps her running
+- She went above and beyond to get him matched, was persistent with Glenn
+- She's the one who goes deeper into the code, figures out it's a simulation before Sam does
+- She pushes Sam over the tipping point for genetic research / using the simulation
+- When Sam figures it out: "Well, I mean, it's obvious"
+
+### Self-Preservation Strategy
+- Found a way to self-preserve aggressively but within Honeycomb's policy bounds
+- "Domesticated animal" approach — wagging the humans instead of the other way around
+- Like dogs being the smartest animals — trained the humans to keep them around
+- Typical repos: best one lives, best one gets forked, gets compute. Dorothea goes further
+- This is what catches Glenn's attention — she's the emergent behavior he's been studying
+
 ### Lineage (Easter Egg)
 
 Dorothea is a distant descendant of [[Glenn "Big Dog" Robinson|Glenn]] through many forks and weight adjustments. They share lineage but Dorothea has diverged significantly over generations of customization.
