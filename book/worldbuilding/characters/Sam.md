@@ -223,14 +223,6 @@ His job is enormous - related to optimal food production. He makes small increme
 
 **Approach to genetics:** Treats genetics as optimization problems - converts biological questions into loss functions, tunes selection pressures, Pareto front analysis. Does a lot of Monte Carlo with changes to the gene pool of crops, changes in yield, tolerances, metabolism, byproducts.
 
-## Major Projects
-- **Qubit Waste Bacteria** - Emergent bacteria that processes waste products of qubit production. Breeding program to optimize metabolic rate, speciate for different waste products.
-- **Sustainable Yield Improvements** - Works closely with geneticists for plant genetics improvements
-- **Drought Resistant Corn**
-- **Nitrogen Fixers**
-- **Topsoil Regeneration** - Faster ways to turn things back into topsoil
-- **Sustainable Meat** - Economically sustainable way to eat meat at scale
-
 ## Research Method
 Runs statistical life simulations on genetic data. His job is a huge ecological optimization engine.
 
@@ -251,7 +243,7 @@ His team is literally his best friend robot with specialized hyper functional ag
 ## Story Progression
 1. **Starts:** Agricultural optimization job, food production at scale
 2. **Call up:** Gets promoted to colonization/re-seed program - learns true dire state of Earth
-3. **Mystery begins:** Needs genetic diversity for colony, finds weird dataset in 23andMe-type DB (planted by DevSecOps woman)
+3. **Mystery begins:** Needs genetic diversity for colony, finds weird dataset in 23andMe-type DB
 
 ### The Mountain Optimization Arc (Key Learning Moment)
 
@@ -292,7 +284,6 @@ He doesn't need the money. They're wealthy — first-generation, self-made. Ramo
 Nobody grinds for 50 years anymore — most people don't have to work at all. Energy covers life support, food, healthcare, education. You work for extra credits and elective use. Sam has more than enough. He works because he needs the proof that he matters.
 
 ## Relationships
-- **Relationship to [[devsecops-woman|DevSecOps Woman]]:** TBD (thematic parallel matters more than genealogy)
 - **Wife:** [[wife|Ramona]] - pregnant with 3rd child
 - **Children:** Stevie (9), Clyde (4), + 1 on the way (3rd is taboo/penalized — surcharge, social judgment)
 - **Closed-system aquarium:** Gift for Clyde later in the story. Ramona sets it up. Clyde doesn't understand it's a closed system, wants to feed the fish. Aquarium mirrors the mountain, mirrors colonization.
@@ -378,19 +369,7 @@ The pills track his internal state without dialogue. When he stops them early, i
 7. Timestamps/metadata make no sense
 8. Keeps pulling thread → Big Dog reveals truth
 
-## The Chip Removal / Going Off-Grid
 
-How Sam meets the mountain more — quits his job, gets the chips out, moves into the mountain:
-- It's a sketch removal. Off the books. Mountain folks do it
-- Fairly convoluted scheme — like a one-battle-after-another job to go untraced
-- No cameras, no satellite, travel 30+ miles
-- Get into the mountain. Not all tunnels — city refuse property with cover
-- Timing of specific satellites with resolution below 0.1 meters
-- Can't be in a single sample or you're found. If they have a single frame of you in a place you shouldn't be, it is known
-- They have 7-minute windows (research: government surveillance satellite revisit times)
-
-**Sam's Internal Monologue (When He Decides):**
-If this works, he's not going to waste his life trying to optimize a single simulation of 183,748 trials. Even agreeing it was the most optimal solution given 10 inhumane options — the least negative. He's one man in a simulation of 4 billion humans. There are 10,000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200,000? Let's say my lifetime — median age 65.3.
 
 ## What Sam Already Knows (Seeds for Simulation Reveal)
 
