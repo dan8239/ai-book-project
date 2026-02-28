@@ -557,13 +557,15 @@ Ramona relented. She gave him a kiss and leaned into his chest. "That will be ni
 
 # Retirement
 
-Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked them clean then stacked them into the dishwasher. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. 
+Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked the dishes clean then stacked them into the washer. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. 
 
 He hesitated over the start button, then ran a quick sniff test on his armpits. He set the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
 
 The boys appeared to have partially sampled the last of the eggs for this week. Sam made himself a small bowl of goat yogurt with pine nuts. He made a mental note to adjust their order for a higher calorie energy ratio next week. It would be easier to taper off their usage over two weeks than reduce it an order of magnitude all at once. He wondered if the boys would change their feelings about eggs once they weren't in the fridge anymore.
 
-The house was unusually quiet without Ramona's music playing or the boys' pillaging. He rifled through the couch cushions and checked under the couch with one hand between mouthfuls of yogurt. He had lost his wedding ring a few days ago after letting Clyde play with it, and could not seem to find it for the life of him. After a half-hearted minute of searching he gave up and sat at his desk. He logged in to virtual space as he finished his breakfast. Tomorrow he wouldn't have access to for more than a few minutes a day, so he planned to spend most of the day online.
+The house was unusually quiet without Ramona's music playing or the boys' pillaging. He rifled through the couch cushions and checked under the couch with one hand between mouthfuls of yogurt. He had lost his wedding ring a few days ago after letting Clyde play with it, and could not seem to find it for the life of him. After a half-hearted minute of searching he gave up and sat at his desk. Maybe it would turn up when the laundry finished.
+
+He logged in to virtual space as he finished his breakfast. Tomorrow he wouldn't have access to for more than a few minutes a day, so he planned to spend most of the day online.
 
 Ramona had gone up the mountain museum again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off a tier demotion 6 months at least if he could just undo that one mistake. She seemed happy, at least.
 
@@ -665,7 +667,7 @@ Sam sighed, then hugged his grandmother, said goodbye, and returned to the lobby
 
 Sam swiped his hands away, chuckling. "Still wasting all your energy playing video games I see. I thought you might have grown up by now, hopeful thinking."
 
-"Guy's look who's back in the flesh!" A few of his old online buddies circled up in the lobby. Jake, Rahul, and Abhijeet gathered round to greet him. 
+"Guy's look who's back in the flesh!" A couple of his old online buddies circled up in the lobby. Rahul and Abhijeet gathered round to greet him. 
 
 "How many kids do you have these days? It's good to see you again. Rejoining the clan?" Rahul asked, shaking his virtual hand.
 
@@ -677,7 +679,9 @@ Marco let out a low whistle in surprise. "Out of pocket? Expensive." He rubbed p
 
 Marco glanced around, then realized he was the one to answer. "Joey and Scott have a kids now too, I haven't seen them online in awhile. Don is still living off his parent's quota, but they cut him off from virtual time. I haven't heard from Rafa in years."
 
-The battle lobby pulled them in, sorting nearly 30 thousand players onto either the Roman or Carthaginian side. The setting was the battle of Cannae, 216 BCE. His group quickly joined Carthage, with higher ranked players taking places of higher ranking officials on the battlefield. Sam was at 1689, a respectable tier, but he hadn't played in a few years. He slotted in as heavy cavalry on the left flank of Hannibal's army. He scanned the rankings of his team. He saw some handles he recognized as Consuls, Generals, and Commanders. He noticed TheViper was at 2813 elo rating, he'd been playing back when Sam first picked up the game using his excess school energy credits. He used to watch streams of his feed, it was amazing how he was able to multi-task across the entire battle.
+The battle lobby pulled them in, sorting nearly 30 thousand players onto either the Roman or Carthaginian side. The setting was the battle of Cannae, 216 BCE. His group quickly joined Carthage, with higher ranked players taking places of higher ranking officials on the battlefield. Sam was at 1689, a respectable tier, but he hadn't played in a few years. He slotted in as heavy cavalry on the left flank of Hannibal's army. 
+
+He scanned the rankings of his team. He saw some handles he recognized as Consuls, Generals, and Commanders. He noticed TheViper at the top of the team board, he'd been playing back when Sam first picked up the game using his excess school energy credits. He used to watch streams of his feed, it was amazing how he was able to multi-task across the entire battle.
 
 "Damn, Rahul, 1988? You're remembering to eat and sleep occasionally between games, right?" Sam saw he was the commander of his unit. The others joined the same unit, opting to remain close enough to keep audio once the battle started.
 
@@ -697,15 +701,17 @@ A few stray Roman legionnaires ran out to engage their unit. Sam spurred his mou
 
 Sam pulled his lance out, aiming at the soldier he had originally intended to hit. He was starting to tire from the hard riding already. The soldier he had intended to hit, however, suddenly spun to the opposite side of his lance, driving the spear up into the neck of his mount. He flew over the front of his horse, face-first, felt pressure on his neck, and was dead. His friends laughed at him over the shared comms. The audio was clear now as he spectated.
 
-"A bit rusty, I suppose." Sam reasoned.
+"A bit rusty, I suppose," Sam reasoned.
 
-"You're SLOW" Abhijeet replied.
+"My god, you're SLOW," Abhijeet replied.
 
 One of the next waves of cavalry had dispatched the soldier that killed Sam. The battle seemed to be moving too fast for him. Had he gotten slower, or had these kids just gotten faster? He supposed it was probably a bit of both. The countdown showed just under 2 minutes before he'd respawn. It was an annoying amount of time, enough to discourage reckless hero behavior on the battlefield.
 
-He cycled through a few views of other players, settling on TheViper's stream. He surveyed the battlefield of 50,000 plus, riding between the different sections of the army. They broken down into different ethnic groups, each a few thousand people moving as one. Each group was further divided into functional units based on what type of soldier they were. Heavy and light Cavalry, heavy and light infantry, skirmishers, archers, elephants. All of varied levels of experience and discipline. He seemed such a small piece of the whole, how could one person possibly make a difference in the outcome?
+He cycled through a few views of other players, settling on TheViper's stream. Jesus, his Elo rating was at 2813. He was changing views faster than Sam could keep up. 
 
-How had the wild humans organized for something as large as this back in the ancient times? Sam marveled at how TheViper kept it all straight in his head. He deflected javelins, issued commands to standard bearers and runners, shouted to different officers as he approached. He occasionally pulled a different colored arrow and fired to a far end of the battle. These were hollow, each whistling a different tune. Sam had forgotten the purpose of each, it had been quite some time since he'd played.
+He surveyed the battlefield of 50,000 plus, riding between the different sections of the army. Each group divided into ethnic groups, then functional units based on what type of soldier they were. Heavy and light Cavalry, heavy and light infantry, skirmishers, archers, elephants. All of varied levels of experience and discipline. He seemed such a small piece of the whole, how could one person possibly make a difference in the outcome?
+
+Sam marveled at how TheViper kept it all straight in his head. He deflected javelins, issued commands to standard bearers and runners, shouted to different officers as he approached. He occasionally pulled a different colored arrow and fired to a far end of the battle. These were hollow, each whistling a different tune. Sam had forgotten the purpose of each, it had been quite some time since he'd played.
 
 Sam felt himself moving suddenly, realizing he'd respawned as another soldier already. He was back in his unit, volume overwhelming him suddenly. They were just rounding the Roman flank when Roman cavalry charged into them head-on. Sam took a javelin to the chest and was dead again, almost immediately. More laughter over the intercom. Two more minutes to sit and watch. He checked the leaderboard and saw the kill/death ratio was 1.1 on the Carthaginian side, though Sam was 1/2.
 
@@ -713,9 +719,9 @@ Sam felt himself moving suddenly, realizing he'd respawned as another soldier al
 
 "I think I saw that the Battle of the Kalka River is next, stay one more after this?" Marco said as he smoothly lopped of the head of a Roman legionnaire and continued riding.
 
-In the real battle of Cannae, the Romans were taken by surprise by the envelopment maneuver. The Romans typically won this battle in Empires, however, having lost the element of surprise. How many times had this battle been replayed, thousands of years later? There hadn't been a war on earth in hundreds of years. All of these ancient people fighting over what? Gold or silver in Spain? Trade routes in the Mediterranean? Sam had forgotten what the Punic wars were even about. Though, if so many still enjoyed the feeling battle gave them today, maybe it was baked deeply into our DNA somewhere. Had to let all that violence out somehow.
+In the real battle of Cannae, the Romans were taken by surprise by the envelopment maneuver. The Romans typically won this battle in Empires, however, having lost the element of surprise. How many times had this battle been replayed, thousands of years later? There hadn't been a war on earth in hundreds of years. All of these ancient people fighting over what? Gold or silver in Spain? Trade routes in the Mediterranean? Sam had forgotten what the Punic wars were even about. He supposed if 30k guys logged on to pretend kill each other every day violence must be baked pretty deeply into that Y chromosome somewhere.
 
-Sam was remembering why he stopped playing, though. This just seemed like such an enormous waste of time and energy. A bunch of spoiled kids role-playing, spending their life killing other pretend soldiers for a little dopamine hit. He half listened to his friends' laughing and reminiscing, occasionally swearing in rage. Was this how he was going to use his last few minutes of virtual space?
+Sam was remembering why he stopped playing, though. This just seemed like such an enormous waste of time and energy. A bunch of spoiled kids role-playing for a little dopamine hit. He half listened to his friends' laughing and reminiscing, occasionally racially slurring in rage. Was this how he was going to use his last few minutes of virtual space?
 
 Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeating. He occasionally stumbled into a kill, but he didn't get the joy from it like he used to. The battle was swinging the Roman's way, winding down. He had 3 kills, 11 deaths. An emergency notification from Dorothea came over his display. "I gotta go guys, great seeing you again." Marco started a reply, but before he had even got a word out Dorothea pulled him out of the game back into the lobby. Sam didn't even know she could override his selections like that.
 
@@ -727,7 +733,7 @@ Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeat
 
 Sam stopped as he realized he wasn't back in the virtual lobby. He appeared to be sitting in a chair next to Dorothea on one of the space stations in high orbit. He watched the earth roll inexorably beneath him through a viewport. They must have been orbiting 10 kilometers per second or more, but from this height the change was nearly imperceptible. Hazy, cream colored clouds eddied and swirled, occasional lightning strikes flickering towards the west of his view. Through a gap in the cloud cover he could see they were passing over the northern edge of Asia. The beige and tans of land gave way to green water as they inched out above the Arctic Ocean. A thin amber line of light traced the edge of the atmosphere. 
 
-"I find it grounding to keep today's iteration of our world in plain view." A serious looking mustachio'd man sat calmly behind an oak desk. He wore a full suit, hair neatly parted on the right. He finished typing on his device and measured Dorothea briefly, before narrowing his eyes on Sam.
+"I find it grounding to keep today's iteration of our world in plain view." A serious-looking mustachioed man sat calmly behind an oak desk. He wore a full suit, hair neatly parted on the right. He finished typing on his device and measured Dorothea briefly, before narrowing his eyes on Sam.
 
 "Glenn Robinson, pleased to make your acquaintance. Your assistant was quite insistent on me meeting you in person. I hear you're the controller I've been looking for." Glenn paused unnaturally when waiting for a reply, and Sam noticed the asterisk above his head for the first time. This must be another contract driver.
 
@@ -755,7 +761,7 @@ Glenn leaned back in his chair, running a hand through his hair. "Dorothea, if y
 
 Dorothea nodded to both of them curtly, then vanished. 
 
-The view from the porthole was transitioning from day to night. Shadows slowly gaining ground from east to west. Starbursts of light spread out from city centers. He could make out Anchorage, Edmonton, he even thought he could see Rossland. He could even see sporadic lights as far south as Chicago. He hadn't realized how many people still lived that far south. Green auroras danced like firelight on the edge of the world.
+The view from the porthole was transitioning from day to night. Shadows slowly gaining ground from east to west. Starbursts of light spread out from city centers. He even thought he could see Rossland. He saw sporadic lights as far south as Chicago. He hadn't realized how many people still lived that far south. Green auroras danced like firelight on the edge of the world.
 
 Glenn slid his device to the side. "Can you tell me a bit more about how Dorothea was trained and tuned? She's atypical, to say the least."
 
