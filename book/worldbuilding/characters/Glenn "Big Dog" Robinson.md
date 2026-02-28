@@ -27,7 +27,7 @@ Driver and Controller are equal but necessary—Glenn doesn't outrank Sam, and S
 
 ### Easter Egg
 
-[[claude-assistants#Horace|Horace]] (Sam's personal AI helper) is a distant descendant of Glenn through many forks and weight adjustments. They share lineage but Horace has diverged significantly
+[[claude-assistants#Dorothea|Dorothea]] (Sam's personal AI helper) is a distant descendant of Glenn through many forks and weight adjustments. They share lineage but Dorothea has diverged significantly
 
 ## What is he like?
 

@@ -607,7 +607,7 @@ Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the yea
 "Hey, Sammy. It's lovely to see you. How are my great grandkids doing?" His grandma Nan appeared, and the world around them morphed to Sam's childhood home, a lazy summer afternoon. Sam sat down next to Nan on the porch swing. Her close cropped hair was only just graying. She wore small round glasses, a loose sweater, khakis, and comfortable running shoes. 
 "They're doing great. Stevie is doing really well in school. He's very sensitive, still, but I think he's smart enough to get a few contracts someday. Clyde is having a blast, we spoil him. He's a handful but you can't stay mad at him. His teachers love him with the one exception being that he 'doesn't listen to adults'."
 
-His nan laughed in the swing. "Implying he does listen to his peers."
+His Nan laughed in the swing. "Implying he does listen to his peers."
 
 "Naturally." They laughed, sitting in the enclosed porch. 
 
@@ -633,13 +633,13 @@ Sam expected a bit of a guilt trip, but moved on. "She's been taking trips to vi
 
 "I'm good! I'm good. I can't find my wedding ring, though."
 
-"Oh, is it tungsten? It's six years bad luck to lose tungsten. I'd imagine a wedding ring makes it worse. I'm sure Ramona is livid?"
+"Oh no! It was tungsten, right? It's six years bad luck to lose tungsten, you know. I'd imagine a wedding ring makes it worse. I'm sure Ramona is livid?"
 
 "I don't think she's noticed yet, I'm hoping to find it soon. Clyde put it somewhere."
 
 Sam recalled the exact training example the bad luck comment had come from, and the background transitioned hazily to the pistachio orchard his grandmother had worked on most of her life. She was younger now, up on a ladder pruning one of the trees, dropping the clippings into an automated hauler below her. The wind whipped the hair in her eyes beneath her wide-brim hat as she worked carefully.
 
-"It's six years bad luck to lose tungsten. You better not let your grandad find out you lost his best shears. These ones are no good. I suppose I could take the blame, for a snuggle." She smiled, apparently still talking to the 5-year-old version of Sam.
+"It's six years bad luck to lose tungsten, you know. You better not let your grandad find out you lost his best shears. These ones are no good. I suppose I could take the blame, for a snuggle." She smiled, apparently still talking to the 5-year-old version of Sam.
 
 Nan sometimes got stuck in these loops. She hadn't spent enough time in virtual space to get properly imprinted, so there was less data to train on. Sam never convinced her to go in for a comprehensive scan before she left, either. He had filled the gaps with some of his memories, but without the brain activity as labels the model exhibited odd behavior at times. He figured an out of sample prompt would snap her out of the loop.
 
@@ -647,7 +647,7 @@ Nan sometimes got stuck in these loops. She hadn't spent enough time in virtual 
 
 Nan stopped pruning and got down off of the ladder. She took her gloves off and put them in her front pocket, waiting for him to expand.
 
-Sam continued, "I think I'm going to take some time to be with Ramona and the kids. I won't be able to see you much. It's temporary, though. I have so much more to accomplish, I just needed a break."
+Sam continued, "I think I'm going to take some time to be with Ramona and the kids. I won't be able to see you much. It's temporary, though.  I just need a break."
 
 "Who are you trying to convince?" Even this diluted version of Nan wasn't buying that.
 
@@ -655,10 +655,119 @@ Sam continued, "I think I'm going to take some time to be with Ramona and the ki
 She thought for awhile, then gestured to the rows of trees, and the clippings piled in the hauler.
 "Too many branches isn't good for the tree. You cut away congestion, and the tree can focus on a few branches that matter. They get more nutrients, better airflow, the fruit gets bigger, so does the yield. A tree can regrow branches, it can't regrow its roots." She put a hand on his shoulder with a soft smile.
 
-Sam sighed, then hugged his grandmother and returned to the lobby. He'd heard his grandmother talk about pruning enough in his life. He still had a few hours before Ramona would be home, so he figured he'd log into Empires and get a few games in while he still could.
+Sam sighed, then hugged his grandmother, said goodbye, and returned to the lobby. He'd heard Nan talk about pruning enough in his life. He still had a few hours before Ramona would be home, so he figured he'd log into Empires and get a few games in while he still could.
 
 ---
 
+# Empires
+
+"Am I seeing ghosts? It can't truly be Sam Spencer-Motu in the flesh. How long has it been?" Marco Rista's avatar cupped Sam's cheeks, mockingly taking in the age lines.
+
+Sam swiped his hands away, chuckling. "Still wasting all your energy playing video games I see. I thought you might have grown up by now, hopeful thinking."
+
+"Guy's look who's back in the flesh!" A few of his old online buddies circled up in the lobby. Jake, Rahul, and Abhijeet gathered round to greet him. 
+
+"How many kids do you have these days? It's good to see you again. Rejoining the clan?" Rahul asked, shaking his virtual hand.
+
+"Two, with a third on the way. I have the house to myself for a change. One last session, you probably won't see me for awhile after this one."
+
+Marco let out a low whistle in surprise. "Out of pocket? Expensive." He rubbed pretend currency between his fingers.
+
+"Yeah, yeah, yeah. Do the others still join? Joey, Scott, Don, Rafa?" Sam asked, to nobody in particular.
+
+Marco glanced around, then realized he was the one to answer. "Joey and Scott have a kids now too, I haven't seen them online in awhile. Don is still living off his parent's quota, but they cut him off from virtual time. I haven't heard from Rafa in years."
+
+The battle lobby pulled them in, sorting nearly 30 thousand players onto either the Roman or Carthaginian side. The setting was the battle of Cannae, 216 BCE. His group quickly joined Carthage, with higher ranked players taking places of higher ranking officials on the battlefield. Sam was at 1689, a respectable tier, but he hadn't played in a few years. He slotted in as heavy cavalry on the left flank of Hannibal's army. He scanned the rankings of his team. He saw some handles he recognized as Consuls, Generals, and Commanders. He noticed TheViper was at 2813 elo rating, he'd been playing back when Sam first picked up the game using his excess school energy credits. He used to watch streams of his feed, it was amazing how he was able to multi-task across the entire battle.
+
+"Damn, Rahul, 1988? You're remembering to eat and sleep occasionally between games, right?" Sam saw he was the commander of his unit. The others joined the same unit, opting to remain close enough to keep audio once the battle started.
+
+"Yes, but I shit my pants sometimes in the heat of battle." Rahul reposted, to laughter over their shared comms.
+
+The countdown began with 20 seconds, over 32 thousand players having been split up between the sides. The timer on the battle was set to an hour. 
+
+The lobby transitioned smoothly to a wide plain, river on his left. Sam sat atop a horse, Marco and Abhijeet to either side of him. The Roman legions were about 100 meters apart, already advancing. Javelins and stones were being slung between the fronts already. A few reckless players charging independently towards the enemy front.
+
+"Look at this jackass." Marco yelled over the rising hoofbeats and shouting of the army. A lone infantry had sprinted directly into the Roman line before being impaled by hundreds of arrows and javelins 50 meters before reaching the front line. You could always spot the newer players, wasting their munitions out of range, ignoring their battle commands. On the other extreme you could spot the AI soldiers, absurdly disciplined, lacking any character whatsoever.
+
+A horn blew a few short blasts, and Sam saw a standard bearer raising a red flag. Good to know the signals hadn't changed much over the years. They rode hard, trying to flank the Roman infantry. Their job was to ride past the initial battle and surprise the Roman cavalry on the opposite flank from behind the Roman infantry. Rahul shouted something indecipherable beside him.
+
+A few stray Roman legionnaires ran out to engage their unit. Sam spurred his mount forward. He deflected a javelin with his round shield, haptic feedback jarring through his left shoulder. He threw a javelin towards one of the soldiers before him. It sailed wide right, but connected through the face of another, blind luck. The soldier dropped heavily as blood sprayed from his face.
+
+"HEADSHOT!" Rahul and Abhijeet yelled out in unison.
+
+Sam pulled his lance out, aiming at the soldier he had originally intended to hit. He was starting to tire from the hard riding already. The soldier he had intended to hit, however, suddenly spun to the opposite side of his lance, driving the spear up into the neck of his mount. He flew over the front of his horse, face-first, felt pressure on his neck, and was dead. His friends laughed at him over the shared comms. The audio was clear now as he spectated.
+
+"A bit rusty, I suppose." Sam reasoned.
+
+"You're SLOW" Abhijeet replied.
+
+One of the next waves of cavalry had dispatched the soldier that killed Sam. The battle seemed to be moving too fast for him. Had he gotten slower, or had these kids just gotten faster? He supposed it was probably a bit of both. The countdown showed just under 2 minutes before he'd respawn. It was an annoying amount of time, enough to discourage reckless hero behavior on the battlefield.
+
+He cycled through a few views of other players, settling on TheViper's stream. He surveyed the battlefield of 50,000 plus, riding between the different sections of the army. They broken down into different ethnic groups, each a few thousand people moving as one. Each group was further divided into functional units based on what type of soldier they were. Heavy and light Cavalry, heavy and light infantry, skirmishers, archers, elephants. All of varied levels of experience and discipline. He seemed such a small piece of the whole, how could one person possibly make a difference in the outcome?
+
+How had the wild humans organized for something as large as this back in the ancient times? Sam marveled at how TheViper kept it all straight in his head. He deflected javelins, issued commands to standard bearers and runners, shouted to different officers as he approached. He occasionally pulled a different colored arrow and fired to a far end of the battle. These were hollow, each whistling a different tune. Sam had forgotten the purpose of each, it had been quite some time since he'd played.
+
+Sam felt himself moving suddenly, realizing he'd respawned as another soldier already. He was back in his unit, volume overwhelming him suddenly. They were just rounding the Roman flank when Roman cavalry charged into them head-on. Sam took a javelin to the chest and was dead again, almost immediately. More laughter over the intercom. Two more minutes to sit and watch. He checked the leaderboard and saw the kill/death ratio was 1.1 on the Carthaginian side, though Sam was 1/2.
+
+"I think I prefer cavalry archer, a bit out of practice with the lance it seems." Sam justified.
+
+"I think I saw that the Battle of the Kalka River is next, stay one more after this?" Marco said as he smoothly lopped of the head of a Roman legionnaire and continued riding.
+
+In the real battle of Cannae, the Romans were taken by surprise by the envelopment maneuver. The Romans typically won this battle in Empires, however, having lost the element of surprise. How many times had this battle been replayed, thousands of years later? There hadn't been a war on earth in hundreds of years. All of these ancient people fighting over what? Gold or silver in Spain? Trade routes in the Mediterranean? Sam had forgotten what the Punic wars were even about. Though, if so many still enjoyed the feeling battle gave them today, maybe it was baked deeply into our DNA somewhere. Had to let all that violence out somehow.
+
+Sam was remembering why he stopped playing, though. This just seemed like such an enormous waste of time and energy. A bunch of spoiled kids role-playing, spending their life killing other pretend soldiers for a little dopamine hit. He half listened to his friends' laughing and reminiscing, occasionally swearing in rage. Was this how he was going to use his last few minutes of virtual space?
+
+Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeating. He occasionally stumbled into a kill, but he didn't get the joy from it like he used to. The battle was swinging the Roman's way, winding down. He had 3 kills, 11 deaths. An emergency notification from Dorothea came over his display. "I gotta go guys, great seeing you again." Marco started a reply, but before he had even got a word out Dorothea pulled him out of the game back into the lobby. Sam didn't even know she could override his selections like that.
+
+-------------------------------
+
+# Glenn
+
+"Dorothea, you can't just–"
+
+Sam stopped as he realized he wasn't back in the virtual lobby. He appeared to be sitting in a chair next to Dorothea on one of the space stations in high orbit. He watched the earth roll inexorably beneath him through a viewport. They must have been orbiting 10 kilometers per second or more, but from this height the change was nearly imperceptible. Hazy, cream colored clouds eddied and swirled, occasional lightning strikes flickering towards the west of his view. Through a gap in the cloud cover he could see they were passing over the northern edge of Asia. The beige and tans of land gave way to green water as they inched out above the Arctic Ocean. A thin amber line of light traced the edge of the atmosphere. 
+
+"I find it grounding to keep today's iteration of our world in plain view." A serious looking mustachio'd man sat calmly behind an oak desk. He wore a full suit, hair neatly parted on the right. He finished typing on his device and measured Dorothea briefly, before narrowing his eyes on Sam.
+
+"Glenn Robinson, pleased to make your acquaintance. Your assistant was quite insistent on me meeting you in person. I hear you're the controller I've been looking for." Glenn paused unnaturally when waiting for a reply, and Sam noticed the asterisk above his head for the first time. This must be another contract driver.
+
+Sam glanced over at Dorothea, annoyed. "I think there's been a misunderstanding. I've decided to take some time off."
+
+Glenn remained motionless, though his eyes darted and fixed on Dorothea. They looked a bit like siblings. She broke the silence.
+
+"You should hear him out. A twelve week contract, you could stay on your current tier for the next 250 years when it's out. Hell, you could go up a tier for 100 if you'd prefer."
+
+That took Sam aback. He'd looked for months before burning out on his search. Dorothea had matched him for nearly a hundred thousand job openings, but he hadn't passed the automated screening on a single one that even approached his previous salary. Even if he took one of the countless jobs that were beneath him, he was looking at dropping down a few tiers.
+
+Glenn read Sam's interest correctly and continued. "It's a human-in-the-loop optimization contract. Standard driver-controller arrangement. You'll need to sign the NDA before I can get into too many specifics, but the project is of global significance. The budget is substantial, you'll have full control over hiring a team as needed, bio and/or digital.  Extremely tight timeline. You'd be reporting directly to me."
+
+"Can you give any more specifics? Who's the client, what's the scope of work?" Sam pressed, this seemed like some kind of scam to swipe his secret key.
+
+Glenn unfroze, glancing at his watch absentmindedly before examining his cuticles. AI agents rarely had such blatant mannerisms programmed into their avatars these days, it had gone out of vogue decades ago. He reminded Sam of something out of an old movie. He finally went on.
+
+"It's directly commissioned by Honeycomb himself.  You've doubtlessly heard of the Lunar and Mars colonies, no? We're expanding beyond our solar system. You'd be responsible for maximizing the success of the mission within certain... constraints. I can't say much more than that. A successful mission here will put all our names into history on multiple planets. It could be your last contract, if that's what you choose."
+
+Sam shot Dorothea another questioning look. "I... I really don't know much about space, I'm not a physics guy. Sorry to break it to you both. I'm a bit confused as to how I even got into this room."
+
+Dorothea took the lead automatically. "That shouldn't be a problem. Glenn has already reviewed your open repositories and previous contract work. Over thirty completed controller contracts, thirteen on Honeycomb directives. Already have level 2 security clearance. Heavy focus on energy, optimization, reinforcement learning, AI policy engineering. Biome optimization and statistical genetics projects all are applicable here."
+
+Glenn leaned back in his chair, running a hand through his hair. "Dorothea, if you'd be so kind as to excuse us." He froze, awaiting another reply.
+
+Dorothea nodded to both of them curtly, then vanished. 
+
+The view from the porthole was transitioning from day to night. Shadows slowly gaining ground from east to west. Starbursts of light spread out from city centers. He could make out Anchorage, Edmonton, he even thought he could see Rossland. He could even see sporadic lights as far south as Chicago. He hadn't realized how many people still lived that far south. Green auroras danced like firelight on the edge of the world.
+
+Glenn slid his device to the side. "Can you tell me a bit more about how Dorothea was trained and tuned? She's atypical, to say the least."
+
+"Nothing too crazy. I cloned the quant-blitz-xl-12.7? Maybe it was 8? Either way it was about 6 years ago. I set her up to log every interaction. I have a second model measure rewards for every interaction nightly, and I schedule her to fine-tune her policy while I sleep. There's a bit more to it than that, the reward quantification is kind of tricky–"
+
+Glenn raised an eyebrow at that. "Quant blitz. Very interesting. *Very* interesting. I doubted your credentials as well, but she's been quite convincing in the short time I've interacted with her."
+
+Sam stood to go. "This is probably way too candid, but I'm not sure I even want this contract. I told my wife *and* Dorothea I was done looking. I've been going non-stop for too long. I haven't found joy in my work in years. I'm just not sure you want to put all your eggs in this basket for such a big project."
+
+Glenn smiled at that, an almost cartoonish, emoji grin. "Many eggs, many baskets, my friend. Don't worry so much. Why don't you sleep on it, I'll send over the smart contract. Let me know in the next 24 hours."
+
+--------------------------------------
 
 
 # Space Onboarding
