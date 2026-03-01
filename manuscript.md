@@ -781,7 +781,23 @@ He emptied his liter of water, then went upstairs to refill and meet Ramona for 
 
 --------------------------------------
 
-Sam grabbed his Ramona was just pulling up in a sun-bubble when he stepped out the door.
+Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and was into the airlock. Ramona was just pulling up in a sun-bubble when he got to the bottom steps.
+
+The clear doors slid open for Sam and he scrunched beside Ramona in the two seater and went to kiss her on the cheek. Ramona playfully turned her head at the last second to escalate into a "lippies kiss", as Clyde called it. The sunbubble gently accelerated once he was buckled.
+
+"I saw a video of a beekeeper once during a lecture, I think she was wearing your hat." Ramona chided Sam.
+
+"We all can't pull off the derby hat, my dear. You look nice." Sam replied.
+
+"You're very sweet. How was your day? Do we have a new place?" Ramona asked.
+
+Sam swiped to the link and passed his device to her. "Same school, everything else you asked for. I scheduled the movers for tomorrow at 10am after drop-off, should be done by pick-up."
+
+"That's a relief. This looks great." Ramona exhaled slowly as she fast forwarded through the virtual tour.
+
+Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about a job offer. Last minute, I know, but there's a 24 hour grace period where we could withdraw the offer on the space." 
+
+Ramona raised an eyebrow at that, just as they pulled up 
 
 
 # Space Onboarding
