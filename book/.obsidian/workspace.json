@@ -6,7 +6,7 @@
       {
         "id": "3ae5adcc76fffc88",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 75.8887171561051,
         "children": [
           {
             "id": "c34dd5aeced68922",
@@ -83,7 +83,7 @@
       {
         "id": "bc3fa72e6a52d816",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 24.111282843894898,
         "children": [
           {
             "id": "945ecc710b894a5d",
@@ -263,9 +263,10 @@
   },
   "active": "c34dd5aeced68922",
   "lastOpenFiles": [
+    "worldbuilding/simulation/optimization-mechanics.md",
+    "manuscript/manuscript.md",
     "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
     "worldbuilding/characters/claude-assistants.md",
-    "manuscript/manuscript.md",
     "manuscript/00.02.unretirement/notes.md",
     "manuscript/03.16.heist/notes.md",
     "worldbuilding/characters/Sam.md",
@@ -288,7 +289,6 @@
     "manuscript/02.07.space-still-stuck/notes.md",
     "manuscript/02.06.coffee-guy-interlude/notes.md",
     "manuscript/02.04.cats-and-rats/notes.md",
-    "manuscript/01.04.space-onboarding/notes.md",
     "manuscript/04.00.coda",
     "manuscript/03.17.heist-approval",
     "manuscript/03.16.heist",
