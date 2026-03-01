@@ -298,7 +298,7 @@ BOOM. BOOM. BOOM. A child's voice was carrying through the mountains. "DADDY, DA
 
 "OK, I gotta go, run a few thousand epochs and see if we can converge overnight."
 
-Dorothea was replying when he felt pressure on his lap. His headset was forcibly removed and he was back in his office. His 4 year old, Clyde, was on his lap mid conversation.
+Dorothea was replying when Sam felt pressure on his lap. His mesh beanie was forcibly removed from over his eyes and he was back in his office. His 4 year old, Clyde, was on his lap mid conversation. He carefully extracted the cap from Clyde, folded it, and put it onto the charging dock.
 
 "DADDY! DADDY! DADDY! DADDY! DADDY!"
 
@@ -775,9 +775,13 @@ Sam stood to go. "This is probably way too candid, but I'm not sure I even want 
 
 Glenn smiled at that, an almost cartoonish, emoji grin. "I wouldn't worry about that too much. Many eggs, many baskets, my friend. Why don't you sleep on it, I'll send over the smart contract. Let me know in the next 24 hours."
 
+Sam turned up the cuff of his mesh beanie and he was back in his office. The concave sides of two display lenses rested on his forehead, reflecting distorted light back onto his traditional monitors. He rubbed his eyes with his left hand thoroughly. With his right, he removed the cap, folded it, and placed it onto the charging dock.
+
+He emptied his liter of water, then went upstairs to refill and meet Ramona for pick up.
+
 --------------------------------------
 
-Sam folded the flap of his skullcap back up over his eyes
+
 
 
 # Space Onboarding
