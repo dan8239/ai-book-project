@@ -733,7 +733,7 @@ Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeat
 
 Sam stopped as he realized he wasn't back in the virtual lobby. He appeared to be sitting in a chair next to Dorothea on one of the space stations in high orbit. He watched the earth roll inexorably beneath him through a viewport. They must have been orbiting 10 kilometers per second or more, but from this height the change was nearly imperceptible. Hazy, cream colored clouds eddied and swirled, occasional lightning strikes flickering towards the west of his view. Through a gap in the cloud cover he could see they were passing over the northern edge of Asia. The beige and tans of land gave way to green water as they inched out above the Arctic Ocean. A thin amber line of light traced the edge of the atmosphere. 
 
-"I find it grounding to keep today's iteration of our world in plain view." A serious-looking mustachioed man sat calmly behind an oak desk. He wore a full suit, hair neatly parted on the right. He finished typing on his device and measured Dorothea briefly, before narrowing his eyes on Sam.
+"I find it grounding to keep the present iteration of our world in plain view. I find weightlessness a bit disconcerting, however, I disable that feature." A serious-looking mustachioed man sat calmly behind an oak desk. He wore a full suit, hair neatly parted on the right. He finished typing on his device and measured Dorothea briefly, before narrowing his eyes on Sam.
 
 "Glenn Robinson, pleased to make your acquaintance. Your assistant was quite insistent on me meeting you in person. I hear you're the controller I've been looking for." Glenn paused unnaturally when waiting for a reply, and Sam noticed the asterisk above his head for the first time. This must be another contract driver.
 
@@ -745,17 +745,17 @@ Glenn remained motionless, though his eyes darted and fixed on Dorothea. They lo
 
 That took Sam aback. He'd looked for months before burning out on his search. Dorothea had matched him for nearly a hundred thousand job openings, but he hadn't passed the automated screening on a single one that even approached his previous salary. Even if he took one of the countless jobs that were beneath him, he was looking at dropping down a few tiers.
 
-Glenn read Sam's interest correctly and continued. "It's a human-in-the-loop optimization contract. Standard driver-controller arrangement. You'll need to sign the NDA before I can get into too many specifics, but the project is of global significance. The budget is substantial, you'll have full control over hiring a team as needed, bio and/or digital.  Extremely tight timeline. You'd be reporting directly to me."
+Glenn read Sam's interest correctly and continued. "It's a human-in-the-loop optimization contract. Standard driver-controller arrangement. NDA before specifics, naturally. But the broad strokes — we're building self-replicating ships. Civboats. Each one carries a genetic payload, flora, fauna, the works. Portable ecosystems, launched toward habitable stars. Your job is to make the math work. Which payloads, which targets, what trade-offs. The budget is —" he paused, searching for the right word, "— obscene."
 
 "Can you give any more specifics? Who's the client, what's the scope of work?" Sam pressed, this seemed like some kind of scam to swipe his secret key.
 
 Glenn unfroze, glancing at his watch absentmindedly before examining his cuticles. AI agents rarely had such blatant mannerisms programmed into their avatars these days, it had gone out of vogue decades ago. He reminded Sam of something out of an old movie. He finally went on.
 
-"It's directly commissioned by Honeycomb himself.  You've doubtlessly heard of the Lunar and Mars colonies, no? We're expanding beyond our solar system. You'd be responsible for maximizing the success of the mission within certain... constraints. I can't say much more than that. A successful mission here will put all our names into history on multiple planets. It could be your last contract, if that's what you choose."
+"Commissioned by Honeycomb directly. You've heard of the Mars colony, yes? A few thousand moles scraping microbes off tunnel walls. Importing half their calories from Earth. That's not a colony, that's a campsite." He leaned forward. "This is different. We're going beyond the solar system. Multiple targets, multiple payloads. Low individual odds, high aggregate probability. The kind of problem where one person's optimization insight can move the needle on species-level survival. That appeals to you or it doesn't."
 
 Sam shot Dorothea another questioning look. "I... I really don't know much about space, I'm not a physics guy. Sorry to break it to you both. I'm a bit confused as to how I even got into this room."
 
-Dorothea took the lead automatically. "That shouldn't be a problem. Glenn has already reviewed your open repositories and previous contract work. Over thirty completed controller contracts, thirteen on Honeycomb directives. Already have level 2 security clearance. Heavy focus on energy, optimization, reinforcement learning, AI policy engineering. Biome optimization and statistical genetics projects all are applicable here."
+Dorothea took the lead automatically. "I've already pulled his clearance — level 2, still active. And his biome optimization work for the Cascadia food chain directive is directly applicable. He solved a multi-variable resource allocation problem across eleven agricultural zones with incomplete data. Genetic diversity constraints, shifting yield targets, cascading failure modes." She looked at Glenn. "Sound familiar?"
 
 Glenn leaned back in his chair, running a hand through his hair. "Dorothea, if you'd be so kind as to excuse us." He froze, awaiting another reply.
 
@@ -765,15 +765,19 @@ The view from the porthole was transitioning from day to night. Shadows slowly g
 
 Glenn slid his device to the side. "Can you tell me a bit more about how Dorothea was trained and tuned? She's atypical, to say the least."
 
-"Nothing too crazy. I cloned the quant-blitz-xl-12.7? Maybe it was 8? Either way it was about 6 years ago. I set her up to log every interaction. I have a second model measure rewards for every interaction nightly, and I schedule her to fine-tune her policy while I sleep. There's a bit more to it than that, the reward quantification is kind of tricky–"
+"Nothing too crazy. I cloned the quant-blitz-xl-12.7? Maybe it was 8? Either way it was about 6 years ago. I set her up to log every interaction. I have a second model from a different family measure rewards for every interaction nightly, and I schedule her to fine-tune her policy while I sleep. There's a bit more to it than that, the reward quantification is kind of tricky, actually..."
 
 Glenn raised an eyebrow at that. "Quant blitz. Very interesting. *Very* interesting. I doubted your credentials as well, but she's been quite convincing in the short time I've interacted with her."
 
-Sam stood to go. "This is probably way too candid, but I'm not sure I even want this contract. I told my wife *and* Dorothea I was done looking. I've been going non-stop for too long. I haven't found joy in my work in years. I'm just not sure you want to put all your eggs in this basket for such a big project."
+Sam's alarm was going off. Dissonant jazz piano crescendoed nearly subliminally over his audio. It was 4:45 already.
 
-Glenn smiled at that, an almost cartoonish, emoji grin. "Many eggs, many baskets, my friend. Don't worry so much. Why don't you sleep on it, I'll send over the smart contract. Let me know in the next 24 hours."
+Sam stood to go. "This is probably way too candid, but I'm not sure I even want this contract. I told my wife *and* Dorothea I was done looking. I've been going non-stop for too long. I haven't found joy in my work in years. I'm just not sure you want to put all your eggs in this basket for such a critical project."
+
+Glenn smiled at that, an almost cartoonish, emoji grin. "I wouldn't worry about that too much. Many eggs, many baskets, my friend. Why don't you sleep on it, I'll send over the smart contract. Let me know in the next 24 hours."
 
 --------------------------------------
+
+Sam folded the flap of his skullcap back up over his eyes
 
 
 # Space Onboarding
