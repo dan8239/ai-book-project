@@ -1,12 +1,10 @@
 # Virtual Meetup Space
 
-#needs-work - needs a better name for this space/technology
-
 The standard way people interact in the simulation world. A realistic metaverse that makes personal interaction possible without physical travel.
 
 ## What It Is
 
-- Physical manifestation space accessed via low-fi helmet
+- Physical manifestation space accessed via **mesh beanie** (neural interface)
 - You look exactly like you look in real life (no avatars, no customization)
 - Protagonist's attitude: "I'm not into that D&D horseshit" - this is practical, not recreational
 
@@ -19,8 +17,36 @@ Transportation is strictly for critical logistics now. More cost-effective to ge
 
 ## How It Works
 
+### The Mesh Beanie
+
+A knit cap woven with conductive neural sensor threads. Subtle, fashionable — comes in styles, colors, patterns. Folds flat into a coat pocket. Nobody looks weird wearing one. Fashion brands make them.
+
+**What it does: activation telemetry.** The mesh registers hooks on your neural nodes and performs real-time circuit tracing — reading your activation patterns (intentions, perceptions, motor signals, spatial awareness) and translating them into the virtual space.
+
+**It's a learned skill:**
+- The mesh needs you to meet it halfway — your brain has to develop pathways the hooks can read cleanly
+- First sessions are disorienting, fuzzy, laggy. Headaches common
+- Over time, **convergence** — the mesh builds a richer attribution graph of your neural patterns, and your brain learns to fire in ways the mesh reads more cleanly
+- Like learning to type without looking at the keyboard. Two-way calibration
+- **Kids converge fast** — high neural plasticity, brains still forming
+
+**Who can't use it:**
+- Some people never learn the skill. Not a disability — just never put in the calibration time
+- Ramona tried it, found it disorienting, decided it wasn't for her. Never bothered to build the skill
+- Like someone who never learned to drive
+
+**Stevie (the son):**
+- Converges fast because he's a kid
+- Uses it for brief sessions in a **safe sandbox** — a walled-off, parent-controlled virtual space
+- Plays with his friend Otis there. 20-minute sessions
+- The sandbox keeps the scope small and monitored
+
+**Damon's rig:**
+- Uses a bulkier headset — older generation tech, more hardware to compensate for less refined signal processing
+- More sensors, less elegant algorithms — brute-force coverage instead of clean circuit tracing
+
 ### Access
-- Low-fi helmet - simple, utilitarian
+- Put on the mesh, convergence kicks in, virtual space assembles around you
 - Physical manifestation in shared space
 - Feels real enough for work, meetings, casual interaction
 

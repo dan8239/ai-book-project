@@ -781,7 +781,7 @@ He emptied his liter of water, then went upstairs to refill and meet Ramona for 
 
 --------------------------------------
 
-
+Sam grabbed his Ramona was just pulling up in a sun-bubble when he stepped out the door.
 
 
 # Space Onboarding
