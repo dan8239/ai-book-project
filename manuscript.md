@@ -771,7 +771,7 @@ Glenn raised an eyebrow at that. "Quant blitz. Very interesting. *Very* interest
 
 Sam's alarm was going off. Dissonant jazz piano crescendoed nearly subliminally over his audio. It was 4:45 already.
 
-Sam stood to go. "Look, I appreciate the pitch, but you should know I'm not the right guy.  I don't think you want to put all your eggs in this basket for such a critical project. I'm just done. I've been solving the same kind of problem for years now, just with different numbers. I'm not sure I even remember what it feels like to care about the answer."
+Sam stood to go. "Look, I appreciate the pitch, but you should know I'm not the right guy.  I don't think you want to put all your eggs in this basket for such a critical project. I'm just done. I've been solving the same problem for years now, just slightly different flavors. I'm not sure I even remember what it feels like to care about the answer."
 
 Glenn smiled at that, an almost cartoonish, emoji grin. "I wouldn't worry about that too much. Many eggs, many baskets, my friend. Why don't you sleep on it, I'll send over the smart contract. Let me know in the next 24 hours."
 
@@ -781,7 +781,7 @@ He emptied his liter of water, then went upstairs to refill and meet Ramona for 
 
 --------------------------------------
 
-Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and was into the airlock. Ramona was just pulling up in a sun-bubble when he got to the bottom steps.
+Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and was into the airlock. Ramona was just pulling up in a sun-bubble when he got to the bottom of the steps.
 
 The clear doors slid open for Sam and he scooted beside Ramona in the booth seats. He placed his backpack next to hers on the table and went to kiss her on the cheek. Ramona playfully turned her head at the last second to escalate into a "lippies kiss", as Clyde called it. The sunbubble gently accelerated once he was buckled.
 
