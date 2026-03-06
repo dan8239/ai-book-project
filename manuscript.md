@@ -809,13 +809,17 @@ Sam squeezed back. "I'd be honored. So, it's all set, then? How long will we hav
 
 "It was fine. She was stuck in another loop. Another thing I need to fix. You should visit her with me again, sometime." Sam hadn't had the best of luck getting Ramona to join him in virtual space. She threw up the first time and rarely joined him these days. She was so busy with the kids, but now that he was home, maybe.
 
-"Maybe. Yeah. She doesn't feel the same to me. She's all blurry, I can't really even hear what she's saying. I always get a headache when I go in there with you."
+"Maybe. Yeah. She doesn't feel the same to me. She's all blurry, I can't really even hear what she's saying. It's her, but it's just... missing something? I don't know. I always get a headache when I go in there with you."
 
 "It just takes time. It's like typing, you just need to practice. It's like covering all the letters so you force your fingers to learn it. Except, it goes both ways. It has to learn your activation space and differentiate the signals." Sam said.
 
 "No, yeah. It hasn't really felt like that to me. But maybe it'll click one of these times." Ramona reasoned.
 
-"Yeah, of course. I've heard people learn it better if they start writing down their dreams after they wake up. Something to do with lucid dreaming. I saw Rahul in there, too." Sam side-eyed Ramona, gauging a reaction.
+"Yeah, of course. I've heard people learn it better if they start writing down their dreams after they wake up. Something to do with lucid dreaming. I can give Nan a few better examples to tune against, too. Not enough boring moments in her training set. They're just harder to remember."
+
+Sam drifted off, while Ramona looked out the window. Maybe some dull things *would* round Nan out a bit more. She's overfitting on all the anomalous moments of her that made it to long term memory for him. Her hug when he got dropped off there for good. Her face when he graduated. What boring memories of her could he add in? Watching that soap opera as he finished homework. Her naps in the recliner. He'd have to make a list. It made sense, what would Ramona be like if you just took her 100 best and worst days? He realized he'd been elsewhere.
+
+"I saw Rahul in there, too." Sam side-eyed Ramona, gauging a reaction.
 
 She just smiled "What did you two dorks do today, then, cosplay D-Day? Maybe the Children's Crusade?"
 
@@ -831,7 +835,7 @@ Sam watched over her shoulder. "It'll take an adjustment, we should talk to the 
 
 Ramona raised an eyebrow at that, just as they pulled up to the boys' school. The sun-bubble zipper merged into the pickup queue. The back row booster mat folded down in the back seat for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
 
-"How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window in his floppy hat. He was holding a small car in his hand that he hadn't had that morning. Stevie lowered his hood and pulled his mesh beanie from his backpack.
+"How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window in his floppy hat. He was holding a small car in his hand that he hadn't had that morning. Stevie threw his hood back and pulled his mesh beanie from his backpack.
 
 "Who was your tutor, today, Stevie?" Sam pressed.
 
@@ -839,7 +843,8 @@ Ramona raised an eyebrow at that, just as they pulled up to the boys' school. Th
 
 "Twenty minutes." replied Sam automatically. He added "safe sandbox only," in unison with Ramona. Clyde yawned, still gazing out the window.
 
-""
+***TODO*** talk about job offer here
+1. end with ramona follow his lead. She just wants him to do it with them. It doesn't matter what it is.
 
 "Balafalave," Stevie mumbled. He had been getting better internalizing his virtual space speech, but still occasionally verbalized externally. He didn't seem to have noticed he had spoken aloud.
 
