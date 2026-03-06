@@ -781,23 +781,27 @@ He emptied his liter of water, then went upstairs to refill and meet Ramona for 
 
 --------------------------------------
 
-Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and was into the airlock. Ramona was just pulling up in a sun-bubble when he got to the bottom of the steps.
+Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and stepped into the airlock. Ramona was just pulling up in a sun-bubble when he got to the bottom of the steps.
 
-The clear doors slid open for Sam and he scooted beside Ramona in the booth seats. He placed his backpack next to hers on the table and went to kiss her on the cheek. Ramona playfully turned her head at the last second to escalate into a "lippies kiss", as Clyde called it. The sunbubble gently accelerated once he was buckled.
+The clear doors slid open for Sam and he scooted beside Ramona in the booth seats. He placed his backpack next to hers on the table and went to kiss her on the cheek. Ramona playfully turned her head at the last second to escalate into a "lippies kiss", as Clyde called it. The sun-bubble gently accelerated once he was buckled.
 
 "I saw a video of a beekeeper once during a lecture, I think she was wearing your hat." Ramona chided Sam.
 
-"We all can't pull off the derby hat, my dear. You look nice." Sam replied, placing his hat on the table and removing his glasses. The roof had already transitioned to opaque in the afternoon sun. "How is Tina doing?"
+"We can't all pull off the derby hat, my dear. You look nice." Sam replied, placing his hat on the table and removing his sunglasses. The roof had already transitioned to opaque in the afternoon heat. "How is Tina doing?"
 
-Ramona followed suit, stacking her hat on Sam's. "You're very sweet. She was in really good spirits today. We were able to talk for a few minutes near the new trailhead. It opens officially next month. I think she's ready for the build to be finished. The new welcome center passed inspection today, thank God. Her guy said everything is set up with the electrical, they should be able to ramp their export from the main panel gradually over a few weeks. Will you join for the first trip?"
+Ramona followed suit, stacking her hat on Sam's. "You're very sweet. She was in really good spirits today. We were able to talk for a few minutes near the new trailhead. It opens officially next month. I think she's ready for the build to be finished. The new welcome center passed inspection today, thank God."
+
+"That's great. So, that's it then? Panel is all checked out, too?"
+
+"The inspector barely even looked at the thing. Just made sure there were labels. Tina's guy said everything is set up with the electrical, they should be able to ramp their export from the main panel gradually over a few weeks. Will you join for the first trip?"
 
 "I don't see why not. Are you ready to be back?" Sam placed a hand over hers.
 
-"It's been a really long time. It will be really weird to be back. I'd really like you there with me." She squeezed his hand.
+Ramona opened her mouth to respond, then paused. After a few seconds she finally spoke. "It's been a really long time. It will be really weird to be back. I'd really like you there with me." She squeezed his hand.
 
 Sam squeezed back. "I'd be honored. So, it's all set, then? How long will we have?"
 
-"The trail covers 15 square kilometers, it overlaps perfectly with a section of the chambers. Anytime during visiting hours we should have the green light. We'll start with 2-3 hours at first. You have a line to that geolocation anomaly guy still, right? He can ping us if we trip an alarm."
+"The trail covers 15 square kilometers. It overlaps perfectly with a section of the chambers. Anytime during visiting hours we should have the green light. We'll start with 2-3 hours at first. You have a line to that geolocation anomaly guy still, right? He can ping us if we trip an alarm."
 
 "He's AI, technically. One of Dorothea's colleagues, actually. I haven't met his avatar, but I've never had any issue with his reports so far. Do you want me to meet him?"
 
@@ -805,19 +809,19 @@ Sam squeezed back. "I'd be honored. So, it's all set, then? How long will we hav
 
 "Weird, actually. I need to adjust the loss function a bit I think. I'm more worried about the energy export, I'll keep digging on that. We're going to have to be very careful to only discharge during occupied hours, and never too much to warrant extra attention. I saw Grandma for a bit, too."
 
-"How was that?" Ramona squished her face a bit. 
+"How was that?" Ramona scrunched her face. 
 
 "It was fine. She was stuck in another loop. Another thing I need to fix. You should visit her with me again, sometime." Sam hadn't had the best of luck getting Ramona to join him in virtual space. She threw up the first time and rarely joined him these days. She was so busy with the kids, but now that he was home, maybe.
 
 "Maybe. Yeah. She doesn't feel the same to me. She's all blurry, I can't really even hear what she's saying. It's her, but it's just... missing something? I don't know. I always get a headache when I go in there with you."
 
-"It just takes time. It's like typing, you just need to practice. It's like covering all the letters so you force your fingers to learn it. Except, it goes both ways. It has to learn your activation space and differentiate the signals." Sam said.
+"It just takes time. It's like typing, you just need to practice. Remember covering all the letters so you force your fingers to learn it? Except, it goes both ways. It has to learn your activation space and differentiate the signals." Sam said.
 
 "No, yeah. It hasn't really felt like that to me. But maybe it'll click one of these times." Ramona reasoned.
 
-"Yeah, of course. I've heard people learn it better if they start writing down their dreams after they wake up. Something to do with lucid dreaming. I can give Nan a few better examples to tune against, too. Not enough boring moments in her training set. They're just harder to remember."
+"Yeah, of course. I've heard people learn it better if they start writing down their dreams after they wake up. Something to do with lucid dreaming. I can give Nan a few better examples to tune against, too. I should add some more dull, regular moments into her training set. They're just harder to remember."
 
-Sam drifted off, while Ramona looked out the window. Maybe some dull things *would* round Nan out a bit more. She's overfitting on all the anomalous moments of her that made it to long term memory for him. Her hug when he got dropped off there for good. Her face when he graduated. What boring memories of her could he add in? Watching that soap opera as he finished homework. Her naps in the recliner. He'd have to make a list. It made sense, what would Ramona be like if you just took her 100 best and worst days? He realized he'd been elsewhere.
+Sam drifted off, while Ramona looked out the window. Maybe some dull things *would* round Nan out a bit more. She's overfitting on all the anomalous moments of her that made it to long term memory for him. Her hug when he got dropped off there for good. Her face when he graduated. What boring memories of her could he add in? Watching that soap opera as he finished homework. Her naps in the recliner. He'd have to make a list. It made sense, what would Ramona be like if you just took her 100 best and worst days? He glanced over at her, realizing he'd been elsewhere.
 
 "I saw Rahul in there, too." Sam side-eyed Ramona, gauging a reaction.
 
@@ -825,28 +829,28 @@ She just smiled "What did you two dorks do today, then, cosplay D-Day? Maybe the
 
 "Yeah, yeah, yeah, I know. It was good to see him, though." Sam said.
 
-"I'm only teasing. It does sound like you did a lot of things that aren't finding us somewhere to live, though. So, do I need to mentally prepare for the shelter?" Ramona asked.
+"I'm only teasing. It does sound like you did a lot of things besides finding us somewhere to live, though. So, do I need to mentally prepare for the shelter?" Ramona asked.
 
 Sam swiped to the link and passed his device to her. "I almost forgot! Yes. I mean, no. I mean, I got a place. Same school, everything else you asked for. I scheduled the movers for tomorrow at 10am after drop-off, should be done by pick-up."
 
-"That's a relief. This looks great." Ramona exhaled slowly as she fast forwarded through the virtual tour.
+Ramona exhaled slowly as she fast forwarded through the virtual tour. "That's a relief. This looks great."
 
-Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about an unexpected job offer. Last minute, I know, but there's a 24 hour grace period where we could withdraw the offer on the space." 
+Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about an unexpected job offer. Last minute, I know, but there's a 24 hour grace period where we could withdraw the offer on the space. We wouldn't have to go down a tier at all." 
 
-Ramona raised an eyebrow at that, just as they pulled up to the boys' school. The sun-bubble zipper merged into the pickup queue. The back row booster mat folded down in the back seat for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
+Ramona raised an eyebrow at that, just as they pulled up to the boys' school. The sun-bubble zipper merged into the pickup queue. The back row booster mat folded down automatically for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
 
-"How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window in his floppy hat. He was holding a small car in his hand that he hadn't had that morning. Stevie threw his hood back and pulled his mesh beanie from his backpack.
+"How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window in his floppy hat. He was holding a small car that he hadn't had that morning. Stevie threw his hood back and pulled his mesh beanie from his backpack.
 
 "Who was your tutor, today, Stevie?" Sam pressed.
 
 "Ms. Ortiz on Wednesdays. She's nice. Can I call Otis?" He was already sliding the cap on and over his eyes.
 
-"Twenty minutes." replied Sam automatically. He added "safe sandbox only," in unison with Ramona. Clyde yawned, still gazing out the window.
+"Twenty minutes," replied Sam automatically. He added "safe sandbox only," in unison with Ramona. Clyde yawned, still gazing out the window.
 
 ***TODO*** talk about job offer here
 1. end with ramona follow his lead. She just wants him to do it with them. It doesn't matter what it is.
 
-"Balafalave," Stevie mumbled. He had been getting better internalizing his virtual space speech, but still occasionally verbalized externally. He didn't seem to have noticed he had spoken aloud.
+"Balafalave," Stevie mumbled. He had been getting better at internalizing his virtual space speech, but still occasionally verbalized externally. He didn't seem to have noticed he had spoken aloud.
 
 Sam and Ramona smiled to each other at that. Ramona glanced over at Clyde. He had slumped back into his seat and was snoring softly.
 
