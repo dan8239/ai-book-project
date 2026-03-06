@@ -771,7 +771,10 @@ Glenn raised an eyebrow at that. "Quant blitz. Very interesting. *Very* interest
 
 Sam's alarm was going off. Dissonant jazz piano crescendoed nearly subliminally over his audio. It was 4:45 already.
 
-Sam stood to go. "This is probably way too candid, but I'm not sure I even want this contract. I told my wife *and* Dorothea I was done looking. I've been going non-stop for too long. I haven't found joy in my work in years. I'm just not sure you want to put all your eggs in this basket for such a critical project."
+Sam stood to go. "Look, I appreciate the pitch, but you should know what you're getting. I told my wife and Dorothea both that I was done looking. I'm not the guy who solves species-level problems. I'm the guy who's been staring at a wall for six months trying to remember
+  why he liked any of this.
+
+This is probably way too candid, but I'm not sure I even want this contract. I told my wife *and* Dorothea I was done looking. I've been going non-stop for too long. I haven't found joy in my work in years. I'm just not sure you want to put all your eggs in this basket for such a critical project."
 
 Glenn smiled at that, an almost cartoonish, emoji grin. "I wouldn't worry about that too much. Many eggs, many baskets, my friend. Why don't you sleep on it, I'll send over the smart contract. Let me know in the next 24 hours."
 
