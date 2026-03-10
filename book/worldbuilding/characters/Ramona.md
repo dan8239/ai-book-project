@@ -57,6 +57,11 @@ Her boyfriend was still down there. Her father went back for him. They found bot
 - Her sister (20-year separation)
 - Her boyfriend (though she doesn't mourn him)
 
+### Gardening hobbies
+
+She's grounded. She likes the earth. She enjoys regular human things. She likes history. She doesn't like virtual space or tech.
+
+
 ### The Boyfriend
 
 Sam doesn't bring it up. Ever.

@@ -12,7 +12,7 @@ Sam is from Rossland. Grew up there. Still lives there with his family.
 
 He works remotely — lives in the clouds (metaverse) more than the physical world. Barely notices the dying ski town around him, the changed ecosystem, the faded grandeur. He's always in meetings, always optimizing, always somewhere else.
 
-Met [[wife|Ramona]] there. She's from the legacy human settlement in the mountain. The H₂S incident forced her above-ground for medical care. She ended up in Rossland. They met. She stayed.
+Met [[Ramona|Ramona]] there. She's from the legacy human settlement in the mountain. The H₂S incident forced her above-ground for medical care. She ended up in Rossland. They met. She stayed.
 
 The irony: he lives in one of the most interesting physical places on Earth — and barely sees it. The legacy humans 500m below him are more present in the physical world than he is.
 
@@ -284,7 +284,7 @@ He doesn't need the money. They're wealthy — first-generation, self-made. Ramo
 Nobody grinds for 50 years anymore — most people don't have to work at all. Energy covers life support, food, healthcare, education. You work for extra credits and elective use. Sam has more than enough. He works because he needs the proof that he matters.
 
 ## Relationships
-- **Wife:** [[wife|Ramona]] - pregnant with 3rd child
+- **Wife:** [[Ramona|Ramona]] - pregnant with 3rd child
 - **Children:** Stevie (9), Clyde (4), + 1 on the way (3rd is taboo/penalized — surcharge, social judgment)
 - **Closed-system aquarium:** Gift for Clyde later in the story. Ramona sets it up. Clyde doesn't understand it's a closed system, wants to feed the fish. Aquarium mirrors the mountain, mirrors colonization.
 

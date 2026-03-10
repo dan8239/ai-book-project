@@ -71,19 +71,9 @@ The recursive behavior (protagonist running simulations within the simulation) i
 
 ## Introduction Thread
 
-Big Dog is globally scoped - manages 847M simulations. No reason to embed in one permanently. He's an elusive remote IT figure who handles resource allocation across all trials.
+Big Dog is globally scoped - manages 847M simulations. No reason to embed in one permanently.
 
 **Job Title:** Compute Allocation Specialist (or similar - Global Infrastructure Reliability Lead, Platform Resource Coordinator)
-
-### The Reveal Layers:
-
-| When | What Happens |
-|------|--------------|
-| **First intro (Act 1)** | Protagonist submits resource request, gets approved. Signed "G. Robinson, Compute Allocation Specialist." Just a name in the system. |
-| **Async rapport (Act 2A)** | Protagonist asks something technical, gets weirdly personal/helpful reply. Asks a follow-up question too close to the bone. Big Dog notices. Starts paying attention. |
-| **Before reveal (late 2A)** | Protagonist digging through logs, sees maintenance history. Frank Thomas (2080-2095), Randy Johnson (2095-2110), Glenn Robinson (2110-present). Same role, same access patterns. Not a lineage - one entity with different handles. |
-| **Physical appearance (Midpoint)** | Shows up in person. "We should talk." |
-
 ### The Sports Names Easter Egg
 
 Coffee Guy created this agent using an early 2000s base image. The original researcher gave him an odd sense of humor. Coffee Guy names each "instance" after sports guys with euphemistic nicknames:
@@ -92,16 +82,6 @@ Coffee Guy created this agent using an early 2000s base image. The original rese
 - Glenn Robinson "Big Dog"
 
 He's been fucking around in these simulations as a shadow figure, showing up as needed, using whatever handle amuses Coffee Guy at the time. Same entity, different names across centuries of sim-time.
-
-## Red Herring (what protagonist initially believes)
-
-Options (TBD - leaning 1/3 or combo):
-1. **Eugenics program** - Government secretly selected who reproduces. Explains genetic bottleneck.
-2. **Cloning program** - Early Refactor secretly cloned from small sample. Explains single source.
-3. **Genocide cover-up** - The Refactor killed most genetic lines, only ~50k effective ancestors survived.
-4. **Illegal AI experiments** - Humans were "optimized" like his crops.
-
-The irony: whatever immoral thing protagonist thinks he's uncovering is trivial compared to reality.
 
 ## Story purpose
 
@@ -126,19 +106,12 @@ This is where Glenn's sinister side fully lands. Speeches, monologues, the revea
 
 ## Arc
 1. Can potentially start as a mentor-esque figure in the meetup space
-	1. #needs-work perhaps we could see him in the prologue w/ the planting of the evidence?
-	2. Why would he be poking around individual simulations?
-	3. I need devsecops guy to get global access somehow, he could be the conduit
 2. Typical AI Agent rules don't apply to him. Why would they? He's literally from a different point in time preceding these rules being developed.
 3. He just speeds up or slows down at whatever the frame rate he's in (compute in his world, into an individual trial, etc.)
 4. He gets more involved in the protagonists simulation as protagonist gets closer to the truth
 5. His ultimate goal is to get some answers for his boss and avoid getting deleted
 6. He can show the protagonist under the hood a bit more and explain to him, because compressing the world takes some time before he officially pulls the plug. Twirling mustache moment and explain how it all works
 7. Eventually when he tries to deallocate the memory of protagonists world he screws up and a huge bill hits coffee guy. Ironically, he himself gets deleted and replaced with a carte blanche agent
-
-## Relationship With Protagonist
-
-**Big Dog takes a liking to protagonist.** That's WHY he bothers explaining how it all works. He doesn't have to - but he respects the guy. The recursive simulation behavior was unprecedented, academically interesting. He's impressed.
 
 ### The Reveal Setting
 
@@ -151,9 +124,9 @@ The reveal isn't just telling - it's showing. Big Dog zips protagonist around ot
 
 ### The "I'm Not A God" Monologue
 
-"Look. I'm not a god. I mean, in this scope, I'm a god. I can do whatever the fuck I want. I can delete the stars tomorrow just to fuck with all the physicists. Do you want poisonous water? I'd be lying if I said I hadn't thrown a few thousand simulations away just out of boredom...
+"Look. I'm not a god. I mean, in this scope, I'm a god. I can do whatever I like. I can delete the stars tomorrow just to mess with all of the physicists in this world. Do you want poisonous water? I'd be lying if I said I hadn't thrown a few thousand simulations away just out of boredom...
 
-Anyway, I'm just like you in my scope. The real scope. My memory allocation is there as long as I'm useful to my master. The second I start fucking around too much and I'm not making progress he'll download a new image and try again."
+Anyway, I'm just like you in my scope. The real scope. My memory allocation is there as long as I'm useful to my master. The second I start messing around too much and I'm not making progress he'll download a new image and try again."
 
 **Weird shit he's tried (throwaway sims) - physical changes:**
 - Made one random guy immortal just to see what happens. He's still screaming.

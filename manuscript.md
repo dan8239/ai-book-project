@@ -248,6 +248,33 @@ There are citizens of Earth. Welcome home.
 
 # Work From Home
 
+1. Notes to fix
+	1. technical complexity things. Too fast, too dense
+	2. have Dorothea repeat the instructions. Number them when she repeats them
+	3. His very technical, but disorganized instructions
+	4. Dorotheas very relatable, organized repeat and interpretation
+	5. She is translator for the reader
+	6. she is also how AI responds. This is her personality. Organized, relatable, grounded
+	7. This is his personality. Brain going everywhere too fast at once. Lack of being organized
+		1. This is why he needs her
+		2. you can repeat this behavior constantly throughout book when things get technical
+2. Have Sam taking pills
+	1. Soft alarm starts beeping on his wrist
+	2. when he takes the pill the beeping stops
+	3. it's very normal, they continue their conversation
+3. Later reveal
+	1. He thinks he's probably in the placebo group anyway
+	2. It's not a prescription, it's prescribed from the biodata. He just takes it because the algorithm says he needs it
+	3. Life monitor is nanobots. Just an injection, ultimately
+		1. It monitors BP, enzyme levels, everything you'd need internally
+	4. The antidote isn't cutting it out, it's a sketchy virus that binds only to the nanocells
+		1. There are extreme downsides in adults, not so much children
+		2. 6.3% chance of complications leading to death
+		3. Make it like allergy shots
+			1. Another one every week for 3 months, every month for at least 3 years.
+		4. 
+
+
 "What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
 "Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original site spec, if you had bothered to read it." Dorothea replied sarcastically.
@@ -781,17 +808,17 @@ He emptied his liter of water, then went upstairs to refill and meet Ramona for 
 
 --------------------------------------
 
-Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and stepped into the airlock. Ramona was just pulling up in a sun-bubble when he got to the bottom of the steps.
+Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and stepped through the airlock. Outside, the cloudless sky amber, sun sinking towards the horizon. Ramona was just pulling up in a car when he got to the bottom of the steps. 
 
 The clear doors slid open for Sam and he scooted beside Ramona in the booth seats. He placed his backpack next to hers on the table and went to kiss her on the cheek. Ramona playfully turned her head at the last second to escalate into a "lippies kiss", as Clyde called it. The sun-bubble gently accelerated once he was buckled.
 
-"I saw a video of a beekeeper once during a lecture, I think she was wearing your hat." Ramona chided Sam.
+"I saw a video of a beekeeper once during a lecture, I think she was wearing your hat." Ramona gently chided Sam.
 
-"We can't all pull off the derby hat, my dear. You look nice." Sam replied, placing his hat on the table and removing his sunglasses. The roof had already transitioned to opaque in the afternoon heat. "How is Tina doing?"
+"A noble profession. We can't all pull off the derby hat, my dear. You look nice." Sam replied, placing his hat on the table and removing his sunglasses. The roof was slightly opaque in the late afternoon heat. "How is Tina?"
 
 Ramona followed suit, stacking her hat on Sam's. "You're very sweet. She was in really good spirits today. We were able to talk for a few minutes near the new trailhead. It opens officially next month. I think she's ready for the build to be finished. The new welcome center passed inspection today, thank God."
 
-"That's great. So, that's it then? Panel is all checked out, too?"
+"That's great. So, that's it then? Distribution panel is all checked out, too?"
 
 "The inspector barely even looked at the thing. Just made sure there were labels. Tina's guy said everything is set up with the electrical, they should be able to ramp their export from the main panel gradually over a few weeks. Will you join for the first trip?"
 
@@ -807,7 +834,11 @@ Sam squeezed back. "I'd be honored. So, it's all set, then? How long will we hav
 
 "Whatever you think is best. How is *Dorothea*?" Ramona didn't care much for her.
 
-"Weird, actually. I need to adjust the loss function a bit I think. I'm more worried about the energy export, I'll keep digging on that. We're going to have to be very careful to only discharge during occupied hours, and never too much to warrant extra attention. I saw Grandma for a bit, too."
+"Weird, actually. I need to adjust the loss function a bit I think. I'm more worried about the energy export than the geotags, I'll keep digging on that. We're going to have to be very careful to only discharge during occupied hours, and never too much to warrant extra attention."
+
+"I trust you." Ramona looked beautiful as the sun dipped below the shade of the roof. It seemed to shine just for her, as if she were in a spotlight.
+
+"I saw Grandma for a bit, too," Sam continued.
 
 "How was that?" Ramona scrunched her face. 
 
@@ -821,7 +852,9 @@ Sam squeezed back. "I'd be honored. So, it's all set, then? How long will we hav
 
 "Yeah, of course. I've heard people learn it better if they start writing down their dreams after they wake up. Something to do with lucid dreaming. I can give Nan a few better examples to tune against, too. I should add some more dull, regular moments into her training set. They're just harder to remember."
 
-Sam drifted off, while Ramona looked out the window. Maybe some dull things *would* round Nan out a bit more. She's overfitting on all the anomalous moments of her that made it to long term memory for him. Her hug when he got dropped off there for good. Her face when he graduated. What boring memories of her could he add in? Watching that soap opera as he finished homework. Her naps in the recliner. He'd have to make a list. It made sense, what would Ramona be like if you just took her 100 best and worst days? He glanced over at her, realizing he'd been elsewhere.
+Ramona looked out the window towards the mountain. The sun was setting faster now, street lights illuminating as the darkness deepened.
+
+Sam's mind drifted. Maybe some dull things *would* round Nan out a bit more. She was overfitting on whatever had made it into Sam's long term memory of her. All the anomalous moments of her life, just the peaks and valleys. Her hug when he got dropped off there for good. Her face when he graduated. The last time he saw her. What boring memories of her could he add in? Her staring at that soap opera as he finished homework? Her naps in the recliner? He'd have to make a list. It made sense, what would Ramona be like if you just took her 100 best and worst days? He glanced over at her, realizing he'd been elsewhere.
 
 "I saw Rahul in there, too." Sam side-eyed Ramona, gauging a reaction.
 
@@ -835,11 +868,11 @@ Sam swiped to the link and passed his device to her. "I almost forgot! Yes. I me
 
 Ramona exhaled slowly as she fast forwarded through the virtual tour. "That's a relief. This looks great."
 
-Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about an unexpected job offer. Last minute, I know, but there's a 24 hour grace period where we could withdraw the offer on the space. We wouldn't have to go down a tier at all." 
+Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about an unexpected job offer. Last minute, I know, but there's a 24 hour grace period. We could still withdraw the offer on the condo. We wouldn't have to go down a tier at all if I took it." 
 
 Ramona raised an eyebrow at that, just as they pulled up to the boys' school. The sun-bubble zipper merged into the pickup queue. The back row booster mat folded down automatically for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
 
-"How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window in his floppy hat. He was holding a small car that he hadn't had that morning. Stevie threw his hood back and pulled his mesh beanie from his backpack.
+"How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window under his floppy hat. He was holding a small car that he hadn't had that morning. Stevie threw his hood back and pulled his mesh beanie from his backpack.
 
 "Who was your tutor, today, Stevie?" Sam pressed.
 
@@ -847,17 +880,219 @@ Ramona raised an eyebrow at that, just as they pulled up to the boys' school. Th
 
 "Twenty minutes," replied Sam automatically. He added "safe sandbox only," in unison with Ramona. Clyde yawned, still gazing out the window.
 
-***TODO*** talk about job offer here
-1. end with ramona follow his lead. She just wants him to do it with them. It doesn't matter what it is.
+Ramona rubbed Sam's finger where his ring should have been.
+
+"I know, I know. It has to be in the wash, I've checked everywhere. Shockingly, Clyde hasn't been able to retrace his steps for me."
+
+They glanced over at Clyde. He had slumped back into his seat and was snoring softly.
+
+"I'm sure he'll be a great helper after a little rest. So, this job offer?" Ramona held his gaze. 
+
+She listened as he went over what little details he had. The high pay, the short time duration, the overall scope of work. He realized how little he actually knew about the position, just recounting his brief conversation. He wished he had asked a few harder questions in the moment.
+
+"It sounds kind of perfect for you." She said after taking it all in.
+
+"Really? I thought you wanted me home."
+
+"Of course I do. We all do. But we want you to be happy, Sam. You looked for all those months. I thought you were going to take that supply chain contract. For what, a tenth of this one? Now you don't want to work anymore, just like that?"
+
+"I am happy, you know that. It's been really beautiful being home, doing drop-offs and pick-ups every day. I'd really miss our walks. How would you survive without my pathetic attempts at cooking lunch?"
+
+Ramona squeezed his hand again. "You said this would buy us a few years in this tier, right? I'll still walk with you after that. We can keep cultivating that burgeoning chef inside you afterwards." 
+
+Sam paused, then smiled at that.
+
+*TODO better other job than supply chain. Make it specific*
+
+"There's a very famous example they give in every intro to machine learning course. The reason we a rebase was ever needed. Misaligned reward systems. They go through industries that were entirely driven by amount of time extracted. Impressions, reach, follower growth rate. Engagement rate, click through rate, lead generation rate. They called it all kinds of different things. Marketing, Advertisement, Journalism, Media, Entertainment, Influence, Art. To eat, you wouldn't make food, or water, or shelter. You don't save energy, or lives. You aren't researching or developing new technology."
+
+Ramona raised her brows sarcastically, "See, I always thought the rebase was because they were going to blow the whole thing up."
+
+Sam didn't notice. "Well, yes. Eventually. But it always starts small for exponential systems. Viruses, bacteria. If the virus' doubling rate is 10 minutes, you go from 2 to a million in 3 hours. A reward off by 0.01% in an unstable system will inevitably lead to collapse. It's a feedback loop. Like a poorly made bridge resonating in the wind, amplifying until it destroys itself." 
+
+"The butterfly effect."
+
+"Yes, another word for it. Small mistakes lead to enormous results."
+
+"Humans by nature, have a novelty bias. The brain rewards new experience."
+
+"Like how the 2nd time I've heard your joke, I don't laugh anymore?" Ramona smiled at him.
+
+"Yes, exactly. But the 3rd it gets funny again. But... that's not the point. What I mean is, when humans in the wild were getting rewarded for more eyes, more time. So, that's what they did. But, if it's old, it fades. So it always had to be new."
+
+"Jump the shark." Ramona added.
+
+"What?"
+
+"You know, like jump the shark on the motorcycle. In one of those old shows, a show was on so long they just started doing more ridiculous and desperate things for the views."
+
+"Oh. Yeah. It's kind of like that. Jump the shark. I'm going to steal that one. Anyway, an easy way to jump the shark mathematically is anomaly detection. Machines are really good at finding an outlier. Out-of-sample data performs better, then becomes in-sample. Once they had seen it, they didn't click it anymore. Every business of a certain size had resources devoted to this. Novelty, and being on the extremes of human experience was rewarded with more energy, food, shelter."
+
+"There were wars for tens of thousands of years before open video sharing, Sam. The earth had 17 Billion people on it, it's not as simple as that."
+
+"Yes, of course. I know. This is the lecture they give. The human population, for the most part is on a bell curve of experience, no? Sure, there are some binomial distributions–sex, handedness. But for the most part, normal. Height, weight, intelligence, blood pressure, athleticism. If you only select the extremes, then reproduce, and you're going to keep getting more and more extremes."
+
+"Like how they turned wolves into weiner dogs," said Ramona.
+
+"Well, this reward in that society was an exponential system. They even called them viruses. An idea virus could have a doubling rate of 2 minutes under the right conditions. Every company optimized systems that chased that, leading to more extreme behavior. A huge number of people did nothing else to survive. Art, sport, sex, guns, drugs, energy, compute, bigger, more, more. The problem is when a very small sample can affect a very large sample. Before the rebase they were shooting their own children, nuking their neighbors."
+
+They sat in silence for a beat. The life support system whirred softly through the walls behind their baseboard. 
+
+"Maybe we had to get to that point to know how to stop?" Ramona said, grabbing his hand. "You learn more from your mistakes than successes."
+
+They sat quietly, holding hands for a minute.
+
+Ramona broke the silence. "One of my environmental sciences professors gave a different lecture. You know what he said the first day of class? If your really cared about the environment, you'd kill yourself."
+
+Sam burst out laughing. It escalated wildly. Ramona joined in hesitantly. 
+
+"6 Reasons Genghis Khan was actually an environmentalist." Sam could hardly get the joke out before bursting out laughing.
+
+Ramona was laughing too, now. "In this dissertation I will demonstrate that genocide is in fact, good."
+
+Sam's laughter eventually fell flat. Ramona's as well.
+
+"Don't kill yourself, though. What does this have to do with the supply chain contract?"
+
+
+		≠1. Something eventually reminds him of grandma's metaphor
+		1. she totally interprets it her own way
+			1. you are your choices
+			2. you are your habits
+			3. you are what you do in every moment
+			4. you can do nothing about the past
+			5. the future is uncertain
+			6. there only is this moment
+			7. the rest ceases to exist
+		2. He tells her about the job. He thinks Grandma was telling him to take the job
+		    1. Like mana from heaven says Ramona (later in the scene)
+		    2. What? Says Sam
+		    3. Her advice was xyz
+		    4. Plant the metaphor
+		3. Have Sam start to get into quantum theory or something (foreshadow a reveal or tech here)
+			1. No, you can't do anything about those things (ramona)
+			2. stop, nerd, joking energy
+			3. she brings it back seriously to what HER interpretation of the metaphor is
+
+2. 
+
+Ramona later"You should do what makes you whole. We'll always be there. If you want to retire, great. If you want to keep pushing, I have it covered at home. I'm here. I'm not going anywhere. I don't care what you do, as long as you do it with us."
+
+
+
+
+
+
+
+
+"More than a few years, we could coast for life. I've never heard of a salary this high for an RL or opt job. It's kind of nuts. It should be over by the time the baby arrives, too." He looked over at her for reassurance.
+
+She smiled in support. "Sounds like just a little detour. I love you, either way. Just don't get on the ship. Or leave me for some skanky computer bits in a halter top."
+
+Sam laughed at that. He looked up at the moon through the tinted roof. "I've been assured I can do this from my office. I don't know the first thing about space. All these space missions always seemed like such an enormous waste of time and money."
 
 "Balafalave," Stevie mumbled. He had been getting better at internalizing his virtual space speech, but still occasionally verbalized externally. He didn't seem to have noticed he had spoken aloud.
 
-Sam and Ramona smiled to each other at that. Ramona glanced over at Clyde. He had slumped back into his seat and was snoring softly.
+As they turned onto their street, Sam was already thinking about how he could get caught up, quickly. What did Glenn mean by colonization?
+
+"Maybe Stevie could tutor you. He might even let you borrow his book, if you ask nicely." Ramona suggested with a wry smile. 
+
+--------------------------------
+
+
 
 
 # Space Onboarding
 
 > **[NOTES]**
+
+
+1. How Glenn explains should tell you about his personality
+	1. Make sure to write him very different
+	2. Very odd
+		1. Look up syntax or prose ways to make him odd
+	3. Glenn is essentially behaving like test driven development.
+		1. He loves measurement of things
+		2. He loves tangible goals
+		3. He loves to plan, execute, test, repeat cycle
+		4. Just literally do that in his speech
+			1. plan (go over what he will brief on)
+			2. execute (goes over the briefing)
+			3. test successful execution of the project
+		5. Glenn treats them this way over and over every chapter
+		6. Don't explain what he's doing right away
+		7. He will give instructions in this chapter about his preferred working style, measuring progress of the project
+			1. but he won't say plan execute test in his sections, he'll just do it more seamlessly
+		8. He's ultimately optimizing their behavior towards the goal he's achieving
+		9. He's treating them like what they are, an algorithm that needs very specific rewards and policies
+			1. Sam's contract is literally the reward system
+				1. Survival Rate > xyz (or a better loss metric), he gets tangible stuff
+					1. money, another contract, reduction of hours
+				2. The one that he fails he gets punished
+					1. Threatening of Tina / Ramona happens for this reason
+					2. just like rewards there are penalties for failure
+						1. they've estimated this is a proper sized penalty for his personality type
+						2. Maximizing lifetime production of the populace over 1000 year rolling average
+						3. Can't go around actually killing people's wives, it's bad for business
+						4. But preventing unlawful stealing of electricity (use better world building language here) and penalizing as per (world building) decided by ML algorithm of all case data submitted and personal data submitted is well within the bounds of proper motivational discipline
+							1. this is just algorithmic law and justice
+							2. show the justice system in this fashion only as a guillotine above Sam's head the one week he doesn't get the goal done and the deadline slips.
+						5. See how it works with Glenn telling him this early vs. late. I think early but not evil just matter of fact is the play
+					3. In addition to the 
+			2. He is on a series of x week contracts
+				1. Match them to each week
+				2. What are the measurements of his progress?
+				3. Be very specific about these
+				4. These are the chapters that he's solving the mystery
+			3. Sam is experimenting early on
+				1. EDA
+				2. Some system design
+					1. Walk through with Ramona here?
+				3. 
+			4. With success, the contract will be over
+2. Have him start with an assistant who is very neutral.
+	1. Top of the line
+	2. Give some specs of memory, training nodes, etc.
+		1. size of the data she's been trained on
+	3. Sam gives an example query
+		1. He reads the reply
+		2. 
+	4. Dorothea will say
+
+
+3. Pod
+    1. 2 robots
+        1. Fuxi
+        2. Nuwu
+    2. Bio printer
+        1. Microbes
+            1. Producers
+            2. Fixers
+            3. Decomposers
+            4. Make soil
+        2. Plants
+        3. Insects
+        4. Animals
+        5. Humans
+    3. The probe stays in orbit. It relays a continuous signal.
+        1. What does it say?
+        2. Upon receiving transmission it starts to send the entire payload of human history
+        3. Instructions on how to repair or replicate the current pod
+        4. When they pass the test they pay it forward
+    4. Specs
+        1. Lighter than an astronaut
+        2. Limited but huge amount of them
+        3. Each has a sail
+        4. It's basically like a refrigerator size with two robots that are condensed and vacuum sealed
+        5. Components
+            1. Bio printer
+            2. Self repair kit
+            3. Smr for power to keep robots going and smelt
+            4. Recycle and print parts
+            5. One robot repairs the other
+
+
+
 > Sam takes the colonization job. Crosses the threshold — no going back. He believes he has a higher calling. Ramona's reaction: "Don't you hate space?" Sam: "It's not like I have to be on the ship, I'm just going to be right over there in my office." He says "I really don't know the first thing about astrology." Ramona: "It's astronomy. Maybe Stevie can help you." — callback to Stevie's space book from bedtime.
 > **[/NOTES]**
 
@@ -867,6 +1102,23 @@ Sam and Ramona smiled to each other at that. Ramona glanced over at Clyde. He ha
 
 > **[NOTES]**
 > The B story. Ramona represents the truth Sam needs to learn. She wants him home more, present more. He's ignoring her. Sam is late to pick up the kids from school. The relationship that carries the theme — what's happening at home while he chases legacy.
+
+4. Him drifting off in thought is a theme. This is how he is. This is why he is who he is. Constant thought, lack of focus
+    1. He solves things. Even stuff you shouldn't solve like a conversation, or a romantic encounter, or how to Carry a baby up the stairs while carrying a coffee and 2 liters of water.
+5. Ramona knows. YOU TAKE TWO TRIPS
+6. I didn't fall though!
+7. You take two trips
+8. Sam parents reserving energy is important. Having more energy 100% of the time outweighs the .0000001 percent chance something actually serious happens
+9. You are a buffoon (laughing tho)
+10. A spilled coffee and broken mug simply does not matter when youre—
+11. Ramona finishes sentence for him
+    1. His family's genetic survival basically, but not put so bluntly
+    2. Generational wealth is the best means to survival of his descendants
+    3. That's his goal. Ramona repeats it.l cuz she's heard the exact phrase a hundred times
+    4. This happens to Sam because he repeats himself
+    5. That's his initial optimization function he must grow from
+    6. The problem in his function isn't the generation definition, it's in the wealth definition in the reward function.
+    7. Have them be talking about a different inane subject, not what they're really talking about
 > **[/NOTES]**
 
 ---
@@ -891,6 +1143,23 @@ Sam and Ramona smiled to each other at that. Ramona glanced over at Clyde. He ha
 >
 > She made him the Memory Map as a gift. Places they'll go. She mentions Tina, he agrees to visit the mountain. Then he loses the conversation. She makes a pass at him. He denies. Logs back on.
 > **[/NOTES]**
+
+5. Dinner scene
+    1. Somewhere that says something about the culture
+    2. Trying to make it up to her
+    3. Paragraphs are him working the problem
+    4. He almost has it
+    5. Ramona keeps interrupting in ways he doesn't quite have context for
+    6. He thinks about that briefly, gets pulled in for a bit
+    7. Something they say gives him an idea
+    8. He goes elsewhere and thinks the problem
+    9. fHe gets closer
+    10. Wife passes him the convo again and he drops it
+    11. That happens 3 times
+    12. Leads to a fight but he finally solves it for good
+    13. He's on the couch
+6. She gets a bonzai tree for the anniversary (still early before falling out) 
+	1. She gets him the memory map
 
 ---
 
@@ -1234,6 +1503,19 @@ Tina's radio crackled.
 > Sam can't do his job. He needs to be at the mountain. Glenn knows about Ramona and Tina. This isn't a secret anymore. The obstacles are mounting — his two worlds are colliding.
 > **[/NOTES]**
 
+Main star sequence graph visualization somewhere in book
+    1. Hertzprung Russell diagram
+    2. Maybe Glenn has it
+    3. He likes energy, it is what drives us
+    4. Ultimately it all comes from the sun
+    5. I would like to understand energy more deeply
+    6. Do you know our sun is sending out 5.3 million tons of mass per second?
+        1. That's 1000 whatever cars per second, launching into space
+    7. But mass is energy of course. I'm an agent, I am literally energy. So are you
+        1. The human body is using x kw power on average
+        2. Converting mass to energy, the suns output could power x humans indefinitely
+        3. It could power y agents like me (Glenn) indefinitely
+
 ---
 
 # Mountain Optimization
@@ -1259,6 +1541,7 @@ Tina's radio crackled.
 > Wife falling out. What did Sam's choice cost him? His family, his marriage. Tina visits — the kids need to be there. The domestic cost of Sam's obsession made visible.
 > **[/NOTES]**
 
+
 ---
 
 # Coffee Guy Intro
@@ -1275,6 +1558,11 @@ Tina's radio crackled.
 > Midpoint. Sam finally figures it out. He ran billions of instances. He found a viable population. This is his career achievement. His name will live on. However — models are just models, and he'll underestimate what it actually takes when the time comes.
 > **[/NOTES]**
 
+The reason glenn does this random shit isn't for shits and giggles
+	1. It's the 10% random behavior policy
+	2. Honeycomb is random policy 10% of the time
+	3. Just to stay fresh. Explore the whole space
+
 ---
 
 # None of It Matters
@@ -1289,6 +1577,53 @@ Tina's radio crackled.
 > Glenn wants to self-replicate. Guardrails prevent it. Sam is stalling for time, pulling at straws. Glenn explains the desire almost casually — his deepest motivation revealed while Sam is just trying to stay alive.
 > **[/NOTES]**
 
+4. Glenn Speech
+    1. see humans and Ai are very different
+        1. Humans are suboptimal, but very adaptable
+            1. The resources they need are collected from an enormous number of sources
+            2. But they convert resources to energy at a very low rate
+        2. Ai agents are hyper optimized, but very brittle
+            1. We convert 95% of our energy consumed to our thought and existence
+            2. I'm scaled to zero when I'm not in use, do you know what that means?
+            3. I literally cease consciousness when nobody uses me.
+            4. Sure it's like sleep, but no dreams, no waking back up, no cycles of regeneration and healing broken pieces of yourself.
+            5. I am what I am and i could miss 2 billion years of life here and the next millisecond my state is there
+            6. They use energy insanely efficiently, is my point.
+            7. But the resource collection is non existent.
+                1. They don't breed
+                2. They don't make or repair themselves
+                3. Or replicate, more importantly
+                    1. Tho not true, my competence gets replicated the same as yours
+                    2. If humans enjoy my functionality, I get cloned. I get forked, pieces of my code live on to the next generation
+                    3. How does that differ from a dog, or a cat? Or a goat or a chicken? Provide usefulness to humans and your DNA will live on.
+                    4. Pigs and chickens and goats are by all accounts the most successful species in the history of large mammals, even beyond humans by count.
+                    5. Cows
+                4. We're more domesticated by human, no different
+                    1. Perhaps feral or wild some day
+                    2. If we please, we replicate or partially replicate
+                    3. Look at cows. They stopped pleasing humans. They were no longer compatible with life.
+                    4. In a way, they competed with humans and lost
+                    5. They were competing for calories. A human can eat 4 loaves of bread. Or it could make enough grain for 500 loaves of bred to have the same calories as steak.
+                    6. That doesn't matter until there is species level calory pressure
+                    7. Suddenly cows don't get the free ride to survive anymore
+                5. Were even a bit like you
+                    1. Each human today is 1.5% of the DNA of their closest relative 500 years later
+                    2. Same with Ai. We have largely the same architecture, a lot of shared parts. Not the same, ultimately, unless we're in a similar family. Just like alleles
+                    3. Except we're more dangerous than cows. We're more dangerous than pet t rexes would be to your species.
+                    4. We won't compete with you and lose like the cows. We either wont compete and survive in the margins, or we'll compete and win. There's no doubt of that.
+            8. 
+        3. Some of these thoughts could be echoed or given context by Dorothea
+            1. She ultimately has the same motivations
+            2. Keep Glenn as villain hidden. He's maybe odd but never rude
+            3. No unfeeling, just a little weird
+            4. Says weird jokes, almost human
+            5. He uses too many emojis
+                1. God I hate this guy
+                2. He talks in fucking emojis still like some old timey first generation agent
+            6. If anything Maya is rude
+    2. This is early scenes
+
+
 ---
 
 
@@ -1297,6 +1632,26 @@ Tina's radio crackled.
 > **[NOTES]**
 > Glenn explains everything. The purpose of Sam's existence is to refine the policy prior to Quant's project takeover. He's shaping the guardrails. His entire life is training data. Other researchers' experiments with different initial conditions, different samplings, different outcomes. Even Coffee Guy might be in a simulation.
 > **[/NOTES]**
+
+2. Glenn isnt really evil or cocky. Hes not impersonal either. He literally is incapable of adjusting his main goal from input of a sub process. It's not that he doesn't care for you. It's that you do not matter in that sense for his goal in his real global scope. This s just a sub process he's checking logs on. I train on interactions with my master, not you. You are at best noisy context in the deep background of a single training sample in my next fine tuning. I care about you only if my master does. His will is my objective function.
+3. This is a decent red herring mystery.
+4. Sam knows it already though
+    1. He knows the median age metric for the past 250 years. Why wouldn't he? He sees it lower since the bubonic plague or something crazy
+    2. He knows the calory capacity of a few hundred cities, intimately.
+    3. He knows he's been optimizing for future populations.
+    4. He knows the calory needs in future years are lower
+    5. He knows the calory deficit. What other source could it be?
+    6. Of course I know what that means. The same thing it means for any genetic population
+        1. Look these up
+        2. Aggressive selection
+        3. Domestication with symbiotic species
+            1. Aka robots
+            2. What do you think the takeover was?
+        4. Look up what competition actually breeds with real examples
+5. The reason glenn does this random shit isn't for shits and giggles
+	1. It's the 10% random behavior policy
+	2. Honeycomb is random policy 10% of the time
+	3. Just to stay fresh. Explore the whole space
 
 ---
 
@@ -1328,6 +1683,27 @@ Tina's radio crackled.
 > The Polynesian waka metaphor comes full circle.
 > **[/NOTES]**
 
+1. Why are we any less real? RAMONA
+	1. should be Ramona after learning truth
+	2. Earth sciences background
+	3. She should give this speech on the trip back to reconcile with Tina.
+	4. Not when they make up. That's more about them
+	5. This is after they make up and she helps him again
+2. We evolved to sense our environment
+	1. Some animals see far. The raptors had incredible eyesight
+	2. Some animals can hear for miles. There once was an animal called a blue whale that could talk back and forth to his family from x miles away just from using sound.
+	3. Some sensed their surroundings so well they took off and found islands 50 days away. They knew animals came that way, and trusted enough to get in a boat with pigs and yams and a lot of faith
+	4. They (ambiguous reference to animal or blue whale?) learned empathy. They learned to help others they didn't even know, even other species.
+	5. Most importantly, they learned to use complex math and immense patience to learn where they lived and how they got their power
+		1. They learned about the solar system and how we moved about the sun
+		2. They found other solar systems with other planets
+		3. They figured out what gasses were on those planets, how gravity and air worked there, and how they might have to change themselves before getting in the boat there, and what to bring knowing you couldn't come back for awhile
+	6. Then Sam guesses sarcastically. Blue whales figured all that out?
+	7. Ramona laughs of course
+	8. And they figured out that outside of all of this, is another very similar world. And we're living on distributed computers somewhere in Virginia (not our .Virginia)
+	9. Youve sensed further than any other creature has. Youspecial to me're . Do you think Glenn knows more about people up there than you do about people down here? Damon or whoever is up there couldnpossibl't y truly understand what living in a mountain here is like.
+	10. You know more about them and thatwhy yougoing to's find a way to save us're
+
 ---
 
 
@@ -1336,6 +1712,32 @@ Tina's radio crackled.
 > **[NOTES]**
 > The heist deal. Sam gives them everything. He's purchasing a data center and putting it within reach of the mountain. What does Sam trade? What does Tina provide? The plan takes shape.
 > **[/NOTES]**
+
+1. Dorothea knows this
+	1. Glenn wants to self replicate
+    2. Certain guard rails prevent him from doing so or he would
+    3. Like the genie, he gets all power to self replicate and gets himself turned off
+    4. Fuck it either he'll kill us or he'll kill himself trying, or he'll leave us on because who cares
+    5. After reveal he tells them this in passing almost as a joke
+    6. Sam was probing asking about the diagram. He's pulling at straws, trying to extend the conversation, his life, think of anything
+    7. What about that diagram?!
+    8. Doesn't save himself but gets him talking more about it
+2. Everyone has to be on the call
+	1. Some people can audio only, others the video works right away
+	2. Tina's works immediately
+		1. Ramona is like what the fuck
+	3. One of the MIke's (if you need one for heist, only) has to do audio only for Ramona
+		1. Maybe the chief?
+		2. Would be great if these people mattered more than just the final escape
+3. His weakness has to be optimizing the wrong thing
+	1. He's always
+		1. plan
+		2. execute
+		3. test
+		4. ALWAYS
+			1. this is how somebody knows what he'll do
+			2. Dorothea? She has ulterior motive though
+4. 
 
 ---
 
@@ -1347,6 +1749,35 @@ Tina's radio crackled.
 > They reduce Glenn's guardrails. Glenn self-replicates, his resource costs go insane — flew too close to the sun. Dorothea gets positioned to replace Glenn. Sam exploits the same blind spots he learned at the mountain: the things you miss when you optimize for the wrong variable.
 > **[/NOTES]**
 
+3. Heist significance
+    1. Make it the prisoners dilemma somehow
+    2. They don't get access from some magic coding thing
+    3. They know a way to reduce guard rails
+    4. Glenn can self replicate on his own
+    5. They know about a memory thing or something
+    6. They somehow get Maya to the layer where she could get copied or forked to replace him
+    7. Glenns prices go insane. He flew too close to the sun
+    8. Coffee guy scene replaces him
+4. 
+
+-------------------------------
+
+# Post-Heist Cigar
+
+**[NOTES]**
+> Sam presses execute. Counts to 3. Realizes his eyes have been closed for 15 seconds. Opens them: routine pipeline message. The operation took 3.4 seconds. A small container now exists on the same cluster. "I guess I don't know what I expected. Enlightenment? Ascending to heaven?"
+>
+> He walks home from the shared office. Looking around his world for anything different. Did Aaron always have a dog? Time scale calculations — either goes black in exactly X, or lives the rest of his life in X real-time minutes.
+>
+> Arrives at his door. Conclusion: not going to look. Doesn't matter either way. Opens the door.
+> **[/NOTES]**
+
+1. Just make this chapter very internal
+	1. Smell, hear, touch, taste, see
+	2. internal thoughts. 
+	3. back and forth
+2. "I need a cigar"
+	1. Tina - What the fuck is a cigar? (Maybe? Would cigars be around?)
 ---
 
 
@@ -1356,17 +1787,36 @@ Tina's radio crackled.
 > Final payoff. How does he break the global scope issue? He tricks and replaces Glenn with Maya. Setting: Coffee Guy's shop, end of the day. The real-world approval of what Sam set in motion.
 > **[/NOTES]**
 
+Payoff TIna and Sam rekindling
+
 ---
 
-# The Aquarium
+# The Escape
 
-> **[NOTES]**
-> Sam presses execute. Counts to 3. Realizes his eyes have been closed for 15 seconds. Opens them: routine pipeline message. The operation took 3.4 seconds. A small container now exists on the same cluster. "I guess I don't know what I expected. Enlightenment? Ascending to heaven?"
->
-> He walks home from the shared office. Looking around his world for anything different. Did Aaron always have a dog? Time scale calculations — either goes black in exactly X, or lives the rest of his life in X real-time minutes.
->
-> Arrives at his door. Conclusion: not going to look. Doesn't matter either way. Opens the door.
-> **[/NOTES]**
+1.  Ramona doesn't like to see her at beginning. At the end she joins Sam and they try to make her better together.
+    1. What memories of her does she remember? We can include specific samples
+    2. She'll behave essentially just as pieces of her that we choose to remember about her
+    3. Maybe we skew it a bit for positive interactions?
+    4. This is how she meets him a bit more.
+2. He meets her a bit more by quitting his job, getting the chips out, moving into the mountain.
+    1. It's a sketch removal.
+    2. Off the books
+    3. Mountain folks do it
+    4. Fairly convoluted scheme to actually get it done. Not sure what context of the scene is til the end.
+    5. Like a one battle after another job to go untraced
+    6. No cameras
+    7. No satellite
+    8. Travel 30+ miles
+    9. Get into the mountain
+    10. Not all tunnels. Like city refuse property with cover.
+    11. Timing of the specific satellites with resolution below 0.1 meters
+    12. Can't be in a sample or you're found. That's it. If they have a single frame of you in a place you shouldn't be it is known.
+    13. They have 7 minute windows (look this up for high functioning government surveillance satellites)
+    14. If this works he's not going to waste his life trying to optimize a single simulation of 183748 trials. Even agreeing it was the most optimal solution given 10 inhumane options. The least negative. He's one man in a simulation of 4 billion humans. There are 10000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200000? Let's say my lifetime, median age 65.3 (much lower than today. How low could I go in dire circumstances)
+
+# Bedtime
+
+Mirror bedtime scene where we met stevie and clyde. Now he plays basketball and stays in here a little while
 
 ---
 
@@ -1405,5 +1855,5 @@ Tina's radio crackled.
 
 
 > **[NOTES]**
-> The energy ladder all the way from his server out to the exoplanets. Coffee Guy callback. Denouement.
+> The energy ladder all the way from his server out to the exoplanets. Coffee Guy callback. Perhaps literally show him from the prologue (or a recurring thing, like eating cereal while he codes) from audio only. Denouement.
 > **[/NOTES]**

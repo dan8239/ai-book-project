@@ -3,7 +3,7 @@
 ## Story Purpose
 
 1. Provide depth to the world
-2. Backstory for [[../../characters/wife|Ramona]] (childhood H₂S incident forced her onto grid)
+2. Backstory for [[Ramona|Ramona]] (childhood H₂S incident forced her onto grid)
 3. Source of conflict for Ramona / Sam
 4. Red-herring target for mystery (cleansing/genocide type deal)
 5. Twin sister character - unseen throughout, integral to saving the simulation
@@ -269,7 +269,7 @@ For story purposes, subtle hints of early adaptation are plausible — paler ski
 
 ## Connection to Sam's Family
 
-### [[../../characters/wife|Ramona]]
+### [[Ramona|Ramona]]
 
 - Main go-between, welcome in both worlds
 - Her twin sister is in the colony

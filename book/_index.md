@@ -18,7 +18,7 @@ Navigation hub for worldbuilding and manuscript.
 
 ## Characters
 - [[Sam|Protagonist]] - Contractor, M&V system creator, food chain optimization
-- [[worldbuilding/characters/wife|Wife]] - Protagonist's wife, thematic heart of the story
+- [[Ramona|Wife]] - Protagonist's wife, thematic heart of the story
 - [[worldbuilding/characters/eldest-son|Eldest Son]] - Anthropology interest, legacy human culture
 - [[worldbuilding/characters/twin-sister|Tina]] - Ramona's twin, legacy human settlement
 - [[worldbuilding/characters/temp-trainee|Temp / Trainee]] - Statistical PhD, exposition device for world state

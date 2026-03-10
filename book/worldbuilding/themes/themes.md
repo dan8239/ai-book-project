@@ -67,6 +67,11 @@ The colonization program "succeeds" — but what survives?
 
 Is humanity "saved" if what survives isn't recognizably human?
 
+# Post-human vs. regular
+
+Post human vs. regular human. Ramona doesn't like lifeMonitor   
+  tech, or the virtual space really. 
+
 ---
 
 ## Metaphors
