@@ -62,21 +62,7 @@ Her boyfriend was still down there. Her father went back for him. They found bot
 She's grounded. She likes the earth. She enjoys regular human things. She likes history. She doesn't like virtual space or tech.
 
 
-### The Boyfriend
 
-Sam doesn't bring it up. Ever.
-
-At some point he asks if she loved him. She says she hates him. She thought she did at the time. If she'd dumped him like Tina said she should, she never would have been in that location.
-
-She resents him. If he wasn't there—if he'd never made her go—her dad would still be alive. She'd still have a dad. She'd still be in the mountain.
-
-Though... she wouldn't have met Sam. Wouldn't have her kids.
-
-**She's processed all of these feelings. Sam hasn't.**
-
-### Medical Aftermath
-
-Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below. The colony didn't have the medical tech. Above-ground hospitals did—but that meant joining the grid. Getting the nanobots. Becoming trackable.
 
 ## Tina (Twin Sister)
 

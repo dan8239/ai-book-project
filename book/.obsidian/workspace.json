@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "437f6af4344c1130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "worldbuilding/characters/Ramona.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ramona"
-            }
-          },
-          {
             "id": "5135eb2b9c77c005",
             "type": "leaf",
             "state": {
@@ -85,6 +71,20 @@
         "type": "tabs",
         "dimension": 24.111282843894898,
         "children": [
+          {
+            "id": "437f6af4344c1130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "worldbuilding/characters/Ramona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ramona"
+            }
+          },
           {
             "id": "945ecc710b894a5d",
             "type": "leaf",
@@ -264,9 +264,9 @@
   "active": "c34dd5aeced68922",
   "lastOpenFiles": [
     "worldbuilding/characters/Ramona.md",
+    "manuscript/manuscript.md",
     "worldbuilding/characters/ramona-father.md",
     "worldbuilding/themes/themes.md",
-    "manuscript/manuscript.md",
     "worldbuilding/simulation/extinction-trajectory.md",
     "worldbuilding/simulation/colonization/colonization-program.md",
     "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",

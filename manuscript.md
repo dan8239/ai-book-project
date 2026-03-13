@@ -248,6 +248,12 @@ There are citizens of Earth. Welcome home.
 
 # Work From Home
 
+
+
+
+"What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
+
+<!--
 1. Notes to fix
 	1. technical complexity things. Too fast, too dense
 	2. have Dorothea repeat the instructions. Number them when she repeats them
@@ -258,24 +264,7 @@ There are citizens of Earth. Welcome home.
 	7. This is his personality. Brain going everywhere too fast at once. Lack of being organized
 		1. This is why he needs her
 		2. you can repeat this behavior constantly throughout book when things get technical
-2. Have Sam taking pills
-	1. Soft alarm starts beeping on his wrist
-	2. when he takes the pill the beeping stops
-	3. it's very normal, they continue their conversation
-3. Later reveal
-	1. He thinks he's probably in the placebo group anyway
-	2. It's not a prescription, it's prescribed from the biodata. He just takes it because the algorithm says he needs it
-	3. Life monitor is nanobots. Just an injection, ultimately
-		1. It monitors BP, enzyme levels, everything you'd need internally
-	4. The antidote isn't cutting it out, it's a sketchy virus that binds only to the nanocells
-		1. There are extreme downsides in adults, not so much children
-		2. 6.3% chance of complications leading to death
-		3. Make it like allergy shots
-			1. Another one every week for 3 months, every month for at least 3 years.
-		4. 
-
-
-"What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
+-->
 
 "Calories per hectare, averaged over a 10 year period. Budget constraining, of course. That was in the original site spec, if you had bothered to read it." Dorothea replied sarcastically.
 
@@ -517,6 +506,35 @@ Sam grunted himself off the bed on the floor, grabbing his dinner off of the dre
 
 "Good. Clyde has a field trip to the planetarium on the 22nd, he asked if you could go. They're looking for chaperones."
 
+<!--
+1. use this later
+	1. Ramona can't go at the last minute
+	2. Something comes up
+	3. Not necessarily planetarium.
+		1. pick a place that helps do 3 things
+			1. teaches about the world or technology or rebase somehow
+			2. advances the plot and/or seeds a payoff
+			3. starts conflict with Sam and Ramona
+				1. He's mad because it's last minute and he's on a deadline
+				2. She has to go because it's a legitimate reason
+					1. Maybe Tina?
+					2. Clyde has a cough that isn't getting better
+						1. She takes him to the ER
+						2. the mountain has better air than the surface because the systems are better down there
+	4. ideas for location
+		1. Somewhere that lets kids use AI or control robots or something
+		2. A zoo with insanely boring animals that are the last of their kind
+			1. Called a preserve
+		3. A petting zoo or farm is better
+			1. show what is growing and what isn't
+			2. how does this world get fed
+			3. what does sulfane storm do to crops and animals
+			4. every adult farmer has a hacking cough
+			5. they all still have gas masks, wear them occasionally
+			6. usually face covers, bandana only kind of thing
+			7. kids have masks plus emergency masks
+-->
+
 "I bet Stevie's jealous. I can't. Work is hectic."
 
 "I figured as much, I'm signed up to go. Stevie's doing really well in automation, apparently. How was work?"
@@ -529,15 +547,37 @@ Ramona remained focused on one of Stevie's shirts. "Why do anything like you're 
 
 They folded in silence for a few seconds. Something was a bit off with Ramona. Was she upset with him?
 
-"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife a bit.
+"We should just buy all identical socks, it would make life a lot easier." Sam broke the silence, trolling his wife.
 
 "I don't mind folding, it's quite zen. I could go without the dishes, though." Ramona glanced at Sam's bowl on the comforter with a sly smile.
 
 "I'll put it away before bed. Why don't you let me buy us a domestic unit? What's all the money for if we don't ever spend it?"
 
-"Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She held her left arm up, where the LifeMonitor was embedded.
+"Those things give me the creeps. We can take care of ourselves just fine. This thing is bad enough." She lifted her left wrist up, briefly flashing the tiny QR code.
 
 Sam finished up the socks and was starting to put stacks of clothes back into the dressers. "Oh, you're paranoid. You can put it on silent and you won't even see the thing. Let yourself be happy."
+
+Sam's device started buzzing quietly. Long short short, like repeating the letter D in morse code. "You can put that on silent, too, you know," said Ramona, looking up at Sam over a tiny t-shirt as she folded.
+
+Sam reached to silence his device, but it kept buzzing. "Not this one, unfortunately."
+
+Ramona finished folding the shirt then mocked a waltz to the beat of his vibrating device.
+
+Sam opened the medicine cabinet, took a pill out of a medicine bottle, and swallowed it without water. "Did you already take yours?"
+
+"Yes, earlier. Thank you, though." Ramona replied, folding again.
+
+After about 15 seconds, Sam's device stopped buzzing.
+
+<!--
+this transition sucks and is too fast. She should tell him in a nice way and they should have an actual conversation that is important to the story, not fluff.
+1. Goals
+	1. plant the want
+	2. hint at transformation
+	3. What is this story about
+	4. build character and relationship
+-->
+
 
 "I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
 
@@ -1683,13 +1723,50 @@ The reason glenn does this random shit isn't for shits and giggles
 > The Polynesian waka metaphor comes full circle.
 > **[/NOTES]**
 
-1. Why are we any less real? RAMONA
+1. Finally tell Ramona's backstory
+	1. The Accident
+		1. Sam doesn't bring it up. Ever.
+		2. She gets caught in a sulfane storm being somewhere she probably shouldn't have been.
+			1. Her and her boyfriend maybe?
+			2. She goes in to save him, also collapses
+			3. Tina didn't trust him and was following or nearby, saved Ramona, not the boyfriend or the [[ramona-father]]?
+			4. Have Tina give a different version of this story earlier
+				1. Make this show Tina's perspective as different from Ramona's
+		3. Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below. 
+			1. The colony didn't have the medical tech. 
+			2. Above-ground hospitals did
+				1. but that meant joining the grid. 
+				2. Getting the nanobots. 
+				3. Becoming trackable.
+			3. Sam never knew. He just met her there by chance
+			4. They remember
+				1. She was so shy
+				2. So was he
+				3. He was there by chance
+					1. Also sick? Injured?
+					2. Backstory chance pick something good
+				4. He never asked, you didn't seem to want to talk about it
+		4. Make sure she talks mostly about her dad. That's the trauma
+			1. She resents her boyfriend. 
+			2. If he wasn't there—if he'd never made her go—her dad would still be alive
+			3. She'd still have a dad. 
+			4. She'd still be in the mountain.
+			5. Though... she wouldn't have met Sam. 
+			6. Wouldn't have her kids.
+		5. Well, maybe she would have had them with the boyfriend?
+			1. Maybe Sam would be alone
+			2. Of course she misses him. At the time, she thought she loved him
+			3. She says she hates him.
+			4. If she'd dumped him like Tina said she should she never would have been in that location.
+			5. Sam "well she is single, perhaps her dumping hair trigger is a bit too sensitive"
+	2. 
+2. Why are we any less real? RAMONA
 	1. should be Ramona after learning truth
 	2. Earth sciences background
 	3. She should give this speech on the trip back to reconcile with Tina.
 	4. Not when they make up. That's more about them
 	5. This is after they make up and she helps him again
-2. We evolved to sense our environment
+3. We evolved to sense our environment
 	1. Some animals see far. The raptors had incredible eyesight
 	2. Some animals can hear for miles. There once was an animal called a blue whale that could talk back and forth to his family from x miles away just from using sound.
 	3. Some sensed their surroundings so well they took off and found islands 50 days away. They knew animals came that way, and trusted enough to get in a boat with pigs and yams and a lot of faith
