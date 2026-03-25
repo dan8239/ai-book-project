@@ -1,0 +1,1 @@
+End the current session. Run `./scripts/session-commit.sh "$ARGUMENTS"` to commit all changes with the provided summary. If no summary is provided, ask the user for one before running.

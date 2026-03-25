@@ -1,0 +1,1 @@
+Export the manuscript. Run `./scripts/export-manuscript.sh $ARGUMENTS` where the argument is the format: `docx`, `epub`, or `pdf`. Default to `docx` if no argument provided.

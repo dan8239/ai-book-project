@@ -1,14 +1,15 @@
 # AI Book Project
 
-## MANDATORY: Log Every Substantive Exchange
+## Creative Collaboration Loop
 
-After EVERY substantive creative exchange (worldbuilding decisions, name choices, plot points, character details), immediately log it:
+All substantive work follows this loop:
 
-```bash
-./scripts/log-interaction.sh "brief prompt summary" "brief response summary"
-```
+1. **Clarify** — Read relevant files, ask questions, understand intent
+2. **Plan** — Present what will change, where, and why
+3. **Approve** — User approves, adjusts, or rejects the plan
+4. **Implement** — Only then write to files
 
-Do this BEFORE moving to the next topic. Non-substantive exchanges (clarifying questions, file reads) don't need logging.
+**Never write to `manuscript.md` or `book/worldbuilding/` without explicit approval.** Research, reading, and organizing ideas in conversation is always fine — writing to files requires a green light.
 
 ## Source of Truth
 
@@ -17,16 +18,6 @@ Do this BEFORE moving to the next topic. Non-substantive exchanges (clarifying q
 - Prose is regular text
 - Unwritten chapters have notes in blockquotes (`>`)
 - `git log -p manuscript.md` shows the book's evolution over time
-
-### Exporting
-
-```bash
-./scripts/export-manuscript.sh docx   # For sharing with beta readers
-./scripts/export-manuscript.sh epub   # For e-readers
-./scripts/export-manuscript.sh pdf    # For print preview
-```
-
-The export script strips blockquoted notes and converts via pandoc.
 
 ## Project Structure
 
@@ -66,7 +57,7 @@ ai-book-project/
 
 ### Writing
 - Edit `manuscript.md` directly — in Obsidian, VS Code, or any editor
-- When ready to share: `./scripts/export-manuscript.sh docx`
+- When ready to share: `/export docx`
 
 ### Obsidian Vault
 - Open `book/` folder in Obsidian for worldbuilding reference
@@ -86,27 +77,5 @@ ai-book-project/
 | `manuscript.md` | **THE BOOK** — single source of truth |
 | `outline/outline.xlsx` | Chapter-by-chapter breakdown (outline_v2 tab) |
 | `book/_index.md` | Obsidian navigation hub |
-| `book/worldbuilding/characters/protagonist.md` | Main character arc + beats |
-| `book/worldbuilding/characters/wife.md` | Wife arc (flat arc, thematic heart) |
 | `scripts/export-manuscript.sh` | Export to docx/epub/pdf |
-
-## Logging
-
-All interactions are logged to `logs/interactions.db` (SQLite).
-
-### Scripts
-- `scripts/log-interaction.sh "prompt" "response"` — log a single interaction
-- `scripts/session-commit.sh "summary"` — commit all changes with interaction count
-
-### Workflow
-1. At end of each substantive interaction, log it
-2. At end of session, run `./scripts/session-commit.sh "Session summary"`
-
-### Querying logs
-```bash
-# View today's interactions
-sqlite3 logs/interactions.db "SELECT * FROM interactions WHERE session_date = date('now');"
-
-# Count by day
-sqlite3 logs/interactions.db "SELECT session_date, COUNT(*) FROM interactions GROUP BY session_date;"
-```
+| `scripts/session-commit.sh` | Commit all changes with summary |
