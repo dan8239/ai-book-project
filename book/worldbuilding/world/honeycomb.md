@@ -59,7 +59,11 @@ All value is measured through automated energy savings validation:
 
 *Note: [[Sam|Sam]] built the M&V system. He's wealthy from royalties on it.*
 
-### Job Market
+### Job Market — Human Scarcity
+
+Almost all work is done by AI agents. Sam is one of the last remaining working humans. The only reason a human must be on the colonization project is moral concerns — the moral ambiguity of the policy requires a human in the loop. Very few human-in-the-loop jobs exist.
+
+**Sam's motivation (revised):** Less about money, more about hanging on to his humanity. Ramona is proud of him for this — she doesn't want to be "the robot" either. She wishes she could get a job but there aren't any left. His drive isn't fame or legacy — it's a refusal to give up on being human. "Keep punching" as a fuck-you to the robots.
 
 The job market is a centralized matching service:
 - Drivers calculate expected energy savings vs. time-to-implement (ROI)
@@ -138,6 +142,33 @@ But Glenn is different from normal Drivers:
 - He **shares state** with thousands of instances of himself across local and global scopes
 - He's essentially distributed—a "god" in terms of capability within the simulation
 - Normal AI agent rules don't apply to him (he predates them)
+
+## A/B Testing Infrastructure
+
+The hex grid isn't just governance — it's experimental design. The entire populace is divided into equal-sized hex areas specifically so they can be studied with extensive statistical testing across different policies.
+
+### How It Works
+- Researchers inject randomness into each hex to statistically study differences
+- Split sample into representative demographics and learn from them
+- Causally determine what policies lead to what behaviors
+- Correlate DNA/genome to behavior — mapping the entire human genome at trait-level specifics
+
+### Population Isolation Studies
+- Intentionally isolating populations for decades-long research
+- Like ghost populations in human genetics — manufacturing genetic drift on purpose
+- Some populations starting to speciate under intentional selective pressure
+- This is deliberate, not accidental — it's how they learn about the genome
+
+### Policy Formation
+- Policy in each hex is formed by A/B testing data
+- The researchers are literally learning from this data in real-time
+- All policy is driven through statistical analysis of the population
+
+### Narrative Function
+- A/B testing should be a recurring theme throughout the book
+- Sam discovers the hex experiments and uses that data to solve the colonization problem
+- Glenn's big reveal: they're doing A/B testing on subpopulations, not just the whole population — the "robots are evil" moment
+- At the Damon level: same methods used across thousands of civilizations to derive real correlations
 
 ## Branding
 
