@@ -75,7 +75,7 @@ We found plenty of planets under the street lamp because red dwarfs let you see 
 - Blasted sterile by radiation
 - Not viable
 
-**After Starglass:** Previously unknown exoplanets discoverable at huge scale. This is the pretext for finding 2-3000 new stars that are much more Earth-like (though still not perfect for reasons TBD).
+**After Starglass:** Previously unknown exoplanets discoverable at huge scale. This is the pretext for finding 2-3 new stars that are much more Earth-like (though still not perfect for reasons TBD).
 
 ---
 
@@ -128,28 +128,6 @@ Self-replicating civilization starter ships. The pattern:
 3. **Don't waste the ship:** Key realization - don't discard navigation/ship once you arrive. There are more planets on that vector. Duplicate entire payload and keep going in that direction.
 
 **Why him:** His food chain optimization background - he's used to thinking about yield across uncertain conditions, redundancy, and resource allocation. The space specialists were optimizing the wrong thing.
-
-### Satellite Message Tuning (Recursive Replication)
-
-Sam's breakthrough insight: instead of just optimizing the genetic payload, **tune the actual message the orbiting probe repeats**.
-
-**The message drives civilization.** The probe stays in orbit and broadcasts continuously. The message influences the civilizations that evolve from the payload below. Sam essentially does "prompt/context tuning" on the satellite message to:
-
-- Influence when the technology age begins
-- Drive what type of civilization evolves
-- Encode computer language across all frequency spectrums and signal types
-- Repeat messages giving away: plans for replicating this behavior, the full technology tree needed, chemical elements, how physics works, quantum mechanics — everything
-
-**The recursive loop:** By tuning the message, the civilizations that develop are encouraged to replicate the process. Instead of dead-end colonies, the behavior loops — each successful civilization repeats the design. This gets survival/pass-on rate to ~1.2 average per mission (self-sustaining growth).
-
-**This is recursive behavior** — self-replicating civilization starter ships whose message produces self-replicating civilizations. (Theme: nesting/recursion at every level.)
-
-### Scaling Strategy
-
-- **Project starts as a one-planet problem.** Don't reveal the scale to dozens of exoplanets until later in the story.
-- Sam tries to solve one planet first before scaling.
-- Once the recursive message works, scaling to multiple planets becomes the natural next step.
-- He also discovers new planets as they go — the civboats find additional targets in transit.
 
 ### The Moral Cost
 

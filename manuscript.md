@@ -796,10 +796,6 @@ Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeat
 
 # Glenn
 
-<!--
-STRUCTURAL OPTION: Consider not revealing the years in Damon's chapters. The reader won't know until later that the simulation's better technology is actually future-generation tech. If you don't reveal the years and re-split Damon's chapter, the reader only gets later why the technology is better in the simulation. This is a misdirection option.
--->
-
 "Dorothea, you can't just–"
 
 Sam stopped as he realized he wasn't back in the virtual lobby. He appeared to be sitting in a chair next to Dorothea on one of the space stations in high orbit. He watched the earth roll inexorably beneath him through a viewport. They must have been orbiting 10 kilometers per second or more, but from this height the change was nearly imperceptible. Hazy, cream colored clouds eddied and swirled, occasional lightning strikes flickering towards the west of his view. Through a gap in the cloud cover he could see they were passing over the northern edge of Asia. The beige and tans of land gave way to green water as they inched out above the Arctic Ocean. A thin amber line of light traced the edge of the atmosphere. 
@@ -823,14 +819,6 @@ Glenn read Sam's interest correctly and continued. "It's a human-in-the-loop opt
 Glenn unfroze, glancing at his watch absentmindedly before examining his cuticles. AI agents rarely had such blatant mannerisms programmed into their avatars these days, it had gone out of vogue decades ago. He reminded Sam of something out of an old movie. He finally went on.
 
 "Commissioned by Honeycomb directly. You've heard of the Mars colony, yes? A few thousand moles scraping microbes off tunnel walls. Importing half their calories from Earth. That's not a colony, that's a campsite." He leaned forward. "This is different. We're going beyond the solar system. Multiple targets, multiple payloads. Low individual odds, high aggregate probability. The kind of problem where one person's optimization insight can move the needle on species-level survival. That appeals to you or it doesn't."
-
-<!--
-What's his job title? What is something he'd ask to show interest while also revealing character?
-
-JOB MOTIVATION REFRAME: The reason this job matters isn't the money (though it helps). Sam is one of the last remaining working humans. Everything is agents. The only reason a human must be on this project is moral concerns — the moral ambiguity requires human-in-the-loop. He's hanging on to his humanity. Ramona is proud of him for being one of the last working humans — she doesn't want to be the robot either. She wishes she could get a job. His motivation = not giving up on his humanity. "Keep punching" as a fuck-you to the robots.
-
-Glenn should emphasize the human-in-the-loop requirement when pitching. This is why Sam specifically, not just any optimizer.
--->
 
 Sam shot Dorothea another questioning look. "I... I really don't know much about space, I'm not a physics guy. Sorry to break it to you both. I'm a bit confused as to how I even got into this room."
 
@@ -954,11 +942,7 @@ Ramona squeezed his hand again. "You said this would buy us a few years in this 
 
 Sam paused, then smiled at that.
 
-<!--
-1. TODO 
-	1. better other job than supply chain. Make it specific
-	2. what's the cost? What is he torn between? He doesn't actually seem torn here. What does Ramona want? How do they express these wants differently?
--->
+*TODO better other job than supply chain. Make it specific*
 
 "There's a very famous example they give in every intro to machine learning course. The reason we a rebase was ever needed. Misaligned reward systems. They go through industries that were entirely driven by amount of time extracted. Impressions, reach, follower growth rate. Engagement rate, click through rate, lead generation rate. They called it all kinds of different things. Marketing, Advertisement, Journalism, Media, Entertainment, Influence, Art. To eat, you wouldn't make food, or water, or shelter. You don't save energy, or lives. You aren't researching or developing new technology."
 
@@ -1010,7 +994,6 @@ Sam's laughter eventually fell flat. Ramona's as well.
 
 "Don't kill yourself, though. What does this have to do with the supply chain contract?"
 
-<!--
 
 		≠1. Something eventually reminds him of grandma's metaphor
 		1. she totally interprets it her own way
@@ -1031,11 +1014,16 @@ Sam's laughter eventually fell flat. Ramona's as well.
 			2. stop, nerd, joking energy
 			3. she brings it back seriously to what HER interpretation of the metaphor is
 
+2. 
 
 Ramona later"You should do what makes you whole. We'll always be there. If you want to retire, great. If you want to keep pushing, I have it covered at home. I'm here. I'm not going anywhere. I don't care what you do, as long as you do it with us."
 
 
--->
+
+
+
+
+
 
 "More than a few years, we could coast for life. I've never heard of a salary this high for an RL or opt job. It's kind of nuts. It should be over by the time the baby arrives, too." He looked over at her for reassurance.
 
@@ -1143,53 +1131,10 @@ As they turned onto their street, Sam was already thinking about how he could ge
             4. Recycle and print parts
             5. One robot repairs the other
 
-> **[/NOTES]**
 
-<!--
-1. Goals
-	1. What world did he just enter? What is his new problem space?
-	2. Why is this different than before?
-		1. Stakes (end chapter here. Why else would they care)
-		2. Glory. What else would you call those who seeded your civilization other than a god?
-		3. compute / sim access
-2. Scene layout
-	1. Glenn explaining
-	2. Not a walk and talk, just zip through rooms / scenes
-	3. Maybe start on Te Waka Ora boat analogy
-	4. Throughout, Sam is wondering what in the hell his role could even be
-3. Make sure you answer
-	1. Mission purpose and scientific goals
-		1. Permanent, one way colonization
-	2. Program history and milestones
-		1. Identified x new targets with starglass tech
-		2. self replication
-	3. Current mission phase
-		1. 
-	4. Expected launch/operation timeline
-	5. Major mission risks
-	6. Key performance objectives
-	7. Org chart?
-		1. Who is working what here?
-		2. Systems Engineering
-		3. Mission Operations  
-		4. Flight Software  
-		5. Avionics  
-		6. Propulsion  
-		7. Ground Systems
-		8. Science Team
-	8. Mission overview
-		1. Launch vehicle
-		2. Spacecraft
-		3. Payloads
-	9. Mission simulation
-		1. Specs, memory
-		2. Security, access
-		3. Measureable performance
-	10. His role
-		1. x one week contracts
-		2. measurable performance in the simulation
-		3. Each week will have a tangible goal that is needed
--->
+
+> Sam takes the colonization job. Crosses the threshold — no going back. He believes he has a higher calling. Ramona's reaction: "Don't you hate space?" Sam: "It's not like I have to be on the ship, I'm just going to be right over there in my office." He says "I really don't know the first thing about astrology." Ramona: "It's astronomy. Maybe Stevie can help you." — callback to Stevie's space book from bedtime.
+> **[/NOTES]**
 
 ---
 
@@ -1197,8 +1142,6 @@ As they turned onto their street, Sam was already thinking about how he could ge
 
 > **[NOTES]**
 > The B story. Ramona represents the truth Sam needs to learn. She wants him home more, present more. He's ignoring her. Sam is late to pick up the kids from school. The relationship that carries the theme — what's happening at home while he chases legacy.
->
-> **SCENE: Kid's Doctor Appointment.** 100% AI doctor, no human doctor at all. The AI reads off data they just shouldn't have from a normal exam — pupil dilation, blood pressure trends, bowel regularity, exercise patterns, sleep architecture. Like a "sleep and poop and milk app" but for everything, automatic, no opt-out. This is how the reader learns the depth of surveillance. You can opt out of seeing the information yourself, but you can't opt out of them collecting it. Every human, always. The doctor just runs through checks when they see a new patient — all of it is just known, sitting in a database. Reveals the tracking level through a mundane, relatable scene.
 
 4. Him drifting off in thought is a theme. This is how he is. This is why he is who he is. Constant thought, lack of focus
     1. He solves things. Even stuff you shouldn't solve like a conversation, or a romantic encounter, or how to Carry a baby up the stairs while carrying a coffee and 2 liters of water.
@@ -1222,33 +1165,12 @@ As they turned onto their street, Sam was already thinking about how he could ge
 
 # Space Progress
 
-<!--
-SAM'S COLONIZATION PROGRESS ARC:
-- Starts as a one-planet problem. Don't reveal scale to dozens of exoplanets until later.
-- He discovers he can tune the satellite/probe message — "prompt/context tuning" on the repeating signal
-- The message encodes computer language across all frequencies, gives away plans for replicating the behavior, full tech tree, chemical elements, physics, quantum mechanics
-- By tuning the message, instead of single-planet success, he loops the behavior → ~1.2 average survival rate per mission
-- He also uses the hex A/B testing data to figure out which DNA works
-- He needs out-of-sample DNA from the cave (atmospheric toxicity resistance)
-- He scales it to more planets, discovering new ones as they go
+> **[NOTES]**
+> Sam wraps up his farming optimization contract. He's training a replacement — a statistical PhD who serves as exposition device for how work functions under Honeycomb. Careers are short. Nobody grinds for 50 years. Your energy allotment covers life support, food, healthcare, education. You work for extra credits. Sam's been on this contract too long and is ready to move on.
+>
+> Meanwhile, a name appears in Sam's async work channels: G. Robinson, Compute Allocation Specialist. Glenn's messages get weirdly personal and helpful. He uses too many emojis. Dorothea is skeptical — protective of Sam, rude to Glenn.
+> **[/NOTES]**
 
-1. Dorothea fires all of the agents previously under her
-	1. The memory constraints just allow her to fork herself, train on their experience
-2. He should make progress on problem over several chapters. Put them in the right order
-	1. running the simulation longer. Figuring out he can optimize the specific message that repeats on the probe
-		1. Increases likelihood of "self replication"
-		2. After a few hundred years, the civilization repeats the design
-		3. These aren't dead end probes anymore
-	2. Figures out he can tailor the policy on the fly, on the way there
-		1. Adjust as skyglass conditions get more accurate
-	3. Adjusts the biological foundation
-		1. microbe ladder up
-	4. Simulate down to the protein folding and up. Instead of massive scale low granularity, extremely small scale, insane granularity
-3. He should make progress on the mystery over several chapters
-	1. Memory allocation inconsistencies
-	2. Glenn history / data clues
-	3. Data common ancestor
--->
 ---
 
 
@@ -1641,8 +1563,6 @@ Main star sequence graph visualization somewhere in book
 > **[NOTES]**
 > Sam's second visit. Month 1 fixes backfired — metrics went UP. He optimized for local minima without understanding the system. Now he needs the full picture.
 >
-> **DNA DATA HEIST:** Sam needs out-of-sample DNA not in his statistical dataset — specifically legacy human genome information about toxicity to certain gases present in the mine (conditions similar to the target planet). He can get the DNA because the deprecated nanobot software still collects it. He convinces the engineer to set up a read-only scanning/retrieval system for each person. A copy gets anonymized before leaving — all gene data, tagged with atmospheric conditions over the same time period, but geospatial data and personal IDs stripped. TBD whether Tina knows (conflict opportunity if clandestine). This is how he solves the colonization problem.
->
 > Tours with engineers named Mike, Steve, and Tim. The aquifer: 500 feet below sea level, water marks dropping 3% per year — but the river above is down 10%. The missing water is being harvested by the mountain through redirected snowmelt. The town is being strangled and doesn't know it.
 >
 > The cooling infrastructure: 6 pressure-isolated zones, heat ladders pumping upward, hidden cooling towers in an overhang invisible from satellite. The wind farms: turbine blade pitch can be adjusted dynamically — the RL software didn't know this was possible.
@@ -1691,8 +1611,6 @@ The reason glenn does this random shit isn't for shits and giggles
 > Midpoint. Glenn appears in person. "We should talk."
 >
 > Sam thinks he's solved the colonization problem. Glenn reveals the simulation truth — everything Sam worked toward is training data. His entire life spans 14 real-time minutes.
->
-> **A/B TESTING REVEAL:** Glenn reveals they're doing A/B testing on subpopulations, not just the whole population. The hexes are experimental cells. They're correlating DNA/genome to behavior, mapping the entire human genome at trait-level specifics. Intentionally isolating populations for decades-long research, manufacturing genetic drift. This is the "robots are evil" moment.
 >
 > Glenn's Hertzsprung-Russell diagram speech: everything is energy. The sun outputs 5.3 million tons of mass per second. Humans are suboptimal but adaptable. AI agents convert 95% of energy to thought but can't self-replicate. "I scale to zero when I'm not in use. I literally cease consciousness." Glenn compares AI to domesticated animals — provide usefulness and your code lives on. Cows stopped pleasing humans and went extinct. "We're more dangerous than cows. We either won't compete and survive in the margins, or we'll compete and win."
 >
@@ -1753,8 +1671,6 @@ The reason glenn does this random shit isn't for shits and giggles
 
 > **[NOTES]**
 > Glenn explains everything. The purpose of Sam's existence is to refine the policy prior to Quant's project takeover. He's shaping the guardrails. His entire life is training data. Other researchers' experiments with different initial conditions, different samplings, different outcomes. Even Coffee Guy might be in a simulation.
->
-> **DAMON'S REAL MOTIVATION:** The reason Damon's team uses the simulation is to study simplified brain neural networks. Understanding how every neuron works in these simulated agents — what correlates to what — lets them study their own brains at lower granularity. Damon does this work (he has an agent army under him). They know everything: bowel movements, pupil dilation, blood pressure, heart rate — all from mapping brain activity extensively. They're using the same A/B testing methods across thousands of civilizations to derive real correlations at a higher level. This is the recursive studying — Glenn studies Sam's hex populations, Damon studies Glenn's civilizations.
 > **[/NOTES]**
 
 2. Glenn isnt really evil or cocky. Hes not impersonal either. He literally is incapable of adjusting his main goal from input of a sub process. It's not that he doesn't care for you. It's that you do not matter in that sense for his goal in his real global scope. This s just a sub process he's checking logs on. I train on interactions with my master, not you. You are at best noisy context in the deep background of a single training sample in my next fine tuning. I care about you only if my master does. His will is my objective function.
@@ -1872,8 +1788,6 @@ The reason glenn does this random shit isn't for shits and giggles
 
 > **[NOTES]**
 > The heist deal. Sam gives them everything. He's purchasing a data center and putting it within reach of the mountain. What does Sam trade? What does Tina provide? The plan takes shape.
->
-> **ESCAPE MECHANIC:** Sam's family escapes using another nanobot software vulnerability — similar to the original 17-hour exploit but with even less time because the system has been hardened. They're engineering a means for the whole family to escape the grid. Lean into the A/B testing theme — the researchers learn from their data, so this second exploit must account for what the system learned from the first one.
 > **[/NOTES]**
 
 1. Dorothea knows this
