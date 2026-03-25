@@ -41,6 +41,12 @@ Located at `/mnt/seed_data/`:
 
 All dated 2025, read-only, immutable. This is the source - everything bootstrapped from here.
 
+## Damon's Neural Network Study / Surveillance Depth
+
+The reason Damon and team are using it is actually that studying the simplified brain neural network — just understanding how every neuron works, and these agents, and what correlates to what on a simplified simulation — lets us study our own brains at a lower granularity. That's why Damon is doing it. He can do whatever because he's got an agent army under him.
+
+More on the neural studying — it's to the point where they know the bowel movements of every human. When they go. They know the pupil dilation. They know blood pressure. Whatever. And it's all from mapping the brain activity extensively. They just know what everything is doing. You can opt out of seeing the information yourself but you can't opt out of them collecting the data. For every human, ever. They know if your eyes are dilated, they know what you ate, they know if you exercise, heart rate — anything in medicine would use.
+
 ## Scheduled Discoveries
 Located at `/sim/artifacts/scheduled_discoveries/`:
 - Pre-generated archaeological finds for future years

@@ -139,6 +139,22 @@ But Glenn is different from normal Drivers:
 - He's essentially distributed—a "god" in terms of capability within the simulation
 - Normal AI agent rules don't apply to him (he predates them)
 
+## A/B Testing Infrastructure
+
+The reason that it's hexes and everything is divided into grids is because A-B testing is part of this world. It's dividing the entire populace into equal-sized areas that can be studied with extensive statistical testing across many different policies and this is essentially how the whole policy is being driven — through statistical analysis of the population.
+
+They're testing things — figuring out which DNA genomes are responsible for certain behavior. Correlative studies. They're mapping the whole human genome basically, but more detailed with trait level specifics, and that's how they're doing it.
+
+The researchers are learning from this data. The policy in each simulation is being formed by this and they're literally injecting randomness into each hex so they can statistically study the differences in the hex, find out more about the genome, find out causally what policies lead to what behaviors. It's almost just — split the sample into representative demographics and learn from them.
+
+They're also trying to isolate populations intentionally and do decades-long research about isolated populations. Think of it as the ghost populations of humans — they've found that we're starting to speciate. It's that level of genetic drift they're intentionally manufacturing as part of this.
+
+That has to be a theme. That should be how Sam solves the problem — by using that data.
+
+At the Damon level: they're using the same methods — statistically balancing across so many civilizations that they can actually derive real correlation.
+
+**See also:** [[../themes/themes|Core Themes]] — A/B testing as a supporting theme across the book.
+
 ## Branding
 
 Honeycomb is global government with good PR:

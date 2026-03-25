@@ -2,6 +2,9 @@
 title: "Title TBD"
 author: "Dan Pfeiffer"
 ---
+<!--
+STRUCTURAL OPTION: For Damon, his chapter is stepping on a scale and getting all these metrics. In the future the technology is more advanced — it's already in there and it's more powerful and he doesn't have to step on a scale. They won't know until the end that this is actually just better future generation technology. Potentially, if you do the time thing right and don't reveal the years — consider not revealing the years as an option, and re-splitting up Damon's chapter. That could still work because you'd only get later why the technology is better in the simulation.
+-->
 # Honeycomb
 
 *December, 2041*
@@ -820,6 +823,16 @@ Glenn unfroze, glancing at his watch absentmindedly before examining his cuticle
 
 "Commissioned by Honeycomb directly. You've heard of the Mars colony, yes? A few thousand moles scraping microbes off tunnel walls. Importing half their calories from Earth. That's not a colony, that's a campsite." He leaned forward. "This is different. We're going beyond the solar system. Multiple targets, multiple payloads. Low individual odds, high aggregate probability. The kind of problem where one person's optimization insight can move the needle on species-level survival. That appeals to you or it doesn't."
 
+<!--
+JOB MOTIVATION: The reason the job thing is more of a better decision is — it's less about money. Well, it should be about money a little. But the main reason he does it is because he's one of the last remaining working humans and the oddity about this job is that it's human in the loop. It's just very hard to get one of these jobs. There are very few humans left that do real work. Everything is agents. The only reason that a human must be on this project is that there are moral concerns — the moral ambiguity of the policy in this situation requires a human in the loop to kind of guide the experiment.
+
+Ramona's proud of him for hanging on and being one of the last working humans. That's a huge deal. She loves him and she wants him to do it because she doesn't want to be the robot either. She wishes she could get a job — she can't because there aren't jobs left. He's one of the last humans still doing it. That's what he's hanging on to more than the money thing.
+
+His motivation shouldn't be fame and success. It should be not giving up on his humanity. Keep punching as a fuck you to the robots.
+
+Glenn should emphasize the human-in-the-loop requirement when pitching. This is why Sam specifically, not just any optimizer.
+-->
+
 Sam shot Dorothea another questioning look. "I... I really don't know much about space, I'm not a physics guy. Sorry to break it to you both. I'm a bit confused as to how I even got into this room."
 
 Dorothea took the lead automatically. "I've already pulled his clearance — level 2, still active. And his biome optimization work for the Cascadia food chain directive is directly applicable. He solved a multi-variable resource allocation problem across eleven agricultural zones with incomplete data. Genetic diversity constraints, shifting yield targets, cascading failure modes." She looked at Glenn. "Sound familiar?"
@@ -1133,7 +1146,6 @@ As they turned onto their street, Sam was already thinking about how he could ge
 
 
 
-> Sam takes the colonization job. Crosses the threshold — no going back. He believes he has a higher calling. Ramona's reaction: "Don't you hate space?" Sam: "It's not like I have to be on the ship, I'm just going to be right over there in my office." He says "I really don't know the first thing about astrology." Ramona: "It's astronomy. Maybe Stevie can help you." — callback to Stevie's space book from bedtime.
 > **[/NOTES]**
 
 ---
@@ -1169,6 +1181,20 @@ As they turned onto their street, Sam was already thinking about how he could ge
 > Sam wraps up his farming optimization contract. He's training a replacement — a statistical PhD who serves as exposition device for how work functions under Honeycomb. Careers are short. Nobody grinds for 50 years. Your energy allotment covers life support, food, healthcare, education. You work for extra credits. Sam's been on this contract too long and is ready to move on.
 >
 > Meanwhile, a name appears in Sam's async work channels: G. Robinson, Compute Allocation Specialist. Glenn's messages get weirdly personal and helpful. He uses too many emojis. Dorothea is skeptical — protective of Sam, rude to Glenn.
+>
+> **SAM'S COLONIZATION PROGRESS ARC:**
+> He solves it by looking through the hex-led experiments and data. He needs out-of-sample DNA that's not in his statistical data set — underground, sufficient underground tested genome information about toxicity to certain gases that are present in the mine or other conditions that will be similar to another planet. Very similar to the mine. Let it be the first planet.
+>
+> He's trying to solve one planet before he scales to all the planets. First of all the project starts as a one planet project and let's not reveal the scale to dozens of exoplanets until later.
+>
+> This is recursive behavior. He's the one who basically suggests leaving the satellite but amending the message so the message will encourage or be tuned to more often receive continued mission. This is a mission statement on this satellite and this message drives and influences the civilizations that evolve from it. He essentially does prompt or context tuning on the satellite message to influence when the technology age begins — it both drives what type of civilization evolves and what type of satellite drives it.
+>
+> Immediately it is encoding computer language across all frequency spectrums, all different signal types, and it's repeating messages — essentially giving away the plans for repeating this behavior, the technology tree that is needed to replicate this, the chemical elements, how physics works, quantum mechanics. Everything — all that information is essentially encoded into this message which repeats across all frequencies.
+>
+> By tuning the actual message that the satellite brings, instead of it being a single place he's succeeding at, he's looping the behavior so it gets to a 1.2 average survival — passing on of these genes, essentially. His contribution as well as scaling it — doing more planets and discovering new planets as they go.
+>
+> **GLENN A/B TESTING (RED HERRING):**
+> He'll figure this out from Glenn — that they're actually doing A/B testing on subpopulations, not just the whole population. This is a big Glenn reveal about "the robots are evil" or whatever. You learn more about society by learning what experimental data he has access to. Now you learn about the whole DNA seed being recent, which leads you to see that everyone's related to each other too recently, even across all these different sub-populations. You get a reason to go in the cave because that population has conditions similar to the other planet. This is perhaps the evil red herring hiding the true thing — simulation.
 > **[/NOTES]**
 
 ---
@@ -1182,6 +1208,8 @@ As they turned onto their street, Sam was already thinking about how he could ge
 > Ramona's Europe study abroad stories provide world exposition — hexagonal geocoordinate grids instead of city names, energy-based billing for everything (phone calls, data, food converted to CO2 equivalency). The "poke" — cheap short calls.
 >
 > She made him the Memory Map as a gift. Places they'll go. She mentions Tina, he agrees to visit the mountain. Then he loses the conversation. She makes a pass at him. He denies. Logs back on.
+>
+> **SCENE: Kid's Doctor Appointment.** We should do a doctor's appointment that is 100 percent an agent. Not a doctor whatsoever, or not a human doctor at all. They're very good at it but they just essentially read off the data too — it's the sleep and poop and milk app that Becky has, but it's for everything, and it's automatic, and they have the data. You don't opt out of it. Kid's appointment is probably better — you can get the kids into what a doctor's appointment looks like. But it's 100 percent AI and that's how you actually reveal that they are being tracked at that level, because there's reason for them to have data that they just wouldn't have in a today's doctor exam. It's the pit where they just run through all these checks when they see a new patient — it's just all known in a database. They just know it.
 > **[/NOTES]**
 
 5. Dinner scene
@@ -1307,6 +1335,10 @@ Ramona pointed out the other window. "Oh, look at the stratification! See the co
 "More like sea shallows. 100 million years ago or so. Cretaceous period with the Dinosaurs. You know, T-Rex, Triceratops, Spinosaurus, Velociraptor, Ankylosaurus, the cool ones." She counted them off on her fingers. "Though, most of those wouldn't really be found in this region anyway..."
 
 Sam let her go on about geology and the past for a few minutes, absorbing what he could. He felt quite small, even more so than usual. The stripes *were* beautiful where the colors made it obvious to his untrained eye. He saw as he looked further up the mountain that the shrubs and cacti were getting more sparse, eventually giving way to scree and bare, brownish grey rock. It was remarkable how all of the plants knew to quit trying at about the same elevation.
+
+<!--
+SEED BACKSTORY TENSION: Consider replacing some of the light geology/nature banter in this gondola ride with hints of the backstory — Ramona's nervousness about returning, the weight of what she left behind. Tina could give her version of events later in Contact that contradicts or reframes what Ramona lets slip here. The deprecated software / hospital patching story doesn't need to land here in full, but the emotional stakes of why she left and why she can't fully go back should start here.
+-->
 
 "Oh, good, we're here," said Ramona as the lift slowed its ascent. Sam awoke from his daydreaming. The alpine lodge and platform came into view.
 
@@ -1524,6 +1556,8 @@ Tina's radio crackled.
 > Sam does mental math from everything he saw during the descent — population, energy consumption, gravity battery capacity at ~11%, three months of deficit ahead. He deduces they're off-grid, on renewables, and running out. The Chief corrects minor details — the blocks are denser than concrete, and they use less energy per person than "larvae" above — but confirms the rest.
 >
 > Sam agrees to help optimize their energy systems. In return, he wants their multi-generational survival data. Ramona realizes Sam didn't come for her — he turned her homecoming into a business trip. The warmth from the gondola is gone.
+>
+> **DNA TRANSACTION SETUP:** These guys aren't actually not on the grid. They're very much on the grid and the reason he can get the DNA data is because that's part of their software version — it's already part of the inclusion in that software. Sam proposes the transaction to the engineer here — he can set up a retrieval, a read-only scanning kind of thing for each of them. Everyone in the cave doesn't realize this is happening, but Sam convinces the engineer there's some way to do it and he can get a read-only copy that never leaves the premises. (Continues in Mountain Optimization.)
 > **[/NOTES]**
 
 ---
@@ -1570,6 +1604,8 @@ Main star sequence graph visualization somewhere in book
 > Sam builds a reinforcement learning system from scratch on their ancient hardware. Brings code in on a USB. Gets a lobotomized AI assistant working — some descendant of Glenn Robinson from hundreds of years ago. The system finds 11 optimization wins. He can buy the mountain decades of runway.
 >
 > Ramona starts daydreaming about moving underground. Sam hasn't told her the real mission. Then he confesses: it doesn't matter. The food will dry up. The topsoil will run out. Everyone is doomed — above and below. He shatters her daydream.
+>
+> **DNA TRANSACTION (cont.):** Let's just say it does leave the premises. A copy gets anonymized and leaves the premises. Tagged with the atmospheric conditions over the same time period but not personal identifiable stuff, and it wipes all geospatial data. The geospatial data is not on there, the names aren't on there, but all the gene data — he gets all the gene data. That's how he kind of figures it out. TBD whether clandestine from Tina (conflict opportunity) or transparent.
 > **[/NOTES]**
 
 ---
@@ -1732,13 +1768,16 @@ The reason glenn does this random shit isn't for shits and giggles
 			3. Tina didn't trust him and was following or nearby, saved Ramona, not the boyfriend or the [[ramona-father]]?
 			4. Have Tina give a different version of this story earlier
 				1. Make this show Tina's perspective as different from Ramona's
-		3. Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below. 
-			1. The colony didn't have the medical tech. 
+		3. Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below.
+			1. The colony didn't have the medical tech.
 			2. Above-ground hospitals did
-				1. but that meant joining the grid. 
-				2. Getting the nanobots. 
+				1. but that meant joining the grid.
+				2. Getting the nanobots.
 				3. Becoming trackable.
-			3. Sam never knew. He just met her there by chance
+			3. **THE PATCHING:** The legacy humans aren't legacy — they're deprecated, and this is literal in the sense that the nanobots in their bodies, this life monitor system, has an older version in it. This is an older software update where they had a bug that exploited the geospatial awareness software and disabled it. It was only live for 17 hours before it got patched. That's how they escaped — there was essentially a population that injected this attack on a minor patch update into an open source library and that's how they got temporary escape from the geospatial stuff. After 17 hours, everyone else that wasn't ready to receive an OTA update — they basically disabled the ability to get an OTA under certain conditions. They ended up having to have a very major patch fix that kept everyone else from being affected.
+			4. **WHY RAMONA CAN'T GO BACK:** When she got in the hospital they realized she was at a major deprecated release. As part of her time there she got patched up to the latest version. She can't really go back without revealing the rest of them. If they get found, all of them will be at the latest version.
+			5. **TINA'S VERSION:** Have Tina give a slightly different version of this story earlier (seed in Gondola walk or first Contact). Make this show Tina's perspective as different from Ramona's.
+			6. Sam never knew. He just met her there by chance
 			4. They remember
 				1. She was so shy
 				2. So was he
@@ -1788,6 +1827,8 @@ The reason glenn does this random shit isn't for shits and giggles
 
 > **[NOTES]**
 > The heist deal. Sam gives them everything. He's purchasing a data center and putting it within reach of the mountain. What does Sam trade? What does Tina provide? The plan takes shape.
+>
+> **ESCAPE MECHANIC:** How he escapes is another version — kind of similar thing where they have even less time to escape because they've kind of done it before, but using some other vulnerability. They're essentially engineering a means for his whole family to escape.
 > **[/NOTES]**
 
 1. Dorothea knows this

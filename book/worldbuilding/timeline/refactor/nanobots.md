@@ -25,3 +25,7 @@ Required like having a social security number:
 ## Tracking Shot
 
 What it's called when administered at birth. Mandatory for all post-Refactor citizens.
+
+## The 17-Hour Exploit & Deprecated Software
+
+Full details live in Ramona's backstory — see the Reunion chapter notes in `manuscript.md`. The exploit, hospital patching, and why Ramona can't go back are character story, not just tech specs. Cross-reference: [[legacy-humans|Legacy Humans]] for cultural context.

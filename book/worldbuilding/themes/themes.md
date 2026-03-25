@@ -50,6 +50,9 @@
 
 ## Supporting Themes
 
+### A/B Testing as Worldbuilding and Theme
+The hex grid isn't just governance — it's experimental design at every level. Honeycomb A/B tests policy across hexes. Glenn A/B tests subpopulations (red herring hiding simulation truth). Damon A/B tests across civilizations. The method repeats at every scale — recursive experimentation on human subjects, each layer unaware of the layer above. See [[../world/honeycomb#A/B Testing Infrastructure|Honeycomb A/B Testing]] for mechanics.
+
 ### Loss Functions as Ideology
 What you optimize for determines what you become. Every society has a loss function, even if implicit.
 
