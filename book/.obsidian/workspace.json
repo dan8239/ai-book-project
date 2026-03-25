@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "e6a82598f7014aac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "848e784f50b20f6a",
             "type": "leaf",
             "state": {
@@ -50,7 +62,8 @@
               "title": "Glenn \"Big Dog\" Robinson"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bc3fa72e6a52d816",
@@ -261,7 +274,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c34dd5aeced68922",
+  "active": "e6a82598f7014aac",
   "lastOpenFiles": [
     "worldbuilding/simulation/colonization/colonization-program.md",
     "manuscript/manuscript.md",
