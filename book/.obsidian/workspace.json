@@ -26,12 +26,14 @@
             "id": "e6a82598f7014aac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "worldbuilding/world/organizations/quant.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "quant"
             }
           },
           {
@@ -276,6 +278,9 @@
   },
   "active": "e6a82598f7014aac",
   "lastOpenFiles": [
+    "worldbuilding/characters/temp-trainee.md",
+    "worldbuilding/world/organizations/quant.md",
+    "worldbuilding/world/organizations/dna-company.md",
     "worldbuilding/simulation/colonization/colonization-program.md",
     "manuscript/manuscript.md",
     "worldbuilding/characters/Ramona.md",
@@ -299,9 +304,6 @@
     "manuscript/03.15.heist-plot/notes.md",
     "manuscript/03.14.reunion/notes.md",
     "manuscript/02.13.rock-bottom/notes.md",
-    "manuscript/02.12.end-of-an-epoch/notes.md",
-    "manuscript/02.11.the-other-simulations/notes.md",
-    "manuscript/02.10.space-victory/notes.md",
     "manuscript/04.00.coda",
     "manuscript/03.17.heist-approval",
     "manuscript/03.16.heist",
