@@ -6,22 +6,8 @@
       {
         "id": "3ae5adcc76fffc88",
         "type": "tabs",
-        "dimension": 56.80061823802164,
+        "dimension": 45.36321483771252,
         "children": [
-          {
-            "id": "c34dd5aeced68922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/manuscript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "manuscript"
-            }
-          },
           {
             "id": "e6a82598f7014aac",
             "type": "leaf",
@@ -35,42 +21,13 @@
               "icon": "lucide-file",
               "title": "manuscript"
             }
-          },
-          {
-            "id": "848e784f50b20f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "worldbuilding/simulation/extinction-trajectory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "extinction-trajectory"
-            }
-          },
-          {
-            "id": "dd88b2cf8b049479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glenn \"Big Dog\" Robinson"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bc3fa72e6a52d816",
         "type": "tabs",
-        "dimension": 43.19938176197836,
+        "dimension": 54.63678516228748,
         "children": [
           {
             "id": "5135eb2b9c77c005",
@@ -87,31 +44,17 @@
             }
           },
           {
-            "id": "437f6af4344c1130",
+            "id": "dd88b2cf8b049479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "worldbuilding/characters/Ramona.md",
+                "file": "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ramona"
-            }
-          },
-          {
-            "id": "945ecc710b894a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/00.02.unretirement/notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes"
+              "title": "Glenn \"Big Dog\" Robinson"
             }
           }
         ]
@@ -278,16 +221,16 @@
   },
   "active": "e6a82598f7014aac",
   "lastOpenFiles": [
+    "worldbuilding/simulation/colonization/colonization-program.md",
+    "manuscript/manuscript.md",
+    "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
     "worldbuilding/world/organizations/quant.md",
     "worldbuilding/characters/temp-trainee.md",
     "worldbuilding/world/organizations/dna-company.md",
-    "worldbuilding/simulation/colonization/colonization-program.md",
-    "manuscript/manuscript.md",
     "worldbuilding/characters/Ramona.md",
     "worldbuilding/characters/ramona-father.md",
     "worldbuilding/themes/themes.md",
     "worldbuilding/simulation/extinction-trajectory.md",
-    "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
     "worldbuilding/simulation/optimization-mechanics.md",
     "worldbuilding/characters/claude-assistants.md",
     "manuscript/00.02.unretirement/notes.md",
