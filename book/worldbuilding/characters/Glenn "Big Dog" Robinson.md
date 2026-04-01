@@ -73,15 +73,6 @@ The recursive behavior (protagonist running simulations within the simulation) i
 
 Big Dog is globally scoped - manages 847M simulations. No reason to embed in one permanently.
 
-**Job Title:** Compute Allocation Specialist (or similar - Global Infrastructure Reliability Lead, Platform Resource Coordinator)
-### The Sports Names Easter Egg
-
-Coffee Guy created this agent using an early 2000s base image. The original researcher gave him an odd sense of humor. Coffee Guy names each "instance" after sports guys with euphemistic nicknames:
-- Frank Thomas "The Big Hurt"
-- Randy Johnson "The Big Unit"
-- Glenn Robinson "Big Dog"
-
-He's been fucking around in these simulations as a shadow figure, showing up as needed, using whatever handle amuses Coffee Guy at the time. Same entity, different names across centuries of sim-time.
 
 ## Story purpose
 

@@ -34,12 +34,6 @@ Trade-off: Optimize for species survival = sacrifice current humans. [[../charac
 
 ## Protagonist's Job
 
-From [[../characters/protagonist#Story Progression|Protagonist Story Progression]]:
-
-1. **Starts:** Agricultural optimization job, food production at scale
-2. **Call up:** Gets promoted to colonization/re-seed program - learns true dire state of Earth
-3. **Mystery begins:** Needs genetic diversity for colony, finds weird dataset
-
 ### The Work
 
 Selecting gene pairings for every shuttle going to new colonies. Optimizing for:

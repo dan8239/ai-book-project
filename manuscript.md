@@ -1035,7 +1035,48 @@ As they turned onto their street, Sam was already thinking about how he could ge
 
 --------------------------------
 
-Glenn
+Sam clocked in and was thrust jarringly onto an enormous wooden canoe, bobbing gently as it carved through waves. Huge triangular woven sails rustled in the wind as sun beat down upon them. Dozens of tan, tattooed, and bearded men busied with ropes across the deck. Glenn stood in a full suit at the prow of the wooden ship, Dorothea beside him.
+
+As Sam walked unsteadily to join them, holding the rope at the edge of the boat with care. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed straight through him, shouting across the deck in a foreign language. Sam realized that he must have been in spectator mode. He whispered for Dorothea to add captions for him. She heard him despite clearly being out of earshot. He turned them off again after a few seconds, after realizing he didn't know any of the ocean terminology, regardless of language.
+
+He finally reached the prow, looking out over an endless sea in all directions. Glenn and Dorothea shared a private laugh as they turned to address him. At each descent, sprays of water fanned upward and seemed to soak the three of them, though he could feel nothing and they all remained dry. A droplet of water was resting on the top of his hand. He raised it to his chin, peering beneath the lower frames of his glasses to get a closer look. Glenn checked his watch impatiently.
+
+Sam didn't look up, still marveling at the droplet. "Finally, my nearsightedness pays off. This resolution is astounding. I take it we're not on the public servers anymore?"
+
+Glenn opened his mouth to speak as Dorothea jumped the queue. "You're not going to believe the compute budget. We're not even making a dent in it. This whole world is rendered, not just what we can see. The state is retained every nanosecond, and it can roll back over a ten thousand years, if I'm reading these logs correctly." She glanced over to Glenn for confirmation, but stood down as she saw his raised eyebrows.
+
+Glenn held her gaze for an extra beat before snapping back to Sam, who was now gawking at the threads of rope on the perimeter of the boat. "11,384 years, and counting, though that's just the arbitrary starting point of this particular instance. We have thousands running in parallel, but this was the most appropriate for your onboarding."
+
+That finally grabbed Sam's attention away from the minutia on the boat. "You're rendering down below 0.1 mm from the looks of this. Every nanosecond for hundreds of thousands of simulation years." He did a quick head count on the crew and counted 23 above decks, though it seemed like there was ample storage below. "I'm assuming hundreds of agents running as well. That's.... excessive. What are you trying to find out, exactly?"
+
+Glenn gestured to the oblivious people on the boat. "Hundreds? That's just what's visible here. The whole world here is populated. This instance has a little over 36 million humans at this snapshot, plus the flora and fauna, of course."
+
+"I'm never going back." Dorothea was beaming. 
+
+Sam said nothing, doing mental math on his present situation.
+
+Glenn filled the conversational gap. "This particular experiment was set up to try to determine the exact methods the Maori people used to colonize the pacific ocean. Over a short period of time, they colonized nearly every patch of dirt across a span of ocean larger than North America. Over a thousand specks of dust dotting the endless blue fabric. They found and colonized all, but how?"
+
+"Throughout history, humans have used DNA and fossil evidence to try to determine the exact methodology. Even linguistics. The Austronesian language families stretch all the way from the eastern coast of Africa to Easter Island. Farther east than Calgary. So we know they got there, we can approximate when, but the how is uncertain. If the fossil records don't exist, you're out of luck."
+
+"However, biology is remarkably consistent. Given the same initial conditions and time, history tends to repeat itself. Island dwelling people, given food and land scarcity, tend to embark outward. We populate the world at roughly known starting conditions, and wait. We've seen seed ships in hundreds of different iterations, they're remarkably consistent. We've selected a relatively normal outcome here. 1348 BC, this ship is heading to Tonga for the first attempt at permanent colonization."
+
+Sam looked over at Dorothea, annoyed that she had walked away from the conversation. She was trying to get the voyagers to notice her, attempting to manipulate the simulation in any way possible. 
+
+"Seed ship?" Sam asked.
+
+"Don't mind her, Sam. I've given her the entire mission briefing document already. It's exactly what it sounds like. The holds are packed with a civilization starter pack. Taro, yams, bananas, breadfruit. Pigs, chickens, dogs. Wherever they land, the same pattern unfolds. Let the animals roam and populate the island, and introduce the plants you need to survive. By the time the fish, clams, and helpless game birds with no natural predators are gone, agriculture has taken hold. It's a repeatable playbook."
+
+"I thought this was a space mission?" Sam questioned.
+
+Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, for short."
+
+"Roughly translated from the Maori language as 'Lifeboat'," interjected Dorothea, yelling across the deck as she harassed the passengers.
+
+"We're doing the same thing as these people, but with other planets."
+
+
+
 
 
 # Space Onboarding
@@ -1043,15 +1084,25 @@ Glenn
 > **[NOTES]**
 
 1. Goals
-	1. Answer these questions?
+	1. Answer these questions
 		1. What is this program?
 		2. What is Sam's role here?
 			1. human in loop
 			2. optimization for species survival
+			3. what is the PROBLEM here?
+				1. 0.000% success rate so far
+				2. x% lost in flight
+					1. x years
+				3. the remainder don't survive
 		3. What is the optimization function he must solve?
 		4. what resources does he have at his disposal?
 			1. Insane simulation compute
-			2. What is the simulation software?
+			2. What is the simulation software? What makes it different?
+			3. Budget / agents
+	2. Seed some things
+		1. Glenn mystery
+		2. Crazy compute, mystery of some kind
+		3. it's escape
 2. How Glenn explains should tell you about his personality
 	1. Make sure to write him very different
 	2. Very odd

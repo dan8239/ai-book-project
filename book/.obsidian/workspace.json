@@ -57,7 +57,8 @@
               "title": "Glenn \"Big Dog\" Robinson"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,9 +222,9 @@
   },
   "active": "e6a82598f7014aac",
   "lastOpenFiles": [
-    "worldbuilding/simulation/colonization/colonization-program.md",
-    "manuscript/manuscript.md",
     "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
+    "manuscript/manuscript.md",
+    "worldbuilding/simulation/colonization/colonization-program.md",
     "worldbuilding/world/organizations/quant.md",
     "worldbuilding/characters/temp-trainee.md",
     "worldbuilding/world/organizations/dna-company.md",
