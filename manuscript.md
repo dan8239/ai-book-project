@@ -2,6 +2,49 @@
 title: "Title TBD"
 author: "Dan Pfeiffer"
 ---
+## Table of Contents
+
+**Act 1 — Setup**
+1. [Honeycomb](#honeycomb) — Damon & Grant. The rebase.
+2. [Work From Home](#work-from-home) — Sam's day job. Family life. Pregnancy reveal.
+3. [Retirement](#retirement) — Job search. Grandma Nan. Condos.
+4. [Empires](#empires) — Old friends. Wasting time. Dorothea pulls him out.
+5. [Glenn](#glenn) — The pitch. Pickup. Polynesian simulation.
+6. [Pickup](#pickup) — Family car ride. Rebase conversation. Job decision.
+7. [Space Onboarding](#space-onboarding) — Glenn's briefing on Mission TWO.
+
+**Act 2A — Rising action**
+8. [Cats and Rats](#cats-and-rats) — B story. Ramona wants him present.
+9. [Space Progress](#space-progress) — Farming contract wraps. Glenn appears.
+10. [Birthday Dinner](#birthday-dinner) — Three cycles of drifting. Couch.
+11. [The Gondola](#the-gondola) — Sunrise ride. Geology. The mountain approach.
+12. [Mountain](#mountain) — The mine tour. Anna Nicole. The shaft.
+13. [Contact](#contact) — Into the mountain. Tina. The vertical city.
+14. [Coffee Guy Interlude](#coffee-guy-interlude) — External pressure on Glenn.
+15. [Space Still Stuck](#space-still-stuck) — Sam's two worlds collide.
+16. [Mountain Optimization](#mountain-optimization) — Second visit. RL system. Bad news.
+
+**Act 2B — Complications**
+17. [Tina's Visit](#tinas-visit) — Domestic cost of obsession.
+18. [Coffee Guy Intro](#coffee-guy-intro) — Grant Melrose reveal.
+19. [Space Victory](#space-victory) — Midpoint. Sam finds a viable population.
+20. [None of It Matters](#none-of-it-matters) — Glenn reveals the simulation truth.
+21. [The Other Simulations](#the-other-simulations) — Full scope. Training data.
+
+**Act 3 — Resolution**
+22. [End of an Epoch](#end-of-an-epoch) — All is lost. Shutdown imminent.
+23. [Rock Bottom](#rock-bottom) — Dark night. He chooses family.
+24. [Reunion](#reunion) — Ramona's speech. Back to the mountain.
+25. [Heist Plot](#heist-plot) — The plan takes shape.
+26. [Heist](#heist) — Prisoner's dilemma. Glenn's blind spot.
+27. [Post-Heist Cigar](#post-heist-cigar) — 3.4 seconds. Walk home.
+28. [Heist Approval](#heist-approval) — Coffee Guy's shop. Real-world payoff.
+29. [The Escape](#the-escape) — Off the grid. Into the mountain for good.
+30. [Bedtime](#bedtime) — Mirror of Work From Home. He stays.
+31. [Coda](#coda) — Three perspectives. The LED. The aquarium. End.
+
+---
+
 # Honeycomb
 
 *December, 2041*
@@ -249,7 +292,9 @@ There are citizens of Earth. Welcome home.
 # Work From Home
 
 
-
+<!--
+Add a timestamp here
+-->
 
 "What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
@@ -1093,22 +1138,37 @@ Sam looked over at Dorothea, annoyed that she had walked away from the conversat
 
 Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, for short."
 
-"Roughly translated from the Maori language as 'Lifeboat'," interjected Dorothea, yelling across the deck as she harassed the passengers.
+"Roughly translated from the Maori language as 'Lifeboat'," interjected Dorothea, yelling across the deck as she attempted to harass the passengers.
 
-"We're doing the same thing as these people, but with other planets."
+"We're doing the same thing as these people, but with planets instead of islands." Glenn stated.
+
+Sam raised a brow at that. "What d"
+
+
 
 <!--
 1. Scene guidance
 	1. What does sam feel getting the mission revealed? Not just a checklist, emotion
 	2. 0.000% success rate is the hook and hard part
-	3. Dorothea arc
+	3. Sam arc
+		1. This planet is doomed? Perhaps not yet
+		2. 0.00% success rate so far
+		3. Holy shit reaction to the computing power
+		4. Maybe just nerding out over the other shit. Really excited
+	4. Dorothea arc
 		1. fucking with them, can't figure it out
 		2. figures out how to flicker with the spectator mode, fucks with them for a bit
 		3. Glenn manifests a dozen other agents, she runs back and shoos them away
 		4. She comes back for a bit but can't help it
 		5. Glenn is going to kill this simulation anyway, so she wants to try one more thing
 		6. glenn keeps her in that mode, they capture and throw her overboard
-		7. 
+	5. Glenn arc
+		1. Sam finds the subtle differences in tactics (realism of the simulation) a bit unsettling.
+		2. His monte carlo simulations are statistical. Percent chance a tomato plant survives given soil pH
+		3. They've had long enough to develop culture, history, then you just turn it off?
+		4. He thinks for a bit, then "I'm not certain that I understand the distinction between the two"
+		5. Dorothea interjects. "You're turning them off anyway, right? I finally got the hang of this", then goes and fucks with them again
+		6. "She shouldn't be able to adjust the global settings in here. *zones out*. Ah, yes, I see the vulnerability. Do I have your permission to teach her a minor lesson?
 2. Goals
 	1. Answer these questions
 		1. What is this program?
@@ -1794,6 +1854,13 @@ The reason glenn does this random shit isn't for shits and giggles
 > Ramona's speech — "Why Are We Any Less Real?": We evolved to sense our environment. Some animals saw far. Some heard for miles. Some sensed so well they got in boats with pigs and yams and found islands 50 days away. They learned empathy, complex math, where they got their power. They found other solar systems, figured out the gases on other planets, how to change themselves before getting in the boat. "And they figured out that outside of all of this, is another very similar world. And we're living on distributed computers somewhere in Virginia."
 >
 > "You've sensed further than any other creature has. Glenn doesn't understand humans. You do. That's why you're going to find a way to save us."
+
+What's the book actually about? Right now it's hovering between two answers: (1) What   
+  makes life meaningful even when it's not "real"? and (2) The cost of obsessive
+  optimization on the people around you. Both are strong. The danger is that they pull in 
+  different directions — one is philosophical, the other is domestic/relational. Ramona's
+  "Why Are We Any Less Real?" speech is where they converge. That speech might be the most
+   important page you write.
 >
 > The Polynesian waka metaphor comes full circle.
 > **[/NOTES]**
@@ -1965,6 +2032,7 @@ Payoff TIna and Sam rekindling
     12. Can't be in a sample or you're found. That's it. If they have a single frame of you in a place you shouldn't be it is known.
     13. They have 7 minute windows (look this up for high functioning government surveillance satellites)
     14. If this works he's not going to waste his life trying to optimize a single simulation of 183748 trials. Even agreeing it was the most optimal solution given 10 inhumane options. The least negative. He's one man in a simulation of 4 billion humans. There are 10000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200000? Let's say my lifetime, median age 65.3 (much lower than today. How low could I go in dire circumstances)
+3. This is a seed ship too. Everything the family needs
 
 # Bedtime
 
