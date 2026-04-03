@@ -2,49 +2,6 @@
 title: "Title TBD"
 author: "Dan Pfeiffer"
 ---
-## Table of Contents
-
-**Act 1 — Setup**
-1. [Honeycomb](#honeycomb) — Damon & Grant. The rebase.
-2. [Work From Home](#work-from-home) — Sam's day job. Family life. Pregnancy reveal.
-3. [Retirement](#retirement) — Job search. Grandma Nan. Condos.
-4. [Empires](#empires) — Old friends. Wasting time. Dorothea pulls him out.
-5. [Glenn](#glenn) — The pitch. Pickup. Polynesian simulation.
-6. [Pickup](#pickup) — Family car ride. Rebase conversation. Job decision.
-7. [Space Onboarding](#space-onboarding) — Glenn's briefing on Mission TWO.
-
-**Act 2A — Rising action**
-8. [Cats and Rats](#cats-and-rats) — B story. Ramona wants him present.
-9. [Space Progress](#space-progress) — Farming contract wraps. Glenn appears.
-10. [Birthday Dinner](#birthday-dinner) — Three cycles of drifting. Couch.
-11. [The Gondola](#the-gondola) — Sunrise ride. Geology. The mountain approach.
-12. [Mountain](#mountain) — The mine tour. Anna Nicole. The shaft.
-13. [Contact](#contact) — Into the mountain. Tina. The vertical city.
-14. [Coffee Guy Interlude](#coffee-guy-interlude) — External pressure on Glenn.
-15. [Space Still Stuck](#space-still-stuck) — Sam's two worlds collide.
-16. [Mountain Optimization](#mountain-optimization) — Second visit. RL system. Bad news.
-
-**Act 2B — Complications**
-17. [Tina's Visit](#tinas-visit) — Domestic cost of obsession.
-18. [Coffee Guy Intro](#coffee-guy-intro) — Grant Melrose reveal.
-19. [Space Victory](#space-victory) — Midpoint. Sam finds a viable population.
-20. [None of It Matters](#none-of-it-matters) — Glenn reveals the simulation truth.
-21. [The Other Simulations](#the-other-simulations) — Full scope. Training data.
-
-**Act 3 — Resolution**
-22. [End of an Epoch](#end-of-an-epoch) — All is lost. Shutdown imminent.
-23. [Rock Bottom](#rock-bottom) — Dark night. He chooses family.
-24. [Reunion](#reunion) — Ramona's speech. Back to the mountain.
-25. [Heist Plot](#heist-plot) — The plan takes shape.
-26. [Heist](#heist) — Prisoner's dilemma. Glenn's blind spot.
-27. [Post-Heist Cigar](#post-heist-cigar) — 3.4 seconds. Walk home.
-28. [Heist Approval](#heist-approval) — Coffee Guy's shop. Real-world payoff.
-29. [The Escape](#the-escape) — Off the grid. Into the mountain for good.
-30. [Bedtime](#bedtime) — Mirror of Work From Home. He stays.
-31. [Coda](#coda) — Three perspectives. The LED. The aquarium. End.
-
----
-
 # Honeycomb
 
 *December, 2041*
@@ -1142,7 +1099,7 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
 
 "We're doing the same thing as these people, but with planets instead of islands." Glenn stated.
 
-Sam raised a brow at that. "What d"
+Sam raised a brow at that. "The nearest solar system besides our own is what, "
 
 
 
@@ -1269,6 +1226,34 @@ Sam raised a brow at that. "What d"
             3. Smr for power to keep robots going and smelt
             4. Recycle and print parts
             5. One robot repairs the other
+
+6. Nearest Confirmed Exoplanet Targets (reference)
+
+| # | Planet | Star | Dist (ly) | Habitable Zone | Type | Confirmed |
+|---|--------|------|-----------|----------------|------|-----------|
+| 1 | Proxima Centauri b | Proxima Centauri | 4.24 | Yes | Rocky / Super-Earth | 2016 |
+| 2 | Proxima Centauri d | Proxima Centauri | 4.24 | No | Sub-Earth | 2022 |
+| 3 | Proxima Centauri c | Proxima Centauri | 4.24 | No | Super-Earth / Mini-Neptune | 2020 |
+| 4 | Barnard's Star b | Barnard's Star | 5.96 | No | Sub-Earth | 2024 |
+| 5 | Epsilon Eridani b | Epsilon Eridani | 10.48 | No | Gas Giant (Jupiter-like) | 2000 |
+| 6 | GJ 887 b | Lacaille 9352 | 10.74 | No | Super-Earth | 2020 |
+| 7 | GJ 887 c | Lacaille 9352 | 10.74 | Uncertain | Super-Earth | 2020 |
+| 8 | Ross 128 b | Ross 128 | 10.94 | Yes | Rocky / Earth-sized | 2017 |
+| 9 | Tau Ceti e | Tau Ceti | 11.91 | Uncertain | Super-Earth | 2017 |
+| 10 | Tau Ceti f | Tau Ceti | 11.91 | Uncertain | Super-Earth | 2017 |
+| 11 | GJ 1061 b | GJ 1061 | 11.98 | No | Super-Earth | 2020 |
+| 12 | GJ 1061 c | GJ 1061 | 11.98 | Yes | Super-Earth | 2020 |
+| 13 | GJ 1061 d | GJ 1061 | 11.98 | Uncertain | Super-Earth | 2020 |
+| 14 | YZ Ceti b | YZ Ceti | 12.13 | No | Rocky / Sub-Earth | 2017 |
+| 15 | YZ Ceti c | YZ Ceti | 12.13 | No | Rocky / Earth-sized | 2017 |
+| 16 | YZ Ceti d | YZ Ceti | 12.13 | No | Rocky / Earth-sized | 2017 |
+| 17 | Luyten b | Luyten's Star | 12.36 | Yes | Super-Earth | 2017 |
+| 18 | Luyten c | Luyten's Star | 12.36 | No | Super-Earth | 2017 |
+| 19 | Teegarden's Star b | Teegarden's Star | 12.50 | Yes | Rocky / Earth-sized | 2019 |
+| 20 | Teegarden's Star c | Teegarden's Star | 12.50 | Yes | Rocky / Earth-sized | 2019 |
+
+    Top colonization candidates: Proxima Centauri b (4.24 ly), Ross 128 b (10.94 ly), GJ 1061 c (11.98 ly), Luyten b (12.36 ly), Teegarden's Star b/c (12.50 ly) — all rocky, habitable-zone worlds within ~12.5 ly.
+    Note: Tau Ceti planets remain debated (stellar noise vs. planetary signal). Barnard's Star b (2024) is distinct from the retracted 2018 candidate.
 -->
 
 ---
