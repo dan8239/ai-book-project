@@ -1099,7 +1099,7 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
 
 "We're doing the same thing as these people, but with planets instead of islands." Glenn stated.
 
-Sam raised a brow at that. "The nearest solar system besides our own is what, 10 light years?"
+Sam raised a brow at that. "The nearest solar system besides our own is what, 10 light years? This isn'
 
 
 
@@ -1227,55 +1227,6 @@ Sam raised a brow at that. "The nearest solar system besides our own is what, 10
             4. Recycle and print parts
             5. One robot repairs the other
 -->
-
-### Nearest Exoplanet Targets (Reference)
-
-Stars are grouped by spectral similarity to our Sun. **G-type** = Sun-like. **K-type** = slightly cooler, longer-lived, often considered ideal for habitability. **M-type** = red dwarfs (closest but problematic — tidal locking, flares).
-
-**Sun-like stars (G-type and K-type) with confirmed planets**
-
-| # | Planet | Star | Spectral Type | Dist (ly) | Habitable Zone | Type | Confirmed |
-|---|--------|------|---------------|-----------|----------------|------|-----------|
-| 1 | Tau Ceti e | Tau Ceti | G8.5V | 11.91 | Uncertain | Super-Earth | 2017 |
-| 2 | Tau Ceti f | Tau Ceti | G8.5V | 11.91 | Uncertain | Super-Earth | 2017 |
-| 3 | Epsilon Eridani b | Epsilon Eridani | K2V | 10.48 | No | Gas Giant | 2000 |
-| 4 | Epsilon Indi Ab | Epsilon Indi A | K5V | 11.87 | No | Gas Giant | 2019 |
-| 5 | 40 Eridani b | 40 Eridani A | K1V | 16.3 | Yes | Super-Earth | 2018 |
-| 6 | 82 Eridani b | 82 Eridani | G8V | 19.7 | No | Super-Earth | 2011 |
-| 7 | 82 Eridani c | 82 Eridani | G8V | 19.7 | Uncertain | Super-Earth | 2011 |
-| 8 | 82 Eridani d | 82 Eridani | G8V | 19.7 | Uncertain | Super-Earth | 2011 |
-| 9 | 61 Virginis b | 61 Virginis | G7V | 27.8 | No | Super-Earth | 2009 |
-| 10 | 61 Virginis c | 61 Virginis | G7V | 27.8 | Uncertain | Neptune-like | 2009 |
-| 11 | HD 219134 b | HD 219134 | K3V | 21.25 | No | Rocky / Super-Earth | 2015 |
-| 12 | HD 219134 c | HD 219134 | K3V | 21.25 | No | Rocky / Super-Earth | 2015 |
-| 13 | HD 219134 f | HD 219134 | K3V | 21.25 | Uncertain | Super-Earth | 2015 |
-| 14 | Sigma Draconis b | Sigma Draconis | G9V | 18.8 | Uncertain | Super-Earth | 2023 |
-| 15 | Delta Pavonis (no confirmed) | Delta Pavonis | G8IV | 19.9 | — | — | — |
-| 16 | Alpha Centauri (no confirmed) | Alpha Centauri A/B | G2V / K1V | 4.37 | — | — | — |
-
-**Red dwarf systems (M-type) — closest targets**
-
-| # | Planet | Star | Spectral Type | Dist (ly) | Habitable Zone | Type | Confirmed |
-|---|--------|------|---------------|-----------|----------------|------|-----------|
-| 1 | Proxima Centauri b | Proxima Centauri | M5.5V | 4.24 | Yes | Rocky / Super-Earth | 2016 |
-| 2 | Proxima Centauri d | Proxima Centauri | M5.5V | 4.24 | No | Sub-Earth | 2022 |
-| 3 | Proxima Centauri c | Proxima Centauri | M5.5V | 4.24 | No | Mini-Neptune | 2020 |
-| 4 | Barnard's Star b | Barnard's Star | M4V | 5.96 | No | Sub-Earth | 2024 |
-| 5 | Ross 128 b | Ross 128 | M4V | 10.94 | Yes | Rocky / Earth-sized | 2017 |
-| 6 | GJ 887 b | Lacaille 9352 | M2V | 10.74 | No | Super-Earth | 2020 |
-| 7 | GJ 887 c | Lacaille 9352 | M2V | 10.74 | Uncertain | Super-Earth | 2020 |
-| 8 | GJ 1061 c | GJ 1061 | M5.5V | 11.98 | Yes | Super-Earth | 2020 |
-| 9 | Luyten b | Luyten's Star | M3.5V | 12.36 | Yes | Super-Earth | 2017 |
-| 10 | Teegarden's Star b | Teegarden's Star | M7V | 12.50 | Yes | Rocky / Earth-sized | 2019 |
-| 11 | Teegarden's Star c | Teegarden's Star | M7V | 12.50 | Yes | Rocky / Earth-sized | 2019 |
-| 12 | YZ Ceti b | YZ Ceti | M4.5V | 12.13 | No | Rocky / Sub-Earth | 2017 |
-
-**Story notes:**
-- Best Sun-like candidates for colonization: **Tau Ceti** (11.9 ly, G-type, multiple planets), **40 Eridani** (16.3 ly, K-type, HZ super-Earth), **82 Eridani** (19.7 ly, G-type, 3 planets), **HD 219134** (21.3 ly, K-type, rocky transiting planets)
-- **Alpha Centauri A** (4.37 ly, G2V — nearly identical to our Sun) has no confirmed planets but is the closest Sun-like star. Strong narrative candidate even without confirmed planets — absence of data ≠ absence of planets
-- **Delta Pavonis** (19.9 ly, G8IV) also has no confirmed planets but is frequently cited in sci-fi as a colonization target
-- M-dwarf planets are closer but problematic: tidal locking (one side always faces the star), violent stellar flares, narrow habitable zones
-- At 10% c: Tau Ceti = 119 yr travel, Alpha Centauri = 44 yr, 82 Eridani = 197 yr
 
 ---
 
