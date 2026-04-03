@@ -834,9 +834,15 @@ Glenn slid his device to the side. "Can you tell me a bit more about how Dorothe
 
 "Nothing too crazy. I cloned the quant-blitz-xl-12.7? Maybe it was 8? Either way it was about 6 years ago. I set her up to log every interaction. I have a second model from a different family measure rewards for every interaction nightly, and I schedule her to fine-tune her policy while I sleep. There's a bit more to it than that, the reward quantification is kind of tricky, actually..."
 
+<!-- don't trail off above, have him give an actual detail here -->
+
 Glenn raised an eyebrow at that. "Quant blitz. Very interesting. *Very* interesting. I doubted your credentials as well, but she's been quite convincing in the short time I've interacted with her."
 
 Sam's alarm was going off. Dissonant jazz piano crescendoed nearly subliminally over his audio. It was 4:45 already.
+
+<!--
+change from burnout angle here to more resignation. Delaying the inevitable. Why hang on to humans working? Kill myself, for what?
+-->
 
 Sam stood to go. "Look, I appreciate the pitch, but you should know I'm not the right guy.  I don't think you want to put all your eggs in this basket for such a critical project. I'm just done. I've been solving the same problem for years now, just slightly different flavors. I'm not sure I even remember what it feels like to care about the answer."
 
@@ -847,6 +853,8 @@ Sam turned up the cuff of his mesh beanie and he was back in his office. The con
 He emptied his liter of water, then went upstairs to refill and meet Ramona for pick up.
 
 --------------------------------------
+
+# Pickup
 
 Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and stepped through the airlock. Outside, the cloudless sky amber, sun sinking towards the horizon. Ramona was just pulling up in a car when he got to the bottom of the steps. 
 
@@ -910,7 +918,7 @@ Ramona exhaled slowly as she fast forwarded through the virtual tour. "That's a 
 
 Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about an unexpected job offer. Last minute, I know, but there's a 24 hour grace period. We could still withdraw the offer on the condo. We wouldn't have to go down a tier at all if I took it." 
 
-Ramona raised an eyebrow at that, just as they pulled up to the boys' school. The sun-bubble zipper merged into the pickup queue. The back row booster mat folded down automatically for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
+Ramona raised an eyebrow at that, just as they pulled up to the boys' school. Their sun-bubble fell into the pickup queue. The back row booster mat folded down automatically in preparation for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
 
 "How was your day boys? What was your favorite part?" Ramona asked. Clyde sat quietly looking out the window under his floppy hat. He was holding a small car that he hadn't had that morning. Stevie threw his hood back and pulled his mesh beanie from his backpack.
 
@@ -942,7 +950,11 @@ Ramona squeezed his hand again. "You said this would buy us a few years in this 
 
 Sam paused, then smiled at that.
 
+<!--
 *TODO better other job than supply chain. Make it specific*
+
+Next paragraph is too preachy. Make it teach us something about the characters, not just world build. You can always defer that to later.
+-->
 
 "There's a very famous example they give in every intro to machine learning course. The reason we a rebase was ever needed. Misaligned reward systems. They go through industries that were entirely driven by amount of time extracted. Impressions, reach, follower growth rate. Engagement rate, click through rate, lead generation rate. They called it all kinds of different things. Marketing, Advertisement, Journalism, Media, Entertainment, Influence, Art. To eat, you wouldn't make food, or water, or shelter. You don't save energy, or lives. You aren't researching or developing new technology."
 
@@ -968,6 +980,8 @@ Sam didn't notice. "Well, yes. Eventually. But it always starts small for expone
 
 "Oh. Yeah. It's kind of like that. Jump the shark. I'm going to steal that one. Anyway, an easy way to jump the shark mathematically is anomaly detection. Machines are really good at finding an outlier. Out-of-sample data performs better, then becomes in-sample. Once they had seen it, they didn't click it anymore. Every business of a certain size had resources devoted to this. Novelty, and being on the extremes of human experience was rewarded with more energy, food, shelter."
 
+<!-- this monologue sucks. Has to be a conversation, and has to be relevant. Don't need to reveal rebase fully here, perhaps just hint at it like a tired couple instead of a full on lecture -->
+
 "There were wars for tens of thousands of years before open video sharing, Sam. The earth had 17 Billion people on it, it's not as simple as that."
 
 "Yes, of course. I know. This is the lecture they give. The human population, for the most part is on a bell curve of experience, no? Sure, there are some binomial distributions–sex, handedness. But for the most part, normal. Height, weight, intelligence, blood pressure, athleticism. If you only select the extremes, then reproduce, and you're going to keep getting more and more extremes."
@@ -975,7 +989,7 @@ Sam didn't notice. "Well, yes. Eventually. But it always starts small for expone
 "Like how they turned wolves into wiener dogs," said Ramona.
 
 <!--
-re-write this next paragraph more coherently
+re-write this next paragraph more coherently. Too lecture-y. What does this reveal about the characters that we don't already know? Lose 60% of the monologue at least
 -->
 
 "Well, this reward in that society was an exponential system. They even called them viruses. An idea virus could have a doubling rate of 2 minutes under the right conditions. Every company optimized systems that chased that, leading to more extreme behavior. A huge number of people did nothing else to survive. Art, sport, sex, guns, drugs, energy, compute, bigger, more, more. The problem is when a very small sample can affect a very large sample. Before the rebase they were shooting their own children, nuking their neighbors."
@@ -1017,9 +1031,11 @@ Sam's laughter eventually fell flat. Ramona's as well.
 			1. No, you can't do anything about those things (ramona)
 			2. stop, nerd, joking energy
 			3. she brings it back seriously to what HER interpretation of the metaphor is
+
+Make sure the tone is consistent throughout
 -->
 
-Ramona later"You should do what makes you whole. We'll always be there. If you want to retire, great. If you want to keep pushing, I have it covered at home. I'm here. I'm not going anywhere. I don't care what you do, as long as you do it with us."
+Ramona (later) "You should do what makes you whole. We'll always be there. If you want to retire, great. If you want to keep pushing, I have it covered at home. I'm here. I'm not going anywhere. I don't care what you do, as long as you do it with us."
 
 "More than a few years, we could coast for life. I've never heard of a salary this high for an RL or opt job. It's kind of nuts. It should be over by the time the baby arrives, too." He looked over at her for reassurance.
 
@@ -1033,11 +1049,17 @@ As they turned onto their street, Sam was already thinking about how he could ge
 
 "Maybe Stevie could tutor you. He might even let you borrow his book, if you ask nicely." Ramona suggested with a wry smile. 
 
+<!--
+too fast transition into next scene
+-->
+
 --------------------------------
+
+# Space Onboarding
 
 Sam clocked in and was thrust jarringly onto an enormous wooden canoe, bobbing gently as it carved through waves. Huge triangular woven sails rustled in the wind as sun beat down upon them. Dozens of tan, tattooed, and bearded men busied with ropes across the deck. Glenn stood in a full suit at the prow of the wooden ship, Dorothea beside him.
 
-As Sam walked unsteadily to join them, holding the rope at the edge of the boat with care. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed straight through him, shouting across the deck in a foreign language. Sam realized that he must have been in spectator mode. He whispered for Dorothea to add captions for him. She heard him despite clearly being out of earshot. He turned them off again after a few seconds, after realizing he didn't know any of the ocean terminology, regardless of language.
+Sam walked unsteadily to join them, one hand always gripping the rope lifeline. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed through him, shouting across the deck in a foreign language. Sam realized that he must have been in spectator mode. He whispered for Dorothea to add captions for him. She heard him despite clearly being out of earshot. He turned them off again after a few seconds, after realizing he didn't know any of the ocean terminology, regardless of language.
 
 He finally reached the prow, looking out over an endless sea in all directions. Glenn and Dorothea shared a private laugh as they turned to address him. At each descent, sprays of water fanned upward and seemed to soak the three of them, though he could feel nothing and they all remained dry. A droplet of water was resting on the top of his hand. He raised it to his chin, peering beneath the lower frames of his glasses to get a closer look. Glenn checked his watch impatiently.
 
@@ -1059,7 +1081,7 @@ Glenn filled the conversational gap. "This particular experiment was set up to t
 
 "Throughout history, humans have used DNA and fossil evidence to try to determine the exact methodology. Even linguistics. The Austronesian language families stretch all the way from the eastern coast of Africa to Easter Island. Farther east than Calgary. So we know they got there, we can approximate when, but the how is uncertain. If the fossil records don't exist, you're out of luck."
 
-"However, biology is remarkably consistent. Given the same initial conditions and time, history tends to repeat itself. Island dwelling people, given food and land scarcity, tend to embark outward. We populate the world at roughly known starting conditions, and wait. We've seen seed ships in hundreds of different iterations, they're remarkably consistent. We've selected a relatively normal outcome here. 1348 BC, this ship is heading to Tonga for the first attempt at permanent colonization."
+"However, biology is remarkably consistent. Given the same initial conditions and time, history tends to repeat itself. Island dwelling people, given food and land scarcity, tend to embark outward. We populate the world at roughly known starting conditions, and wait. We've seen seed ships independently invented with minor variation hundreds of times. We've selected a relatively normal outcome here. 1348 BC, this ship is heading to Tonga for the first attempt at permanent colonization."
 
 Sam looked over at Dorothea, annoyed that she had walked away from the conversation. She was trying to get the voyagers to notice her, attempting to manipulate the simulation in any way possible. 
 
@@ -1075,15 +1097,19 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
 
 "We're doing the same thing as these people, but with other planets."
 
-
-
-
-
-# Space Onboarding
-
-> **[NOTES]**
-
-1. Goals
+<!--
+1. Scene guidance
+	1. What does sam feel getting the mission revealed? Not just a checklist, emotion
+	2. 0.000% success rate is the hook and hard part
+	3. Dorothea arc
+		1. fucking with them, can't figure it out
+		2. figures out how to flicker with the spectator mode, fucks with them for a bit
+		3. Glenn manifests a dozen other agents, she runs back and shoos them away
+		4. She comes back for a bit but can't help it
+		5. Glenn is going to kill this simulation anyway, so she wants to try one more thing
+		6. glenn keeps her in that mode, they capture and throw her overboard
+		7. 
+2. Goals
 	1. Answer these questions
 		1. What is this program?
 		2. What is Sam's role here?
@@ -1103,7 +1129,7 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
 		1. Glenn mystery
 		2. Crazy compute, mystery of some kind
 		3. it's escape
-2. How Glenn explains should tell you about his personality
+3. How Glenn explains should tell you about his personality
 	1. Make sure to write him very different
 	2. Very odd
 		1. Look up syntax or prose ways to make him odd
@@ -1146,14 +1172,14 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
 					1. Walk through with Ramona here?
 				3. 
 			4. With success, the contract will be over
-3. Have him start with an assistant who is very neutral.
+4. Have him start with an assistant who is very neutral.
 	1. Top of the line
 	2. Give some specs of memory, training nodes, etc.
 		1. size of the data she's been trained on
 	3. Sam gives an example query
 		1. He reads the reply
 	4. Dorothea will say
-4. Pod
+5. Pod
     1. 2 robots
         1. Fuxi
         2. Nuwu
@@ -1183,10 +1209,7 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
             3. Smr for power to keep robots going and smelt
             4. Recycle and print parts
             5. One robot repairs the other
-
-
-
-> **[/NOTES]**
+-->
 
 ---
 
