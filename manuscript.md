@@ -2,6 +2,49 @@
 title: "Title TBD"
 author: "Dan Pfeiffer"
 ---
+## Table of Contents
+
+**Act 1 — Setup**
+1. [Honeycomb](#honeycomb) — Damon & Grant. The rebase.
+2. [Work From Home](#work-from-home) — Sam's day job. Family life. Pregnancy reveal.
+3. [Retirement](#retirement) — Job search. Grandma Nan. Condos.
+4. [Empires](#empires) — Old friends. Wasting time. Dorothea pulls him out.
+5. [Glenn](#glenn) — The pitch. Pickup. Polynesian simulation.
+6. [Pickup](#pickup) — Family car ride. Rebase conversation. Job decision.
+7. [Space Onboarding](#space-onboarding) — Glenn's briefing on Mission TWO.
+
+**Act 2A — Rising action**
+8. [Cats and Rats](#cats-and-rats) — B story. Ramona wants him present.
+9. [Space Progress](#space-progress) — Farming contract wraps. Glenn appears.
+10. [Birthday Dinner](#birthday-dinner) — Three cycles of drifting. Couch.
+11. [The Gondola](#the-gondola) — Sunrise ride. Geology. The mountain approach.
+12. [Mountain](#mountain) — The mine tour. Anna Nicole. The shaft.
+13. [Contact](#contact) — Into the mountain. Tina. The vertical city.
+14. [Coffee Guy Interlude](#coffee-guy-interlude) — External pressure on Glenn.
+15. [Space Still Stuck](#space-still-stuck) — Sam's two worlds collide.
+16. [Mountain Optimization](#mountain-optimization) — Second visit. RL system. Bad news.
+
+**Act 2B — Complications**
+17. [Tina's Visit](#tinas-visit) — Domestic cost of obsession.
+18. [Coffee Guy Intro](#coffee-guy-intro) — Grant Melrose reveal.
+19. [Space Victory](#space-victory) ��� Midpoint. Sam finds a viable population.
+20. [None of It Matters](#none-of-it-matters) — Glenn reveals the simulation truth.
+21. [The Other Simulations](#the-other-simulations) — Full scope. Training data.
+
+**Act 3 — Resolution**
+22. [End of an Epoch](#end-of-an-epoch) — All is lost. Shutdown imminent.
+23. [Rock Bottom](#rock-bottom) — Dark night. He chooses family.
+24. [Reunion](#reunion) — Ramona's speech. Back to the mountain.
+25. [Heist Plot](#heist-plot) — The plan takes shape.
+26. [Heist](#heist) — Prisoner's dilemma. Glenn's blind spot.
+27. [Post-Heist Cigar](#post-heist-cigar) — 3.4 seconds. Walk home.
+28. [Heist Approval](#heist-approval) — Coffee Guy's shop. Real-world payoff.
+29. [The Escape](#the-escape) — Off the grid. Into the mountain for good.
+30. [Bedtime](#bedtime) — Mirror of Work From Home. He stays.
+31. [Coda](#coda) — Three perspectives. The LED. The aquarium. End.
+
+---
+
 # Honeycomb
 
 *December, 2041*
@@ -1101,6 +1144,7 @@ Glenn met his gaze. "Yes, it is. Welcome to Mission Te Waka Ora. Mission TWO, fo
 
 Sam raised a brow at that. "The nearest solar system besides our own is what, 10 light years? This isn'
 
+<!--
 ### Nearest Exoplanet Targets (Reference)
 
 Stars grouped by spectral similarity to our Sun. **G-type** = Sun-like. **K-type** = slightly cooler, longer-lived, often considered ideal for habitability. **M-type** = red dwarfs (closest but problematic — tidal locking, flares).
@@ -1150,7 +1194,7 @@ Stars grouped by spectral similarity to our Sun. **G-type** = Sun-like. **K-type
 - M-dwarf planets are closer but problematic: tidal locking, violent stellar flares, narrow habitable zones
 - At 10% c: Tau Ceti = 119 yr, Alpha Centauri = 44 yr, 82 Eridani = 197 yr
 
-<!--
+
 1. Scene guidance
 	1. What does sam feel getting the mission revealed? Not just a checklist, emotion
 	2. 0.000% success rate is the hook and hard part
