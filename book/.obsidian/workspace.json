@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae5adcc76fffc88",
+        "id": "7a4704d1065347d4",
         "type": "tabs",
-        "dimension": 45.36321483771252,
         "children": [
           {
             "id": "e6a82598f7014aac",
@@ -27,7 +26,6 @@
       {
         "id": "bc3fa72e6a52d816",
         "type": "tabs",
-        "dimension": 54.63678516228748,
         "children": [
           {
             "id": "5135eb2b9c77c005",
@@ -57,8 +55,7 @@
               "title": "Glenn \"Big Dog\" Robinson"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,9 +219,9 @@
   },
   "active": "e6a82598f7014aac",
   "lastOpenFiles": [
-    "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
-    "manuscript/manuscript.md",
     "worldbuilding/simulation/colonization/colonization-program.md",
+    "manuscript/manuscript.md",
+    "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
     "worldbuilding/world/organizations/quant.md",
     "worldbuilding/characters/temp-trainee.md",
     "worldbuilding/world/organizations/dna-company.md",
