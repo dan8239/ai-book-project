@@ -1176,7 +1176,11 @@ The world suddenly seemed like it was crawling at an unimaginably slow pace. Had
 
 Sam was brought back to attention by a loud cheer from the group of settlers, which quickly dissolved into furious conversation and action. Men and women both barked orders, people scattering in all directions. Dorothea beelined for the fancy pantsed one as if she had something urgent to discuss, while Glenn just glanced at his watch, next to the sphere. Amidst the commotion he had almost forgotten about the sphere.
 
-Glenn continued "You asked about the caretakers, let me"
+Glenn continued "You asked about the caretakers, if you're settled in." A small hum began emitting from the sphere, barely perceptible over the 
+
+
+
+**Rangi / Papa / Tāne / Tangaroa / Whiro**
 
 1. sphere
 	1. caretakers
