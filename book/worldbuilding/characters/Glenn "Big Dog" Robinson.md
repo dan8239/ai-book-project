@@ -31,6 +31,22 @@ Driver and Controller are equal but necessary—Glenn doesn't outrank Sam, and S
 
 ## What is he like?
 
+Glenn is essentially behaving like test driven development.
+			1. Sam's contract is literally the reward system
+				1. Survival Rate > xyz (or a better loss metric), he gets tangible stuff
+					1. money, another contract, reduction of hours
+				2. The one that he fails he gets punished
+					1. Threatening of Tina / Ramona happens for this reason
+					2. just like rewards there are penalties for failure
+						1. they've estimated this is a proper sized penalty for his personality type
+						2. Maximizing lifetime production of the populace over 1000 year rolling average
+						3. Can't go around actually killing people's wives, it's bad for business
+						4. But preventing unlawful stealing of electricity (use better world building language here) and penalizing as per (world building) decided by ML algorithm of all case data submitted and personal data submitted is well within the bounds of proper motivational discipline
+							1. this is just algorithmic law and justice
+							2. show the justice system in this fashion only as a guillotine above Sam's head the one week he doesn't get the goal done and the deadline slips.
+						5. See how it works with Glenn telling him this early vs. late. I think early but not evil just matter of fact is the play
+					3. In addition to the 
+					4. 
 **Not evil. Not cocky. Not impersonal.** The characterization is more specific than that:
 
 He is literally **incapable of adjusting his main goal from input of a sub-process.** It's not that he doesn't care for you. It's that you do not matter in that sense for his goal at his real global scope. This is just a sub-process he's checking logs on.
