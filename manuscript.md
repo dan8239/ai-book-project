@@ -27,7 +27,7 @@ author: "Dan Pfeiffer"
 **Act 2B — Complications**
 17. [Tina's Visit](#tinas-visit) — Domestic cost of obsession.
 18. [Coffee Guy Intro](#coffee-guy-intro) — Grant Melrose reveal.
-19. [Space Victory](#space-victory) ��� Midpoint. Sam finds a viable population.
+19. [Space Victory](#space-victory) — Midpoint. Sam finds a viable population.
 20. [None of It Matters](#none-of-it-matters) — Glenn reveals the simulation truth.
 21. [The Other Simulations](#the-other-simulations) — Full scope. Training data.
 
