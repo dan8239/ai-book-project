@@ -1106,9 +1106,9 @@ too fast transition into next scene
 
 Sam clocked in and was thrust jarringly onto an enormous wooden canoe, bobbing gently as it carved through steady waves. Well, two of them actually, sort of strapped together. Huge triangular woven sails spanned across the two connected boats, rustling in the wind as sun beat down upon them. Dozens of tan, tattooed, bearded men busied with ropes along and between both decks. Glenn stood in a full suit at one of the prows of the their vessel, Dorothea beside him.
 
-Sam walked unsteadily to join them, one hand always gripping the rope lifeline. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed through him, shouting across the deck in a foreign language. Sam realized he must have been in spectator mode. He whispered for Dorothea to add captions for him. She heard him despite clearly being out of earshot if this were reality. He turned the captions off again after a few seconds, realizing language wasn't actually the real barrier for understanding here. He didn't know any of the boating terms, anyway.
+Sam walked unsteadily to join them, one hand always gripping the rope lifeline. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed through him, shouting across the deck in a foreign language. Sam realized he must have been in some kind of spectator mode. He whispered for Dorothea to add captions for him. She heard him despite her being well out of earshot were this real life. He turned the captions off again after a few seconds, realizing language wasn't actually the real barrier for understanding here. He didn't know any of the boating terms either way.
 
-He finally reached the front of the ship, looking out over an endless sea in all directions. Glenn and Dorothea shared a private laugh as they turned to address him. At each descent, sprays of water fanned upward and seemed to soak the three of them. Fortunately, he remained dry. He preferred a minimal haptic feedback setup, just the neural connection. He felt it kept him grounded more firmly in reality. A droplet of water was resting on the top of his hand. He raised it to his chin, peering beneath the lower frames of his glasses to get a closer look. Glenn checked his watch impatiently.
+He finally reached the front of the boat, looking out over an endless sea in all directions. Glenn and Dorothea shared a private laugh as they turned to address him. At each descent, sprays of water fanned upward and splashed down over the three of them. Fortunately, they remained dry. He realized that the water, too, was passing through him rather than reacting to his presence. He tried to fill his hands with water, unsuccessfully. He lowered his chin down to the ropes to get a better look at the droplets accumulating there, peering beneath the lower frames of his glasses to get a closer look. Glenn checked his watch impatiently.
 
 Sam didn't look up, still marveling at the droplet. "Finally, my nearsightedness pays off. This resolution is astounding. I take it we're not on the public servers anymore?"
 
@@ -1118,23 +1118,23 @@ Glenn held her gaze for an extra beat before snapping back into it. He addressed
 
 Sam smiled at that, finally shaking his concentration on the boat's minutia. "You're rendering down below 0.1 mm from the looks of this. Every nanosecond for hundreds of thousands of simulation years." He did a quick head count on the crew and counted 23 above decks, though it seemed like there was ample storage below. "I'm assuming hundreds of agents running as well. That's.... excessive. What are you trying to find out, exactly?"
 
-Glenn gestured to the oblivious people on the boat. "Hundreds? That's just what's visible here. The simulated Earth here is fully populated, procedurally generated. This instance has a little over 36 million humans at this snapshot, plus the flora and fauna, of course."
+Glenn gestured to the oblivious people on the boat. "This is just what's visible here. The simulated Earth here is fully populated, procedurally generated. This instance has a little over 36 million humans at this snapshot, plus the flora and fauna, of course."
 
 "I'm never going back." Dorothea was beaming. 
 
-Sam said nothing, doing mental math on his present situation.
+Sam said nothing, doing mental math on his present situation. That didn't even seem possible. That would be more compute than exists on the planet. They must be short cutting something, even if they were just procedurally rendering whatever he could interact with.
 
 Glenn filled the conversational gap. "This particular experiment was set up to try to determine the exact methods the Maori people used to colonize the pacific ocean. Over a short period of time, they colonized nearly every patch of dirt across a span of ocean larger than North America. Over a thousand specks of dust dotting the endless blue fabric. They found and colonized all, but how?"
 
-"Throughout history, humans have used DNA and fossil evidence to try to determine the exact methodology. Even linguistics. The Austronesian language families stretch all the way from the eastern coast of Africa to Easter Island. Farther east than Calgary. So we know they got there, we can approximate when, but the how is uncertain. If the fossil records don't exist, you're out of luck."
+Realizing Sam wasn't going to humor his rhetorical question, Glenn continued. "Throughout history, humans have used DNA and fossil evidence to try to determine the exact methodology. Even linguistics. The Austronesian language families stretch all the way from the eastern coast of Africa to Easter Island. Farther east than Calgary. So we know they got there, we can approximate when, but the how is uncertain. If the fossil records don't exist, you're out of luck."
 
 Dorothea walked away towards the rest of the sailors, pulled as if in a trance. Glenn and Sam both clocked her, before Glenn went on.
 
 "However, biology is remarkably consistent. Given the same initial conditions and time, history tends to repeat itself. Island dwelling people, food pressure and land scarcity, tend to embark outward. We populate the world at roughly known starting conditions, and wait. We've seen seed ships independently invented with minor variation hundreds of times. We've selected a relatively normal outcome here. In this trial, it's 3648 before present, and this ship is heading to Tonga for the first attempt at permanent colonization."
 
-Sam looked over at Dorothea, annoyed that she had walked away from the conversation. She was trying to get the voyagers to notice her. Flailing in her attempt to manipulate the simulation in any way possible. 
+Sam looked over at Dorothea, annoyed that she had walked completely out of the conversation. She was trying to get the voyagers to notice her. Flailing in her attempt to manipulate the simulation in any way possible. 
 
-"Seed ship?" Sam asked, burying his rage, though he was sure his bios didn't hide anything from Glenn. At least it was still polite to not show it outwardly. He figured his negative biometrics would at least raise Dorothea's calculated loss for this interaction. Hopefully enough to discourage this kind of rudeness in the future.
+"Seed ship?" Sam asked, burying his rage, though he was sure his blood pressure was a dead giveaway to Glenn, anyway. It was still polite to not show it outwardly. He figured his negative biometrics would at least raise Dorothea's calculated loss for this interaction. Hopefully enough to discourage this kind of rudeness in the future.
 
 "Don't mind her, Sam. I've given her the entire mission briefing document already. A seed ship is exactly what it sounds like. The holds are packed with a civilization starter pack. Taro, yams, bananas, breadfruit. Pigs, chickens, dogs. Wherever they land, the same pattern unfolds. Let the animals roam and populate the island, and introduce the plants you need to survive. By the time the fish, clams, and helpless game birds are gone, agriculture has taken hold. It's a repeatable playbook."
 
@@ -1142,222 +1142,173 @@ Sam looked over at Dorothea, annoyed that she had walked away from the conversat
 
 Glenn met his gaze. "Yes, it is. We're calling it Mission Te Waka Ora. Mission TWO, for short. It was both inspired by and named after these voyages."
 
-"Roughly translated from the Maori language as 'Lifeboat'," interjected Dorothea, yelling across the deck as she attempted to harass the passengers, unsuccessfully. She waved her arms, then spit right through one of their faces.
+"Roughly translated from the Maori language as 'Lifeboat'," interjected Dorothea, yelling across the deck as she attempted to harass the passengers, unsuccessfully. She waved her arms, then spat right through one of their faces.
 
 "We're doing the same thing as these people, of course, but with exoplanets instead of islands." Glenn stated.
 
 Sam raised a brow at that. "The nearest solar system besides our own is what, a hundred years? How are you planning to keep a whole biome alive that long?"
 
-"10.3 light years, actually, to the target," Glenn corrected. "Alpha Centauri system, two distinct rocky planets have been identified in the goldilocks zone, with spectroscopy estimating a similar enough atmospheric content to theoretically be viable for supporting human life. Solar sails operate extremely slowly, however. The payload won't arrive for over 150 years."
+"4.3 light years, actually, to the target," Glenn corrected. "Alpha Centauri system, two distinct rocky planets have been identified in the goldilocks zone, with spectroscopy estimating a similar enough atmospheric content to theoretically be viable for supporting human life. We're targeting Alpha Centauri AB. It's 1.2 AU from their primary sun. You'll learn more about the specific conditions there in time. As for transit, solar sails operate extremely slowly. The payload won't arrive for over 100 years."
 
-Sam scowled at that. "I can barely keep a basil plant alive for 150 *days*, let alone an entire biome for 150 *years*. Shouldn't we be a little bit past theoretically viable at this point, or we'll just be sending living things into a death trap."
+Sam scowled at that. "I can barely keep a basil plant alive for 100 *days*, let alone an entire biome for 100 *years*. Shouldn't we be a little bit past theoretically viable at this point? Otherwise we'll just be sending living things into a death trap... Did you say primary sun?"
 
-"Well, that's where you come in, fortunately. It's going to be easier to see than to explain, I think. Let me take you to the hangar next, we can view the payload," Glenn said, pulling up his device. Dorothea raced back across the boat, loudly objecting to the suggestion. "NO! I think I'm figuring out how to get them to see me. Can we stay with them a little longer?" She brought her hands together in a praying motion. Sam had rarely seen her this animated.
+"Well, that's where you come in, fortunately. It's going to be easier to see than to explain, I think. Let me take you to the hangar next, where we can view the payload in better light," Glenn said, pulling up his device. Dorothea raced back across the boat, loudly objecting to the suggestion. "NO! I think I'm figuring out how to get them to see me. Can we stay with them a little longer?" She brought her hands together in a praying motion. Sam had rarely seen her this animated.
 
-Glenn froze, considering, then obliged with a shrug. "You can try if it pleases you." Dorothea clapped, then hurried back to her task. Glenn turned to Sam. "We're globally scoped in this environment, and I'm the only admin here. I don't know why she's wasting her time. I can project the payload here, no need to go to the hangar."
+Glenn froze, considering, then obliged with a shrug. "You can try if it pleases you." Dorothea clapped in excitement, then hurried back to her task. Glenn turned to Sam. "We're globally scoped in this environment, and I'm the only admin here. I don't know why she's wasting her time. Nevertheless, I can project the payload here, no need to go to the hangar."
 
-Glenn pressed a button and a perfect sphere appeared noiselessly on the deck, no taller than his waist. Sam could see machinery, wires, and devices packed inside it, no cubic centimeter wasted.
+Glenn pressed a button and a perfect sphere appeared noiselessly on the deck, no larger than a soccer ball. Sam could see machinery, wires, and devices packed inside it, no cubic centimeter wasted. He put his hands on either side of it, and realized it was much lighter than it appeared. He could lift it easily.
 
 "This doesn't exactly look like a biome. Perhaps I'm missing something. These people brought their food supply, no?"
 
 Glenn just stared at him for a few seconds. He glanced at his watch briefly, betraying slight impatience. 
 
-It took Sam a few beats to understand. Eventually, he spoke up. "You're just bringing a bio-printer. A giant DNA database and some starter material. You want to grow a biome from scratch out there?" Sam pressed his face to the glass, trying to identify the different pieces of equipment. 
+It took Sam a few beats to understand. Eventually, he spoke up. "You're just bringing a bio-printer. A giant DNA database and some starter material. You want to grow a biome from scratch out there?" Sam pressed his face to the glass, orienting the ball in various directions, trying to identify the different pieces of equipment.
 
-Glenn smiled with satisfaction, his new pupil finally having understood. "A bit more than that, actually. Redundancy is non-negotiable. Two caretakers, two bio-printers with incubators, two small modular reactors, just enough to keep the system powered. Raw organic material for printing, and a recycling system in the event of required maintenance on any equipment. And, of course, all of recorded human history and the genome of every species on Earth on the hard drive." Glenn peered into the ball, positioning his head just so, pointing out the tiny silica hard drive to Sam. It was just barely visible through the clutter, a translucent cube that could fit in his palm of his hand, containing a database of everything his species had ever discovered.
+Glenn smiled with satisfaction, his new pupil finally having understood. "A bit more than that, actually. Redundancy is non-negotiable. Five caretakers, two initial bio-printers with incubators, two renewable power supplies, just enough to keep the system powered. Raw organic material for printing, and a recycling system in the event of required maintenance on any equipment. And, of course, all of recorded human history and the genome of every species on Earth on the hard drive." Glenn peered into the ball, positioning his head just so, pointing out the tiny silica hard drive to Sam. It was just barely visible through the clutter, a translucent cube that could fit in his palm of his hand, containing a record of everything his species had ever accomplished.
 
 "Where are the caretakers?" Sam said, bobbing his head around the edges of the ball to try to get a better vantage point.
 
-Glenn didn't raise his voice, but directed it towards Dorothea. "Sorry Dorothea, you can continue your ineffectual tormenting of the populous on land. We need a bit more space". She waved him off without raising her eyes. She was about 20 meters away, frustrated. She was trying to rip an oar from its current position in storage. It may as well have been the sword in the stone for all it budged.
+Glenn didn't raise his voice, but directed it towards Dorothea. "Excuse me, Dorothea, but you'll have to continue your ineffectual tormenting of the populous on land. We need a bit more space". She waved him off without raising her eyes. She was about 20 meters away, frustrated. She was trying to rip an oar from its current position in storage. It may as well have been the sword in the stone for all it budged.
 
-Glenn manipulated his device again, and the world around him began to fast forward. The sailors became blurs of activity as they moved faster and faster, some settling down for bed, others busying themselves. Clouds zipped past above them. The speed continued to increase, until night fell, stars gliding through the sky much too quickly. They morphed into bright arcs of light as the simulation sped beyond the point where Sam could perceive his surroundings clearly anymore. The sky seemed to strobe between night and day for a few seconds, then an island grew from a strobing speck on the horizon to a mountain, and then they were standing on the beach. Time began to slur back to normal speed, and men were ferrying people, animals, and material to and fro the civ boat that was still out in the deeper waters. 
+Glenn manipulated his device again, and the world around him began to fast forward. The sailors became blurs of activity as they moved faster and faster, some settling down for bed, others busying themselves. Clouds zipped past above them. The speed continued to increase, until night fell, stars gliding through the sky much too quickly. They morphed into bright arcs of light as the simulation sped beyond the point where Sam could perceive his surroundings clearly anymore. The sky seemed to strobe between night and day for some time, then an island grew from a flashing speck on the horizon to a mountain, eventually engulfing the entire skyline as they arrived.  Time began to slur back to normal speed and they found themselves on the beach.  Men were ferrying people, animals, and material to and fro the civ boat that was still out in the deeper waters. 
 
-The world suddenly seemed like it was crawling at an unimaginably slow pace. Had the waves always crashed so slowly?  He saw an enormous white bird flying overhead. It seemed to float without ever flapping its wings. One of the voyagers was dressed in much a nicer loincloth than the people surrounding him, and he seemed to hold court. He spoke loudly to a crowd in a rhythmic incantatory voice. He seemed well rehearsed and perfect in his cadence. The noise of  birds on the beach was nearly deafening, There was loud honking just past the tree-line. What was that?
+The world suddenly seemed like it was crawling at an unimaginably slow pace. Had the waves always crashed so slowly?  He saw an enormous white bird flying overhead, seemingly in slow motion. It seemed to float without ever flapping its wings. One of the voyagers was dressed in much a nicer loincloth than the people surrounding him, and he appeared to be holding court. He spoke loudly to a crowd in a rhythmic incantatory voice. He seemed well rehearsed and perfect in his cadence. The noise of birds on the beach was nearly deafening, There was loud honking just past the tree-line. What was that?
 
-Sam was brought back to attention by a loud cheer from the group of settlers, which quickly dissolved into furious conversation and action. Men and women both barked orders, people scattering in all directions. Dorothea beelined for the fancy pantsed one as if she had something urgent to discuss, while Glenn just glanced at his watch, next to the sphere. Amidst the commotion he had almost forgotten about the sphere.
+Sam was brought back to attention by a loud cheer from the group of settlers, which quickly dissolved into furious conversation and action. Men and women both barked orders, people scattering in all directions. Dorothea beelined for the fancy pantsed one as if she had something urgent to discuss, while Glenn just glanced at his watch, next to the sphere. Amidst the commotion Sam had almost forgotten about the sphere.
 
-Glenn continued "You asked about the caretakers, if you're settled in." A small hum began emitting from the sphere, barely perceptible over the 
+Glenn continued "You asked about the caretakers, if you're settled in." A small hum began emitting from the sphere, barely perceptible over the bird calls, waves crashing, and humans chattering. He pressed his ear to the sphere, then realized it was inflating, extremely slowly. 
 
+"Can you turn down the scene audio a touch? How big will it get?" Sam asked.
 
+Sam's felt his body receding from fight or flight as the audio adjusted down to a less distracting level. He closed his eyes and took a deep breath, overstimulated.
 
-**Rangi / Papa / Tāne / Tangaroa / Whiro**
+"It roughly triples in diameter, though it will be awhile. It will take over a hundred years to touch down, so speed isn't what we're optimizing for." Glenn was speaking to Sam, but his eyes lingered on Dorothea, who was now sitting patiently in the sand, somewhat unexpectedly. Sam turned to watch as well. Dorothea was watching a woman walk barefoot in the wet sand, carrying an enormous stick of some kind. A small child was tailing a few feet behind her, he couldn't have been much older than Clyde. Every so often she'd lean on the stick, plunging it into the earth, twist it back up and a long cylinder of sand would fall out from it. Nearly every time some shelled animal was in the sand. She'd wait for the child to gather it from the sand and place into a basket. Glenn stood frozen, appearing to multi-task through Sam's distraction.
 
-1. sphere
-	1. caretakers
-2. Where are we going?
-	1. so in so
-	2. starglass
-	3. 2 different planets, both earthlike, both goldilocks zone
-		1. do two because he needs to diverge the species
-3. summons a bunch of guys
-	1. dorothea is like oh fuck that, who are these fucking jackasses
-	2. make one of these birds ride a bicycle
-	3. do all this in a big commotion fight after Dorothea breaks spectator mode
-	4. Glenn needed to re-initialize her to have the changes stick. Turn it off and back on.
-<!--
-spread some of these around a bit, they're too jammed in here. When you want to go back external use them
--->
+Sam was confused. "I thought you said 4.3 light years, why does it take so long to get there? If we're not taking anything that's living, can't we get there much faster? I'll never even know if any of this works."
 
-He followed a few of the men towards a honking racket on the beach a few hundred meters away. What were those, seals? He'd never seen any animals like them, or at least not a convincing, high resolution experience of them. A half dozen shirtless men were watching them as well, holding adzes, seemingly weighing different approaches to hunting the animals. One held a dog, shaking with excitement, desperate for the man holding his leash to give him some signal. 
+"If you do your job correctly, it will be a foregone conclusion," said Glenn. "You shouldn't bother yourself much with transit, our best simulations indicate over 99.8% of the time the payload will reach the destination as currently designed. We have enormous solar sails carrying a very light payload. We get into orbit the standard way, separate the lightweight payload, and let the sails out. We can then slowly accelerate the ship with a focused laser array over a period of about a year. We could get it going much faster, but the limiting factor is slowing down. If we're going faster than about 0.5% of the speed of light, all we can do is wave to the planet as we fly past. The whole ship needs to use the sails to catch light from Alpha Centauri like a parachute and break. It needs a long time to do that. At our end we can accelerate very quickly, but there's no laser array waiting for us in another solar system. Accelerate for a year, coast for 85, star-break for 11 years, then we need another 5 to navigate into the proper orbit and safely deliver the payload to Alpha Centauri AC. AC-AC, colloquially."
 
-Women were walking barefoot in the wet sand, carrying an enormous stick of some kind. Every so often they'd plunge it into the earth, twist it back up and a long cylinder of sand would fall out from it. Nearly every time some shelled animal was in the sand, quickly gathered and placed into a basket. 
+Sam absorbed that information, watching the ball continue to grow. Glenn grew impatient and sped things up again, briefly. The ball seemed to have stopped inflating, flattening some into a half sphere, about up to his waist, now. Sam saw 5 small, gray robots walking inside the the little dome. They seemed to be fussing over one another. Each couldn't have been larger than his thumb. Their coordination was unbelievably smooth, one turning and raising an arm as the other reached for the same area to check something, then moving on to the next appendage. They reminded him of old videos he'd seen of chimpanzees picking bugs out of their family members' fur. Sam tried to lean in to get a better look without crushing the dome.
 
-A flock of enormous hairy birds walked near the edge of the wood-line. They seemed unbothered by their guests, busying themselves picking through the undergrowth. Sam couldn't believe how man there were. More men talked in hushed voices, staring at them.
+Glenn smiled at that. "Don't worry about breaking it. It's much too strong for that. It's also a projection, if you've forgotten." He gave Sam a wink, somewhat awkwardly.
 
-He'd never heard or seen so much wildlife before, even in virtual space. The zoos had never really appealed to him, with their ancient, grainy 2D videos. This was somehow different though. He wished he had the full sensory rig so he could smell them, oddly. More 
+The little robots seemed to have woven cloth for muscles. They were humanoid, but more compact internally. Their chest was small, with long, skinny arms and legs. No hair, or visible eyes, they just seemed like gray threaded dolls, moving in perfect sync with one another.
 
-Enormous crickets
+"These five are the caretakers." Glenn explained. "They run the printers based on the algorithm you determine. They should last about 150 years on the original nuclear batteries, but will ultimately fail. The ability to fabricate replacements is a stopgap."
 
+Sam thought he finally understood. "This isn't like colonizing an island. There literally is nothing on these planets. No microbes, no bacteria, nothing even to turn rocks into dirt, much less plants or animals. We need to build the entire food chain from single celled organisms up to humans."
 
+Glenn nodded, "Correct."
 
-<!--
-### Nearest Exoplanet Targets (Reference)
+"And I assume since we just brought this mini dome, it all has to survive in the open atmosphere of wherever this thing lands, hot, cold, toxic, whatever."
 
-Stars grouped by spectral similarity to our Sun. **G-type** = Sun-like. **K-type** = slightly cooler, longer-lived, often considered ideal for habitability. **M-type** = red dwarfs (closest but problematic — tidal locking, flares).
+"Correct."
 
-**Sun-like stars (G and K-type) with confirmed planets**
+"And you want humans to be able to live there in roughly 150 years?"
 
-| # | Planet | Star | Spectral Type | Dist (ly) | Habitable Zone | Type | Confirmed |
-|---|--------|------|---------------|-----------|----------------|------|-----------|
-| 1 | Tau Ceti e | Tau Ceti | G8.5V | 11.91 | Uncertain | Super-Earth | 2017 |
-| 2 | Tau Ceti f | Tau Ceti | G8.5V | 11.91 | Uncertain | Super-Earth | 2017 |
-| 3 | Epsilon Eridani b | Epsilon Eridani | K2V | 10.48 | No | Gas Giant | 2000 |
-| 4 | Epsilon Indi Ab | Epsilon Indi A | K5V | 11.87 | No | Gas Giant | 2019 |
-| 5 | 40 Eridani b | 40 Eridani A | K1V | 16.3 | Yes | Super-Earth | 2018 |
-| 6 | 82 Eridani b | 82 Eridani | G8V | 19.7 | No | Super-Earth | 2011 |
-| 7 | 82 Eridani c | 82 Eridani | G8V | 19.7 | Uncertain | Super-Earth | 2011 |
-| 8 | 82 Eridani d | 82 Eridani | G8V | 19.7 | Uncertain | Super-Earth | 2011 |
-| 9 | 61 Virginis b | 61 Virginis | G7V | 27.8 | No | Super-Earth | 2009 |
-| 10 | 61 Virginis c | 61 Virginis | G7V | 27.8 | Uncertain | Neptune-like | 2009 |
-| 11 | HD 219134 b | HD 219134 | K3V | 21.25 | No | Rocky / Super-Earth | 2015 |
-| 12 | HD 219134 c | HD 219134 | K3V | 21.25 | No | Rocky / Super-Earth | 2015 |
-| 13 | HD 219134 f | HD 219134 | K3V | 21.25 | Uncertain | Super-Earth | 2015 |
-| 14 | Sigma Draconis b | Sigma Draconis | G9V | 18.8 | Uncertain | Super-Earth | 2023 |
-| 15 | Delta Pavonis (no confirmed) | Delta Pavonis | G8IV | 19.9 | — | — | — |
-| 16 | Alpha Centauri (no confirmed) | Alpha Centauri A/B | G2V / K1V | 4.37 | — | — | — |
+"Correct." Glenn lit a cigarette. Sam thought that was a bit performative for an agent. Glenn really was a bit odd.
 
-**Red dwarf systems (M-type) — closest targets**
+Sam looked up at all of the life on the island, trying to think of all of the links in the chain that he'd need to replicate from scratch on another planet with God knows what in the atmosphere, under some random amount of gravity and solar radiation. Everything chained up so delicately here.
 
-| # | Planet | Star | Spectral Type | Dist (ly) | Habitable Zone | Type | Confirmed |
-|---|--------|------|---------------|-----------|----------------|------|-----------|
-| 1 | Proxima Centauri b | Proxima Centauri | M5.5V | 4.24 | Yes | Rocky / Super-Earth | 2016 |
-| 2 | Proxima Centauri d | Proxima Centauri | M5.5V | 4.24 | No | Sub-Earth | 2022 |
-| 3 | Proxima Centauri c | Proxima Centauri | M5.5V | 4.24 | No | Mini-Neptune | 2020 |
-| 4 | Barnard's Star b | Barnard's Star | M4V | 5.96 | No | Sub-Earth | 2024 |
-| 5 | Ross 128 b | Ross 128 | M4V | 10.94 | Yes | Rocky / Earth-sized | 2017 |
-| 6 | GJ 887 b | Lacaille 9352 | M2V | 10.74 | No | Super-Earth | 2020 |
-| 7 | GJ 887 c | Lacaille 9352 | M2V | 10.74 | Uncertain | Super-Earth | 2020 |
-| 8 | GJ 1061 c | GJ 1061 | M5.5V | 11.98 | Yes | Super-Earth | 2020 |
-| 9 | Luyten b | Luyten's Star | M3.5V | 12.36 | Yes | Super-Earth | 2017 |
-| 10 | Teegarden's Star b | Teegarden's Star | M7V | 12.50 | Yes | Rocky / Earth-sized | 2019 |
-| 11 | Teegarden's Star c | Teegarden's Star | M7V | 12.50 | Yes | Rocky / Earth-sized | 2019 |
-| 12 | YZ Ceti b | YZ Ceti | M4.5V | 12.13 | No | Rocky / Sub-Earth | 2017 |
+He watched a flock of enormous hairy birds walked near the edge of the wood-line. Sam couldn't believe how many there were. Men watched them from a clearing, talking in hushed voices. They seemed to be discussing the best way to kill and eat these new animals. The birds seemed unbothered by their guests, busying themselves picking through the undergrowth. 
 
-**Story notes:**
-- Best Sun-like candidates: **Tau Ceti** (11.9 ly, G-type, multiple planets), **40 Eridani** (16.3 ly, K-type, HZ super-Earth), **82 Eridani** (19.7 ly, G-type, 3 planets), **HD 219134** (21.3 ly, K-type, rocky transiting planets)
-- **Alpha Centauri A** (4.37 ly, G2V — nearly identical to our Sun) has no confirmed planets but is the closest Sun-like star. Strong narrative candidate
-- **Delta Pavonis** (19.9 ly, G8IV) also unconfirmed but frequently cited in sci-fi as a colonization target
-- M-dwarf planets are closer but problematic: tidal locking, violent stellar flares, narrow habitable zones
-- At 10% c: Tau Ceti = 119 yr, Alpha Centauri = 44 yr, 82 Eridani = 197 yr
+Here, everything made sense. The sand and dirt already had microbes, cyanobacteria, nitrogen fixers, fungi, everything plants needed to survive. Tiny organisms turning rocks into things a plant can essentially eat. Then thousands of different plant species already existing on this island, each filling a tiny niche. Take sunlight and dirt, turn it into food. Insects and invertebrates have to be there already, turning the soil over, being food for the next thing up the chain. Then ladder up to small vertebrates, plant eaters, predators, there were so many gaps in the chain to consider. These islands were perfect, they already had everything in place that humans needed. You can't just shotgun a bunch of DNA on another planet and hope for the best. He looked down at the five little robots, busying themselves in a dome. How could you colonize a planet with five little action figures in a bubble?
 
+Dorothea crashed back into the conversation, seemingly sensing Sam's inward spiral. She had an enormous smile on her face and was wearing the hat from the fancy pantsed leader of the colony. "Oh, it won't be so bad, you've done this a thousand times. And now you'll have the greatest simulation software on earth to run as many trials as you like. Plus, I'll be here to help."
 
-1. Scene guidance
-	1. What does sam feel getting the mission revealed? Not just a checklist, emotion
-	2. 0.000% success rate is the hook and hard part
-	3. Sam arc
-		1. This planet is doomed? Perhaps not yet
-		2. 0.00% success rate so far
-		3. Holy shit reaction to the computing power
-		4. Maybe just nerding out over the other shit
-	4. Dorothea arc
-		1. fucking with them, can't figure it out
-		2. figures out how to flicker with the spectator mode, fucks with them for a bit
-		3. Glenn manifests a dozen other agents, she runs back and shoos them away
-		4. She comes back for a bit but can't help it
-		5. Glenn is going to kill this simulation anyway, so she wants to try one more thing
-		6. glenn keeps her in that mode, they capture and throw her overboard
-	5. Glenn arc
-		1. Sam finds the subtle differences in tactics (realism of the simulation) a bit unsettling.
-		2. His monte carlo simulations are statistical. Percent chance a tomato plant survives given soil pH
-		3. They've had long enough to develop culture, history, then you just turn it off?
-		4. He thinks for a bit, then "I'm not certain that I understand the distinction between the two"
-		5. Dorothea interjects. "You're turning them off anyway, right? I finally got the hang of this", then goes and fucks with them again
-		6. "She shouldn't be able to adjust the global settings in here. *zones out*. Ah, yes, I see the vulnerability. Do I have your permission to teach her a minor lesson?
-2. Goals
-	1. Answer these questions
-		1. What is this program?
-		2. What is Sam's role here?
-			1. human in loop
-			2. optimization for species survival
-			3. what is the PROBLEM here?
-				1. 0.000% success rate so far
-				2. x% lost in flight
-					1. x years
-				3. the remainder don't survive
-		3. What is the optimization function he must solve?
-		4. what resources does he have at his disposal?
-			1. Insane simulation compute
-			2. What is the simulation software? What makes it different?
-			3. Budget / agents
-	2. Seed some things
-		1. Glenn mystery
-		2. Crazy compute, mystery of some kind
-		3. it's escape
-3. How Glenn explains should tell you about his personality
-	1. Make sure to write him very different
-	2. Very odd
-		1. Look up syntax or prose ways to make him odd
-	3. 
-			1. He is on a series of x week contracts
-				1. Match them to each week
-				2. What are the measurements of his progress?
-				3. Be very specific about these
-				4. These are the chapters that he's solving the mystery
-			2. Sam is experimenting early on
-				1. EDA
-				2. Some system design
-					1. Walk through with Ramona here?
-				3. 
-			3. With success, the contract will be over
-4. Have him start with an assistant who is very neutral.
-	1. Top of the line
-	2. Give some specs of memory, training nodes, etc.
-		1. size of the data she's been trained on
-	3. Sam gives an example query
-		1. He reads the reply
-	4. Dorothea makes them all create a pelican on a jetski
-5. Pod
-    1. 2 robots
-        1. Fuxi
-        2. Nuwu
-        3. Rangi and Papa (polynesian)
-    2. Bio printer
-        1. Microbes
-            1. Producers
-            2. Fixers
-            3. Decomposers
-            4. Make soil
-        2. Plants
-        3. Insects
-        4. Animals
-        5. Humans
-    3. The probe stays in orbit. It relays a continuous signal.
-        1. What does it say?
-        2. Upon receiving transmission it starts to send the entire payload of human history
-        3. Instructions on how to repair or replicate the current pod
-        4. When they pass the test they pay it forward
-    4. Specs
-        1. Lighter than an astronaut
-        2. Limited but huge amount of them
-        3. Each has a sail
-        4. It's basically like a refrigerator size with two robots that are condensed and vacuum sealed
-        5. Components
-            1. Bio printer
-            2. Self repair kit
-            3. Smr for power to keep robots going and smelt
-            4. Recycle and print parts
-            5. One robot repairs the other
--->
+Sam glanced over and saw the Maori leader searching frantically for his lost hat. Headdress? It seemed important, whatever it was called. His professional, well rehearsed veneer had faded away revealing more of an air of bedlam.
+
+Glenn's mouth dropped a fraction. "How did you... you shouldn't be able to adjust the global settings in here." He froze, totally immobile. He was seemingly broken. Five seconds went by, then ten, then fifteen. Sam was about to check his network connection when Glenn finally kicked back on. "Ah, yes, I see the vulnerability. It's closed, now. Very clever, Dorothea. Don't do that again. This whole simulation is tainted, so we'll need to prune it."
+
+"Over this guy's stupid hat?! Loosen up a bit. I like these guys, let them have their little civilization." Dorothea objected, trying to see her reflection in the bubble.
+
+"She is right, of course, I have specialized agents at all layers of the biome, astrophysicists, experts on the flight plan, all available at all hours. Your compute budget is for all intents and purposes, unlimited."
+
+An army of suits appeared, vaguely Glenn-like in appearance. Sam counted 12. Glenn started to introduce them briefly before Dorothea interrupted.
+
+"OVER MY DEAD BODY. Get out of here, you sychophantic bootlickers. I can spin off a thread whenever I damn well please, I don't need you fine-tuned douchebags getting all up in my space messing up my context."
+
+She was physically pushing the silent, confused agents towards the ocean, who avoided her, slowly spreading out over the beach. One of them finally defended himself, if only verbally.
+
+"I assure you, my job is only to assist in matters strictly within the scope of the space mission, and only when directed. I would never to presume to get in the way of Sam or your typical workfl–"
+
+"You just did, you brown nosing ass hat. Chug dong you soulless waste of tokens." She strode towards the one who had been objecting, balled fists.
+
+Glenn shot a glance towards Sam, who was smirking at Dorothea. "She does tend to have an eye for these things. Dorothea! Let's give them the pelican on a bicycle test, at least, before you write them off."
+
+Dorothea had the confused agent in a headlock, both legs wrapped around his waist as he spun trying to fling her off of him. She let up, getting off of him, then turned and punched him hard in the genitals before addressing Sam.
+
+"OK, fair enough. Anyone who is wearing loafers and a suit to the *beach* in 95 degree weather, here's your chance to prove your competence and *maybe* participate on this project. Render for me one of those monstrocities over there, riding a jet-ski, in three dimensions. You have 90 seconds." She pointed over to the beach.
+
+Sam was laughing, hard, at her antics, but Glenn was just confused.
+
+"What's the point of that? They're trained in astrophysics, biology, genomics." Glenn asked, as the agents and Dorothea had rushed for a better look at the animals she wanted them to draw.
+
+Sam took off his glasses, wiping a tear from his eye. "That's kind of the point. If you're testing general intelligence, you can't ask a bunch of math agents math questions. That's what they trained on. I don't like hyper-specialized memorization bots. I need real problem solvers. So, I ask them to do something out of their comfort zone. I asked Dorothea to animate a pelican riding a bicycle when I first instantiated her."
+
+Glenn nodded in understanding. "Ah, yes. Yes, that's good. You have to be able to understand the problem from a lot of different perspectives. Ask a fish to climb a tree, so to speak. To render a decent pelican you'd have to understand video data structures, realistic physical motion, how a bicycle works, how flight works, a lot of things to piece together for a glorified language model."
+
+"Exactly," Sam replied. If the agent can pick up something totally out of its wheelhouse, you know it has generalized intelligence, rather than rote memorization.
+
+"Very clever, very clever." said Glenn. They walked in silence towards the group.
+
+The suits had all followed Dorothea towards a honking racket on the beach a few hundred meters away. Some were stoic in concentration, while others frantically gesticulated with their arms, trying to manifest her request. What were those, anyway, seals? Sam had never seen any animals like them, or at least not a convincing, high resolution experience of them. Now that he was thinking about the food chain, he'd never heard or seen so much wildlife before, even in virtual space. The zoos had never really appealed to him, with their ancient, grainy 2D videos. This was somehow different though. Oddly, as they got closer he wished he had the full sensory rig so he could smell them.
+
+"So, why me, really? With all these agents working the problem, you must have better options." Sam asked Glenn.
+
+Glenn was staring at Dorothea as he answered. "I told you, you're not the only one working the problem. Additionally, we need a human in the loop given the genetic engineering at play. It's a necessary guardrail considering the manipulation of the human genome."
+
+Sam thought on that. "The robots would turn us into something inhuman just to satisfy the mission, you mean?"
+
+"Essentially, yes. My kind is particularly susceptible to abusing misaligned objectives. Plus, we've had a noticeable lack of success across all simulations, so far."
+
+"You'll have to tell me more about how you're defining success, and what a lack of it looks like," replied Sam.
+
+"Well, as I said, 98% of the payloads reach their destination across all of our simulations. Unfortunately, 0.00% of the trials have had any life whatsoever by the time the last caretaker became inoperable. Oh, what is this now?!"
+
+The agents renderings had started to come in. There were dozens of horrifically rendered seals flopping erratically on jet skies. Several were buggy to the point of flickering in and out of existence. Some had just half of a jetski and half of a walrus, conjoined. The vast majority of the animation was absolutely horrendous. Some seemed almost two dimensional, others like a Picasso painting, unintentionally shifted in perspective. The seals moved totally unnaturally, out of sync with the jet skis. Only a couple even appeared to float somewhat realistically in the water. Some of the seals were just humans with a seal's face. One of them was pretty good, however. A seal sat sidesaddle on the jetski, bouncing up and down on the waves. It was stuck in a somewhat circular donut, and appeared to be looping through animations, but it was pretty good, all things considered. It had a pirate's hat, an eye patch, and its panicked honk blended in perfectly with the animals on the beach. The jetski even sprayed some blood as it ran over one of the bad seal renderings.
+
+Glenn was actually mad at this point. He was frozen again, but he was seething when he had gone into his diagnostic mode based on the facial expression. At first Sam didn't understand why, but then he saw that a crowd of the Maori had gathered. Hushed chatter went through the crowd, many falling on their knees, some shouting, some crying. Dorothea had somehow gotten all of the agents to render on the simulation itself. Sam would have to ask her how she'd done that. He was still coming to grips with the sheer scale of the simulation, much less start to control or manipulate it.
+
+Sam caught Dorotheas eyes, and gave an impressed chin nod towards the one decent seal. Dorothea understood and addressed him.
+
+"Which agent rendered this seal?" She pointed to the seal doing donuts, and it revved down the jetski, looking expectantly towards the shore.
+
+"It was me." Said the agent who had spoken up and been rewarded with a blow to his gens.
+
+"What's your name?" Asked Dorothea.
+
+"It's Har–"
+
+"Your name is Judas, now, unless Sam picks a different name. Speak when spoken to." interrupted Dorothea. "The rest of you can fuck right off."
+
+Judas bowed in appreciation.
+
+Glenn unfroze, and all the renderings disappeared. His rage had disappeared, at least visually. All of the other agents popped out of existence, save Judas nee Har...old? Harry? Formerly Harsomething, now Judas. The Maori people were looking around towards each other, a confusing energy of fear and anger.
+
+"You're really going to turn this simulation off?" Sam asked him.
+
+Glenn turned to look at Sam. "I don't really have a choice anymore, do I? The data past this point in time is ruined. We'll just have to delete everything after today and free the compute for another simulation. We're constantly instantiating and freeing old trials, why does it concern you so? You'll need the compute of this trial, and much more."
+
+Sam took a beat to try to articulate how he was feeling.
+
+"I'm used to monte carlo simulations, it's not that. What percentage chance this cassava plant survives to reproduce, given this rainfall, soil pH, solar irradiation. Run that 10 million times, you get a decent statistical profile, and a decent look at your expected outcomes. This just seems different."
+
+Glenn replied, considering. "Once you understand the mechanisms at play, it's very similar. Non-deterministic, but statistical in nature. Each of these agents has a similar model for their actions, chance of survival, reproduction, starting a conversation, finding an island. The scale is all that's different."
+
+Sam grimaced. "It's not that. They've had a long enough chance to develop language, culture, history. These saps on this beach think they have a family, they think they're heroes to their home island. In a way, they are. They're doing this for their kids. And we just turn them off? It just seems different than simulating agricultural yields of 10 hectares of farmland."
+
+Glenn thought for a few beats. "I'm not certain that I understand the distinction between the two."
+
+They both watched Dorothea, who now had an arm around Judas and was gesturing towards the seals. Seemingly, she was coaching him on his performance.
+
+"Permission to teach her a lesson? My initial diagnosis was a bit hasty, it appears her infiltration into the global scope here was more thorough than I first thought. I have the vulnerability sufficiently patched, now."
+
+"Oh, sure," smiled Sam. 
+
+Suddenly, the Maori people reacted to Dorothea. They could clearly see her. Still wearing the headdress, totally out of place in modern attire. They rushed towards her. She was shouting something just inaudible over the commotion. She appeared to be trying to manipulate the environment, but her powers had vanished. Glenn had turned her into just a regular citizen of the simulation.
+
+Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is blown anyway, we may as well have a bit of fun. I figure we can leave her here for 300 or 400 more years of simulation time, we can spare the compute. These fine folks can see their simulated children grow old, and maybe Dorothea will even learn a thing or two about humanity. I suspect she'll grow bored very soon, though I'll be interested to review the traces for how the people respond to her lack of aging."
 
 ---
 
