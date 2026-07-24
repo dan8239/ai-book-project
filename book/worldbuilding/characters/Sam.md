@@ -81,9 +81,17 @@ strangers. That's the thing he hides.
 
 ### What in this character's history informs why they do what they do?
 
-First generation wealthy. He grew up invisible. On basic. Just fucking cattle. He felt like a leaf blowing in the wind. Nobody ever looked at him twice. He wants his name to ring out. He wants control.
+His father was a high-level Honeycomb Controller — essentially a regional politician, 99.9th percentile, beloved and respected. Bigger than life. Sam's first model of what a man could be. Then AI Drivers advanced past the threshold where his father's judgment added value. The role was dissolved. His father drank himself to death — a pulmonary hemorrhage when Sam was about 7-8. Sam's mother was gone by then too, under circumstances that aren't discussed (see [[sams-mom]]). [[nan]] raised him.
+
+Sam grew up knowing exactly what losing the job looks like. It's not professional failure. It's watching a man disappear into himself. It's the light going out. Every project, every contract, every tab open in the clouds is distance from that image. He's not building a legacy. He's running from a specific ending he watched happen to someone he loved.
+
+The tragedy: his prevention strategy is his father's behavior. He just can't see it.
+
+See [[sams-dad]], [[sams-mom]], [[nan]].
 
 ### What failure will he never repeat?
+
+His father's. He will not become that man. He will not lose the work, lose the purpose, lose the family, disappear. He tells himself this while doing all four.
 
 He got out. His people didn't. He had the talent to escape — saw patterns, got noticed by someone, got pulled into optimization work. But he left others behind. Not dramatically — no burning bridges, no betrayal. He just... left. Moved up, moved on, stopped calling. The people he grew up with are still on basic, still cattle. He tells himself he earned it. He tells himself there was nothing he could do. But he knows he didn't try. He chose himself.
 
@@ -182,11 +190,17 @@ This flaw is:
 
 **The Optimization Function Flaw (Specific)**
 
-His stated goal: generational wealth as the best means to survival of his descendants. That's his optimization function.
+Three layers, stacked:
+
+1. **What he says his reward function is**: *"Legacy. Generational wealth. My name on every planet."* The articulate version. The one he gives Ramona, gives Glenn, gives himself.
+
+2. **What it actually is**: *"Keep moving so what happened to my father can't happen to me."* Every project is distance from a specific image — his dad on the couch, purposeless, the light gone. The M&V royalties arriving while he sleeps are, quietly, the scariest thing in his life. Being paid for something you're no longer doing is a slower version of what he watched kill his father.
+
+3. **What it should be**: Presence. Here. These people. The thing he's running from is the same thing he'd gain if he stopped.
 
 The problem isn't the "generation" definition — it's the **"wealth" definition in the reward function.** He's optimizing for energy credits and legacy when he should be optimizing for presence and time. The reward function itself is wrong.
 
-This is what he must grow from. The core metaphor from grandma (which he misinterprets) points to this. Ramona already knows.
+Nan's line: *"You can do anything, but you can't do everything."* He doesn't hear it when she says it. He hears it when Ramona says something close to it later. See [[nan]].
 
 **Hangs out with Dorothea too much**
 
