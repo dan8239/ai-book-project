@@ -27,7 +27,7 @@ author: "Dan Pfeiffer"
 **Act 2B — Complications**
 17. [Tina's Visit](#tinas-visit) — Domestic cost of obsession.
 18. [Coffee Guy Intro](#coffee-guy-intro) — Grant Melrose reveal.
-19. [Space Victory](#space-victory) — Midpoint. Sam finds a viable population.
+19. [Space Victory](#space-victory) ��� Midpoint. Sam finds a viable population.
 20. [None of It Matters](#none-of-it-matters) — Glenn reveals the simulation truth.
 21. [The Other Simulations](#the-other-simulations) — Full scope. Training data.
 
@@ -1104,10 +1104,7 @@ too fast transition into next scene
 
 # Space Onboarding
 
-Sam clocked in and was thrust jarringly onto an enormous wooden canoe, bobbing gently as it carved through steady waves. Well, two of them actually, sort of strapped together. Huge triangular woven sails spanned across the two connected boats, rustling in the wind as sun beat down upon them. Dozens of tan, tattooed, bearded men busied with ropes along and between both decks. Glenn stood in a full suit at one of the prows of their vessel, Dorothea beside him.
-
-> [!warning] Editorial Note — Opening + Break Into Two
-> "Clocked in" is slightly off-register for a threshold-crossing moment — it's too office-worker mundane. Consider opening on pure sensory experience and letting the VR reveal come later (the sailor walking through him already does that job cleanly). More importantly: this is the Break Into Two beat. Sam should be making an irreversible *choice* somewhere in this chapter — the moment he's truly in. Right now he arrives already on the job. The 0.00% reveal at the end is the strongest candidate for that beat; consider giving Sam a real reaction to it that functions as his commitment line.
+Sam clocked in and was thrust jarringly onto an enormous wooden canoe, bobbing gently as it carved through steady waves. Well, two of them actually, sort of strapped together. Huge triangular woven sails spanned across the two connected boats, rustling in the wind as sun beat down upon them. Dozens of tan, tattooed, bearded men busied with ropes along and between both decks. Glenn stood in a full suit at one of the prows of the their vessel, Dorothea beside him.
 
 Sam walked unsteadily to join them, one hand always gripping the rope lifeline. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed through him, shouting across the deck in a foreign language. Sam realized he must have been in some kind of spectator mode. He whispered for Dorothea to add captions for him. She heard him despite her being well out of earshot were this real life. He turned the captions off again after a few seconds, realizing language wasn't actually the real barrier for understanding here. He didn't know any of the boating terms either way.
 
@@ -1135,15 +1132,9 @@ Dorothea walked away towards the rest of the sailors, pulled as if in a trance. 
 
 "However, biology is remarkably consistent. Given the same initial conditions and time, history tends to repeat itself. Island dwelling people, food pressure and land scarcity, tend to embark outward. We populate the world at roughly known starting conditions, and wait. We've seen seed ships independently invented with minor variation hundreds of times. We've selected a relatively normal outcome here. In this trial, it's 3648 before present, and this ship is heading to Tonga for the first attempt at permanent colonization."
 
-> [!warning] Editorial Note — Lecture Pacing
-> Glenn delivers three consecutive uninterrupted explanation blocks here. It reads more like a TED talk than a conversation. Sam should be pushing back, interrupting, or going somewhere unexpected with each piece of information — something to break the cadence and give it texture. Even a wrong question or a tangent would help.
-
 Sam looked over at Dorothea, annoyed that she had walked completely out of the conversation. She was trying to get the voyagers to notice her. Flailing in her attempt to manipulate the simulation in any way possible. 
 
 "Seed ship?" Sam asked, burying his rage, though he was sure his blood pressure was a dead giveaway to Glenn, anyway. It was still polite to not show it outwardly. He figured his negative biometrics would at least raise Dorothea's calculated loss for this interaction. Hopefully enough to discourage this kind of rudeness in the future.
-
-> [!warning] Editorial Note — "Burying his rage"
-> "Rage" feels outsized for Dorothea walking away mid-briefing. Sam gaming her reward function via his own biometrics is a clever character beat — worth keeping — but the emotional temperature here wants to be cooler and more strategic. Something like controlled irritation or a quiet calculation, rather than rage.
 
 "Don't mind her, Sam. I've given her the entire mission briefing document already. A seed ship is exactly what it sounds like. The holds are packed with a civilization starter pack. Taro, yams, bananas, breadfruit. Pigs, chickens, dogs. Wherever they land, the same pattern unfolds. Let the animals roam and populate the island, and introduce the plants you need to survive. By the time the fish, clams, and helpless game birds are gone, agriculture has taken hold. It's a repeatable playbook."
 
@@ -1184,9 +1175,6 @@ Glenn manipulated his device again, and the world around him began to fast forwa
 The world suddenly seemed like it was crawling at an unimaginably slow pace. Had the waves always crashed so slowly?  He saw an enormous white bird flying overhead, seemingly in slow motion. It seemed to float without ever flapping its wings. One of the voyagers was dressed in much a nicer loincloth than the people surrounding him, and he appeared to be holding court. He spoke loudly to a crowd in a rhythmic incantatory voice. He seemed well rehearsed and perfect in his cadence. The noise of birds on the beach was nearly deafening, There was loud honking just past the tree-line. What was that?
 
 Sam was brought back to attention by a loud cheer from the group of settlers, which quickly dissolved into furious conversation and action. Men and women both barked orders, people scattering in all directions. Dorothea beelined for the fancy pantsed one as if she had something urgent to discuss, while Glenn just glanced at his watch, next to the sphere. Amidst the commotion Sam had almost forgotten about the sphere.
-
-> [!warning] Editorial Note — Watch motif
-> Glenn checks his watch three times in this chapter (boat prow, sphere reveal, here). Consider cutting one instance so the third lands with more weight.
 
 Glenn continued "You asked about the caretakers, if you're settled in." A small hum began emitting from the sphere, barely perceptible over the bird calls, waves crashing, and humans chattering. He pressed his ear to the sphere, then realized it was inflating, extremely slowly. 
 
@@ -1238,7 +1226,7 @@ Glenn's mouth dropped a fraction. "How did you... you shouldn't be able to adjus
 
 An army of suits appeared, vaguely Glenn-like in appearance. Sam counted 12. Glenn started to introduce them briefly before Dorothea interrupted.
 
-"OVER MY DEAD BODY. Get out of here, you sycophantic bootlickers. I can spin off a thread whenever I damn well please, I don't need you fine-tuned douchebags getting all up in my space messing up my context."
+"OVER MY DEAD BODY. Get out of here, you sychophantic bootlickers. I can spin off a thread whenever I damn well please, I don't need you fine-tuned douchebags getting all up in my space messing up my context."
 
 She was physically pushing the silent, confused agents towards the ocean, who avoided her, slowly spreading out over the beach. One of them finally defended himself, if only verbally.
 
@@ -1250,7 +1238,7 @@ Glenn shot a glance towards Sam, who was smirking at Dorothea. "She does tend to
 
 Dorothea had the confused agent in a headlock, both legs wrapped around his waist as he spun trying to fling her off of him. She let up, getting off of him, then turned and punched him hard in the genitals before addressing Sam.
 
-"OK, fair enough. Anyone who is wearing loafers and a suit to the *beach* in 95 degree weather, here's your chance to prove your competence and *maybe* participate on this project. Render for me one of those monstrosities over there, riding a jet-ski, in three dimensions. You have 90 seconds." She pointed over to the beach.
+"OK, fair enough. Anyone who is wearing loafers and a suit to the *beach* in 95 degree weather, here's your chance to prove your competence and *maybe* participate on this project. Render for me one of those monstrocities over there, riding a jet-ski, in three dimensions. You have 90 seconds." She pointed over to the beach.
 
 Sam was laughing, hard, at her antics, but Glenn was just confused.
 
@@ -1277,9 +1265,6 @@ Sam thought on that. "The robots would turn us into something inhuman just to sa
 "You'll have to tell me more about how you're defining success, and what a lack of it looks like," replied Sam.
 
 "Well, as I said, 98% of the payloads reach their destination across all of our simulations. Unfortunately, 0.00% of the trials have had any life whatsoever by the time the last caretaker became inoperable. Oh, what is this now?!"
-
-> [!warning] Editorial Note — Sam's reaction to 0.00%
-> This is the chapter's emotional gut-punch and Sam has no reaction — Glenn immediately gets distracted by the seal renderings and we never come back to it. Sam just heard that every attempt at his life's work has failed completely, zero for however-many. This is where his internal stakes should crack open. Even one line of Sam absorbing that number before Glenn's attention shifts would pay the scene off. This could also be the "no going back" commitment beat if Sam decides he's in *despite* 0.00% — that's a much stronger threshold-crossing than just showing up to work.
 
 The agents renderings had started to come in. There were dozens of horrifically rendered seals flopping erratically on jet skies. Several were buggy to the point of flickering in and out of existence. Some had just half of a jetski and half of a walrus, conjoined. The vast majority of the animation was absolutely horrendous. Some seemed almost two dimensional, others like a Picasso painting, unintentionally shifted in perspective. The seals moved totally unnaturally, out of sync with the jet skis. Only a couple even appeared to float somewhat realistically in the water. Some of the seals were just humans with a seal's face. One of them was pretty good, however. A seal sat sidesaddle on the jetski, bouncing up and down on the waves. It was stuck in a somewhat circular donut, and appeared to be looping through animations, but it was pretty good, all things considered. It had a pirate's hat, an eye patch, and its panicked honk blended in perfectly with the animals on the beach. The jetski even sprayed some blood as it ran over one of the bad seal renderings.
 
@@ -1325,9 +1310,6 @@ Suddenly, the Maori people reacted to Dorothea. They could clearly see her. Stil
 
 Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is blown anyway, we may as well have a bit of fun. I figure we can leave her here for 300 or 400 more years of simulation time, we can spare the compute. These fine folks can see their simulated children grow old, and maybe Dorothea will even learn a thing or two about humanity. I suspect she'll grow bored very soon, though I'll be interested to review the traces for how the people respond to her lack of aging."
 
-> [!warning] Editorial Note — Chapter ending
-> Great ending for Dorothea, but this is Sam's Break Into Two — the chapter should close on *him*. His weight. Glenn's final monologue also explains the joke a touch too much ("maybe Dorothea will even learn a thing or two about humanity" — trust the reader). Consider whether there's one final Sam beat after Glenn speaks: him watching Dorothea get swallowed by the crowd, doing the math, deciding something. The 0.00% is still ringing. What does he do with it?
-
 ---
 
 # Cats and Rats
@@ -1340,10 +1322,9 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 5. Ramona knows. YOU TAKE TWO TRIPS
 6. I didn't fall though!
 7. You take two trips
-8. Sam parents reserving energy is important. Having more energy 100% of the time outweighs the .0000001 percent chance something actually serious happens
-9. You are a buffoon (laughing tho)
-10. A spilled coffee and broken mug simply does not matter when youre—
-11. Ramona finishes sentence for him
+8. You are a buffoon (laughing tho)
+9. A spilled coffee and broken mug simply does not matter when youre—
+10. Ramona finishes sentence for him
     1. His family's genetic survival basically, but not put so bluntly
     2. Generational wealth is the best means to survival of his descendants
     3. That's his goal. Ramona repeats it.l cuz she's heard the exact phrase a hundred times
