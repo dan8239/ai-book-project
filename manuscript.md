@@ -9,17 +9,17 @@ author: "Dan Pfeiffer"
 2. [Work From Home](#work-from-home) — Sam's day job. Family life. Pregnancy reveal.
 3. [Retirement](#retirement) — Job search. Grandma Nan. Condos.
 4. [Empires](#empires) — Old friends. Wasting time. Dorothea pulls him out.
-5. [Glenn](#glenn) — The pitch. Pickup. Polynesian simulation.
+5. [Glenn](#glenn) — The pitch. Space station. Sam says maybe.
 6. [Pickup](#pickup) — Family car ride. Rebase conversation. Job decision.
 7. [Space Onboarding](#space-onboarding) — Glenn's briefing on Mission TWO.
 
 **Act 2A — Rising action**
 8. [Cats and Rats](#cats-and-rats) — B story. Ramona wants him present.
-9. [Space Progress](#space-progress) — Farming contract wraps. Glenn appears.
+9. [Space Progress](#space-progress) — Contract wraps. G. Robinson in async. Dorothea suspicious.
 10. [Birthday Dinner](#birthday-dinner) — Three cycles of drifting. Couch.
 11. [The Gondola](#the-gondola) — Sunrise ride. Geology. The mountain approach.
 12. [Mountain](#mountain) — The mine tour. Anna Nicole. The shaft.
-13. [Contact](#contact) — Into the mountain. Tina. The vertical city.
+13. [Contact](#contact) — The descent. The Chief. The energy deal.
 14. [Coffee Guy Interlude](#coffee-guy-interlude) — External pressure on Glenn.
 15. [Space Still Stuck](#space-still-stuck) — Sam's two worlds collide.
 16. [Mountain Optimization](#mountain-optimization) — Second visit. RL system. Bad news.
