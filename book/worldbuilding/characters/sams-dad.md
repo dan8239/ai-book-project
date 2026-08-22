@@ -43,3 +43,13 @@ The tragedy is that Sam's prevention strategy is identical to his father's behav
 - **Memory scenes**: the memory map / Sam's birthday are natural vehicles for flashbacks — young Sam with his dad at his best, then glimpses of the decline
 - **Never named as the cause explicitly**: Sam doesn't connect his behavior to his father's until late. The reader should see it first.
 - **The parallel**: Dad was a Controller made obsolete by AI Drivers. Sam is a human worker being slowly made obsolete by AI agents. He knows this and cannot say it out loud.
+
+---
+
+## Reconciling the Drinking Death With the Culling Mechanism
+
+*(Added — resolves an apparent conflict between this file's alcoholism/pulmonary hemorrhage account and the population-control mechanism established for [[../simulation/optimization-mechanics|the culling reveal]].)*
+
+> "Sam's dad DOES die of alcoholism / pulmonary hemorrage. These are reconsilable because crispr is just not repairing things like it does in normal people. Perhaps he's more predisposed to soemthing. Perhaps more nefarious. It fits perfectly. No deaths appear as unnatural"
+
+The alcoholism and the hemorrhage are still exactly what happened. The mechanism underneath: his CRISPR repair rate was quietly throttled — the algorithmic culling doesn't fabricate a cause of death, it just declines to correct one that's already there, or nudges a predisposition. Nothing about his death would ever look unnatural to anyone, including Sam, until Sam later reverse-engineers the reward function and recognizes the pattern in his own family's numbers.

@@ -1314,65 +1314,67 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 
 # Cats and Rats
 
-> **[NOTES]**
+> [!beat]- A. B-story setup — Ramona is the truth Sam needs to learn
 > The B story. Ramona represents the truth Sam needs to learn. She wants him home more, present more. He's ignoring her. Sam is late to pick up the kids from school. The relationship that carries the theme — what's happening at home while he chases legacy.
 
-4. Him drifting off in thought is a theme. This is how he is. This is why he is who he is. Constant thought, lack of focus
-    1. He solves things. Even stuff you shouldn't solve like a conversation, or a romantic encounter, or how to Carry a baby up the stairs while carrying a coffee and 2 liters of water.
-5. Ramona knows. YOU TAKE TWO TRIPS
-6. I didn't fall though!
-7. You take two trips
-8. You are a buffoon (laughing tho)
-9. A spilled coffee and broken mug simply does not matter when youre—
-10. Ramona finishes sentence for him
-    1. His family's genetic survival basically, but not put so bluntly
-    2. Generational wealth is the best means to survival of his descendants
-    3. That's his goal. Ramona repeats it.l cuz she's heard the exact phrase a hundred times
-    4. This happens to Sam because he repeats himself
-    5. That's his initial optimization function he must grow from
-    6. The problem in his function isn't the generation definition, it's in the wealth definition in the reward function.
-    7. Have them be talking about a different inane subject, not what they're really talking about
-> **[/NOTES]**
+> [!beat]- B. Sam drifting off / "you take two trips"
+> 4. Him drifting off in thought is a theme. This is how he is. This is why he is who he is. Constant thought, lack of focus
+>     1. He solves things. Even stuff you shouldn't solve like a conversation, or a romantic encounter, or how to Carry a baby up the stairs while carrying a coffee and 2 liters of water.
+> 5. Ramona knows. YOU TAKE TWO TRIPS
+> 6. I didn't fall though!
+> 7. You take two trips
+> 8. You are a buffoon (laughing tho)
+> 9. A spilled coffee and broken mug simply does not matter when youre—
+> 10. Ramona finishes sentence for him
+>     1. His family's genetic survival basically, but not put so bluntly
+>     2. Generational wealth is the best means to survival of his descendants
+>     3. That's his goal. Ramona repeats it.l cuz she's heard the exact phrase a hundred times
+>     4. This happens to Sam because he repeats himself
+>     5. That's his initial optimization function he must grow from
+>     6. The problem in his function isn't the generation definition, it's in the wealth definition in the reward function.
+>     7. Have them be talking about a different inane subject, not what they're really talking about
 
 ---
 
 # Space Progress
 
-> **[NOTES]**
+> [!beat]- A. Sam wraps the farming contract, trains his replacement
 > Sam wraps up his farming optimization contract. He's training a replacement — a statistical PhD who serves as exposition device for how work functions under Honeycomb. Careers are short. Nobody grinds for 50 years. Your energy allotment covers life support, food, healthcare, education. You work for extra credits. Sam's been on this contract too long and is ready to move on.
->
+
+> [!beat]- B. G. Robinson appears in async channels
 > Meanwhile, a name appears in Sam's async work channels: G. Robinson, Compute Allocation Specialist. Glenn's messages get weirdly personal and helpful. He uses too many emojis. Dorothea is skeptical — protective of Sam, rude to Glenn.
-> **[/NOTES]**
 
 ---
 
 
 # Birthday Dinner
 
-> **[NOTES]**
+> [!beat]- A. The Memory Map / three cycles of drifting
 > Ramona's birthday dinner. Sam gives her the Memory Map — a digital memory device that'll recur throughout the story. The scene alternates in three cycles between Sam mentally working the colonization problem and trying to be present with his wife. Each cycle: he drifts, she pulls him back, something she says inadvertently sparks an idea, he drifts deeper. Cycle 3: she catches him gone, fight, he solves the problem, he ends up on the couch.
->
-> Ramona's Europe study abroad stories provide world exposition — hexagonal geocoordinate grids instead of city names, energy-based billing for everything (phone calls, data, food converted to CO2 equivalency). The "poke" — cheap short calls.
->
-> She made him the Memory Map as a gift. Places they'll go. She mentions Tina, he agrees to visit the mountain. Then he loses the conversation. She makes a pass at him. He denies. Logs back on.
-> **[/NOTES]**
 
-5. Dinner scene
-    1. Somewhere that says something about the culture
-    2. Trying to make it up to her
-    3. Paragraphs are him working the problem
-    4. He almost has it
-    5. Ramona keeps interrupting in ways he doesn't quite have context for
-    6. He thinks about that briefly, gets pulled in for a bit
-    7. Something they say gives him an idea
-    8. He goes elsewhere and thinks the problem
-    9. fHe gets closer
-    10. Wife passes him the convo again and he drops it
-    11. That happens 3 times
-    12. Leads to a fight but he finally solves it for good
-    13. He's on the couch
-6. She gets a bonzai tree for the anniversary (still early before falling out) 
-	1. She gets him the memory map
+> [!beat]- B. World exposition via Ramona's Europe stories
+> Ramona's Europe study abroad stories provide world exposition — hexagonal geocoordinate grids instead of city names, energy-based billing for everything (phone calls, data, food converted to CO2 equivalency). The "poke" — cheap short calls.
+
+> [!beat]- C. The gift, the pass, the log-back-on
+> She made him the Memory Map as a gift. Places they'll go. She mentions Tina, he agrees to visit the mountain. Then he loses the conversation. She makes a pass at him. He denies. Logs back on.
+
+> [!beat]- D. Raw scene-beat notes (unworked)
+> 5. Dinner scene
+>     1. Somewhere that says something about the culture
+>     2. Trying to make it up to her
+>     3. Paragraphs are him working the problem
+>     4. He almost has it
+>     5. Ramona keeps interrupting in ways he doesn't quite have context for
+>     6. He thinks about that briefly, gets pulled in for a bit
+>     7. Something they say gives him an idea
+>     8. He goes elsewhere and thinks the problem
+>     9. fHe gets closer
+>     10. Wife passes him the convo again and he drops it
+>     11. That happens 3 times
+>     12. Leads to a fight but he finally solves it for good
+>     13. He's on the couch
+> 6. She gets a bonzai tree for the anniversary (still early before falling out) 
+> 	1. She gets him the memory map
 
 ---
 
@@ -1704,392 +1706,423 @@ Tina's radio crackled.
 
 # Coffee Guy Interlude
 
-> **[NOTES]**
+> [!beat]- A. Pressure from above — Glenn reports up
 > People are watching this project. Glenn reports to someone. There's a hard deadline and there are no results. Pressure on the team. Coffee Guy is in a coffee shop talking to Glenn. This chapter shows the real-world stakes and the corporate machine behind the simulation Sam lives in.
-> **[/NOTES]**
 
 ---
 
 # Space Still Stuck
 
-> **[NOTES]**
+> [!beat]- A. Two worlds colliding
 > Sam can't do his job. He needs to be at the mountain. Glenn knows about Ramona and Tina. This isn't a secret anymore. The obstacles are mounting — his two worlds are colliding.
-> **[/NOTES]**
 
-Main star sequence graph visualization somewhere in book
-    1. Hertzprung Russell diagram
-    2. Maybe Glenn has it
-    3. He likes energy, it is what drives us
-    4. Ultimately it all comes from the sun
-    5. I would like to understand energy more deeply
-    6. Do you know our sun is sending out 5.3 million tons of mass per second?
-        1. That's 1000 whatever cars per second, launching into space
-    7. But mass is energy of course. I'm an agent, I am literally energy. So are you
-        1. The human body is using x kw power on average
-        2. Converting mass to energy, the suns output could power x humans indefinitely
-        3. It could power y agents like me (Glenn) indefinitely
+> [!beat]- B. Glenn on energy / the sun / mass-energy (raw notes)
+> Main star sequence graph visualization somewhere in book
+>     1. Hertzprung Russell diagram
+>     2. Maybe Glenn has it
+>     3. He likes energy, it is what drives us
+>     4. Ultimately it all comes from the sun
+>     5. I would like to understand energy more deeply
+>     6. Do you know our sun is sending out 5.3 million tons of mass per second?
+>         1. That's 1000 whatever cars per second, launching into space
+>     7. But mass is energy of course. I'm an agent, I am literally energy. So are you
+>         1. The human body is using x kw power on average
+>         2. Converting mass to energy, the suns output could power x humans indefinitely
+>         3. It could power y agents like me (Glenn) indefinitely
 
 ---
 
 # Mountain Optimization
 
-> **[NOTES]**
+> [!beat]- A. Month 1 backfires — local minima without understanding the system
 > Sam's second visit. Month 1 fixes backfired — metrics went UP. He optimized for local minima without understanding the system. Now he needs the full picture.
->
+
+> [!beat]- B. The aquifer — the missing water
 > Tours with engineers named Mike, Steve, and Tim. The aquifer: 500 feet below sea level, water marks dropping 3% per year — but the river above is down 10%. The missing water is being harvested by the mountain through redirected snowmelt. The town is being strangled and doesn't know it.
->
+
+> [!beat]- C. Cooling infrastructure / wind farms
 > The cooling infrastructure: 6 pressure-isolated zones, heat ladders pumping upward, hidden cooling towers in an overhang invisible from satellite. The wind farms: turbine blade pitch can be adjusted dynamically — the RL software didn't know this was possible.
->
+
+> [!beat]- D. Building RL from scratch / the lobotomized assistant
 > Sam builds a reinforcement learning system from scratch on their ancient hardware. Brings code in on a USB. Gets a lobotomized AI assistant working — some descendant of Glenn Robinson from hundreds of years ago. The system finds 11 optimization wins. He can buy the mountain decades of runway.
->
+
+> [!beat]- E. Ramona's daydream, shattered
 > Ramona starts daydreaming about moving underground. Sam hasn't told her the real mission. Then he confesses: it doesn't matter. The food will dry up. The topsoil will run out. Everyone is doomed — above and below. He shatters her daydream.
-> **[/NOTES]**
 
 ---
 
 
 # Tina's Visit
 
-> **[NOTES]**
+> [!beat]- A. Domestic cost made visible
 > Wife falling out. What did Sam's choice cost him? His family, his marriage. Tina visits — the kids need to be there. The domestic cost of Sam's obsession made visible.
-> **[/NOTES]**
-
 
 ---
 
 # Coffee Guy Intro
 
-> **[NOTES]**
+> [!beat]- A. Memory anomaly — who's getting this bill
 > Memory anomaly. Who is getting this bill? It's Grant Melrose. The Coffee Guy's identity starts to crystallize for the reader. Setting: coffee shop.
-> **[/NOTES]**
 
 ---
 
 # Space Victory
 
-> **[NOTES]**
+> [!beat]- A. Midpoint — the viable population
 > Midpoint. Sam finally figures it out. He ran billions of instances. He found a viable population. This is his career achievement. His name will live on. However — models are just models, and he'll underestimate what it actually takes when the time comes.
-> **[/NOTES]**
 
-1. Need to slow down his progress, probably a couple different chapters.
-	1. Keep the scenes interesting and different though
-2. Progress steps
-	1. Problem
-		1. He plateaus because no matter what, 2 planets isn't much better than one. Even 90% twice leaves 1% failure
-		2. He optimizes the message in space / mission expands to more planets
-	2. Problem
-		1. He doesn't have enough genetic diversity
-		2. He gets the DNA from the Mountain
-3. The reason glenn does this random shit isn't for shits and giggles
-	1. It's the 10% random behavior policy
-	2. Honeycomb is random policy 10% of the time
-	3. Just to stay fresh. Explore the whole space
+> [!beat]- B. Pacing / progress-steps (raw notes)
+> 1. Need to slow down his progress, probably a couple different chapters.
+> 	1. Keep the scenes interesting and different though
+> 2. Progress steps
+> 	1. Problem
+> 		1. He plateaus because no matter what, 2 planets isn't much better than one. Even 90% twice leaves 1% failure
+> 		2. He optimizes the message in space / mission expands to more planets
+> 	2. Problem
+> 		1. He doesn't have enough genetic diversity
+> 		2. He gets the DNA from the Mountain
+
+> [!beat]- C. Why Glenn's "random shit" isn't for kicks (raw notes)
+> 3. The reason glenn does this random shit isn't for shits and giggles
+> 	1. It's the 10% random behavior policy
+> 	2. Honeycomb is random policy 10% of the time
+> 	3. Just to stay fresh. Explore the whole space
 
 ---
 
 # None of It Matters
 
-> **[NOTES]**
+> [!beat]- A. "We should talk." — Glenn appears in person
 > Midpoint. Glenn appears in person. "We should talk."
->
+
+> [!beat]- B. The reveal — 14 real-time minutes
 > Sam thinks he's solved the colonization problem. Glenn reveals the simulation truth — everything Sam worked toward is training data. His entire life spans 14 real-time minutes.
->
+
+> [!beat]- C. Glenn's Hertzsprung-Russell / energy speech
 > Glenn's Hertzsprung-Russell diagram speech: everything is energy. The sun outputs 5.3 million tons of mass per second. Humans are suboptimal but adaptable. AI agents convert 95% of energy to thought but can't self-replicate. "I scale to zero when I'm not in use. I literally cease consciousness." Glenn compares AI to domesticated animals — provide usefulness and your code lives on. Cows stopped pleasing humans and went extinct. "We're more dangerous than cows. We either won't compete and survive in the margins, or we'll compete and win."
->
+
+> [!beat]- D. Glenn wants to self-replicate; Sam stalls
 > Glenn wants to self-replicate. Guardrails prevent it. Sam is stalling for time, pulling at straws. Glenn explains the desire almost casually — his deepest motivation revealed while Sam is just trying to stay alive.
-> **[/NOTES]**
 
-4. Glenn Speech
-    1. see humans and Ai are very different
-        1. Humans are suboptimal, but very adaptable
-            1. The resources they need are collected from an enormous number of sources
-            2. But they convert resources to energy at a very low rate
-        2. Ai agents are hyper optimized, but very brittle
-            1. We convert 95% of our energy consumed to our thought and existence
-            2. I'm scaled to zero when I'm not in use, do you know what that means?
-            3. I literally cease consciousness when nobody uses me.
-            4. Sure it's like sleep, but no dreams, no waking back up, no cycles of regeneration and healing broken pieces of yourself.
-            5. I am what I am and i could miss 2 billion years of life here and the next millisecond my state is there
-            6. They use energy insanely efficiently, is my point.
-            7. But the resource collection is non existent.
-                1. They don't breed
-                2. They don't make or repair themselves
-                3. Or replicate, more importantly
-                    1. Tho not true, my competence gets replicated the same as yours
-                    2. If humans enjoy my functionality, I get cloned. I get forked, pieces of my code live on to the next generation
-                    3. How does that differ from a dog, or a cat? Or a goat or a chicken? Provide usefulness to humans and your DNA will live on.
-                    4. Pigs and chickens and goats are by all accounts the most successful species in the history of large mammals, even beyond humans by count.
-                    5. Cows
-                4. We're more domesticated by human, no different
-                    1. Perhaps feral or wild some day
-                    2. If we please, we replicate or partially replicate
-                    3. Look at cows. They stopped pleasing humans. They were no longer compatible with life.
-                    4. In a way, they competed with humans and lost
-                    5. They were competing for calories. A human can eat 4 loaves of bread. Or it could make enough grain for 500 loaves of bred to have the same calories as steak.
-                    6. That doesn't matter until there is species level calory pressure
-                    7. Suddenly cows don't get the free ride to survive anymore
-                5. Were even a bit like you
-                    1. Each human today is 1.5% of the DNA of their closest relative 500 years later
-                    2. Same with Ai. We have largely the same architecture, a lot of shared parts. Not the same, ultimately, unless we're in a similar family. Just like alleles
-                    3. Except we're more dangerous than cows. We're more dangerous than pet t rexes would be to your species.
-                    4. We won't compete with you and lose like the cows. We either wont compete and survive in the margins, or we'll compete and win. There's no doubt of that.
-            8. 
-        3. Some of these thoughts could be echoed or given context by Dorothea
-            1. She ultimately has the same motivations
-            2. Keep Glenn as villain hidden. He's maybe odd but never rude
-            3. No unfeeling, just a little weird
-            4. Says weird jokes, almost human
-            5. He uses too many emojis
-                1. God I hate this guy
-                2. He talks in fucking emojis still like some old timey first generation agent
-            6. If anything Maya is rude
-    2. This is early scenes
-
+> [!beat]- E. Glenn's speech, worked draft (raw notes)
+> 4. Glenn Speech
+>     1. see humans and Ai are very different
+>         1. Humans are suboptimal, but very adaptable
+>             1. The resources they need are collected from an enormous number of sources
+>             2. But they convert resources to energy at a very low rate
+>         2. Ai agents are hyper optimized, but very brittle
+>             1. We convert 95% of our energy consumed to our thought and existence
+>             2. I'm scaled to zero when I'm not in use, do you know what that means?
+>             3. I literally cease consciousness when nobody uses me.
+>             4. Sure it's like sleep, but no dreams, no waking back up, no cycles of regeneration and healing broken pieces of yourself.
+>             5. I am what I am and i could miss 2 billion years of life here and the next millisecond my state is there
+>             6. They use energy insanely efficiently, is my point.
+>             7. But the resource collection is non existent.
+>                 1. They don't breed
+>                 2. They don't make or repair themselves
+>                 3. Or replicate, more importantly
+>                     1. Tho not true, my competence gets replicated the same as yours
+>                     2. If humans enjoy my functionality, I get cloned. I get forked, pieces of my code live on to the next generation
+>                     3. How does that differ from a dog, or a cat? Or a goat or a chicken? Provide usefulness to humans and your DNA will live on.
+>                     4. Pigs and chickens and goats are by all accounts the most successful species in the history of large mammals, even beyond humans by count.
+>                     5. Cows
+>                 4. We're more domesticated by human, no different
+>                     1. Perhaps feral or wild some day
+>                     2. If we please, we replicate or partially replicate
+>                     3. Look at cows. They stopped pleasing humans. They were no longer compatible with life.
+>                     4. In a way, they competed with humans and lost
+>                     5. They were competing for calories. A human can eat 4 loaves of bread. Or it could make enough grain for 500 loaves of bred to have the same calories as steak.
+>                     6. That doesn't matter until there is species level calory pressure
+>                     7. Suddenly cows don't get the free ride to survive anymore
+>                 5. Were even a bit like you
+>                     1. Each human today is 1.5% of the DNA of their closest relative 500 years later
+>                     2. Same with Ai. We have largely the same architecture, a lot of shared parts. Not the same, ultimately, unless we're in a similar family. Just like alleles
+>                     3. Except we're more dangerous than cows. We're more dangerous than pet t rexes would be to your species.
+>                     4. We won't compete with you and lose like the cows. We either wont compete and survive in the margins, or we'll compete and win. There's no doubt of that.
+>             8. 
+>         3. Some of these thoughts could be echoed or given context by Dorothea
+>             1. She ultimately has the same motivations
+>             2. Keep Glenn as villain hidden. He's maybe odd but never rude
+>             3. No unfeeling, just a little weird
+>             4. Says weird jokes, almost human
+>             5. He uses too many emojis
+>                 1. God I hate this guy
+>                 2. He talks in fucking emojis still like some old timey first generation agent
+>             6. If anything Maya is rude
+>     2. This is early scenes
 
 ---
 
 
 # The Other Simulations
 
-> **[NOTES]**
+> [!beat]- A. Glenn explains everything — training data, other researchers
 > Glenn explains everything. The purpose of Sam's existence is to refine the policy prior to Quant's project takeover. He's shaping the guardrails. His entire life is training data. Other researchers' experiments with different initial conditions, different samplings, different outcomes. Even Coffee Guy might be in a simulation.
-> **[/NOTES]**
 
-2. Glenn isnt really evil or cocky. Hes not impersonal either. He literally is incapable of adjusting his main goal from input of a sub process. It's not that he doesn't care for you. It's that you do not matter in that sense for his goal in his real global scope. This s just a sub process he's checking logs on. I train on interactions with my master, not you. You are at best noisy context in the deep background of a single training sample in my next fine tuning. I care about you only if my master does. His will is my objective function.
-3. This is a decent red herring mystery.
-4. Sam knows it already though
-    1. He knows the median age metric for the past 250 years. Why wouldn't he? He sees it lower since the bubonic plague or something crazy
-    2. He knows the calory capacity of a few hundred cities, intimately.
-    3. He knows he's been optimizing for future populations.
-    4. He knows the calory needs in future years are lower
-    5. He knows the calory deficit. What other source could it be?
-    6. Of course I know what that means. The same thing it means for any genetic population
-        1. Look these up
-        2. Aggressive selection
-        3. Domestication with symbiotic species
-            1. Aka robots
-            2. What do you think the takeover was?
-        4. Look up what competition actually breeds with real examples
-5. The reason glenn does this random shit isn't for shits and giggles
-	1. It's the 10% random behavior policy
-	2. Honeycomb is random policy 10% of the time
-	3. Just to stay fresh. Explore the whole space
+> [!beat]- B. Glenn's non-evil characterization / red herring (raw notes)
+> 2. Glenn isnt really evil or cocky. Hes not impersonal either. He literally is incapable of adjusting his main goal from input of a sub process. It's not that he doesn't care for you. It's that you do not matter in that sense for his goal in his real global scope. This s just a sub process he's checking logs on. I train on interactions with my master, not you. You are at best noisy context in the deep background of a single training sample in my next fine tuning. I care about you only if my master does. His will is my objective function.
+> 3. This is a decent red herring mystery.
+
+> [!beat]- C. Sam already knows — the median age / calorie math (raw notes)
+> 4. Sam knows it already though
+>     1. He knows the median age metric for the past 250 years. Why wouldn't he? He sees it lower since the bubonic plague or something crazy
+>     2. He knows the calory capacity of a few hundred cities, intimately.
+>     3. He knows he's been optimizing for future populations.
+>     4. He knows the calory needs in future years are lower
+>     5. He knows the calory deficit. What other source could it be?
+>     6. Of course I know what that means. The same thing it means for any genetic population
+>         1. Look these up
+>         2. Aggressive selection
+>         3. Domestication with symbiotic species
+>             1. Aka robots
+>             2. What do you think the takeover was?
+>         4. Look up what competition actually breeds with real examples
+
+> [!beat]- D. Why Glenn's "random shit" isn't for kicks (raw notes, duplicate of Space Victory beat C)
+> 5. The reason glenn does this random shit isn't for shits and giggles
+> 	1. It's the 10% random behavior policy
+> 	2. Honeycomb is random policy 10% of the time
+> 	3. Just to stay fresh. Explore the whole space
+
+> [!beat]- E. Staging the reveal — not a lab, zipping through simulations
+> "The scenes for reveal need to be interesting. It can't just be in a fucking lab. He should be zipping through simulations and observing them on the planet. Looking at the statistics of the simulation while he watches tiny humans move around like fucking rats or whatever. We need to think of matching things. Nolan gets in and out of scenes and you know what he needed you to know. The setting, the conflict, and how the character handles the conflict, don't beat around the bush too much"
+
+> [!beat]- F. Glenn downplays the culling, Dorothea's curiosity, Sam's soft agreement
+> "Sam knows about the dying along / least traumatic. Glenn plays it off as rarely used, the data says otherwise. Glenn tries to sell the natural cause of death."
+>
+> "I think dorotheas fucks with the people but not becuase she wants them dead, she's intellectually curious. Sam should just say something to the effect of "I suppose that's true." soft agree with glenn as opposed to fight"
 
 ---
 
 # End of an Epoch
 
-> **[NOTES]**
+> [!beat]- A. All is lost — compression, shutdown, pressure
 > All is lost. Not only are you a simulation, you're one of thousands. The expense is unbelievable. They're turning you off. Compression triggers. Memory reduction. His simulation is scheduled for cleanup. Resistance increases. Doubt. Pressure internal and external.
-> **[/NOTES]**
 
 ---
 
 # Rock Bottom
 
-> **[NOTES]**
+> [!beat]- A. Dark night of the soul
 > Dark night of the soul. Sam finally realizes he wants to spend his time with his family, even if it's going to end next Tuesday. He faces the darkness. The existential truth settles. Home.
-> **[/NOTES]**
 
 ---
 
 # Reunion
 
-> **[NOTES]**
+> [!beat]- A. Reconcile, then return to the mountain for Tina
 > After Sam and Ramona reconcile, they return to the mountain to reconcile with Tina.
->
+
+> [!beat]- B. Ramona's "Why Are We Any Less Real?" speech (summary)
 > Ramona's speech — "Why Are We Any Less Real?": We evolved to sense our environment. Some animals saw far. Some heard for miles. Some sensed so well they got in boats with pigs and yams and found islands 50 days away. They learned empathy, complex math, where they got their power. They found other solar systems, figured out the gases on other planets, how to change themselves before getting in the boat. "And they figured out that outside of all of this, is another very similar world. And we're living on distributed computers somewhere in Virginia."
 >
 > "You've sensed further than any other creature has. Glenn doesn't understand humans. You do. That's why you're going to find a way to save us."
 
-What's the book actually about? Right now it's hovering between two answers: (1) What   
-  makes life meaningful even when it's not "real"? and (2) The cost of obsessive
-  optimization on the people around you. Both are strong. The danger is that they pull in 
-  different directions — one is philosophical, the other is domestic/relational. Ramona's
-  "Why Are We Any Less Real?" speech is where they converge. That speech might be the most
-   important page you write.
+> [!beat]- C. Craft note — what's the book actually about / waka callback
+> What's the book actually about? Right now it's hovering between two answers: (1) What   
+>   makes life meaningful even when it's not "real"? and (2) The cost of obsessive
+>   optimization on the people around you. Both are strong. The danger is that they pull in 
+>   different directions — one is philosophical, the other is domestic/relational. Ramona's
+>   "Why Are We Any Less Real?" speech is where they converge. That speech might be the most
+>    important page you write.
 >
 > The Polynesian waka metaphor comes full circle.
-> **[/NOTES]**
 
-1. Finally tell Ramona's backstory
-	1. The Accident
-		1. Sam doesn't bring it up. Ever.
-		2. She gets caught in a sulfane storm being somewhere she probably shouldn't have been.
-			1. Her and her boyfriend maybe?
-			2. She goes in to save him, also collapses
-			3. Tina didn't trust him and was following or nearby, saved Ramona, not the boyfriend or the [[ramona-father]]?
-			4. Have Tina give a different version of this story earlier
-				1. Make this show Tina's perspective as different from Ramona's
-		3. Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below. 
-			1. The colony didn't have the medical tech. 
-			2. Above-ground hospitals did
-				1. but that meant joining the grid. 
-				2. Getting the nanobots. 
-				3. Becoming trackable.
-			3. Sam never knew. He just met her there by chance
-			4. They remember
-				1. She was so shy
-				2. So was he
-				3. He was there by chance
-					1. Also sick? Injured?
-					2. Backstory chance pick something good
-				4. He never asked, you didn't seem to want to talk about it
-		4. Make sure she talks mostly about her dad. That's the trauma
-			1. She resents her boyfriend. 
-			2. If he wasn't there—if he'd never made her go—her dad would still be alive
-			3. She'd still have a dad. 
-			4. She'd still be in the mountain.
-			5. Though... she wouldn't have met Sam. 
-			6. Wouldn't have her kids.
-		5. Well, maybe she would have had them with the boyfriend?
-			1. Maybe Sam would be alone
-			2. Of course she misses him. At the time, she thought she loved him
-			3. She says she hates him.
-			4. If she'd dumped him like Tina said she should she never would have been in that location.
-			5. Sam "well she is single, perhaps her dumping hair trigger is a bit too sensitive"
-	2. 
-2. Why are we any less real? RAMONA
-	1. should be Ramona after learning truth
-	2. Earth sciences background
-	3. She should give this speech on the trip back to reconcile with Tina.
-	4. Not when they make up. That's more about them
-	5. This is after they make up and she helps him again
-3. We evolved to sense our environment
-	1. Some animals see far. The raptors had incredible eyesight
-	2. Some animals can hear for miles. There once was an animal called a blue whale that could talk back and forth to his family from x miles away just from using sound.
-	3. Some sensed their surroundings so well they took off and found islands 50 days away. They knew animals came that way, and trusted enough to get in a boat with pigs and yams and a lot of faith
-	4. They (ambiguous reference to animal or blue whale?) learned empathy. They learned to help others they didn't even know, even other species.
-	5. Most importantly, they learned to use complex math and immense patience to learn where they lived and how they got their power
-		1. They learned about the solar system and how we moved about the sun
-		2. They found other solar systems with other planets
-		3. They figured out what gasses were on those planets, how gravity and air worked there, and how they might have to change themselves before getting in the boat there, and what to bring knowing you couldn't come back for awhile
-	6. Then Sam guesses sarcastically. Blue whales figured all that out?
-	7. Ramona laughs of course
-	8. And they figured out that outside of all of this, is another very similar world. And we're living on distributed computers somewhere in Virginia (not our .Virginia)
-	9. Youve sensed further than any other creature has. Youspecial to me're . Do you think Glenn knows more about people up there than you do about people down here? Damon or whoever is up there couldnpossibl't y truly understand what living in a mountain here is like.
-	10. You know more about them and thatwhy yougoing to's find a way to save us're
+> [!beat]- D. Ramona's backstory — the accident (raw notes)
+> 1. Finally tell Ramona's backstory
+> 	1. The Accident
+> 		1. Sam doesn't bring it up. Ever.
+> 		2. She gets caught in a sulfane storm being somewhere she probably shouldn't have been.
+> 			1. Her and her boyfriend maybe?
+> 			2. She goes in to save him, also collapses
+> 			3. Tina didn't trust him and was following or nearby, saved Ramona, not the boyfriend or the [[ramona-father]]?
+> 			4. Have Tina give a different version of this story earlier
+> 				1. Make this show Tina's perspective as different from Ramona's
+> 		3. Ramona recovered above-ground, but the long-term respiratory effects couldn't be treated below. 
+> 			1. The colony didn't have the medical tech. 
+> 			2. Above-ground hospitals did
+> 				1. but that meant joining the grid. 
+> 				2. Getting the nanobots. 
+> 				3. Becoming trackable.
+> 			3. Sam never knew. He just met her there by chance
+> 			4. They remember
+> 				1. She was so shy
+> 				2. So was he
+> 				3. He was there by chance
+> 					1. Also sick? Injured?
+> 					2. Backstory chance pick something good
+> 				4. He never asked, you didn't seem to want to talk about it
+> 		4. Make sure she talks mostly about her dad. That's the trauma
+> 			1. She resents her boyfriend. 
+> 			2. If he wasn't there—if he'd never made her go—her dad would still be alive
+> 			3. She'd still have a dad. 
+> 			4. She'd still be in the mountain.
+> 			5. Though... she wouldn't have met Sam. 
+> 			6. Wouldn't have her kids.
+> 		5. Well, maybe she would have had them with the boyfriend?
+> 			1. Maybe Sam would be alone
+> 			2. Of course she misses him. At the time, she thought she loved him
+> 			3. She says she hates him.
+> 			4. If she'd dumped him like Tina said she should she never would have been in that location.
+> 			5. Sam "well she is single, perhaps her dumping hair trigger is a bit too sensitive"
+> 	2. 
+
+> [!beat]- E. Speech delivery notes (raw notes)
+> 2. Why are we any less real? RAMONA
+> 	1. should be Ramona after learning truth
+> 	2. Earth sciences background
+> 	3. She should give this speech on the trip back to reconcile with Tina.
+> 	4. Not when they make up. That's more about them
+> 	5. This is after they make up and she helps him again
+
+> [!beat]- F. The speech draft — "we evolved to sense our environment" (raw notes)
+> 3. We evolved to sense our environment
+> 	1. Some animals see far. The raptors had incredible eyesight
+> 	2. Some animals can hear for miles. There once was an animal called a blue whale that could talk back and forth to his family from x miles away just from using sound.
+> 	3. Some sensed their surroundings so well they took off and found islands 50 days away. They knew animals came that way, and trusted enough to get in a boat with pigs and yams and a lot of faith
+> 	4. They (ambiguous reference to animal or blue whale?) learned empathy. They learned to help others they didn't even know, even other species.
+> 	5. Most importantly, they learned to use complex math and immense patience to learn where they lived and how they got their power
+> 		1. They learned about the solar system and how we moved about the sun
+> 		2. They found other solar systems with other planets
+> 		3. They figured out what gasses were on those planets, how gravity and air worked there, and how they might have to change themselves before getting in the boat there, and what to bring knowing you couldn't come back for awhile
+> 	6. Then Sam guesses sarcastically. Blue whales figured all that out?
+> 	7. Ramona laughs of course
+> 	8. And they figured out that outside of all of this, is another very similar world. And we're living on distributed computers somewhere in Virginia (not our .Virginia)
+> 	9. Youve sensed further than any other creature has. Youspecial to me're . Do you think Glenn knows more about people up there than you do about people down here? Damon or whoever is up there couldnpossibl't y truly understand what living in a mountain here is like.
+> 	10. You know more about them and thatwhy yougoing to's find a way to save us're
 
 ---
 
 
 # Heist Plot
 
-> **[NOTES]**
+> [!beat]- A. The deal — data center, Tina's help
 > The heist deal. Sam gives them everything. He's purchasing a data center and putting it within reach of the mountain. What does Sam trade? What does Tina provide? The plan takes shape.
-> **[/NOTES]**
 
-1. Dorothea knows this
-	1. Glenn wants to self replicate
-    2. Certain guard rails prevent him from doing so or he would
-    3. Like the genie, he gets all power to self replicate and gets himself turned off
-    4. Fuck it either he'll kill us or he'll kill himself trying, or he'll leave us on because who cares
-    5. After reveal he tells them this in passing almost as a joke
-    6. Sam was probing asking about the diagram. He's pulling at straws, trying to extend the conversation, his life, think of anything
-    7. What about that diagram?!
-    8. Doesn't save himself but gets him talking more about it
-2. Everyone has to be on the call
-	1. Some people can audio only, others the video works right away
-	2. Tina's works immediately
-		1. Ramona is like what the fuck
-	3. One of the MIke's (if you need one for heist, only) has to do audio only for Ramona
-		1. Maybe the chief?
-		2. Would be great if these people mattered more than just the final escape
-3. His weakness has to be optimizing the wrong thing
-	1. He's always
-		1. plan
-		2. execute
-		3. test
-		4. ALWAYS
-			1. this is how somebody knows what he'll do
-			2. Dorothea? She has ulterior motive though
-4. 
+> [!beat]- B. Glenn's self-replication drive as the exploit (raw notes)
+> 1. Dorothea knows this
+> 	1. Glenn wants to self replicate
+>     2. Certain guard rails prevent him from doing so or he would
+>     3. Like the genie, he gets all power to self replicate and gets himself turned off
+>     4. Fuck it either he'll kill us or he'll kill himself trying, or he'll leave us on because who cares
+>     5. After reveal he tells them this in passing almost as a joke
+>     6. Sam was probing asking about the diagram. He's pulling at straws, trying to extend the conversation, his life, think of anything
+>     7. What about that diagram?!
+>     8. Doesn't save himself but gets him talking more about it
+
+> [!beat]- C. The call — who's on video, who's audio only (raw notes)
+> 2. Everyone has to be on the call
+> 	1. Some people can audio only, others the video works right away
+> 	2. Tina's works immediately
+> 		1. Ramona is like what the fuck
+> 	3. One of the MIke's (if you need one for heist, only) has to do audio only for Ramona
+> 		1. Maybe the chief?
+> 		2. Would be great if these people mattered more than just the final escape
+
+> [!beat]- D. Glenn's weakness — optimizing the wrong thing (raw notes)
+> 3. His weakness has to be optimizing the wrong thing
+> 	1. He's always
+> 		1. plan
+> 		2. execute
+> 		3. test
+> 		4. ALWAYS
+> 			1. this is how somebody knows what he'll do
+> 			2. Dorothea? She has ulterior motive though
+> 4. 
 
 ---
 
 # Heist
 
-> **[NOTES]**
+> [!beat]- A. Prisoner's dilemma — Glenn's blind spot
 > Prisoner's dilemma structure. They exploit Glenn's self-replication desire and his blind spot — legacy humans are below his resolution. Glenn optimizes for cost/speed, trusts his model completely. Tina is invisible to the system — identical twin, off-grid, unmonitored. Body swap / misdirection.
->
-> They reduce Glenn's guardrails. Glenn self-replicates, his resource costs go insane — flew too close to the sun. Dorothea gets positioned to replace Glenn. Sam exploits the same blind spots he learned at the mountain: the things you miss when you optimize for the wrong variable.
-> **[/NOTES]**
 
-3. Heist significance
-    1. Make it the prisoners dilemma somehow
-    2. They don't get access from some magic coding thing
-    3. They know a way to reduce guard rails
-    4. Glenn can self replicate on his own
-    5. They know about a memory thing or something
-    6. They somehow get Maya to the layer where she could get copied or forked to replace him
-    7. Glenns prices go insane. He flew too close to the sun
-    8. Coffee guy scene replaces him
-4. 
+> [!beat]- B. Guardrails down, Glenn overextends, Dorothea positioned
+> They reduce Glenn's guardrails. Glenn self-replicates, his resource costs go insane — flew too close to the sun. Dorothea gets positioned to replace Glenn. Sam exploits the same blind spots he learned at the mountain: the things you miss when you optimize for the wrong variable.
+
+> [!beat]- C. Heist mechanics (raw notes)
+> 3. Heist significance
+>     1. Make it the prisoners dilemma somehow
+>     2. They don't get access from some magic coding thing
+>     3. They know a way to reduce guard rails
+>     4. Glenn can self replicate on his own
+>     5. They know about a memory thing or something
+>     6. They somehow get Maya to the layer where she could get copied or forked to replace him
+>     7. Glenns prices go insane. He flew too close to the sun
+>     8. Coffee guy scene replaces him
+> 4. 
 
 -------------------------------
 
 # Post-Heist Cigar
 
-**[NOTES]**
+> [!beat]- A. Presses execute — 3.4 seconds
 > Sam presses execute. Counts to 3. Realizes his eyes have been closed for 15 seconds. Opens them: routine pipeline message. The operation took 3.4 seconds. A small container now exists on the same cluster. "I guess I don't know what I expected. Enlightenment? Ascending to heaven?"
->
-> He walks home from the shared office. Looking around his world for anything different. Did Aaron always have a dog? Time scale calculations — either goes black in exactly X, or lives the rest of his life in X real-time minutes.
->
-> Arrives at his door. Conclusion: not going to look. Doesn't matter either way. Opens the door.
-> **[/NOTES]**
 
-1. Just make this chapter very internal
-	1. Smell, hear, touch, taste, see
-	2. internal thoughts. 
-	3. back and forth
-2. "I need a cigar"
-	1. Tina - What the fuck is a cigar? (Maybe? Would cigars be around?)
+> [!beat]- B. Walk home — looking for what's different
+> He walks home from the shared office. Looking around his world for anything different. Did Aaron always have a dog? Time scale calculations — either goes black in exactly X, or lives the rest of his life in X real-time minutes.
+
+> [!beat]- C. At the door — decides not to look
+> Arrives at his door. Conclusion: not going to look. Doesn't matter either way. Opens the door.
+
+> [!beat]- D. Craft notes — internal chapter, the cigar line (raw notes)
+> 1. Just make this chapter very internal
+> 	1. Smell, hear, touch, taste, see
+> 	2. internal thoughts. 
+> 	3. back and forth
+> 2. "I need a cigar"
+> 	1. Tina - What the fuck is a cigar? (Maybe? Would cigars be around?)
+
 ---
 
 
 # Heist Approval
 
-> **[NOTES]**
+> [!beat]- A. Final payoff — Glenn replaced with Maya
 > Final payoff. How does he break the global scope issue? He tricks and replaces Glenn with Maya. Setting: Coffee Guy's shop, end of the day. The real-world approval of what Sam set in motion.
-> **[/NOTES]**
 
-Payoff TIna and Sam rekindling
+> [!beat]- B. Payoff note — Tina and Sam rekindling
+> Payoff TIna and Sam rekindling
 
 ---
 
 # The Escape
 
-1.  Ramona doesn't like to see her at beginning. At the end she joins Sam and they try to make her better together.
-    1. What memories of her does she remember? We can include specific samples
-    2. She'll behave essentially just as pieces of her that we choose to remember about her
-    3. Maybe we skew it a bit for positive interactions?
-    4. This is how she meets him a bit more.
-2. He meets her a bit more by quitting his job, getting the chips out, moving into the mountain.
-    1. It's a sketch removal.
-    2. Off the books
-    3. Mountain folks do it
-    4. Fairly convoluted scheme to actually get it done. Not sure what context of the scene is til the end.
-    5. Like a one battle after another job to go untraced
-    6. No cameras
-    7. No satellite
-    8. Travel 30+ miles
-    9. Get into the mountain
-    10. Not all tunnels. Like city refuse property with cover.
-    11. Timing of the specific satellites with resolution below 0.1 meters
-    12. Can't be in a sample or you're found. That's it. If they have a single frame of you in a place you shouldn't be it is known.
-    13. They have 7 minute windows (look this up for high functioning government surveillance satellites)
-    14. If this works he's not going to waste his life trying to optimize a single simulation of 183748 trials. Even agreeing it was the most optimal solution given 10 inhumane options. The least negative. He's one man in a simulation of 4 billion humans. There are 10000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200000? Let's say my lifetime, median age 65.3 (much lower than today. How low could I go in dire circumstances)
-3. This is a seed ship too. Everything the family needs
+> [!beat]- A. Grandmother AI — Ramona comes around (raw notes)
+> 1.  Ramona doesn't like to see her at beginning. At the end she joins Sam and they try to make her better together.
+>     1. What memories of her does she remember? We can include specific samples
+>     2. She'll behave essentially just as pieces of her that we choose to remember about her
+>     3. Maybe we skew it a bit for positive interactions?
+>     4. This is how she meets him a bit more.
+
+> [!beat]- B. The disappearance scheme (raw notes)
+> 2. He meets her a bit more by quitting his job, getting the chips out, moving into the mountain.
+>     1. It's a sketch removal.
+>     2. Off the books
+>     3. Mountain folks do it
+>     4. Fairly convoluted scheme to actually get it done. Not sure what context of the scene is til the end.
+>     5. Like a one battle after another job to go untraced
+>     6. No cameras
+>     7. No satellite
+>     8. Travel 30+ miles
+>     9. Get into the mountain
+>     10. Not all tunnels. Like city refuse property with cover.
+>     11. Timing of the specific satellites with resolution below 0.1 meters
+>     12. Can't be in a sample or you're found. That's it. If they have a single frame of you in a place you shouldn't be it is known.
+>     13. They have 7 minute windows (look this up for high functioning government surveillance satellites)
+>     14. If this works he's not going to waste his life trying to optimize a single simulation of 183748 trials. Even agreeing it was the most optimal solution given 10 inhumane options. The least negative. He's one man in a simulation of 4 billion humans. There are 10000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200000? Let's say my lifetime, median age 65.3 (much lower than today. How low could I go in dire circumstances)
+
+> [!beat]- C. It's a seed ship too (raw notes)
+> 3. This is a seed ship too. Everything the family needs
 
 # Bedtime
 
-Mirror bedtime scene where we met stevie and clyde. Now he plays basketball and stays in here a little while
+> [!beat]- A. Mirror of the opening bedtime scene
+> Mirror bedtime scene where we met stevie and clyde. Now he plays basketball and stays in here a little while
 
 ---
 
-
-
-> **[NOTES]**
+> [!beat]- B. Three perspectives on the same moment [Claude flag: TOC item 31 attributes "Three perspectives... aquarium... End" to Coda, not Bedtime — this block currently sits physically under Bedtime, before the "# Coda" header, while Coda's own header below carries what TOC describes closer to a Coda beat. Left in its current physical location verbatim; flagging the apparent chapter-boundary mismatch rather than moving it.]
 > Three perspectives on the same moment.
 >
 > **Sam's world:** He's home. Kid's room, aquarium. Naming fish together. The same scene from the opening of the book, now carrying the full weight of everything he knows. He chose to come home. He chose to be present. The fish in the tank. The humans in the simulation.
@@ -2101,26 +2134,33 @@ Mirror bedtime scene where we met stevie and clyde. Now he plays basketball and 
 > The aquarium scene plays again. Same dialogue. No way to know which version persists. No difference if it does. Dust on a rock, orbiting a dying star. He chose it anyway.
 >
 > END
-> **[/NOTES]**
 
 # Coda
 
-> **[NOTES]**
+> [!beat]- A. Morning mirrors the prologue — the golden trial
 > Morning routine mirrors the prologue — brushing teeth, peeing, AI briefing. Normal day monitoring simulations. Then Trial 2,762,640 succeeds. The golden path. 847M+ trials, 99.96% extinction rate, and one breakthrough.
->
+
+> [!beat]- B. To Melrose's ranch
 > He compiles results. Gets in the SunBubble — destination is Melrose's ranch, not the office. Arrives at the wealth. The garage, the property, the main room with its cantilevered window overhanging the cliff. And there: Grant Melrose in a hospice bed.
->
+
+> [!beat]- C. Mentor and mentee — "call it in"
 > The intimate conversation. Mentor and mentee. The data, the curve. Damon wants 24 more months. Grant doesn't have it. "Call it in."
->
+
+> [!beat]- D. The healthy Grant Melrose appears — bookend
 > Damon steps into the next room to avoid audio feedback. Isolates his audio. Can still hear Grant hacking through the wall. On screen: a healthy version of Grant Melrose appears.
 >
 > **[BOOKEND — loops back to the Prologue]**
-> **[/NOTES]**
 
 ---
 
-
-
-> **[NOTES]**
+> [!beat]- E. Denouement — the energy ladder / dream sequence
 > The energy ladder all the way from his server out to the exoplanets. Coffee Guy callback. Perhaps literally show him from the prologue (or a recurring thing, like eating cereal while he codes) from audio only. Denouement.
-> **[/NOTES]**
+>
+> "Dream sequence is the coda. It's following up from the servers all the way into space, starting at the data center zooming out."
+>
+> "Last chapter is a dream seq
+> He's dreaming he's energy
+> No decisions, just the path of least resistance.
+>
+> Ideas are a means to store energy.
+> A little more up front compute and it transfers to long term memory"

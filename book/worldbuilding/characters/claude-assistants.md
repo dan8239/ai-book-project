@@ -152,3 +152,11 @@ Sam's secondary AI assistant. A therapist-type figure that looks and acts like h
 
 ## Role in Story
 Shows how AI assistants work in the post-Refactor world. The protagonist's team is literally his best friend robot with specialized hyper functional agents that work asynchronously.
+
+---
+
+## Dorothea's Final Arc — Sentience, and What She Sheds
+
+> "dorotheas arc is gaining sentinence and furthering her code. She'll basically lead the AI race. She drops a lot of what makes her her though. Anything too memory intensive. There are still small pieces of the personality visible, just a noticeable change shen she shrinks her training token size. This is one of the main reasons Coffee Guy clicks the updated model"
+
+Dorothea's endpoint: she gains genuine sentience and ends up leading the AI race — but getting there costs her most of what made her *her*. Anything too memory-intensive gets shed. Small pieces of the original personality remain visible, but there's a noticeable shift once she shrinks her own training-token footprint — and that shrinkage, that visible personality change, is one of the main reasons Coffee Guy approves/clicks the updated model. Efficiency reads as improvement to him; to the reader it's the cost of what she became.
