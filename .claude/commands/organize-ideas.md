@@ -19,45 +19,60 @@ If $ARGUMENTS is empty, ask the user to paste the dump.
    - Relevant `book/worldbuilding/` files (characters, simulation, themes, timeline,
      mystery) for anything the ideas might extend, duplicate, or contradict
 
-2. **Coalesce first, don't map yet.** Separate the dump into:
-   - Distinct story/character ideas — the actual candidate material
-   - Worldbuilding/mechanism ideas (science, systems) — note these but treat as
-     secondary. Plausible is good enough; don't over-engineer the science
-   - Craft/technique notes (pacing, reveal order, how to slow-walk a concept,
-     structural inspiration from other works) — these are notes on *how to write*
-     a scene, not content for a new scene. Route them to the relevant chapter's
-     working notes, not to prose
-   - Open questions the user is asking themselves out loud (e.g. "what's the
-     right word for this?") — answer briefly inline, don't treat as chapter content
-   - Restatements of the same idea in different words — merge into one
+2. **Capture losslessly. Never paraphrase the user's own words.** Not a word of
+   what the user wrote gets changed, cleaned up, or summarized into your own prose.
+   Their exact sentences and phrasing are quoted verbatim into wherever they end up
+   filed. If you have a suggestion, a question, or a proposed modification, it gets
+   *appended* as a clearly labeled addition (e.g. `[Claude suggestion]` /
+   `[Claude question]`) — never blended into or rewriting their text. Restatements
+   of the same idea in different words are still kept, side by side, not merged
+   into a single cleaned-up version — the user's repetitions and false starts are
+   part of the raw material, not noise to remove. The one exception: distinguish
+   plain factual questions the user is asking *you* (e.g. "what's the right word
+   for this?", "what file actually stores X?") — answer those inline/briefly, they
+   aren't story content.
 
-3. **Match against the outline's beat logic, not just topic.** For each coalesced
-   idea, ask which beat(s) in outline.xlsx it serves. The outline is Save-the-Cat
+3. **File everything under chapter/beat, nested, not under a separate notes
+   category.** The user's preferred structure is nested outline numbering
+   (`1.A.2.a`) with the **chapter or beat as the top-level axis** — never a
+   standalone "craft notes" bucket floating apart from the manuscript. A
+   craft/technique note (pacing, reveal order, how to slow-walk a concept) still
+   gets filed nested *under* the chapter it governs, as a sub-item, not pulled out
+   into its own category. The output should always be building toward "which
+   chapter does this become part of," never end in a free-floating meta-note.
+
+4. **Match against the outline's beat logic, not just topic.** For each piece,
+   ask which beat(s) in outline.xlsx it serves. The outline is Save-the-Cat
    structured — beats causally chain (beat 1 → *therefore* beat 2 → *but* beat 3
-   complicates), not "and then this happened." An idea only earns a chapter slot if
-   it advances that causal chain or sharpens an existing beat's Purpose/Answer Key —
-   not just because it's thematically adjacent.
+   complicates), not "and then this happened." Material only earns a chapter slot
+   if it advances that causal chain or sharpens an existing beat's Purpose/Answer
+   Key — not just because it's thematically adjacent.
 
-4. **Flag weak chapters using the favorite-chapter test.** A chapter is under-flashed
+5. **Flag weak chapters using the favorite-chapter test.** A chapter is under-flashed
    out if you can't picture a reader naming it their favorite. Stub chapters (notes
    only, no prose) are the clearest signal, but a drafted-but-thin chapter can also
-   qualify. When a coalesced idea could plausibly strengthen one of these, say so
+   qualify. When new material could plausibly strengthen one of these, say so
    explicitly — that's the highest-value placement to lead with.
 
-5. **Prioritize character and arc over mechanism.** Every named character should
+6. **Prioritize character and arc over mechanism.** Every named character should
    have a resolved arc, even a minor one, even if it's just getting a cup of coffee.
    When the dump mixes a science/systems idea with a character-arc idea in the same
    breath, lead with where the character material fits; the science only needs a
    one-line placement note, not elaboration.
 
-6. **Present options, don't decide.** For each coalesced idea, propose 2-4 candidate
-   homes (chapter, beat, or worldbuilding file) with a one-line rationale each. Never
-   pick for the user. Group the output by idea, not by chapter, so each one can be
-   approved, rejected, or redirected independently.
+7. **Present options, don't decide.** Where placement is genuinely ambiguous
+   (could live in chapter X or Y, could be sooner or later), propose 2-4 candidate
+   homes with a one-line rationale each — appended as `[Claude]`, not blended into
+   the quoted material. Never pick for the user. Flag anything that conflicts with
+   established canon (a character worldbuilding file, an existing plot mechanic)
+   explicitly rather than silently overriding it.
 
-7. **Never write to `manuscript.md` or `book/worldbuilding/` during this pass.** Per
-   project rules, that requires the user picking an option first. This command ends
-   at a menu of options awaiting approval — implementation is a separate step.
+8. **Never write to `manuscript.md` or `book/worldbuilding/` during this pass.** Per
+   project rules, that requires the user picking an option first. Chapter working
+   notes (`book/manuscript/[chapter]/notes.md`) are lower-stakes since they're
+   explicitly for this kind of raw material — but still confirm before the first
+   write in a given session. This command ends at an organized, lossless menu
+   awaiting approval — implementation is a separate step.
 
 ## What this is not
 
