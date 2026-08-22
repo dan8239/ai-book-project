@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "worldbuilding/simulation/colonization/colonization-program.md",
+                "file": "worldbuilding/characters/Sam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "colonization-program"
+              "title": "Sam"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -226,13 +228,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9011b8ea99c15250",
+  "active": "e9a3adf3e44a4083",
   "lastOpenFiles": [
+    "worldbuilding/simulation/colonization/colonization-program.md",
     "worldbuilding/characters/nan.md",
     "worldbuilding/characters/sams-mom.md",
     "worldbuilding/characters/sams-dad.md",
     "manuscript/manuscript.md",
-    "worldbuilding/simulation/colonization/colonization-program.md",
     "worldbuilding/characters/Glenn \"Big Dog\" Robinson.md",
     "manuscript/00.01.wfh/notes.md",
     "manuscript/02.00.gondola/notes.md",
