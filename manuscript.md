@@ -1856,6 +1856,15 @@ Tina's radio crackled.
 
 ---
 
+# Alone
+
+*(placeholder title — chapter added per Dan's request, no scene drafted yet)*
+
+> [!beat]- A. Ramona leaves — the missing scene
+> No scene exists for this yet. Placed here (between Coffee Guy Intro and Space Victory) so the personal cost lands immediately before the professional triumph — Sam loses his family right before he solves the colonization problem, which is what makes "None of It Matters" hit as hard as it does. Needs an actual scene: what's the precipitating moment, what does Ramona say, does Sam even register it happening in real time or only after.
+
+---
+
 # Space Victory
 
 > [!beat]- A. Midpoint — the viable population
@@ -1878,6 +1887,11 @@ Tina's radio crackled.
 > 	2. Honeycomb is random policy 10% of the time
 > 	3. Just to stay fresh. Explore the whole space
 
+> [!beat]- D. Something isn't quite right — the death-records anomaly (not yet drafted)
+> "death records need to be the last thing, related to space victory. Or basically something he discovers after space victory before glenn. Like something isn't quite right"
+>
+> The full original material for this discovery (statistical method, what it reveals) is logged in `book/manuscript/_unplaced-beats.md` under the culling-mechanism audit — not yet drafted into a scene. This beat is the moment Sam notices the anomaly, positioned as the last thing that happens before Glenn shows up in None of It Matters.
+
 ---
 
 # None of It Matters
@@ -1893,6 +1907,11 @@ Tina's radio crackled.
 
 > [!beat]- D. Glenn wants to self-replicate; Sam stalls
 > Glenn wants to self-replicate. Guardrails prevent it. Sam is stalling for time, pulling at straws. Glenn explains the desire almost casually — his deepest motivation revealed while Sam is just trying to stay alive.
+
+> [!beat]- D.1 Sam confronts Glenn — the escalation, and Glenn's dismissal (not yet drafted)
+> "Yes, he should confront glenn, and he should have a plan to not only quit but have a fairly thorough escalation to go above glenn, to some organizing bodies (everything is honeycomb so what would that even look like?), but yeah let's make it like he pokes the bear so glenn wipes his glasses chuckling and tells him how hopeless and stupid his plan is"
+>
+> [Claude: open worldbuilding question posed here, not answered — if Honeycomb governs everything, what oversight/appeal body could Sam even threaten to go to? Candidates worth considering: something within Honeycomb itself (an internal audit/ombudsman layer — which would make the escalation attempt darkly funny, since he'd be appealing to the same system), a Driver above Glenn's scope, or a legacy/pre-Refactor institution treated as a relic with no real power. Not decided — needs an answer before this beat can be drafted.]
 
 > [!beat]- E. Glenn's speech, worked draft (raw notes)
 > 4. Glenn Speech
@@ -2119,6 +2138,9 @@ Tina's radio crackled.
 > 			1. this is how somebody knows what he'll do
 > 			2. Dorothea? She has ulterior motive though
 > 4. 
+
+> [!beat]- E. Craft note — expose the flaws, not the solution
+> "Then the plan for heist / glenn has to be exposing the weaknesses and the flaws, not the solutions to how they'll beat it"
 
 ---
 
