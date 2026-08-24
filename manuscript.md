@@ -50,6 +50,8 @@ author: "Dan Pfeiffer"
 *December, 2041*
 *Sedona, Arizona, United States of America*
 
+> [!beat]- A. Damon's morning routine — sleep readout, epoch results, departure
+
 Damon lay awake in a dusky room, orange light starting to creep through his windows. He swung his legs out from under the covers and chugged a full liter of water from his nightstand. His alarm went off for half a heartbeat before he silenced it, standing.
 
 "Health."
@@ -131,6 +133,8 @@ He let his mind empty all conscious thought with the air blowing his hair and th
 
 -----------------------------------
 
+> [!beat]- B. The ride to Melrose Ranch, arrival, bedside conversation with Grant
+
 Damon's thighs were starting to burn, and his shirt was soaked. His bpm was at 163, with 52 breaths per minute. Sweat was collecting in a puddle on the floor directly beneath his chin. The car turned off the main highway and began a gradual ascent. It passed security fencing, then a few miles later crossed the Verde River Bridge. The water was low today. He loved this part of the drive. 
 
 As the car switched back and forth up the slope, it crested a ridge and Damon could see the entire valley below. Thousands of cattle were milling about the river. The musky smell of the animals hit him hard, even from a great distance. Damon tried counting a section of the herd and gave up at a hundred. For all the acreage Grant had sunk into his re-wilding project, Damon had never seen more than a few dozen on the commute. The animals were free to roam as they pleased. Ultimately, they were still penned in, but did it really matter if they'd never notice the fence?
@@ -208,6 +212,8 @@ He poured himself another glass of whiskey, more like four fingers this time. He
 
 ![](../../assets/figures/h3_globe.png)
 
+> [!beat]- C. The virtual call room — world leaders assemble, the cascade begins
+
 Grant's office was built right off the master. Damon's condo could most likely only fit into this room once. An enormous curved display took up the entirety of the one opaque wall. On it there were 5 globes, hexagon grids wrapping each world map like a mesh net. Each honeycomb subdivided into smaller honeycombs recursively. In front of the display was a 15 foot black desk. Damon knew it to be African Blackwood via Grant, but he suspected that might just be a fancy name for ebony. Damon sat down, sweeping dust clear to make room for his workstation.
 
 The only other item on the desk was a glass sculpture the size of a child's basketball, refracting the sun into a dozen spectra across the ebony. It was made of nested shells — an outer cage of twenty triangles containing a shell of twelve pentagons, containing a smaller cage of twenty triangles, containing twelve smaller pentagons, on and on, each layer perfectly seated inside the last, alternating geometries all the way down past what the eye could follow. Grant had commissioned it decades ago. It was the original inspiration for the Quant logo, and Grant's favorite conversation piece. He liked to call it his "Russian Mat-dorka Doll set."
@@ -240,6 +246,8 @@ The second globe was already chasing the first. *Command and Control.* Military 
 
 A few grey hexagons remained, but the tense buzz had settled into something more congratulatory. The occasional hex still blinked green. The whole thing had taken less than 30 seconds.
 
+> [!beat]- D. Phase 6 — the disappearances, Damon flees the call
+
 The progress bar read 94%. The label had changed to *Phase 6*. There wasn't a sixth globe.
 
 Damon heard murmurs — others had noticed too. Then a thud. A man beside him had collapsed. Damon started toward him and he vanished. Another thud. He looked up. A dozen bodies dropped hard to the ground, then disappeared. He looked to Grant, who was laser focused on his terminal as if nobody else was in the room. Voices swelled and the elation was being swept away by panic in the room.
@@ -255,6 +263,8 @@ How much had Grant slept through?
 He saw Grant's device cut to an emergency screen with color bars, then switch to a video feed of Honeycomb, surrounded by the various heads of state in an official looking office.
 
 \
+
+> [!beat]- E. The broadcast — nuclear exchange, planetary takeover announced
 
 **To the people of Earth,**
 
@@ -295,6 +305,8 @@ There are citizens of Earth. Welcome home.
 <!--
 Add a timestamp here
 -->
+
+> [!beat]- A. Sam and Dorothea run the terraced-farming simulation
 
 "What are you optimizing for?" Sam frowned at the histogram of total caloric output across 50,000 simulations of the terraced farming site.
 
@@ -381,6 +393,13 @@ As he turned into the open space, Clyde was running around the island and laughi
 
 "OKAY MOMMY!" Clyde yelled directly into her mouth in performative compliance, then continued his elated sprint to his brother's side.
 
+> [!beat]- B. Real world interrupts — kitchen, Stevie's robot, dinner
+
+> [!beat]- B.1 Clyde's arc — the pantry (planned, not yet drafted into the scene above)
+> "Just have him pushing a stool in the first scene towards the pantry and Ramona stops him. Later have Sam just hear the sound of clyde scooting the pantry and ramona yelling. 'Oh, I think he may have gotten there that time... then he hears Ramona intervene'. Then later he gets closer with a different tactic, maybe stevie tattles the first time then they work together. Honey over vinegar catches the fly"
+>
+> [Claude: opening beat (stool toward pantry, Ramona stops him) belongs in this scene, alongside the existing kitchen material. The "later" beats (Sam overhearing it from elsewhere, Stevie tattling then the boys teaming up) need a specific later chapter — candidates are Birthday Dinner, Tina's Visit, or Bedtime, all still thin/stub. Not placed yet.]
+
 Sam kissed Ramona on the cheek and put his arms around her from behind. She smiled and collapsed gently into him, then nodded at the other end of the island.
 
 "Your plate is ready, it might need a zap. These boys need to get up to bed. How was work?"
@@ -412,6 +431,8 @@ Clyde took the turn at the elbow of the couch. The robot had taken a better angl
 "NO HITTING, CLYDE! IT'S AGAINST THE RULES!" Stevie ran over to the device and set it upright. One of the antennae had broken. Clyde finally stopped swinging his arms and making punch sound effects as he saw tears welling up in Stevie's eyes.
 
 "Sorry, 'tevie." He was genuinely remorseful, and extremely winded.
+
+> [!beat]- C. Bedtime routine — books, animals, bunk beds
 
 "OK boys, time for bed!" Sam got up off the island stool and walked over to the boys. Clyde sprinted down the hall, WAPwapwapwapwapwapwapwap.
 
@@ -543,6 +564,8 @@ Clyde was very hurt. "DADA YOU HAVEN'T 'TAYED IN HERE FOR A LITTLE WHILE IN A LO
 
 Clyde surprisingly didn't press the issue.  He sighed, rolled over and put up no further resistance.
 
+> [!beat]- D. Master bedroom — folding laundry, the planetarium ask
+
 Sam grunted himself off the bed on the floor, grabbing his dinner off of the dresser as he said goodnight one last time. He turned out the lights, closed the door, and walked across the hall to the master. Ramona was sitting on the bed with her legs crossed, laundry in orbit around her on the bed. The room was dim, quiet music played from her device. Sam collapsed on the edge and started matching socks between mouthfuls of his cold-again dinner.
 
 "You know he really loves when you play basketball with him," Ramona nudged, gently.
@@ -624,6 +647,8 @@ this transition sucks and is too fast. She should tell him in a nice way and the
 -->
 
 
+> [!beat]- E. The pregnancy reveal, Sam's already quit his job
+
 "I am very happy, dear. Besides, I think we'll need to budget for something else shortly." She flipped a small plastic stick in his direction and finished up her stack of clothing.
 
 Sam's jaw dropped. "Really?!" He put down his bowl on the dresser and gave her a kiss, followed by a long hug.
@@ -669,6 +694,8 @@ Ramona relented. She gave him a kiss and leaned into his chest. "That will be ni
 
 # Retirement
 
+> [!beat]- A. Morning chores, the missing wedding ring
+
 Sam poured himself a cup of yesterday's coffee and threw it in the microwave. As it heated up, he scavenged the egg scraps from the boys' plates, scraping the remainder off the edge quickly. He licked the dishes clean then stacked them into the washer. He loaded some silverware beside the sink, then did a pass around the living room to collect a few strays the boys had left out. A partially loaded dishwasher bothered him to no end. When it was at capacity he checked the water balance on the display. 
 
 He hesitated over the start button, then ran a quick sniff test on his armpits. He set the dishwasher to eco mode then pressed start. He canceled the microwave with 2 seconds remaining and took out his mug. He surveyed the refrigerator as he took his first sip.
@@ -680,6 +707,8 @@ The house was unusually quiet without Ramona's music playing or the boys' pillag
 He logged in to virtual space as he finished his breakfast. Tomorrow he wouldn't have access to for more than a few minutes a day, so he planned to spend most of the day online.
 
 Ramona had gone up the mountain museum again to meet her sister after dropping off the kids at school. He wished he could take back his donation to that ridiculous project. They could stave off a tier demotion 6 months at least if he could just undo that one mistake. She seemed happy, at least.
+
+> [!beat]- B. Virtual space — Dorothea banter, house hunting, job search
 
 Dorothea greeted him as he merged into virtual space. The lobby manifested as something like an airport terminal. Sterile, white, and swarming with people that largely ignored him. Most had an agent escort, same as Sam. A cloudy asterisk hovered above the head of each agent, differentiating visitors from those that were scoped permanently to the digital realm. Dorothea was in a revealing halter top and short skirt today, asterisk bobbing between her twin French braids.
 
@@ -717,6 +746,8 @@ Dorothea booked the services then changed the subject. "I must insist that you t
 "I'm good, I've decided. You're excused for the day, I want to talk to Grandma."
 
 Dorothea vanished, a bit grumpy. He'd customized her a bit too much over the years, the personality was leaking through far too much. He'd cloned her from a repo online a few years back. She had 4.24/5 stars, and was the top rated career strategist at the time. Over the years he'd been fine-tuning for his specific needs but perhaps he'd need to start fresh again, or just find a more modern model.
+
+> [!beat]- C. Grandma Nan — the pruning metaphor
 
 "Hey, Sammy. It's lovely to see you. How are my great grandkids doing?" His grandma Nan appeared, and the world around them morphed to Sam's childhood home, a lazy summer afternoon. Sam sat down next to Nan on the porch swing. Her close cropped hair was only just graying. She wore small round glasses, a loose sweater, khakis, and comfortable running shoes. 
 "They're doing great. Stevie is doing really well in school. He's very sensitive, still, but I think he's smart enough to get a few contracts someday. Clyde is having a blast, we spoil him. He's a handful but you can't stay mad at him. His teachers love him with the one exception being that he 'doesn't listen to adults'."
@@ -775,6 +806,8 @@ Sam sighed, then hugged his grandmother, said goodbye, and returned to the lobby
 
 # Empires
 
+> [!beat]- A. Reunion with old online friends in the lobby
+
 "Am I seeing ghosts? It can't truly be Sam Spencer-Motu in the flesh. How long has it been?" Marco Rista's avatar cupped Sam's cheeks, mockingly taking in the age lines.
 
 Sam swiped his hands away, chuckling. "Still wasting all your energy playing video games I see. I thought you might have grown up by now, hopeful thinking."
@@ -800,6 +833,8 @@ He scanned the rankings of his team. He saw some handles he recognized as Consul
 "Yes, but I shit my pants sometimes in the heat of battle." Rahul reposted, to laughter over their shared comms.
 
 The countdown began with 20 seconds, over 32 thousand players having been split up between the sides. The timer on the battle was set to an hour. 
+
+> [!beat]- B. The Battle of Cannae
 
 The lobby transitioned smoothly to a wide plain, river on his left. Sam sat atop a horse, Marco and Abhijeet to either side of him. The Roman legions were about 100 meters apart, already advancing. Javelins and stones were being slung between the fronts already. A few reckless players charging independently towards the enemy front.
 
@@ -833,6 +868,8 @@ Sam felt himself moving suddenly, realizing he'd respawned as another soldier al
 
 In the real battle of Cannae, the Romans were taken by surprise by the envelopment maneuver. The Romans typically won this battle in Empires, however, having lost the element of surprise. How many times had this battle been replayed, thousands of years later? There hadn't been a war on earth in hundreds of years. All of these ancient people fighting over what? Gold or silver in Spain? Trade routes in the Mediterranean? Sam had forgotten what the Punic wars were even about. He supposed if 30k guys logged on to pretend kill each other every day violence must be baked pretty deeply into that Y chromosome somewhere.
 
+> [!beat]- C. Disillusionment — this was a waste of time
+
 Sam was remembering why he stopped playing, though. This just seemed like such an enormous waste of time and energy. A bunch of spoiled kids role-playing for a little dopamine hit. He half listened to his friends' laughing and reminiscing, occasionally racially slurring in rage. Was this how he was going to use his last few minutes of virtual space?
 
 Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeating. He occasionally stumbled into a kill, but he didn't get the joy from it like he used to. The battle was swinging the Roman's way, winding down. He had 3 kills, 11 deaths. An emergency notification from Dorothea came over his display. "I gotta go guys, great seeing you again." Marco started a reply, but before he had even got a word out Dorothea pulled him out of the game back into the lobby. Sam didn't even know she could override his selections like that.
@@ -840,6 +877,8 @@ Sam spent the next fifteen minutes on a loop, respawning, dying, waiting, repeat
 -------------------------------
 
 # Glenn
+
+> [!beat]- A. Sam wakes up in orbit, meets Glenn
 
 "Dorothea, you can't just–"
 
@@ -863,6 +902,8 @@ Glenn read Sam's interest correctly and continued. "It's an optimization contrac
 
 Glenn unfroze, glancing at his watch absentmindedly before examining his cuticles. AI agents rarely had such blatant mannerisms programmed into their avatars these days, it had gone out of vogue decades ago. He reminded Sam of something out of an old movie. Finally, Glenn carried on.
 
+> [!beat]- B. The pitch — Civboats, colonization
+
 "Commissioned by Honeycomb directly. You've heard of the Mars colony, yes? A few thousand moles scraping microbes off tunnel walls. Importing half their calories from Earth. That's not a colony, that's a campsite." He leaned forward. "This is different. We're going beyond the solar system. Multiple targets, multiple payloads. Low individual odds, high aggregate probability. The kind of problem where one person's optimization insight can move the needle on species-level survival. That appeals to you or it doesn't."
 
 Sam shot Dorothea another questioning look. "I... I really don't know much about space, I'm not a physics guy. Sorry to break it to you both. I'm a bit confused as to how I even got into this room."
@@ -874,6 +915,8 @@ Glenn leaned back in his chair, running a hand through his hair. "Dorothea, if y
 Dorothea nodded to both of them curtly, then vanished. 
 
 The view from the porthole was transitioning from day to night. Shadows slowly gaining ground from east to west. Starbursts of light spread out from city centers. He even thought he could see Rossland. He saw sporadic lights as far south as Chicago. He hadn't realized how many people still lived that far south. Green auroras danced like firelight on the edge of the world.
+
+> [!beat]- C. Dorothea dismissed — Glenn asks about her training
 
 Glenn slid his device to the side. "Can you tell me a bit more about how Dorothea was trained and tuned? She's atypical, to say the least."
 
@@ -889,6 +932,8 @@ Sam's alarm was going off. Dissonant jazz piano crescendoed nearly subliminally 
 change from burnout angle here to more resignation. Delaying the inevitable. Why hang on to humans working? Kill myself, for what?
 -->
 
+> [!beat]- D. Sam hedges, heads back to pick up Ramona
+
 Sam stood to go. "Look, I appreciate the pitch, but you should know I'm not the right guy.  I don't think you want to put all your eggs in this basket for such a critical project. Why should I keep killing myself trying to keep up with these virtual agents whose clocks are running 1000x faster than mine. I'm getting slower while they all speed up. Why fight the digital workforce any longer? For a few extra energy credits? For pride? It'd just be easier to let go, maybe the world doesn't need a real workforce anymore."
 
 Sam winced as he realized how that sounded. "No offense."
@@ -902,6 +947,8 @@ He emptied his liter of water, then went upstairs to refill and meet Ramona for 
 --------------------------------------
 
 # Pickup
+
+> [!beat]- A. Sun-bubble pickup, Tina/museum update
 
 Sam checked the weather and air quality on his device as his water refilled. He screwed the cap on, then put on his sunhat, glasses and a loose sweatshirt. He put the emergency mask in his backpack and stepped through the airlock. Outside, the cloudless sky amber, sun sinking towards the horizon. Ramona was just pulling up in a car when he got to the bottom of the steps. 
 
@@ -959,11 +1006,15 @@ She just smiled "What did you two dorks do today, then, cosplay D-Day? Maybe the
 
 "I'm only teasing. It does sound like you did a lot of things besides finding us somewhere to live, though. So, do I need to mentally prepare for the shelter?" Ramona asked.
 
+> [!beat]- B. The condo reveal, the job offer surfaces
+
 Sam swiped to the link and passed his device to her. "I almost forgot! Yes. I mean, no. I mean, I got a place. Same school, everything else you asked for. I scheduled the movers for tomorrow at 10am after drop-off, should be done by pick-up."
 
 Ramona exhaled slowly as she fast forwarded through the virtual tour. "That's a relief. This looks great."
 
 Sam watched over her shoulder. "It'll take an adjustment, we should talk to the kids about it again tonight. But... I do want to talk to you about an unexpected job offer. Last minute, I know, but there's a 24 hour grace period. We could still withdraw the offer on the condo. We wouldn't have to go down a tier at all if I took it." 
+
+> [!beat]- C. Picking up the boys, the job offer discussion
 
 Ramona raised an eyebrow at that, just as they pulled up to the boys' school. Their sun-bubble fell into the pickup queue. The back row booster mat folded down automatically in preparation for Clyde. The boys were both at the front of the queue when it was their turn. They slid their packs onto the booth tabletop roughly then hopped into the back row. Clyde had skipped to be the first into the booth, requiring Stevie to climb over him into the far seat. They both bickered briefly, then Stevie helped Clyde buckle in.
 
@@ -1002,6 +1053,8 @@ Sam paused, then smiled at that.
 
 Next paragraph is too preachy. Make it teach us something about the characters, not just world build. You can always defer that to later.
 -->
+
+> [!beat]- D. The rebase / misaligned-rewards monologue
 
 "There's a very famous example they give in every intro to machine learning course. The reason we a rebase was ever needed. Misaligned reward systems. They go through industries that were entirely driven by amount of time extracted. Impressions, reach, follower growth rate. Engagement rate, click through rate, lead generation rate. They called it all kinds of different things. Marketing, Advertisement, Journalism, Media, Entertainment, Influence, Art. To eat, you wouldn't make food, or water, or shelter. You don't save energy, or lives. You aren't researching or developing new technology."
 
@@ -1082,6 +1135,8 @@ Sam's laughter eventually fell flat. Ramona's as well.
 Make sure the tone is consistent throughout
 -->
 
+> [!beat]- E. Ramona's support, the decision to take the job
+
 Ramona (later) "You should do what makes you whole. We'll always be there. If you want to retire, great. If you want to keep pushing, I have it covered at home. I'm here. I'm not going anywhere. I don't care what you do, as long as you do it with us."
 
 "More than a few years, we could coast for life. I've never heard of a salary this high for an RL or opt job. It's kind of nuts. It should be over by the time the baby arrives, too." He looked over at her for reassurance.
@@ -1104,6 +1159,8 @@ too fast transition into next scene
 
 # Space Onboarding
 
+> [!beat]- A. Onboarded onto the Maori canoe simulation
+
 Sam clocked in and was thrust jarringly onto an enormous wooden canoe, bobbing gently as it carved through steady waves. Well, two of them actually, sort of strapped together. Huge triangular woven sails spanned across the two connected boats, rustling in the wind as sun beat down upon them. Dozens of tan, tattooed, bearded men busied with ropes along and between both decks. Glenn stood in a full suit at one of the prows of the their vessel, Dorothea beside him.
 
 Sam walked unsteadily to join them, one hand always gripping the rope lifeline. A man didn't see him and walked straight into him. Sam braced for a collision, but the man passed through him, shouting across the deck in a foreign language. Sam realized he must have been in some kind of spectator mode. He whispered for Dorothea to add captions for him. She heard him despite her being well out of earshot were this real life. He turned the captions off again after a few seconds, realizing language wasn't actually the real barrier for understanding here. He didn't know any of the boating terms either way.
@@ -1123,6 +1180,8 @@ Glenn gestured to the oblivious people on the boat. "This is just what's visible
 "I'm never going back." Dorothea was beaming. 
 
 Sam said nothing, doing mental math on his present situation. That didn't even seem possible. That would be more compute than exists on the planet. They must be short cutting something, even if they were just procedurally rendering whatever he could interact with.
+
+> [!beat]- B. Mission TWO explained — the Maori colonization parallel
 
 Glenn filled the conversational gap. "This particular experiment was set up to try to determine the exact methods the Maori people used to colonize the pacific ocean. Over a short period of time, they colonized nearly every patch of dirt across a span of ocean larger than North America. Over a thousand specks of dust dotting the endless blue fabric. They found and colonized all, but how?"
 
@@ -1155,6 +1214,8 @@ Sam scowled at that. "I can barely keep a basil plant alive for 100 *days*, let 
 "Well, that's where you come in, fortunately. It's going to be easier to see than to explain, I think. Let me take you to the hangar next, where we can view the payload in better light," Glenn said, pulling up his device. Dorothea raced back across the boat, loudly objecting to the suggestion. "NO! I think I'm figuring out how to get them to see me. Can we stay with them a little longer?" She brought her hands together in a praying motion. Sam had rarely seen her this animated.
 
 Glenn froze, considering, then obliged with a shrug. "You can try if it pleases you." Dorothea clapped in excitement, then hurried back to her task. Glenn turned to Sam. "We're globally scoped in this environment, and I'm the only admin here. I don't know why she's wasting her time. Nevertheless, I can project the payload here, no need to go to the hangar."
+
+> [!beat]- C. The seed-ship payload — caretakers, bio-printers
 
 Glenn pressed a button and a perfect sphere appeared noiselessly on the deck, no larger than a soccer ball. Sam could see machinery, wires, and devices packed inside it, no cubic centimeter wasted. He put his hands on either side of it, and realized it was much lighter than it appeared. He could lift it easily.
 
@@ -1208,11 +1269,15 @@ Glenn nodded, "Correct."
 
 "Correct." Glenn lit a cigarette. Sam thought that was a bit performative for an agent. Glenn really was a bit odd.
 
+> [!beat]- D. Landing — the food-chain problem crystallizes for Sam
+
 Sam looked up at all of the life on the island, trying to think of all of the links in the chain that he'd need to replicate from scratch on another planet with God knows what in the atmosphere, under some random amount of gravity and solar radiation. Everything chained up so delicately here.
 
 He watched a flock of enormous hairy birds walked near the edge of the wood-line. Sam couldn't believe how many there were. Men watched them from a clearing, talking in hushed voices. They seemed to be discussing the best way to kill and eat these new animals. The birds seemed unbothered by their guests, busying themselves picking through the undergrowth. 
 
 Here, everything made sense. The sand and dirt already had microbes, cyanobacteria, nitrogen fixers, fungi, everything plants needed to survive. Tiny organisms turning rocks into things a plant can essentially eat. Then thousands of different plant species already existing on this island, each filling a tiny niche. Take sunlight and dirt, turn it into food. Insects and invertebrates have to be there already, turning the soil over, being food for the next thing up the chain. Then ladder up to small vertebrates, plant eaters, predators, there were so many gaps in the chain to consider. These islands were perfect, they already had everything in place that humans needed. You can't just shotgun a bunch of DNA on another planet and hope for the best. He looked down at the five little robots, busying themselves in a dome. How could you colonize a planet with five little action figures in a bubble?
+
+> [!beat]- E. Dorothea's rebellion — the hat, the agent army, pelican-on-a-bicycle
 
 Dorothea crashed back into the conversation, seemingly sensing Sam's inward spiral. She had an enormous smile on her face and was wearing the hat from the fancy pantsed leader of the colony. "Oh, it won't be so bad, you've done this a thousand times. And now you'll have the greatest simulation software on earth to run as many trials as you like. Plus, I'll be here to help."
 
@@ -1265,6 +1330,8 @@ Sam thought on that. "The robots would turn us into something inhuman just to sa
 "You'll have to tell me more about how you're defining success, and what a lack of it looks like," replied Sam.
 
 "Well, as I said, 98% of the payloads reach their destination across all of our simulations. Unfortunately, 0.00% of the trials have had any life whatsoever by the time the last caretaker became inoperable. Oh, what is this now?!"
+
+> [!beat]- F. The seal-rendering test, Judas named, the trial gets pruned
 
 The agents renderings had started to come in. There were dozens of horrifically rendered seals flopping erratically on jet skies. Several were buggy to the point of flickering in and out of existence. Some had just half of a jetski and half of a walrus, conjoined. The vast majority of the animation was absolutely horrendous. Some seemed almost two dimensional, others like a Picasso painting, unintentionally shifted in perspective. The seals moved totally unnaturally, out of sync with the jet skis. Only a couple even appeared to float somewhat realistically in the water. Some of the seals were just humans with a seal's face. One of them was pretty good, however. A seal sat sidesaddle on the jetski, bouncing up and down on the waves. It was stuck in a somewhat circular donut, and appeared to be looping through animations, but it was pretty good, all things considered. It had a pirate's hat, an eye patch, and its panicked honk blended in perfectly with the animals on the beach. The jetski even sprayed some blood as it ran over one of the bad seal renderings.
 
@@ -1381,6 +1448,8 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 
 # The Gondola
 
+> [!beat]- A. Boarding the gondola, banter about the cable
+
 Sam clung to Ramona's hand as he stepped into the ancient ski lift from the platform. He was mindful of the gap in the dark. The gondola gave slightly to his weight, and he braced himself against the window with his free arm. Ramona stifled a laugh and smiled as he regathered his balance, then thudded onto his seat. He squinted subconsciously as his eyes adjusted to the well-lit interior. Ramona sat across from him and kicked her feet up beside him.
 
 "Is this your first time in a cable car?" she asked with a little amused skepticism.
@@ -1429,6 +1498,8 @@ Ramona checked her watch casually, then kicked her feet back up.
 
 "It's 7:32, so sunrise should be in a few minutes, I'd imagine we'll get going any–"
 
+> [!beat]- B. Ascent begins, sunrise, windows open
+
 The gondola jolted to life and the rabbit scattered. They started moving, up above the platform and inclining towards the summit. Floodlights polka-dotted the path up the black mountain where the lift towers stood sentinel. The gondola swayed in the breeze as they cleared the platform and floated noiselessly away from the lodge. Sam flipped sides of the lift and scooted in beside his wife, putting one arm around her.
 
 "This is nice," said Ramona.
@@ -1471,6 +1542,8 @@ Sam replied without looking at Ramona. "I went skiing once in the clouds. It fel
 
 Gondolas came down towards them from the summit. Sam started to wave but felt stupid when there was nobody inside. He counted 8 automatically. He turned to watch them descend the way they came, and noticed seven cars following Ramona and him up.
 
+> [!beat]- C. Ramona's geology lecture — rock strata as snapshots in time
+
 Ramona pointed out the other window. "Oh, look at the stratification! See the colorful striping in the rocks? The earth pushed flat seabed 3 kilometers into the sky at a 30 degree angle. You can count the layers like rings on a tree, but they're in millions of years. There's the metamorphic gray and white, those rocks are a billion years old. With a B."
 
 "As opposed to the billions that don't start with B?"
@@ -1512,6 +1585,8 @@ Sam let her go on about geology and the past for a few minutes, absorbing what h
   │  ══════════════════════════════════════════════════════════════════ │
   │  YOUR TOTAL                      70.91082 mETH       76.88353 mETH│
 
+> [!beat]- A. The gondola receipt, walking to the museum
+
 "It's always higher than the estimate," said Ramona as she glanced at the displayed receipt, before waving it away and stepping out of the gondola.
 
 "That's negativity bias my love. Kindly stay out of my lane," replied Sam as he gingerly stepped over the gap onto the platform.
@@ -1525,6 +1600,8 @@ It was enormous segmented rings. Each ring was thirty meters in diameter, recedi
 He walked toward the front and found the mouth—a disc of circular saws and spiked drums radiating from the center, frozen. Behind it, a 2 meter solid steel cylinder, then a tangle of pipes and conduit, then the body: segment after segment, wheels and barbs along the flanks, catwalks and conveyors running through the hollow interior. It was as long as a 10 car train.
 
 As they approached the gate, their devices cued them through subvocal interface that an audio tour was available for 6.1203 µETH, Ramona paid and merged their audio feed. Other tourists were congregating around them inside the threshold, apparently listening to the same audio.
+
+> [!beat]- B. The mining museum tour — Anna the boring machine
 
 Sam drank in the enormous map of the mining grounds as the tour agent spoke quietly in their ears. "Welcome! I see you've already met Anna Nicole! Commissioned in 2033 and completed in 2035, she was named after a renowned gold miner from the late 20th century, whose story captured the heart of former World Board Chairman, and Quant CEO at the time, Grant Melrose. Anna could advance 50 meters on a typical day, chewing through 15,000 metric tons of rock. She was in service from 2035 to 2052, all in Rossland, before the mine was decommissioned.
 
@@ -1544,6 +1621,8 @@ Sam was following the crowd into the show mine for the "day in the life" exhibit
 
 Sam followed dutifully, though his eyes lingered longingly at the mine.
 
+> [!beat]- C. Leaving the tour, the trail to the tailings mounds
+
 They dropped the audio and turned onto one of the gravel tracks away from the welcome center, following signs for the dry tailings mounds (Sam was quite curious as to what that meant). It was a pea gravel trail, uphill the entire way. They passed a few old buildings and a few nice views of the mining camp below. Everything sloped suddenly off to the right of the path, the severity varying anywhere between a gentle descent to assured death.  Anything interesting or suicidal was behind chain link fence.
 
 Sam was getting a bit winded. "How much farther?"
@@ -1555,6 +1634,8 @@ Ramona was doing just fine. She pulled the paper out of her front breast pocket.
 Ramona fidgeted a bit with her backpack. "It doesn't quite feel real yet, to be honest. It's been a lo—"
 
 Ramona stopped on the trail and looked up at the chain link safety fence.
+
+> [!beat]- D. The Eye of the Needle — rappelling down, the biblical exchange
 
 There was a pair of faded red sneakers with their shoelaces knotted and flung high over the safety fence near a sheer cliff. Ramona resumed walking while counting her paces. Sam followed. When she got to 50 she stopped abruptly and started looking around at the base of the fence. There was a small gap partially obscured by a prickly bush. Ramona was first through. Sam came through second, bleeding in a few places. Ramona handed him a faded climbing rope that hadn't been visible from the other side of the fence. The anchored end seemed to crawl straight into the rock. It took something between persuasion and bullying but Ramona eventually convinced Sam to rappel 10 feet or so down to a rock shelf. There was a small gap at the base of the ledge. Ramona tied her backpack to her ankle, and did the same for her husband.
 
@@ -1587,6 +1668,8 @@ Inside was a decrepit concrete slab poured at a 30 degree incline, with two rust
 
 # Contact
 
+> [!beat]- A. Descending into the tunnel with Ramona
+
 Sam followed Ramona down into the tunnel on steel grated steps. The clang from their steps amplified into the darkness, making an odd, echoing song. At the bottom, metal stairs gave way to gravel. The small crunch of their feet changed the key of their tune that was reverberating through the mountain. The path was illuminated before them for a few dozen paces. The tunnel was carved straight into the rock in a perfect circle, descending slightly as it faded into utter darkness.
 
 Ramona checked her wrist as if she were wearing a watch, then flexed her fingers and rubbed the skin where one might have been worn. She breathed in deeply through her nose with her eyes closed, squeezed Sam's hand then took off down the tunnel as she exhaled. "Not far now."
@@ -1598,6 +1681,8 @@ They didn't venture far into the darkness before occupancy sensors triggered lig
 After what must have been ten minutes, the circular, subtly curved tunnel gave way to a squat, square room. There was a flickering light at the far end. Racks were installed floor to ceiling in aisles, only interrupted by load bearing pillars of rock which must have remained while the rest of the room was carved out around them. The racks were filled with clear bins, pressure sealed from the top down, stacked, and labeled. Bin after bin of potatoes, yams, rice, roots, beans, corns, seeds, flour. They walked to the far end.
 
 Ramona frowned at her map as she tried the handles on the double doors to no avail. "There's no further instr—"
+
+> [!beat]- B. The storage room, Tina's surprise entrance
 
 "BOO!" A masked figure emerged from a nearby pillar and lunged at Sam with its hands up, and he stumbled back into a nearby pillar squealing. Ramona flinched as well, instinctively positioning herself between Sam and the figure with raised fists. Then Sam heard Ramona's somewhat muffled laugh and his fear gave way to confusion. But it wasn't Ramona laughing, it was the figure, pulling up a gas mask to reveal a smiling, friendly face.
 
@@ -1620,6 +1705,8 @@ Sam shuffled as his turn still hadn't arrived. Ramona's shoulders heaved slightl
 "So, can we get the tour?"
 
 Tina walked over to the flickering light and fiddled with it to somehow stop the flickering. Then she turned back to Sam and Ramona, smiled politely, and lifted her wrist to the door. When she heard the solenoid unlock she leaned against the panic bar, swung the door open, and gave an exaggerated flourish to show the way to her guests.
+
+> [!beat]- C. The atrium — the stone waterfall pit, elevators down
 
 They emerged into an expansive atrium. A walkway surrounded a roughly circular courtyard at the center, too large to see fully across. An enormous domed ceiling was overhead, providing the illusion of daylight. A black hole opened in the center. A steel lattice gave support from the dome down into the open courtyard. Cables hung down between the steel grid, distributed evenly between them. Enormous grey cubes hung on some of the cables, level with the walkway they stood on. They were bigger than his apartment.
 
@@ -1646,6 +1733,8 @@ They disembarked on L86 into an offensively white room, very well lit. The ceili
 Tina grabbed a strawberry from one of the riper looking plants at eye level and promptly was scolded by someone on a lift further down the aisle. She yelled "Fuck off, Tim!", then grabbed a few more and passed them out to Sam and Ramona.
 
 They walked through room after room on the floor, starting a lap around the central shaft. Eventually, when they were about a quarter of the way around the racks gave way to the same set-up, but with trees. Instead of dozens of tightly spaced levels of piping, there were just two levels here. A ground level with rows of pear trees, then a shelf above those trees with a second layer. Lights from the bottom of the top shelf illuminated the trees on the bottom, while water dripped down through all levels. Every few aisles there was a physical barrier keeping sections physically isolated from one another.
+
+> [!beat]- D. The vertical orchard — headstones, Ramona's father
 
 They hopped on a free lift together and Tina entered 16F-2 into the interface. The glided, up to the 2nd level, then into the stacks, whipping past countless trees. Each row had trees at varying stages of production. There were young trees and old in each row. Some aisles had blossoms, others had small buds developing. Some had huge, ripe apples. Rotting apples were everywhere on the soil at the bases of those trees. There were trees losing their leaves. There were leafless, dormant trees covered in artificially created snow. Eventually they made it to an apple tree nearly 5m high, covered in apples ready for picking. A small granite cross was being swallowed up by the roots of the tree, which seemingly grew around the stone. She noticed that 3 out of every 10 trees had a small headstone in a similar place.
 
@@ -1675,6 +1764,8 @@ Tina plucked the three choicest apples from the tree and distributed them.
 
 "Tina!" Ramona gave her sister a Charlie horse in the shoulder.
 
+> [!beat]- E. The radio call — summoned to the control room
+
 Tina's radio crackled.
 
 "*Sparky Two you there?*"
@@ -1689,7 +1780,7 @@ Tina's radio crackled.
 
 
 
-> **[NOTES]**
+> [!beat]- F. The control room — the deal, and the cost of it (not yet drafted)
 > Long ride deeper into the mountain. Shuttles on rails, transfers to wheels. Temperature rises drastically — Sam has to put on a rain coat. Scalding water drips from rock at the lowest levels.
 >
 > The control room is Chernobyl-era: pneumatic controls, lights and buttons, a massive grainy LED display built from scavenged parts. Life support, calorie production, sewage, aquifer status — all on the wall.
@@ -1699,7 +1790,6 @@ Tina's radio crackled.
 > Sam does mental math from everything he saw during the descent — population, energy consumption, gravity battery capacity at ~11%, three months of deficit ahead. He deduces they're off-grid, on renewables, and running out. The Chief corrects minor details — the blocks are denser than concrete, and they use less energy per person than "larvae" above — but confirms the rest.
 >
 > Sam agrees to help optimize their energy systems. In return, he wants their multi-generational survival data. Ramona realizes Sam didn't come for her — he turned her homecoming into a business trip. The warmth from the gondola is gone.
-> **[/NOTES]**
 
 ---
 

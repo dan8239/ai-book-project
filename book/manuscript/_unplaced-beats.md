@@ -109,9 +109,8 @@ None of the dad-backstory material below has been placed in manuscript.md — Da
 
 ---
 
-## Ch. Work From Home → Bedtime (Clyde's arc — blocking is concrete, just not filed yet)
+## Ch. Work From Home → Bedtime (Clyde's arc — opening beat filed, payoff still open)
 
-> "1. needs work still" — no, wait, this one has clean blocking, ready to file next pass:
-> "Just have him pushing a stool in the first scene towards the pantry and Ramona stops him. Later have Sam just hear the sound of clyde scooting the pantry and ramona yelling. 'Oh, I think he may have gotten there that time... then he hears Ramona intervene'. Then later he gets closer with a different tactic, maybe stevie tattles the first time then they work together. Honey over vinegar catches the fly"
+Opening beat (stool toward the pantry, Ramona stops him) is now filed as beat B.1 in Work From Home, attached to the existing kitchen scene.
 
-[Claude: only reason this isn't filed yet is time/sequencing this session, not any open question — first candidate to place next.]
+Still open: which later chapter houses "Sam hears it happen from elsewhere," Stevie tattling, then the boys teaming up. Candidates: Birthday Dinner, Tina's Visit, Bedtime — all still thin. Not decided.
