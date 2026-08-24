@@ -216,3 +216,21 @@ Found by direct grep audit after Dan asked "what about all my other lossless not
 > KWh captured as a planet is the reward func
 > Secondary goal among many
 > The knobs are just policy and crispr repair rate and things like that"
+
+---
+
+## SECOND AUDIT PASS — three more gaps found (Dan asked "so we have everything captured somewhere?" — checked again properly, not just trusted the last pass)
+
+### Shrinking/dwarfism breakthrough — full original description (only a later placement-question fragment was saved before, not the actual content)
+> "for one of the breakthroughs sam has on his problem, on the next planet size is a huge disadvantage for reasons xyz. So he learns quickly through genetic simulation that everything is dwarfism crazy. Size is not an advantage. Smallness is. THe humans shrink to the smallest imaginable size based on physics where our brain functionality wouldn't be as good anymore for energy balance (real science reasons to fill in). So, one of the breakthroughs (early on) is something related to this size hting. Give an example of pygmy elephants. He has to bastardize humans to the point they're unrecognizably small. They can jump to insane heights just due to the strength/weight ratio. They'll start losing shit they don't need very quickly. why do you need to jump or grab things like you used to? Is that still important on this planet? He's running thousands of simulated generations. That's another of his breakthroughs or just techniques. He's bootstrapping, he's doing random mutations at crazy rates, what are some other dials he can do? But he's increasing the variance to speed up the optimization. That's all it is an optimization so what it means to be human must be truly tested in this new world. They are 100% direct descendents, no hybrid species in a literal sense. He's taken things, of course."
+
+[Claude: this is the actual substance behind the "Shrinking/dwarfism breakthrough" entry higher up in this file — that entry only had the later timing question, not this.]
+
+### Process notes to self (craft/sequencing reminders, not story content — but still your exact words, not dropped)
+> "Write it backwards if it helps"
+> "Dream chapter is ready and should just sum up the themes. Heist etc. May be best to write once you know the mysteries then work backwards. Finish the mountain chapters"
+
+### The full therefore-chain (from the outline-mapping discussion)
+> "it's like he gets this job, therefore he becomes even less present with his family, therefore his wife connects more with Tina, therefore Sam gets more pulled into the mountain, therefore he discovers that they are the solution to his work thing, therefore he solves the work thing but breaks their trust in the process, therefore his wife leaves him, but he finds out that the government is basically culling the populace, therefore he quits and confronts glenn, therefore glenn reveals the underlying truth of the universe. Therefore he has to find his family to see if he can pick up the pieces, therefore she gives him the hope / idea for how to get out, etc."
+
+[Claude: this is the chain evaluated a few turns back (weak links flagged: wife-connects-with-Tina → Sam-pulled-into-mountain; solves-work-thing → wife-leaves; the culling-discovery-drives-confrontation restructuring). The evaluation is in conversation; this is the source quote itself, now saved.]

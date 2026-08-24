@@ -1411,6 +1411,11 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 > [!beat]- B. G. Robinson appears in async channels
 > Meanwhile, a name appears in Sam's async work channels: G. Robinson, Compute Allocation Specialist. Glenn's messages get weirdly personal and helpful. He uses too many emojis. Dorothea is skeptical — protective of Sam, rude to Glenn.
 
+> [!beat]- B.1 Glenn reads Dorothea's earliest context, teases Sam (not yet drafted)
+> "Maybe have glenn read some of dorotheas earliest context... glenn will be perusing those for fun and teasing Sam about it. it will show an unnatural interest in Dorothea, establish Glenn's character as more playful, and explain a bit about who Sam is"
+>
+> [Claude: mechanism grounding — Claude Code session transcripts live at `~/.claude/projects/<encoded-cwd>/`, one raw JSONL file per session, distinct from a trained-up memory/personality file. The in-world equivalent: Glenn finds Dorothea's actual earliest raw session logs — awkward, unfiltered, pre-personality — and needles Sam about the cringe. Same chapter as beat B, since this stub's existing notes already say Glenn's messages get "weirdly personal."]
+
 ---
 
 
