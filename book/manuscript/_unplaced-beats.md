@@ -23,8 +23,8 @@ placement is explicitly still open per Dan. Nothing here gets dropped unless he 
 
 [Claude: which knob goes in which of Space Progress / Space Still Stuck / Coffee Guy Interlude / Coffee Guy Intro / Mountain Optimization / Tina's Visit — still unassigned.]
 
-### Nolan / hero's-journey research
-Requested, launched once, the agent that was supposed to do this went off-script and never actually did it. Still owed — needs a properly re-scoped research pass (Odyssey-vs-hero's-journey scene by scene, plus 2-4 Nolan films' rock-bottom→turn structure) to inform Rock Bottom → Reunion sequencing.
+### Nolan / hero's-journey research — DONE
+Full report saved to `book/manuscript/02.13.rock-bottom/notes.md`. Key takeaway: don't deliver the dad-backstory as one block at Rock Bottom — plant the raccoon material earlier without its full weight (Prestige/Batman Begins model), then echo rather than re-explain it at Rock Bottom. Ramona should be the sole witness, and her rebuild should be an active task/object, not verbal comfort. Reunion should end on a changed behavioral detail, not a line gesturing at the plan.
 
 ---
 
@@ -80,7 +80,7 @@ Requested, launched once, the agent that was supposed to do this went off-script
 
 > "dad character speech isn't rock bottom. The racoon stuff has to almost be a set up I think. Or, we need to strengthen the scene to explain sam better"
 
-None of the dad-backstory material below has been placed in manuscript.md — Dan explicitly said it does NOT belong in the current Rock Bottom chapter as a "speech." Needs either a real setup-chapter placement for the raccoon material, or a strengthened Rock Bottom scene. Open.
+None of the dad-backstory material below has been placed in manuscript.md — Dan explicitly said it does NOT belong in the current Rock Bottom chapter as a "speech." Needs either a real setup-chapter placement for the raccoon material, or a strengthened Rock Bottom scene. Nolan research (see `02.13.rock-bottom/notes.md`) now gives structural guidance for this — still needs Dan's call on exactly where the raccoon flashback plants and what triggers the confession at Rock Bottom.
 
 ### Dad character material (unplaced)
 > "Dad character — Greg Norman story — "I didn't like him" is all Sam tends to say about it — he was drunk but he knew the truth about honeycomb in someway. "Family curse" when he's in his cups. Flashback to racoon garbage when he was young — 35 of them staring — instinct is to stare directly at the light — pees to mark territory — in the end sam makes agents for most of his lost family.
