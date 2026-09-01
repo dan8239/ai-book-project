@@ -30,11 +30,16 @@
 - PVC piping running through holes near the ceiling, forking with the path
 - French drains / water collection underneath the catwalk (no water sounds yet)
 - Occasional junctions—forks, stairs going down, locked doors to empty rooms
+- No sprinkler system — from voice memo: > "fuck fire sprinkler shit. Like it's a fucking mountain. It's not going to fire. There's nothing to burn. So no sprinkler system."
+- This whole route is framed as an escape tunnel / alternate entrance-exit, not the main way in: > "this is basically like an escape tunnel or like an alternate entrance and exit"
+- Ventilation mechanism still undecided as of this memo — leaning away from visible ductwork/grills toward something that reads as open rock: > "There will be grills or like diffusers basically." ... "Every, actually no, let's not make the ductwork. I think that the ventilation should be kind of like open rock almost. Let me think." [Claude: unresolved — current draft sidesteps this with just "a steady flow of air was at their backs," no mechanism specified, so this is still open if a future pass wants to visualize the vents.]
 
 **The Walkway:**
 - Steel grid catwalk
 - Occupancy lights illuminate ~15 feet ahead, turn off behind
 - Feels like being led
+- Catwalk described as "perfectly maintained no rust" — pristine, well-kept, contrasts with expectation of a rough mining tunnel: > "The whole thing is like, that is like on the bottom of the circle... that is like perfectly maintained no rust catwalk"
+- Transition into the checkpoint room: the catwalk itself disappears into flat rock, and the tunnel's cross-section changes shape at that point: > "this catwalk kind of disappears into this like flat rock for at some point. So like some point they get to like a place that's like the catwalk is gone. It's no longer circular. It's like switches to square and, uh, they step, they step down into the flat, flat room."
 
 ### Sensory Details
 
@@ -44,6 +49,10 @@
 - Later: Sound of water (aquaponics, drainage)
 - Later: Sound of fans (ventilation)
 - Occasional electrical buzz (not constant)
+- The maze feeling, from the memo: > "the whole feel of this is just kind of like an endless maze. Dark, you can only see a few steps ahead in front of you, but you just, you just hear the expanse of what's still yet to come."
+
+**Sam's Mood (not yet in draft):**
+- Per the memo, Sam is meant to shift tone as they descend — not just silent, but visibly taking it more seriously step by step: > "he's just somewhat more seriously taking things a little more seriously at each step, like echoes a long way." [Claude: current draft has them walking in silence with no interiority beat for Sam here — this mood shift isn't yet reflected on the page.]
 
 **Air:**
 - Stagnant at first
@@ -248,6 +257,37 @@ Ramona discovers (or begins to suspect) that Sam didn't come for her. The Chief 
 
 ### Tone
 This shouldn't be a screaming match. The gravity battery reveal, the orchard, the father's grave — those emotional beats should still land. But underneath them, Ramona is processing that her husband used her family as a means to an end. The anger is quiet and devastating, not loud. It's the same dynamic as the birthday dinner: he's present physically but absent in purpose.
+
+## TODO: Open Details from Voice Memo (Descent & Checkpoint)
+
+### Descent dialogue — still unsolved
+The author wanted dialogue during the tunnel walk to carry the journey and possibly seed the population-scale reveal, but hadn't found it yet, and the current draft has them walking in silence:
+> "As far as conversation goes, I need to figure out, I think this is kind of where Sam is going to call out Ramona and just for like, this is more than, I don't know if he'll know right away that there's more than the like 15 or 20 people in her immediate unit that she's like, he's like supporting... I need some options for what they, what the conversation, like what do I need this conversation to advance? You know, I don't know if I've got a good one yet, but like this whole, this whole journey is just to kind of drink in the mountain and I'd love to have some setup or some kind of dialogue to carry it a bit. So I need to find something there."
+
+Craft note the author made to himself in this same breath, kept verbatim as a reminder for this and future dialogue passes:
+> "like if you don't have something to say that advances a character dialogue or like plot or like don't fucking say anything, you know?"
+
+### Checkpoint access mechanism — unresolved
+What kind of access/credential Tina uses to get them through security was left as an open question, not decided:
+> "she like does some like kind of access. Like I don't know what that, what is that? What kind of level of access would they have? Cards or secure, like just buzzing in like a prison with a big, you know, like kind of figure out what you want that access to feel like."
+
+### "False stash" idea — tentative, author hedged it himself
+A speculative idea that the warehouse/storage room could be a deliberate decoy — designed so an intruder who got this far would think they'd reached the end of the facility:
+> "everything still at this point is like secret. So maybe this room is even like, there's like the false stash of what this could be for kind of thing. Like a reasonably someone could come this far and like think they've gotten to the end of it or maybe that's stupid, whatever."
+[Claude: author immediately hedges this ("maybe that's stupid, whatever") — flagging as a live option, not a decision.]
+
+## Banked / Unused Alternate Material (chapter already drafted differently)
+
+The current prose (`manuscript.md`, "Contact" chapter) resolved several of these beats already — jump-scare intro for Tina, "Do you store any underwear in these racks?" as Sam's joke, etc. The memo below predates that draft and contains alternate versions of some beats that didn't make it in. Kept here as raw material in case a revision pass wants them.
+
+**Alternate staging for meeting Tina** (draft went with the jump-scare version instead):
+> "they'll come to some kind of door, she'll punch in a combination, unlock a door and then she'll come in and maybe, maybe Tina's sitting there and that's where they like hug, hug and kiss and look, look at each other. And, you know, uh, Tina doesn't seem as like overjoyed to see Ramona. Ramona is like wiping tears away and just like, so happy to see her. And she's like, you know, oh my gosh, you did this thing with your hair kind of thing... or yeah, like maybe she got some earrings or nose ring or something, you know, just something that she can comment on to show like familiarity or whatever."
+
+**Alternate Tina/Sam joke** (draft uses a different line — see "underwear in these racks" above):
+> "Maybe she'll say something like comment on his weight or something. Gained a few pounds, huh? Nice to see you too, Tina. You know, always a pleasure, but it's like, it's a joking big if she gives him a hug or whatever."
+
+**Sam and Tina's history — garbled first pass, superseded by the final call already in this file and in the draft** (kept verbatim for completeness, not as new direction):
+> "let's figure out to what extent Sam knows of Tina. Cause like they've been exchanging letters. This, this is someone that she's known, he's known about for years, but like he's never really met before... Let's say, yeah, let's just say this isn't the first time Sam has met her... I'm trying to think of a plausible reason they could have been married for 10 years and he would have met her if they're that close. I think it's like, I think it's implausible. So we should just make it where they've met a few times, but it's been a few years."
 
 ## Scene Beats (Sequence)
 
