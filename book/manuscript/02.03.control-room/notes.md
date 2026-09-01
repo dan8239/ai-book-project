@@ -84,6 +84,11 @@ Enormous control room. Huge dashboards, displays, guys working the computers. Ch
 
 It's a total building replica. Looks kind of grainy/pixelated on the big screen, but clean. Everyone else is working on it.
 
+**Visual reference [from transcript, unresolved]:**
+> "Think of it as like nice, a nice one that was in, uh, that was in, uh, what was that, on Southwark or something where they had like a nice, big nice graphical display."
+
+[Claude question] "Southwark" reads like a mistranscription/misheard title — unclear what show/film/place with a "nice big graphical display" control room was meant. Worth confirming before using as a visual comp.
+
 ### The Display
 
 - ~20 foot wall
@@ -102,6 +107,14 @@ It's a total building replica. Looks kind of grainy/pixelated on the big screen,
 - Energy/battery graph (switched to later)
 
 **The Problem:** They no longer have the ability to order a new high-quality display. Everything is built from available materials.
+
+**Craft note — display as explainer device [from transcript]:**
+> "let's like read the display. Let's go into detail on like what the display is showing. It's just like, it's like life size, um, shows current status of like all of the um, actually we can kind of use that as an explainer device."
+
+**Why the display isn't on energy/power at first [from transcript]:**
+> "I don't want to necessarily show power systems and energy because I want him to, Sam to basically just like totally peg what this conversation is going to be. And, uh, then they can kind of switch to the grid, the, you know, switch the, the visualization."
+>
+> "nobody's going to confuse this thing with the, uh, metaverse or whatever the hell we're calling this thing."
 
 ### Other Equipment
 
@@ -151,6 +164,11 @@ Pleasant exchange, meet 5-6 folks in the guild (so-and-so is Tina's higher-up). 
 Asks Sam: "Any guesses?"
 
 (Soliciting guesses so Sam doesn't feel like a know-it-all dick)
+
+**Alternate/discarded framing, same beat [from transcript]:**
+> "well, what else do you want to know? You know, wondering what all this is, wondering what, uh, what this stone, stone contraption is."
+
+[Claude suggestion] "stone contraption" is a distinctive phrase for the gravity battery/mountain works before its function is explained — could be worth keeping as slang even though the transcript itself moves past it to "any guesses."
 
 ### Sam's Math Flex
 
@@ -284,3 +302,4 @@ How much energy reduction do we need to make it to spring? Get to where the sun 
 3. **What's the denser material?** - What are the blocks actually made of?
 4. **The gauge** - What exactly is it measuring? Air quality? H2S? Something else?
 5. **The 5-6 guild members** - Any named? Tina's higher-up?
+6. **Life-support sub-system units** - What are the actual units/metrics shown for calorie production, sewage/wastewater, etc.? [from transcript] "let's figure out what the different units there are in there... but like really, but all we're really looking for is life support."
