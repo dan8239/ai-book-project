@@ -970,6 +970,9 @@ Ramona opened her mouth to respond, then paused. After a few seconds she finally
 
 Sam squeezed back. "I'd be honored. So, it's all set, then? How long will we have?"
 
+<!-- TODO (Dan, 2026-08-31): Sam's "I'd be honored" here is a lie he's telling himself as much as her — canon per session decision is he intends to go, but deep down doesn't really want to (he'd rather stay in virtual space; going means dropping a tier). He first hedges/declines out loud in the Cats and Rats chapter (see its notes.md, beat F/G). She eventually finds out during the actual visit that his real motive was the DNA/colonization work, not her or the vacation — that reveal is already drafted as the "TODO: Ramona's Reaction to Sam's Real Motive" section in 02.02.first-contact/notes.md. This line here should probably read as warmer/more certain than he actually feels, in hindsight. -->
+
+
 "The trail covers 15 square kilometers. It overlaps perfectly with a section of the chambers. Anytime during visiting hours we should have the green light. We'll start with 2-3 hours at first. You have a line to that geolocation anomaly guy still, right? He can ping us if we trip an alarm."
 
 "He's AI, technically. One of Dorothea's colleagues, actually. I haven't met his avatar, but I've never had any issue with his reports so far. Do you want me to meet him?"
@@ -2175,6 +2178,8 @@ Tina's radio crackled.
 
 # Post-Heist Cigar
 
+<!-- TODO (Dan, 2026-08-31): beat A below near-duplicates the button-press/3.4-second beat in book/manuscript/03.09.the_aquarium_pt_ii/chapter.md, Scene 1 Moment 1. Per session decision that chapter's ending is being reassigned (walk-home -> mountain heist entry, aquarium no longer the final bookend) — reconcile which of these two drafts is canonical before both survive to a final pass. -->
+
 > [!beat]- A. Presses execute — 3.4 seconds
 > Sam presses execute. Counts to 3. Realizes his eyes have been closed for 15 seconds. Opens them: routine pipeline message. The operation took 3.4 seconds. A small container now exists on the same cluster. "I guess I don't know what I expected. Enlightenment? Ascending to heaven?"
 
@@ -2207,6 +2212,8 @@ Tina's radio crackled.
 
 # The Escape
 
+<!-- TODO (Dan, 2026-08-31): per session decision, this chapter's beat B (disappearance scheme — cameras, satellites, 7-minute windows, getting into the mountain) is now also the landing spot for the "walk home" portion of book/manuscript/03.09.the_aquarium_pt_ii/chapter.md — that walk becomes the physical entry into the mountain heist rather than a walk to the aquarium scene. Not yet merged. -->
+
 > [!beat]- A. Grandmother AI — Ramona comes around (raw notes)
 > 1.  Ramona doesn't like to see her at beginning. At the end she joins Sam and they try to make her better together.
 >     1. What memories of her does she remember? We can include specific samples
@@ -2236,12 +2243,14 @@ Tina's radio crackled.
 
 # Bedtime
 
+<!-- TODO (Dan, 2026-08-31): per session decision, THIS is now the Act 3 bookend (not Aquarium Pt. II) — mirror of the opening bedtime scene, but in the mountain, with the whole family, and "basketball" below should become "horse" (the game), with Sam staying present longer. Also brings in the reveal that Sam brought his grandmother and father (likely as AI agents/reconstructions, per Sam.md's "in the end sam makes agents for most of his lost family") — mom is now decided (tentatively) as having died young, explaining his father's drinking; see updated sams-mom.md. This may split into a couple of chapters, possibly intercut with Damon (Coffee Guy) cutaways as a pacing device. See _unplaced-beats.md, "Act 3 ending restructure" for the full quote and reasoning. -->
+
 > [!beat]- A. Mirror of the opening bedtime scene
 > Mirror bedtime scene where we met stevie and clyde. Now he plays basketball and stays in here a little while
 
 ---
 
-> [!beat]- B. Three perspectives on the same moment [Claude flag: TOC item 31 attributes "Three perspectives... aquarium... End" to Coda, not Bedtime — this block currently sits physically under Bedtime, before the "# Coda" header, while Coda's own header below carries what TOC describes closer to a Coda beat. Left in its current physical location verbatim; flagging the apparent chapter-boundary mismatch rather than moving it.]
+> [!beat]- B. Three perspectives on the same moment [Claude flag: TOC item 31 attributes "Three perspectives... aquarium... End" to Coda, not Bedtime — this block currently sits physically under Bedtime, before the "# Coda" header, while Coda's own header below carries what TOC describes closer to a Coda beat. Left in its current physical location verbatim; flagging the apparent chapter-boundary mismatch rather than moving it. UPDATE (2026-08-31): per session decision this zoom-out should move to function more like a Coda beat rather than Bedtime's ending — consistent with the TOC mismatch already flagged here.]
 > Three perspectives on the same moment.
 >
 > **Sam's world:** He's home. Kid's room, aquarium. Naming fish together. The same scene from the opening of the book, now carrying the full weight of everything he knows. He chose to come home. He chose to be present. The fish in the tank. The humans in the simulation.

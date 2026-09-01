@@ -63,6 +63,44 @@ Full report saved to `book/manuscript/02.13.rock-bottom/notes.md`. Key takeaway:
 
 ---
 
+## Ch. Cats and Rats / Birthday Dinner — Aquarium Pt. I ("the goldfish scene", not placed)
+
+From The 606 transcript. Distinct from the drafted Act 3 "Aquarium Pt. II" chapter (see below) — this is the never-written earlier scene that establishes the closed-system aquarium and its metaphor. `Sam.md` already documents "Closed-system aquarium: Gift for Clyde later in the story... Aquarium mirrors the mountain, mirrors colonization," and Birthday Dinner's own outline notes flag it unresolved ("Aquarium scene here perhaps? Could possibly lose it altogether").
+
+> "I think that's a good way to get the kids back involved again. It's been a while since we talked to the kids... maybe this is just another instance of like they want to do the fish or whatever and we can use that moment to talk about how there aren't really... wild fish anymore and just kind of leave it at that. Just say like, yeah, like he takes meticulous care of these fish because they're like the last of the ones that are still alive and the fish are obviously a metaphor for humans in this bubble."
+> "Maybe not bedtime again but yeah it could be bedtime, I mean. He could probably have two bedtime sleeps but why else could they be in their room? Find a better reason for them to be in their room to have this conversation than bedtime. Show a different angle of their relationship."
+> "have Stevie or Clyde asking do they know they're in an aquarium? Do they know about the earth?... have them asking about it from the fish's perspective... since Sam is super pragmatic he'd be like, well, they don't really know, it's stimulus response, they see food, they eat it, they feel pressure in their belly, they poop, they don't really know much more than that."
+> "there's a trick to get them to grow bigger even if you do this or that to the aquarium, they'll think they have more room to swim than they do and they'll grow bigger, so there's a metaphor there about humanity — have Stevie or Clyde kind of get to work on the metaphor a bit, clean it up a little, give three or four more options for how to do that, and then clean up the metaphor and have Stevie or Clyde kind of put the hammer down on the metaphor before you button up that little beat."
+
+[Claude fact-check] The mirror/plants-make-fish-grow-bigger bit is a common aquarium myth, not real biology — the actual mechanism is a hormone fish release that's diluted in more water, not a visual trick. Sam could correctly debunk the myth *and* still land the real point (they're blind to their own cage), which is arguably sharper than the myth as written.
+
+[Claude] Placement per Dan, still open both ways — pick whichever Cats and Rats' actual shape leaves room for:
+1. **Tail end of Cats and Rats** — per "you might want to show Stevie and Clyde like one more time before you get to the cats and rats thing... you could also just do the fish tank scene or something like that instead, just feed something in there with them."
+2. **Opening of Birthday Dinner** — resolves that chapter's own unresolved "aquarium scene here perhaps" flag, and gives a non-bedtime reason for the boys to be in their room, before Sam and Ramona go out.
+
+Ramona's own reason for wanting "more of the aquarium scene" (real world presence) is already in `Ramona.md` under "What She Wants" — this scene is a direct instance of that want.
+
+---
+
+## Act 3 ending restructure — Aquarium Pt. II reassigned, Bedtime/Coda revised (2026-08-31)
+
+Supersedes the previous understanding that Aquarium Pt. II (`03.09.the_aquarium_pt_ii/chapter.md`) is the Final Image bookend (outline.xlsx row 26, "Aquarium 2"). Dan: "the aquarium pt 2 is wrong we need to fix it in both outline and manuscript."
+
+> "I like the button press and copy execution, but the walk home is basically going straight into the mountain heist portion. It's how they get into the mountain. Then we do the mirror of the first bedtime in the mountain at the end of a victory cigar scene of him in the mountain just like living a more present lifestyle. We reveal he brought his grandma and dad (mom died too young I think, just cuz I don't want to write her and it explains dad's drinking a bit better). So that to me feels like a couple chapters, maybe broken up by damon's clicking. Then we can kind of end on the zoom out as more of a coda."
+
+**New shape (per Dan, not yet moved into manuscript.md — see TODO comments left at the relevant chapter headers instead):**
+1. Button-press / copy-execution beat — **keep**, roughly as currently drafted (Aquarium Pt. II Scene 1, Moment 1). Note this content currently near-duplicates Post-Heist Cigar's beat A almost verbatim — needs deduplication once this move happens.
+2. "Walk home" becomes the physical entry into the mountain — merges with **The Escape**'s existing beat B disappearance-scheme raw notes (cameras, satellites, 7-minute windows, getting into the mountain).
+3. New "victory cigar" chapter/scene: Sam in the mountain, living present — mirrors the book's first bedtime scene (currently drafted as Bedtime beat A: "Mirror bedtime scene where we met stevie and clyde. Now he plays basketball and stays in here a little while" — per this session, "plays basketball" should become "plays horse," and it's now explicitly *in the mountain*, with his *whole family* present).
+4. Reveal: Sam brought his grandmother and father — read against `Sam.md`'s existing note "in the end sam makes agents for most of his lost family," so likely as AI agents/reconstructions, not literal survivors.
+5. Mom — new decision, tentative ("I think"): she died young, which is what explains his father's drinking/decline. This resolves `sams-mom.md`'s "circumstances TBD" — updating that file to reflect this as the working answer, flagged as Dan's stated preference rather than locked.
+6. "Feels like a couple chapters, maybe broken up by Damon's clicking" — [Claude] read as structural: cut away to Damon (Coffee Guy) reviewing dashboards/results as a pacing device between the mountain scenes, the same triptych device the book already uses (Aquarium Pt. II's Scene 1/Scene 2/Scene 3 split, and the "Three Perspectives" block currently under Bedtime). Not confirmed — "Damon" could also have been misheard for something else; flagging the read rather than assuming it.
+7. Ends on the zoom-out (data-center → universe → back to LED) as more of a **Coda** beat than a Bedtime ending.
+
+[Claude] This wasn't executed as an actual manuscript.md restructure in this pass — chapter surgery (moving/merging drafted prose across Aquarium Pt. II / Post-Heist Cigar / The Escape / Bedtime / Coda) is a bigger edit than an organize-ideas pass should make unilaterally. TODO comments pointing here were left at each affected chapter header instead; outline.xlsx's "Aquarium 2" row was updated to match this new shape.
+
+---
+
 ## Ch. Mountain / Contact / Gondola (world texture, not placed)
 
 ### Mountaineers froze the old CRISPR software

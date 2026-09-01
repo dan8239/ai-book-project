@@ -1,7 +1,7 @@
 # Sam's Mother
 
 **Name:** TBD
-**Status:** Gone — circumstances TBD (something traumatic, ~when Sam was 7-8)
+**Status:** Gone — died young (~when Sam was 7-8). [Tentative, Dan 2026-08-31: "mom died too young I think, just cuz I don't want to write her and it explains dad's drinking a bit better." Working answer, not locked — supersedes the earlier "something traumatic, circumstances TBD" framing below where they conflict.]
 **Role:** Sam's mother. "She was a saint." Raised by [[nan]] after she was gone.
 
 ---
@@ -16,7 +16,7 @@ She was, by Sam's account, a saint. The contrast between who his father became a
 
 ## What Happened
 
-Details TBD — deliberately held back for late in the book. Something traumatic. Connected to his father's fall. [[nan]] stepped in and raised Sam from roughly age 7-8 onward.
+Details TBD — deliberately held back for late in the book. Working answer per session decision above: she died young, and that loss is what's connected to his father's fall (the drinking, the decline) rather than the drinking causing her absence. [[nan]] stepped in and raised Sam from roughly age 7-8 onward.
 
 The full story should be revealed late — possibly Rock Bottom or Reunion, when Sam finally stops running long enough to face it.
 

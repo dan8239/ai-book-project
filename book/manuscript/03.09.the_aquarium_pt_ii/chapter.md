@@ -1,5 +1,8 @@
 # Chapter 9: The Aquarium Pt. II
 
+> [!warning] SUPERSEDED (2026-08-31) — see `_unplaced-beats.md`, "Act 3 ending restructure"
+> This is no longer the Final Image bookend. Per session decision: keep the button-press/copy-execution beat (Moment 1 below), but the "walk home" becomes the physical entry into the mountain heist (merges with **The Escape**'s disappearance-scheme notes), the aquarium-naming-fish beat is no longer the ending mirror (that's now **Bedtime**, mirrored on him staying and playing "horse" longer, in the mountain, with his whole family), and the zoom-out (Scene 3 below) moves to function more like a **Coda** beat. Also note: Moment 1 here (button press, 3.4 seconds, eyes closed) nearly duplicates **Post-Heist Cigar**'s beat A almost verbatim — needs dedup once this actually gets restructured. Not yet moved — this file's content below is left untouched pending that pass.
+
 ## Chapter Goals
 
 What the reader should learn/feel:
