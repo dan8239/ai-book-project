@@ -184,7 +184,7 @@ Anecdotally shorter in stature than honeycombers. Subtle — not dramatic. Calor
 
 ## The Gravity Battery
 
-The power source for the entire city. Built over centuries from mine shafts. Energy storage, not generation — they siphon power from above through Sam's laundering scheme.
+The power source for the entire city. Built over centuries from mine shafts — legacy-human construction. Energy storage, not generation — they siphon power from above through Sam's laundering scheme. **Resolved 2026-08-31** (was flagged as a soft tension against `heist-mechanism.md`'s "investor" framing): both are true — legacy-built, but Sam's money funds ongoing maintenance and operations, not the original construction.
 
 ### Specs
 

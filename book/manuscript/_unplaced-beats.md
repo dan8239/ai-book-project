@@ -284,7 +284,9 @@ Found by direct grep audit after Dan asked "what about all my other lossless not
 
 Source files: "First contact (1).txt", "Control room (1).txt" (both filed directly into their chapters' notes.md — see `02.02.first-contact/notes.md` and `02.03.control-room/notes.md`), "A b testing (1).txt", "Big question (1).txt", "Book memo.txt". The 17-Hour Exploit content went into `book/worldbuilding/timeline/refactor/nanobots.md`; the Escape-mechanics proposal is above. Everything else that needed a decision or didn't have unambiguous placement is below.
 
-### ⭐ Most important — Sam's job motivation, three-way tension (from "A b testing")
+### ⭐ RESOLVED 2026-08-31 — Sam's job motivation, three-way tension (from "A b testing")
+
+Dan: "I think it's a mix of dad / staying human, those are the same to me." Written into `Sam.md`'s Optimization Function Flaw, layer 2. Outline's "pure ego" framing is not the chosen reading (ego stays layer 1, the polished lie he tells others). Original tension preserved below for reference.
 
 The single item worth Dan's attention before anything else here. Current canon has **three different explanations** for why Sam takes the colonization job, and this transcript is Dan actively second-guessing one of them:
 
@@ -302,7 +304,9 @@ And Ramona's side, which would be new material for `Ramona.md` if this direction
 2. **Supplement** the existing father-fear layer — "don't become obsolete like Dad" and "stay human, not a robot" as the same fear wearing two hats.
 3. **Becomes Ramona's beat, not a rewrite of Sam's** — she's proud of him for staying one of the last working humans and wishes she had the option herself. New for `Ramona.md`, and a direct, concrete answer to the still-unplaced "Rising tide lifts all boats" item above ("what if you don't have a boat, tho?").
 
-### Mountain energy: contradiction inside the vault itself (from "Big question")
+### RESOLVED 2026-08-31 — Mountain energy: contradiction inside the vault itself (from "Big question")
+
+Dan: "We can probably use both of these in succession as he's recounting his journey, or getting cussed out by the chief engineer to bring us into the chapter." Not a contradiction — two-stage reveal, and the confrontation doubles as the hook into the chapter. Written into manuscript.md's Mountain Optimization beat A. Original flag preserved below for reference.
 
 `manuscript.md`'s drafted "Mountain Optimization" chapter, beat A, currently says Month 1 metrics went **UP** ("Month 1 fixes backfired — metrics went UP"). But `Sam.md`'s "Month 1: False win" section says energy **dropped** 30% while the orchard/water failed — and this transcript has Dan actively catching and correcting himself on exactly this point:
 > "So, maybe, I put notes in there about, like, yeah, at first the energy goes up. And it's like, that's actually not, not what happens. It's like, he'll just over-optimize and just, like, everyone's pissed off... So, it's like, the energy goes down 20, 30%. But it's like, look, we're not going to get, we're not going to get apples this year."
@@ -311,17 +315,21 @@ And Ramona's side, which would be new material for `Ramona.md` if this direction
 > "look, we're not going to get, we're not going to get apples this year. Like, our whole, our whole, like, apple orchard's at 80. You know? Like, our water is getting fucking blown through because you're sitting here optimizing, like, the free cooling for the lower levels."
 [Claude question] Is "orchard's at 80" meant as 80% loss, or something else — ambiguous as transcribed, worth confirming before it's written into the chapter.
 
-### Why Sam goes to the mountain — Dan explicitly says this is unresolved (from "Big question")
+### RESOLVED 2026-08-31 — Why Sam goes to the mountain (from "Big question")
+
+Dan: "I know why sam goes to the mountain, the outline supercedes. We have the motivation of the DNA data set / trade w/ chief." The transcript's self-doubt (below) is superseded — DNA-dataset trade with the Chief stands as canon, consistent with `02.02.first-contact/notes.md`'s existing TODO section and `heist-mechanism.md`. No red herring needed. Original flag preserved below for reference.
 
 > "the reason for him going to the mountain can't be the DNA. Like, I don't know, like, right now I've got a quid pro quo, like, he'll optimize their building, they give him DNA, that's how he's going to solve it. That maybe could work if he's just, like, already looking at DNA, but it's, I think it's better if he, like, realizes that he's optimizing for the wrong problem. So, that means that, like, there has to be a different thing or red herring he thinks he needs at the mountain. So, I'll have to think of, like, why he goes there. I don't know it yet. I don't have an idea yet."
 
 Nothing to decide — Dan says so himself. Flagging for the record. Note the current drafted "Contact" chapter beat F already says "he wants their multi-generational survival data" rather than DNA specifically — worth Dan confirming whether that dodges his own objection above or still needs the same fix.
 
-### Sam's age — direct conflict (from "Book memo")
+### STILL OPEN — Sam's age — direct conflict (from "Book memo")
 
-Transcript states Sam is **34**: *"He's already, like, 34, you know."* `Sam.md` line 5 states **Age: 31**. No fix proposed — just flagging.
+Transcript states Sam is **34**: *"He's already, like, 34, you know."* `Sam.md` line 5 states **Age: 31**. Not addressed in the 2026-08-31 follow-up — still needs Dan's call on which is correct.
 
-### Dead link — `temp-trainee.md` doesn't exist (from "Book memo")
+### RESOLVED 2026-08-31 — Dead link — `temp-trainee.md` doesn't exist (from "Book memo")
+
+Dan: "cut the temp trainee." Removed the dead link from `book/_index.md`. The 14-months/at-will contract-mechanics material below is left here in case it's useful `honeycomb.md` texture later, but the character file itself won't be written. Original flag preserved below for reference.
 
 `book/_index.md` links to `[[worldbuilding/characters/temp-trainee|Temp / Trainee]]` ("Statistical PhD, exposition device for world state") — the file doesn't exist anywhere in the vault. This transcript's material is very likely its origin idea:
 > "So, I think early on, Sam is kind of bored, but he's not, like, existentially bored. He's, like, been on a project for 14 months. That's, like, an insane duration of time to have one contract. And he's basically filled it. He doesn't really need money, but he's just kind of, like, he's had enough. He's, you know, like, his contract is fulfilled. He is now an at-will employee for this system. And I think early on, like, that first work chapter is, like, that temp is who he's bringing on to replace him, you know."
@@ -329,13 +337,17 @@ Transcript states Sam is **34**: *"He's already, like, 34, you know."* `Sam.md` 
 
 [Claude — options] (a) write `temp-trainee.md` now using this as founding material and draft a short handoff scene, since the currently-drafted Work From Home chapter opens cold with no boredom/contract framing; (b) this was an earlier draft of the opening, superseded by the terraced-farming cold open — remove the dead link; (c) keep the "14 months, fully vested, at-will" contract mechanic as pure `honeycomb.md` world-texture regardless of whether the temp scene ever gets written.
 
-### Gravity battery origin — soft tension, not a hard conflict (from "Book memo")
+### RESOLVED 2026-08-31 — Gravity battery origin (from "Book memo")
+
+Dan: "I think the gravity battery is legacy human built and maintenance / operations were paid for by his investment, both." Written into both `heist-mechanism.md` and `legacy-humans.md`. Original tension preserved below for reference.
 
 `legacy-humans.md` frames the gravity battery as the legacy humans' own multi-century engineering project. `heist-mechanism.md` frames Sam as personally "an investor in" it. Both derive from the same ambiguous transcript passage:
 > "He's invested in a mechanical energy storage system that's, like, essentially, like, weighted, a weighted elevator shaft, like, old mine shaft that is, like, battery, gravity battery storage power. And he's, like, basically, he's an investor in that... that mine shaft thing might be, like, something to throw in, in world building, or just kind of, like, a technology that, maybe we could just make that a technology that is being used by the underground folks."
 [Claude — options] (a) Sam invests in it as an above-ground financial product physically sited in the same mine infrastructure; (b) it's purely the legacy humans' own build, and "investor" just means Sam routes laundered credits into it; (c) leave as-is, not strictly contradictory.
 
-### New scene idea — 100% AI doctor's appointment reveals surveillance depth (from "A b testing")
+### Parked here on purpose (2026-08-31) — 100% AI doctor's appointment reveals surveillance depth (from "A b testing")
+
+Dan reviewed the placement options below and chose to leave this here rather than force it into Cats and Rats or Birthday Dinner right now — staying as a nested, chapter-agnostic note until a natural spot presents itself during drafting.
 
 > "and as part of this i think we should do like a neuro neurological visit or like just a doctor's appointment that is like 100 percent an agent not a doctor not a doctor whatsoever or not a human doctor at all they're very good at it but they just essentially read off the data too... it's automatic and they have the data you don't opt out of it but it could be a a kid's appointment kind of thing that they get a review from... you can get the kids into what a doctor's appointment looks like then but it's like i said it's 100 percent ai and that's how you actually reveal that they are being tracked at that level because like there's reason for them to have data that they just wouldn't have in a today's doctor exam"
 

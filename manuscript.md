@@ -1837,6 +1837,8 @@ Tina's radio crackled.
 > [!beat]- A. Month 1 backfires — local minima without understanding the system
 > Sam's second visit. Month 1 fixes backfired — metrics went UP. He optimized for local minima without understanding the system. Now he needs the full picture.
 
+<!-- RESOLVED (Dan, 2026-08-31): this "metrics went UP" line contradicted Sam.md's Month 1 section (energy DOWN 20-30%, apples/water failing) — Dan caught himself on this exact point in the "Big question" transcript. Resolution: not a contradiction, use both in succession as the way into the chapter. Sam recounting his own journey/self-report gives the "up" read first (whatever he was tracking looked good), then the chief engineer cussing him out delivers the real number (energy down 20-30%, apples dying, water depleted) — that confrontation is also the hook that pulls the reader into this chapter. See _unplaced-beats.md for the full quote. -->
+
 > [!beat]- B. The aquifer — the missing water
 > Tours with engineers named Mike, Steve, and Tim. The aquifer: 500 feet below sea level, water marks dropping 3% per year — but the river above is down 10%. The missing water is being harvested by the mountain through redirected snowmelt. The town is being strangled and doesn't know it.
 

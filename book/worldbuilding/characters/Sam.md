@@ -196,6 +196,8 @@ Three layers, stacked:
 
 2. **What it actually is**: *"Keep moving so what happened to my father can't happen to me."* Every project is distance from a specific image — his dad on the couch, purposeless, the light gone. The M&V royalties arriving while he sleeps are, quietly, the scariest thing in his life. Being paid for something you're no longer doing is a slower version of what he watched kill his father.
 
+   **Resolved 2026-08-31** (was a flagged three-way tension — see `book/manuscript/_unplaced-beats.md`): this is the same fear as "staying human, not becoming another cog" — not a competing motivation, one thing wearing two hats. Per the "A b testing" transcript, the job matters to him because it's one of the last human-in-the-loop roles left ("there are very few humans left that do real work... his motivation shouldn't be like fame and success it should be like not giving up on his humanity... a fuck you to the robots"). That and the father-fear are the same drive: don't become obsolete, don't become the man on the couch, don't get replaced by the thing that's replacing everyone else. The outline's "pure ego" framing is not the chosen reading — ego is still the polished version he gives other people (layer 1), but the real thing underneath (layer 2) is now explicitly this merged fear, not ego alone.
+
 3. **What it should be**: Presence. Here. These people. The thing he's running from is the same thing he'd gain if he stopped.
 
 The problem isn't the "generation" definition — it's the **"wealth" definition in the reward function.** He's optimizing for energy credits and legacy when he should be optimizing for presence and time. The reward function itself is wrong.

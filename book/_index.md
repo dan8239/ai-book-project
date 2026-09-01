@@ -21,7 +21,6 @@ Navigation hub for worldbuilding and manuscript.
 - [[Ramona|Wife]] - Protagonist's wife, thematic heart of the story
 - [[worldbuilding/characters/eldest-son|Eldest Son]] - Anthropology interest, legacy human culture
 - [[worldbuilding/characters/twin-sister|Tina]] - Ramona's twin, legacy human settlement
-- [[worldbuilding/characters/temp-trainee|Temp / Trainee]] - Statistical PhD, exposition device for world state
 - [[worldbuilding/characters/grant-melrose|Grant Melrose]] - Quant founder, consciousness copy subject
 - [[worldbuilding/characters/coffee-guy|Coffee Guy]] - Real world, monitors simulations
 - [[worldbuilding/characters/co-worker-geneticist|Co-Worker]] - Statistical geneticist colleague

@@ -160,7 +160,7 @@ First, they don't believe him. They just think he's crazy. "I'm not going to do 
 
 Sam has been siphoning energy to them for years. He's got about half a percent of his energy income going to them. He figured out a way to make interest on energy almost — he's load shifting.
 
-**The gravity battery:** He's invested in a mechanical energy storage system — a weighted elevator shaft, like an old mine shaft that is gravity battery storage power. It's net positive energy use. He's basically an investor in that.
+**The gravity battery:** A weighted elevator shaft in an old mine shaft — legacy-human-built infrastructure, not Sam's construction. **Resolved 2026-08-31:** Sam invests in its maintenance and operations, not the build itself — that's the "investor" framing. It's net positive energy use.
 
 The underground folks have extended this system so much they can essentially launder energy off of it. Sam is just pumping money into it to float them and get them extra things.
 
