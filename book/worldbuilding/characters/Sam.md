@@ -2,7 +2,7 @@
 
 **Name:** Sam Motu-Spencer (née Motu)
 **Gender:** Male
-**Age:** 31
+**Age:** 33 [settled 2026-08-31 — split the difference between 31 (original) and 34 (Book memo transcript); Dan: "who gives a shit about his age, let's say 33"]
 **Era:** [[../timeline/sim-present|Sim Present (~2125)]]
 **Location:** [[../world/rossland|Rossland]], BC Kootenays
 

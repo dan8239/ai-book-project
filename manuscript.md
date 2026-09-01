@@ -1859,6 +1859,8 @@ Tina's radio crackled.
 > [!beat]- A. Domestic cost made visible
 > Wife falling out. What did Sam's choice cost him? His family, his marriage. Tina visits — the kids need to be there. The domestic cost of Sam's obsession made visible.
 
+<!-- TODO (Dan, 2026-08-31): placed the "100% AI doctor's appointment" scene here (see _unplaced-beats.md for the full transcript quote). Dan's brief for it: Sam obsessing over a work thing while it's happening, more relationship-deterioration texture, a world reveal (surveillance depth — the AI "doctor" already knows data no real exam would have: bowel movements, pupil dilation, blood pressure, etc.), and Stevie/Clyde comedy. Good fit for this chapter specifically: it's already a bare stub calling for exactly this shape (kids present, domestic cost visible, Sam's obsession on display) — the doctor's visit is the vehicle. Kids-present angle (leaning kid's appointment per the transcript, "you can get the kids into what a doctor's appointment looks like") also gives Tina a natural reason to be there. Not drafted yet. -->
+
 ---
 
 # Coffee Guy Intro

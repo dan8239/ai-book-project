@@ -323,9 +323,9 @@ Dan: "I know why sam goes to the mountain, the outline supercedes. We have the m
 
 Nothing to decide — Dan says so himself. Flagging for the record. Note the current drafted "Contact" chapter beat F already says "he wants their multi-generational survival data" rather than DNA specifically — worth Dan confirming whether that dodges his own objection above or still needs the same fix.
 
-### STILL OPEN — Sam's age — direct conflict (from "Book memo")
+### RESOLVED 2026-08-31 — Sam's age — direct conflict (from "Book memo")
 
-Transcript states Sam is **34**: *"He's already, like, 34, you know."* `Sam.md` line 5 states **Age: 31**. Not addressed in the 2026-08-31 follow-up — still needs Dan's call on which is correct.
+Transcript states Sam is **34**: *"He's already, like, 34, you know."* `Sam.md` previously stated Age: 31. Dan: "who gives a shit about his age, let's say 33." Split the difference, written into `Sam.md`.
 
 ### RESOLVED 2026-08-31 — Dead link — `temp-trainee.md` doesn't exist (from "Book memo")
 
@@ -345,9 +345,9 @@ Dan: "I think the gravity battery is legacy human built and maintenance / operat
 > "He's invested in a mechanical energy storage system that's, like, essentially, like, weighted, a weighted elevator shaft, like, old mine shaft that is, like, battery, gravity battery storage power. And he's, like, basically, he's an investor in that... that mine shaft thing might be, like, something to throw in, in world building, or just kind of, like, a technology that, maybe we could just make that a technology that is being used by the underground folks."
 [Claude — options] (a) Sam invests in it as an above-ground financial product physically sited in the same mine infrastructure; (b) it's purely the legacy humans' own build, and "investor" just means Sam routes laundered credits into it; (c) leave as-is, not strictly contradictory.
 
-### Parked here on purpose (2026-08-31) — 100% AI doctor's appointment reveals surveillance depth (from "A b testing")
+### PLACED 2026-08-31 — 100% AI doctor's appointment reveals surveillance depth (from "A b testing")
 
-Dan reviewed the placement options below and chose to leave this here rather than force it into Cats and Rats or Birthday Dinner right now — staying as a nested, chapter-agnostic note until a natural spot presents itself during drafting.
+Placed in **Tina's Visit** (manuscript.md) — see the TODO there. Dan's brief: "squeeze it in somewhere in 2nd act, and he's obsessing about a work thing, we get some more relationship deterioration opportunity, we get some world reveal, we get some stevie / clyde hilarity." Tina's Visit was previously a bare one-line stub ("Tina visits — the kids need to be there. The domestic cost of Sam's obsession made visible.") that already called for exactly this shape. Original quote and reasoning preserved below.
 
 > "and as part of this i think we should do like a neuro neurological visit or like just a doctor's appointment that is like 100 percent an agent not a doctor not a doctor whatsoever or not a human doctor at all they're very good at it but they just essentially read off the data too... it's automatic and they have the data you don't opt out of it but it could be a a kid's appointment kind of thing that they get a review from... you can get the kids into what a doctor's appointment looks like then but it's like i said it's 100 percent ai and that's how you actually reveal that they are being tracked at that level because like there's reason for them to have data that they just wouldn't have in a today's doctor exam"
 
