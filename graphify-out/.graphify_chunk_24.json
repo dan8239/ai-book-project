@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "id": "research_genetics_graph4_tmrca_across_genome_figure",
+      "label": "Figure: TMRCA Across Genome (Real vs Bootstrapped Population)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph4_tmrca_across_genome_tmrca_metric",
+      "label": "TMRCA (time to most recent common ancestor, generations)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph4_tmrca_across_genome_real_population_panel",
+      "label": "Real population TMRCA profile: noisy, natural recombination variation across chromosome",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph4_tmrca_across_genome_bootstrapped_population_panel",
+      "label": "Bootstrapped population TMRCA profile: artificially smooth, uniform, lacks ancient coalescences",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph4_tmrca_across_genome_artificial_consolidation_floor",
+      "label": "Artificial floor at consolidation date (~1000 generations) in bootstrapped population",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph4_tmrca_across_genome_recombination",
+      "label": "Recombination-driven natural variation in coalescence times",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_figure",
+      "target": "research_genetics_graph4_tmrca_across_genome_tmrca_metric",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_figure",
+      "target": "research_genetics_graph4_tmrca_across_genome_real_population_panel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_figure",
+      "target": "research_genetics_graph4_tmrca_across_genome_bootstrapped_population_panel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_bootstrapped_population_panel",
+      "target": "research_genetics_graph4_tmrca_across_genome_artificial_consolidation_floor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_real_population_panel",
+      "target": "research_genetics_graph4_tmrca_across_genome_recombination",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_real_population_panel",
+      "target": "research_genetics_graph4_tmrca_across_genome_bootstrapped_population_panel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph4_tmrca_across_genome_artificial_consolidation_floor",
+      "target": "research_genetics_graph4_tmrca_across_genome_tmrca_metric",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph4_tmrca_across_genome.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

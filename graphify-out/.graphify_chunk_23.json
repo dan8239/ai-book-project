@@ -1,0 +1,186 @@
+{
+  "nodes": [
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_figure",
+      "label": "Bayesian Skyline Plot: Population Size Over Time (figure)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_bayesian_skyline_method",
+      "label": "Bayesian skyline plot method (effective population size Ne over time, log-log scale)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_real_population_history",
+      "label": "Real Population History curve (blue, rises sharply toward present with a sharp drop ~50000 years before present)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_bootstrapped_simulation",
+      "label": "Bootstrapped Simulation curve (red, roughly flat/gently rising, staying near 10^4 Ne)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_consolidation_date",
+      "label": "Consolidation Date marker (green dashed line, 500 years before present)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_discontinuity",
+      "label": "Discontinuity in real population history right at the consolidation date (title callout: 'Notice the discontinuity at consolidation')",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "research_genetics_graph3_bayesian_skyline_confidence_bands",
+      "label": "Shaded confidence intervals (95% HPD-style bands) around both real-history and bootstrapped curves",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_figure",
+      "target": "research_genetics_graph3_bayesian_skyline_bayesian_skyline_method",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_figure",
+      "target": "research_genetics_graph3_bayesian_skyline_real_population_history",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_figure",
+      "target": "research_genetics_graph3_bayesian_skyline_bootstrapped_simulation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_figure",
+      "target": "research_genetics_graph3_bayesian_skyline_consolidation_date",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_figure",
+      "target": "research_genetics_graph3_bayesian_skyline_discontinuity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_figure",
+      "target": "research_genetics_graph3_bayesian_skyline_confidence_bands",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_discontinuity",
+      "target": "research_genetics_graph3_bayesian_skyline_consolidation_date",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_real_population_history",
+      "target": "research_genetics_graph3_bayesian_skyline_bootstrapped_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_bootstrapped_simulation",
+      "target": "research_genetics_graph3_bayesian_skyline_bayesian_skyline_method",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "research_genetics_graph3_bayesian_skyline_real_population_history",
+      "target": "research_genetics_graph3_bayesian_skyline_bayesian_skyline_method",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/research/genetics/graph3_bayesian_skyline.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

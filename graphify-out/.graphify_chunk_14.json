@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked",
+      "label": "Extinction Events by Year and Category (stacked histogram)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_nuclear_exchange",
+      "label": "Nuclear Exchange extinction category (median ~17yr, dominant early spike)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_ai_misalignment",
+      "label": "AI Misalignment extinction category (median ~248yr)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_biosphere_collapse",
+      "label": "Biosphere Collapse extinction category (median ~330yr, largest late-era share)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_engineered_pathogen_release",
+      "label": "Engineered Pathogen Release extinction category",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_runaway_molecular_manufacturing",
+      "label": "Runaway Molecular Manufacturing extinction category",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_natural_disaster",
+      "label": "Natural Disaster extinction category",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_histogram_stacked_simulation_trials",
+      "label": "Civilization simulation dataset: 2.4M trials, 60k representative sample, 2-year bins",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_nuclear_exchange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_ai_misalignment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_biosphere_collapse",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_engineered_pathogen_release",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_runaway_molecular_manufacturing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_natural_disaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked",
+      "target": "book_assets_figures_extinction_histogram_stacked_simulation_trials",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked_nuclear_exchange",
+      "target": "book_assets_figures_extinction_histogram_stacked_ai_misalignment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_histogram_stacked_ai_misalignment",
+      "target": "book_assets_figures_extinction_histogram_stacked_biosphere_collapse",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_histogram_stacked.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

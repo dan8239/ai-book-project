@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "book_assets_figures_extinction_treemap_chart",
+      "label": "Extinction Subcategories Treemap (With Rebase)",
+      "file_type": "image",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_treemap_biosphere_collapse",
+      "label": "Biosphere Collapse extinction category (Cascading Trophic Failure, Topsoil Microbiome Degradation, Pollinator Network Failure, Thermohaline Circulation Collapse, Oceanic Anoxic Cascade; ~41% combined share, ~363-367 yr median survival)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_treemap_ai_misalignment",
+      "label": "AI Misalignment extinction category (Instrumental Convergence, Corrigibility Failure, Multi-Agent Coordination Collapse, Value Function Misspecification, Emergent Mesa-Optimization; ~28% combined share, ~286-295 yr median survival)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_treemap_runaway_molecular_manufacturing",
+      "label": "Runaway Molecular Manufacturing extinction category (Substrate Conversion Event, Weaponized Deployment Cascade, Self-Replication Containment Breach, Optimization Process Divergence; ~16% combined share, ~258-264 yr median survival)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_treemap_natural_disaster",
+      "label": "Natural Disaster extinction category (Gamma Ray Burst Proximity, Bolide Impact >1km, Carrington-Class+ CME, Supervolcanic Event; each under 1% share, longest median survival ~400-500 yr)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_treemap_nuclear_exchange",
+      "label": "Nuclear Exchange and Engineered Pathogen Release extinction categories (small minority share, shortest median survival, colored red/low on the scale)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "book_assets_figures_extinction_treemap_civilization_simulation",
+      "label": "847M-trial civilization simulation (fictional dataset underlying the extinction-cause breakdown)",
+      "file_type": "concept",
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "book_assets_figures_extinction_treemap_chart",
+      "target": "book_assets_figures_extinction_treemap_biosphere_collapse",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_treemap_chart",
+      "target": "book_assets_figures_extinction_treemap_ai_misalignment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_treemap_chart",
+      "target": "book_assets_figures_extinction_treemap_runaway_molecular_manufacturing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_treemap_chart",
+      "target": "book_assets_figures_extinction_treemap_natural_disaster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_treemap_chart",
+      "target": "book_assets_figures_extinction_treemap_nuclear_exchange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "book_assets_figures_extinction_treemap_chart",
+      "target": "book_assets_figures_extinction_treemap_civilization_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "/Users/danpfeiffer/Documents/code/ai-book-project/.claude/worktrees/twinkly-bubbling-diffie/book/assets/figures/extinction_treemap.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
