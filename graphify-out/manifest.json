@@ -1,0 +1,866 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1788234254.666475,
+    "seen": 1788320067.861342,
+    "ast_hash": "98a1b9d0846b0e776c125bae6b840819",
+    "semantic_hash": "98a1b9d0846b0e776c125bae6b840819"
+  },
+  ".meta/logs/session_log.py": {
+    "mtime": 1788234254.6685603,
+    "seen": 1788320067.861344,
+    "ast_hash": "abf7e83f4080e89215f8ded51b3327da",
+    "semantic_hash": "abf7e83f4080e89215f8ded51b3327da"
+  },
+  "archive/DISCARDED.json": {
+    "mtime": 1788234254.6699286,
+    "seen": 1788320067.861344,
+    "ast_hash": "81edc73272624e4836795ffebf7f01f4",
+    "semantic_hash": "81edc73272624e4836795ffebf7f01f4"
+  },
+  "book/manuscript/01.06.birthday/notes.json": {
+    "mtime": 1788234254.7021172,
+    "seen": 1788320067.861345,
+    "ast_hash": "9705763ff22086b67602301f1ab8a234",
+    "semantic_hash": "9705763ff22086b67602301f1ab8a234"
+  },
+  "book/manuscript/03.07.the_button/notes.json": {
+    "mtime": 1788234254.7071888,
+    "seen": 1788320067.861345,
+    "ast_hash": "d538bfdd22b14fad2ebf676cc25b81b5",
+    "semantic_hash": "d538bfdd22b14fad2ebf676cc25b81b5"
+  },
+  "book/manuscript/03.09.the_zoom/notes.json": {
+    "mtime": 1788234254.7089322,
+    "seen": 1788320067.861345,
+    "ast_hash": "ddb6b8c1569a8068f42d1f1f193ff26e",
+    "semantic_hash": "ddb6b8c1569a8068f42d1f1f193ff26e"
+  },
+  "book/manuscript/notes.json": {
+    "mtime": 1788234254.7117379,
+    "seen": 1788320067.861346,
+    "ast_hash": "3906f2fb066d09fbdc2328cbfdbdfd8a",
+    "semantic_hash": "3906f2fb066d09fbdc2328cbfdbdfd8a"
+  },
+  "research/genetics/generate_coalescence_graphs.py": {
+    "mtime": 1788234254.7551203,
+    "seen": 1788320067.8613498,
+    "ast_hash": "feb9941c31ad5afa3f496b4999e14a63",
+    "semantic_hash": "feb9941c31ad5afa3f496b4999e14a63"
+  },
+  "scripts/chart_style.py": {
+    "mtime": 1788234254.769275,
+    "seen": 1788320067.861351,
+    "ast_hash": "1e492177687651b8d0d4be7a1dcc5cd0",
+    "semantic_hash": "1e492177687651b8d0d4be7a1dcc5cd0"
+  },
+  "scripts/commit-with-context.sh": {
+    "mtime": 1788234254.770892,
+    "seen": 1788320067.861352,
+    "ast_hash": "ed259dccc5e45e589d2e814691c67586",
+    "semantic_hash": "ed259dccc5e45e589d2e814691c67586"
+  },
+  "scripts/export-manuscript.sh": {
+    "mtime": 1788234254.7715585,
+    "seen": 1788320067.861352,
+    "ast_hash": "f927198275eb04a61312a5e695ed9e91",
+    "semantic_hash": "f927198275eb04a61312a5e695ed9e91"
+  },
+  "scripts/extinction_visualizations.py": {
+    "mtime": 1788234254.7718148,
+    "seen": 1788320067.861352,
+    "ast_hash": "ad41d3d5df969083eb1cc4296e3b6cf9",
+    "semantic_hash": "ad41d3d5df969083eb1cc4296e3b6cf9"
+  },
+  "scripts/generate_epoch_charts.py": {
+    "mtime": 1788234254.7719598,
+    "seen": 1788320067.861353,
+    "ast_hash": "2f90950b54199aa260664dfe422dcba9",
+    "semantic_hash": "2f90950b54199aa260664dfe422dcba9"
+  },
+  "scripts/generate_receipt.py": {
+    "mtime": 1788234254.7722394,
+    "seen": 1788320067.861353,
+    "ast_hash": "2f9e3e27b3ab3fe04a77af33636c5d7c",
+    "semantic_hash": "2f9e3e27b3ab3fe04a77af33636c5d7c"
+  },
+  "scripts/h3_globe.py": {
+    "mtime": 1788234254.7726262,
+    "seen": 1788320067.861353,
+    "ast_hash": "12d28092ded4250d73a46c4dce886fdd",
+    "semantic_hash": "12d28092ded4250d73a46c4dce886fdd"
+  },
+  "scripts/log-interaction.sh": {
+    "mtime": 1788234254.7728684,
+    "seen": 1788320067.861353,
+    "ast_hash": "d11f5c2ad618ef3aed69083bad37406c",
+    "semantic_hash": "d11f5c2ad618ef3aed69083bad37406c"
+  },
+  "scripts/session-commit.sh": {
+    "mtime": 1788234254.7730806,
+    "seen": 1788320067.8613539,
+    "ast_hash": "ce00dfe83ae1755eee296fbe86c17488",
+    "semantic_hash": "ce00dfe83ae1755eee296fbe86c17488"
+  },
+  ".claude/commands/check-family-memories.md": {
+    "mtime": 1788234254.6647823,
+    "seen": 1788320067.8613539,
+    "ast_hash": "9f8ffb09b781c6692af8d3a39db86b3d",
+    "semantic_hash": "9f8ffb09b781c6692af8d3a39db86b3d"
+  },
+  ".claude/commands/export.md": {
+    "mtime": 1788234254.6651359,
+    "seen": 1788320067.8613539,
+    "ast_hash": "0dbb2756739ef8e4496a265dd3b45eaf",
+    "semantic_hash": "0dbb2756739ef8e4496a265dd3b45eaf"
+  },
+  ".claude/commands/organize-ideas.md": {
+    "mtime": 1788234254.6654558,
+    "seen": 1788320067.861355,
+    "ast_hash": "1987aaf576104d6c68605722bd9651b8",
+    "semantic_hash": "1987aaf576104d6c68605722bd9651b8"
+  },
+  ".claude/commands/prose.md": {
+    "mtime": 1788234254.6658707,
+    "seen": 1788320067.861355,
+    "ast_hash": "60839537ca9f7af4b5b1d2d02b718c01",
+    "semantic_hash": "60839537ca9f7af4b5b1d2d02b718c01"
+  },
+  ".claude/commands/session-end.md": {
+    "mtime": 1788234254.666152,
+    "seen": 1788320067.861355,
+    "ast_hash": "1c54501e7fa96f589741ac5ceade3751",
+    "semantic_hash": "1c54501e7fa96f589741ac5ceade3751"
+  },
+  ".meta/CLAUDE.md": {
+    "mtime": 1788234254.667152,
+    "seen": 1788320067.861356,
+    "ast_hash": "cf6a45d107706250c8e1f9c0cd893e1c",
+    "semantic_hash": "cf6a45d107706250c8e1f9c0cd893e1c"
+  },
+  ".meta/logs/SESSION-LOG.md": {
+    "mtime": 1788234254.6674924,
+    "seen": 1788320067.861356,
+    "ast_hash": "414e2fe13f4afc5e44031ebd52be80da",
+    "semantic_hash": "414e2fe13f4afc5e44031ebd52be80da"
+  },
+  ".meta/logs/SESSION-TEMPLATE.md": {
+    "mtime": 1788234254.667812,
+    "seen": 1788320067.861356,
+    "ast_hash": "2fc737e8c82629d6a602dd5816935cbe",
+    "semantic_hash": "2fc737e8c82629d6a602dd5816935cbe"
+  },
+  ".meta/logs/SUMMARY.md": {
+    "mtime": 1788234254.6682043,
+    "seen": 1788320067.861357,
+    "ast_hash": "bfd2e3a847fb3a6007bb69b5f6bb6a91",
+    "semantic_hash": "bfd2e3a847fb3a6007bb69b5f6bb6a91"
+  },
+  "CLAUDE.md": {
+    "mtime": 1788234254.6690543,
+    "seen": 1788320067.861357,
+    "ast_hash": "d83e57a4c5801d04233123cc504c4ec4",
+    "semantic_hash": "d83e57a4c5801d04233123cc504c4ec4"
+  },
+  "README.md": {
+    "mtime": 1788234254.6693323,
+    "seen": 1788320067.861357,
+    "ast_hash": "98598180dc6bdfe79d33238217f4be8d",
+    "semantic_hash": "98598180dc6bdfe79d33238217f4be8d"
+  },
+  "archive/C4-OVERVIEW.md": {
+    "mtime": 1788234254.6695318,
+    "seen": 1788320067.861357,
+    "ast_hash": "4be6187ae7572d0a338dd3ecd1ed17a2",
+    "semantic_hash": "4be6187ae7572d0a338dd3ecd1ed17a2"
+  },
+  "archive/ORIGINAL-NOTES.md": {
+    "mtime": 1788234254.670263,
+    "seen": 1788320067.8613582,
+    "ast_hash": "ef3b700b2b4aeeaccaeff0bb44db5ccc",
+    "semantic_hash": "ef3b700b2b4aeeaccaeff0bb44db5ccc"
+  },
+  "archive/PROCESS-GUIDE.md": {
+    "mtime": 1788234254.6703892,
+    "seen": 1788320067.8613582,
+    "ast_hash": "32385465aed574a8c29d1413dbbc1bc8",
+    "semantic_hash": "32385465aed574a8c29d1413dbbc1bc8"
+  },
+  "archive/act3-access-progression-individual-level-DISCARDED.md": {
+    "mtime": 1788234254.670611,
+    "seen": 1788320067.8613582,
+    "ast_hash": "2de2814f91c3c04d1e4db8667a463b82",
+    "semantic_hash": "2de2814f91c3c04d1e4db8667a463b82"
+  },
+  "archive/characters/devsecops-dad.md": {
+    "mtime": 1788234254.6709435,
+    "seen": 1788320067.8613582,
+    "ast_hash": "41ce1817c89a6c80ddb9fe859b237374",
+    "semantic_hash": "41ce1817c89a6c80ddb9fe859b237374"
+  },
+  "archive/characters/devsecops-woman.md": {
+    "mtime": 1788234254.671134,
+    "seen": 1788320067.8613591,
+    "ast_hash": "3829f006c14643f7009d790d5ed58bb2",
+    "semantic_hash": "3829f006c14643f7009d790d5ed58bb2"
+  },
+  "archive/devsecops-clues.md": {
+    "mtime": 1788234254.6721318,
+    "seen": 1788320067.8613591,
+    "ast_hash": "4845bbad45e3ac9cec3a4044bab6f520",
+    "semantic_hash": "4845bbad45e3ac9cec3a4044bab6f520"
+  },
+  "archive/protagonist-clues.md": {
+    "mtime": 1788234254.672346,
+    "seen": 1788320067.8613591,
+    "ast_hash": "8df923ccb3cff0784d1faf266d9c0236",
+    "semantic_hash": "8df923ccb3cff0784d1faf266d9c0236"
+  },
+  "archive/scheduled-artifacts.md": {
+    "mtime": 1788234254.673238,
+    "seen": 1788320067.86136,
+    "ast_hash": "41250b3844b0a4d1d3487db1770017f3",
+    "semantic_hash": "41250b3844b0a4d1d3487db1770017f3"
+  },
+  "archive/the-refactor.md": {
+    "mtime": 1788234254.6733632,
+    "seen": 1788320067.86136,
+    "ast_hash": "679ac50bc307b0e08d271a824934b187",
+    "semantic_hash": "679ac50bc307b0e08d271a824934b187"
+  },
+  "book/_index.md": {
+    "mtime": 1788236870.002962,
+    "seen": 1788320067.86136,
+    "ast_hash": "95cc879b2e0e59ab42b434d35103637e",
+    "semantic_hash": "95cc879b2e0e59ab42b434d35103637e"
+  },
+  "book/manuscript/01.06.birthday/chapter.md": {
+    "mtime": 1788234254.70184,
+    "seen": 1788320067.86136,
+    "ast_hash": "563f1055150e25d0edee7b9a8f1f290e",
+    "semantic_hash": "563f1055150e25d0edee7b9a8f1f290e"
+  },
+  "book/manuscript/01.06.birthday/notes.md": {
+    "mtime": 1788234254.7024086,
+    "seen": 1788320067.8613608,
+    "ast_hash": "6eaf919b16dbae61d031c1106d41427a",
+    "semantic_hash": "6eaf919b16dbae61d031c1106d41427a"
+  },
+  "book/manuscript/02.02.first-contact/notes.md": {
+    "mtime": 1788236091.4153907,
+    "seen": 1788320067.8613608,
+    "ast_hash": "6ca3a085ce71cd0e4710f43c8986feeb",
+    "semantic_hash": "6ca3a085ce71cd0e4710f43c8986feeb"
+  },
+  "book/manuscript/02.03.control-room/notes.md": {
+    "mtime": 1788235978.269774,
+    "seen": 1788320067.8613608,
+    "ast_hash": "ee87b091f1b973749d4940a08291d546",
+    "semantic_hash": "ee87b091f1b973749d4940a08291d546"
+  },
+  "book/manuscript/02.04.cats-and-rats/notes.md": {
+    "mtime": 1788235656.372363,
+    "seen": 1788320067.861362,
+    "ast_hash": "09f7dc4d36b81ebbb5fc2978a8ac4497",
+    "semantic_hash": "09f7dc4d36b81ebbb5fc2978a8ac4497"
+  },
+  "book/manuscript/02.05.none-of-it-matters/notes.md": {
+    "mtime": 1788234254.7038352,
+    "seen": 1788320067.861362,
+    "ast_hash": "d7834136d20a6aa55ae738e84c855440",
+    "semantic_hash": "d7834136d20a6aa55ae738e84c855440"
+  },
+  "book/manuscript/02.06.coffee-guy-interlude/notes.md": {
+    "mtime": 1788234254.7040405,
+    "seen": 1788320067.861362,
+    "ast_hash": "201df63779b3d2fce8401425fb29157d",
+    "semantic_hash": "201df63779b3d2fce8401425fb29157d"
+  },
+  "book/manuscript/02.07.space-still-stuck/notes.md": {
+    "mtime": 1788234254.704269,
+    "seen": 1788320067.861363,
+    "ast_hash": "fae6fa606e4aaf479c6d5f01989bdf65",
+    "semantic_hash": "fae6fa606e4aaf479c6d5f01989bdf65"
+  },
+  "book/manuscript/02.08.tinas-visit/notes.md": {
+    "mtime": 1788234254.7044744,
+    "seen": 1788320067.861363,
+    "ast_hash": "c1fe9c6c303d76a4ef236d29b9922ec2",
+    "semantic_hash": "c1fe9c6c303d76a4ef236d29b9922ec2"
+  },
+  "book/manuscript/02.09.coffee-guy-intro/notes.md": {
+    "mtime": 1788234254.7054741,
+    "seen": 1788320067.861363,
+    "ast_hash": "b3dafd3c2509db1376e642cdc04a6c1e",
+    "semantic_hash": "b3dafd3c2509db1376e642cdc04a6c1e"
+  },
+  "book/manuscript/02.10.space-victory/notes.md": {
+    "mtime": 1788234254.7056234,
+    "seen": 1788320067.861363,
+    "ast_hash": "5c8ffab726b1ead4f4b32570ac921052",
+    "semantic_hash": "5c8ffab726b1ead4f4b32570ac921052"
+  },
+  "book/manuscript/02.11.the-other-simulations/notes.md": {
+    "mtime": 1788234254.7057557,
+    "seen": 1788320067.861364,
+    "ast_hash": "0a61ea27683320d8115a27aacaa13178",
+    "semantic_hash": "0a61ea27683320d8115a27aacaa13178"
+  },
+  "book/manuscript/02.12.end-of-an-epoch/notes.md": {
+    "mtime": 1788234254.7058835,
+    "seen": 1788320067.861364,
+    "ast_hash": "6d04274aa9c8a7274a6b5f25cda1d078",
+    "semantic_hash": "6d04274aa9c8a7274a6b5f25cda1d078"
+  },
+  "book/manuscript/02.13.rock-bottom/notes.md": {
+    "mtime": 1788234254.7063255,
+    "seen": 1788320067.861364,
+    "ast_hash": "6232031b5b1a11115dd8465ddb26d030",
+    "semantic_hash": "6232031b5b1a11115dd8465ddb26d030"
+  },
+  "book/manuscript/02.XX.optimization-tour/notes.md": {
+    "mtime": 1788234254.706664,
+    "seen": 1788320067.861365,
+    "ast_hash": "f2187b797598c07a894cd465ae5a2797",
+    "semantic_hash": "f2187b797598c07a894cd465ae5a2797"
+  },
+  "book/manuscript/03.07.the_button/chapter.md": {
+    "mtime": 1788234254.7069833,
+    "seen": 1788320067.861365,
+    "ast_hash": "db1485f2684f0f1285385419dabe1bc0",
+    "semantic_hash": "db1485f2684f0f1285385419dabe1bc0"
+  },
+  "book/manuscript/03.08.coffee_guy/chapter.md": {
+    "mtime": 1788234254.7074404,
+    "seen": 1788320067.861365,
+    "ast_hash": "2473a11ce103fdbadc6e67bdf6ea1bdc",
+    "semantic_hash": "2473a11ce103fdbadc6e67bdf6ea1bdc"
+  },
+  "book/manuscript/03.08.coffee_guy/notes.md": {
+    "mtime": 1788234254.707947,
+    "seen": 1788320067.861365,
+    "ast_hash": "607e4cbc298c5d4e0f242fba83ab0423",
+    "semantic_hash": "607e4cbc298c5d4e0f242fba83ab0423"
+  },
+  "book/manuscript/03.09.the_aquarium_pt_ii/chapter.md": {
+    "mtime": 1788235714.9902825,
+    "seen": 1788320067.861366,
+    "ast_hash": "5261408865967579b4b213e340f03aa3",
+    "semantic_hash": "5261408865967579b4b213e340f03aa3"
+  },
+  "book/manuscript/03.09.the_zoom/chapter.md": {
+    "mtime": 1788234254.7087338,
+    "seen": 1788320067.861366,
+    "ast_hash": "74039920396d1460377191b205903b68",
+    "semantic_hash": "74039920396d1460377191b205903b68"
+  },
+  "book/manuscript/03.14.reunion/notes.md": {
+    "mtime": 1788234254.7090704,
+    "seen": 1788320067.861366,
+    "ast_hash": "1ab6b2cddb3dae8f287228b40b4f80e2",
+    "semantic_hash": "1ab6b2cddb3dae8f287228b40b4f80e2"
+  },
+  "book/manuscript/03.15.heist-plot/notes.md": {
+    "mtime": 1788234254.7092137,
+    "seen": 1788320067.861366,
+    "ast_hash": "b3bcc3d7f89207a49060e1bccd5ba140",
+    "semantic_hash": "b3bcc3d7f89207a49060e1bccd5ba140"
+  },
+  "book/manuscript/03.16.heist/notes.md": {
+    "mtime": 1788234254.710346,
+    "seen": 1788320067.861366,
+    "ast_hash": "a4e0251f8a7018ca92cc39b4a721eb08",
+    "semantic_hash": "a4e0251f8a7018ca92cc39b4a721eb08"
+  },
+  "book/manuscript/03.17.heist-approval/notes.md": {
+    "mtime": 1788234254.7105005,
+    "seen": 1788320067.861367,
+    "ast_hash": "aa9b00f6536d7a8e01b5a9f393039f25",
+    "semantic_hash": "aa9b00f6536d7a8e01b5a9f393039f25"
+  },
+  "book/manuscript/04.00.coda/notes.md": {
+    "mtime": 1788234254.7106261,
+    "seen": 1788320067.861367,
+    "ast_hash": "c9c73d239a833076fc768c776c44b3f4",
+    "semantic_hash": "c9c73d239a833076fc768c776c44b3f4"
+  },
+  "book/manuscript/_unplaced-beats.md": {
+    "mtime": 1788237092.083313,
+    "seen": 1788320067.861367,
+    "ast_hash": "0ebae14d59369de4c81164928be5b3fe",
+    "semantic_hash": "0ebae14d59369de4c81164928be5b3fe"
+  },
+  "book/manuscript/manuscript.md": {
+    "mtime": 1788237082.2421653,
+    "seen": 1788320067.861367,
+    "ast_hash": "326fe98dd2ce7f534b7750fb2e58a511",
+    "semantic_hash": "326fe98dd2ce7f534b7750fb2e58a511"
+  },
+  "book/worldbuilding/characters/Glenn \"Big Dog\" Robinson.md": {
+    "mtime": 1788234254.7121272,
+    "seen": 1788320067.8613682,
+    "ast_hash": "ad3514726419f7d6c70cf081c2a662b6",
+    "semantic_hash": "ad3514726419f7d6c70cf081c2a662b6"
+  },
+  "book/worldbuilding/characters/Ramona.md": {
+    "mtime": 1788234254.7127845,
+    "seen": 1788320067.8613682,
+    "ast_hash": "738a9f2347d2067f94b21a23ae6147e8",
+    "semantic_hash": "738a9f2347d2067f94b21a23ae6147e8"
+  },
+  "book/worldbuilding/characters/Sam.md": {
+    "mtime": 1788237074.2299938,
+    "seen": 1788320067.8613682,
+    "ast_hash": "30d0f61f304758ae83759b0bfedfb738",
+    "semantic_hash": "30d0f61f304758ae83759b0bfedfb738"
+  },
+  "book/worldbuilding/characters/c-suite.md": {
+    "mtime": 1788234254.7135773,
+    "seen": 1788320067.8613691,
+    "ast_hash": "a37dfc4c4727e1ab5de7c0c00dae9116",
+    "semantic_hash": "a37dfc4c4727e1ab5de7c0c00dae9116"
+  },
+  "book/worldbuilding/characters/claude-assistants.md": {
+    "mtime": 1788234254.7137702,
+    "seen": 1788320067.8613691,
+    "ast_hash": "8dd343411953ad319aa7e7235c4e5bbe",
+    "semantic_hash": "8dd343411953ad319aa7e7235c4e5bbe"
+  },
+  "book/worldbuilding/characters/coffee-guy.md": {
+    "mtime": 1788234254.7141616,
+    "seen": 1788320067.8613691,
+    "ast_hash": "25004bca330096bff1976bcd7f0efb0e",
+    "semantic_hash": "25004bca330096bff1976bcd7f0efb0e"
+  },
+  "book/worldbuilding/characters/grant-melrose.md": {
+    "mtime": 1788234254.7147837,
+    "seen": 1788320067.8613691,
+    "ast_hash": "49a41d740d283ea1966aac1a6b1595bc",
+    "semantic_hash": "49a41d740d283ea1966aac1a6b1595bc"
+  },
+  "book/worldbuilding/characters/nan.md": {
+    "mtime": 1788234254.7151215,
+    "seen": 1788320067.86137,
+    "ast_hash": "8d92c9ef638cc7e518f6e39776b60eb5",
+    "semantic_hash": "8d92c9ef638cc7e518f6e39776b60eb5"
+  },
+  "book/worldbuilding/characters/ramona-father.md": {
+    "mtime": 1788234254.7153518,
+    "seen": 1788320067.86137,
+    "ast_hash": "5bc358eab652aeaef4e90d70c8f2bf1a",
+    "semantic_hash": "5bc358eab652aeaef4e90d70c8f2bf1a"
+  },
+  "book/worldbuilding/characters/sams-dad.md": {
+    "mtime": 1788234254.7156153,
+    "seen": 1788320067.86137,
+    "ast_hash": "7644c87272dd648b356f9386eba4138e",
+    "semantic_hash": "7644c87272dd648b356f9386eba4138e"
+  },
+  "book/worldbuilding/characters/sams-mom.md": {
+    "mtime": 1788235738.9811182,
+    "seen": 1788320067.86137,
+    "ast_hash": "8c300fdf6d29b6b59c42ee5dcd5ee9a7",
+    "semantic_hash": "8c300fdf6d29b6b59c42ee5dcd5ee9a7"
+  },
+  "book/worldbuilding/mystery/DNA-Clues.md": {
+    "mtime": 1788234254.7165654,
+    "seen": 1788320067.8613708,
+    "ast_hash": "59661fec2cb653145a4df286531b0db1",
+    "semantic_hash": "59661fec2cb653145a4df286531b0db1"
+  },
+  "book/worldbuilding/mystery/clues/_index.md": {
+    "mtime": 1788234254.716861,
+    "seen": 1788320067.8613708,
+    "ast_hash": "12ec891a8bde520f4e67824b90292c1f",
+    "semantic_hash": "12ec891a8bde520f4e67824b90292c1f"
+  },
+  "book/worldbuilding/mystery/clues/dna-statistical.md": {
+    "mtime": 1788234254.717875,
+    "seen": 1788320067.861372,
+    "ast_hash": "798de251436156af9cb4fb60d34752d2",
+    "semantic_hash": "798de251436156af9cb4fb60d34752d2"
+  },
+  "book/worldbuilding/mystery/clues/infrastructure.md": {
+    "mtime": 1788234254.7180893,
+    "seen": 1788320067.861372,
+    "ast_hash": "dd64b84084058ffaea735bb0c5300b35",
+    "semantic_hash": "dd64b84084058ffaea735bb0c5300b35"
+  },
+  "book/worldbuilding/mystery/clues/temporal.md": {
+    "mtime": 1788234254.7181833,
+    "seen": 1788320067.861372,
+    "ast_hash": "59277580c1d009da954ff355242f6e3f",
+    "semantic_hash": "59277580c1d009da954ff355242f6e3f"
+  },
+  "book/worldbuilding/mystery/heist-mechanism.md": {
+    "mtime": 1788236874.157788,
+    "seen": 1788320067.861372,
+    "ast_hash": "202bc6ec73426313bfd0f6ad2b0cae53",
+    "semantic_hash": "202bc6ec73426313bfd0f6ad2b0cae53"
+  },
+  "book/worldbuilding/reference/glossary.md": {
+    "mtime": 1788234254.7189631,
+    "seen": 1788320067.861373,
+    "ast_hash": "46c9a1d0240f9e7d2e558cbaceec27ed",
+    "semantic_hash": "46c9a1d0240f9e7d2e558cbaceec27ed"
+  },
+  "book/worldbuilding/simulation/colonization/colonization-program.md": {
+    "mtime": 1788234254.7192738,
+    "seen": 1788320067.861373,
+    "ast_hash": "60f300afc2ed6fae3328bd65526a3f94",
+    "semantic_hash": "60f300afc2ed6fae3328bd65526a3f94"
+  },
+  "book/worldbuilding/simulation/extinction-trajectory.md": {
+    "mtime": 1788234254.7195966,
+    "seen": 1788320067.861373,
+    "ast_hash": "40d6b41d46311bd963d3849e03f658c1",
+    "semantic_hash": "40d6b41d46311bd963d3849e03f658c1"
+  },
+  "book/worldbuilding/simulation/failed-trials.md": {
+    "mtime": 1788234254.719928,
+    "seen": 1788320067.861374,
+    "ast_hash": "21082ee553a8a0f0f84b72426a38d5cf",
+    "semantic_hash": "21082ee553a8a0f0f84b72426a38d5cf"
+  },
+  "book/worldbuilding/simulation/honeycomb-policy.md": {
+    "mtime": 1788234254.7201467,
+    "seen": 1788320067.861374,
+    "ast_hash": "5ff677afffc6b7ce40c449773fa2d93e",
+    "semantic_hash": "5ff677afffc6b7ce40c449773fa2d93e"
+  },
+  "book/worldbuilding/simulation/master-parameters.md": {
+    "mtime": 1788234254.7204309,
+    "seen": 1788320067.861374,
+    "ast_hash": "2b4e947ae0546402a865c445b5c326ca",
+    "semantic_hash": "2b4e947ae0546402a865c445b5c326ca"
+  },
+  "book/worldbuilding/simulation/optimization-mechanics.md": {
+    "mtime": 1788234254.7206795,
+    "seen": 1788320067.861375,
+    "ast_hash": "4adb0f18f0cc0de0868dfeeec862354e",
+    "semantic_hash": "4adb0f18f0cc0de0868dfeeec862354e"
+  },
+  "book/worldbuilding/simulation/post-refactor-society.md": {
+    "mtime": 1788234254.7215345,
+    "seen": 1788320067.861375,
+    "ast_hash": "35006b8303fa10bf625151af747c2d2d",
+    "semantic_hash": "35006b8303fa10bf625151af747c2d2d"
+  },
+  "book/worldbuilding/simulation/simulation-architecture.md": {
+    "mtime": 1788234254.721745,
+    "seen": 1788320067.861375,
+    "ast_hash": "94f80afcbb094fcfccd09f9cf0332695",
+    "semantic_hash": "94f80afcbb094fcfccd09f9cf0332695"
+  },
+  "book/worldbuilding/simulation/simulation-engine.md": {
+    "mtime": 1788234254.7221596,
+    "seen": 1788320067.861375,
+    "ast_hash": "b45800be6213a6c6867378220d76b600",
+    "semantic_hash": "b45800be6213a6c6867378220d76b600"
+  },
+  "book/worldbuilding/simulation/technology.md": {
+    "mtime": 1788234254.7224517,
+    "seen": 1788320067.861376,
+    "ast_hash": "8ed0bb6870daa13b49bce801bb3957a8",
+    "semantic_hash": "8ed0bb6870daa13b49bce801bb3957a8"
+  },
+  "book/worldbuilding/simulation/virtual-meetup.md": {
+    "mtime": 1788234254.7231312,
+    "seen": 1788320067.861376,
+    "ast_hash": "c05b9b8402302afe41b11dd6dc4134c0",
+    "semantic_hash": "c05b9b8402302afe41b11dd6dc4134c0"
+  },
+  "book/worldbuilding/themes/motifs.md": {
+    "mtime": 1788234254.723594,
+    "seen": 1788320067.861376,
+    "ast_hash": "0c47681265d1f991df87f40df7410126",
+    "semantic_hash": "0c47681265d1f991df87f40df7410126"
+  },
+  "book/worldbuilding/themes/red-herrings.md": {
+    "mtime": 1788234254.7239728,
+    "seen": 1788320067.861376,
+    "ast_hash": "9a8233832ce685db0f00b808a55e585d",
+    "semantic_hash": "9a8233832ce685db0f00b808a55e585d"
+  },
+  "book/worldbuilding/themes/style-guide.md": {
+    "mtime": 1788234254.7244477,
+    "seen": 1788320067.861377,
+    "ast_hash": "45db0d128d29e29106cf411576716175",
+    "semantic_hash": "45db0d128d29e29106cf411576716175"
+  },
+  "book/worldbuilding/themes/themes.md": {
+    "mtime": 1788234254.7246509,
+    "seen": 1788320067.861377,
+    "ast_hash": "392bbf1fa982a02ee6cd1a8b8d9b67f5",
+    "semantic_hash": "392bbf1fa982a02ee6cd1a8b8d9b67f5"
+  },
+  "book/worldbuilding/timeline/early-sim-era.md": {
+    "mtime": 1788234254.7251394,
+    "seen": 1788320067.861377,
+    "ast_hash": "6f76fcfc25fc1d12bafcda7e397c9ecd",
+    "semantic_hash": "6f76fcfc25fc1d12bafcda7e397c9ecd"
+  },
+  "book/worldbuilding/timeline/real-world-2025.md": {
+    "mtime": 1788234254.7255733,
+    "seen": 1788320067.861378,
+    "ast_hash": "7aa078e6f5ff4e1d119f14dab8da2de9",
+    "semantic_hash": "7aa078e6f5ff4e1d119f14dab8da2de9"
+  },
+  "book/worldbuilding/timeline/refactor/_index.md": {
+    "mtime": 1788234254.7258623,
+    "seen": 1788320067.861378,
+    "ast_hash": "269ef293a0ba6d4c1e9266150136404a",
+    "semantic_hash": "269ef293a0ba6d4c1e9266150136404a"
+  },
+  "book/worldbuilding/timeline/refactor/broadcast.md": {
+    "mtime": 1788234254.726323,
+    "seen": 1788320067.861378,
+    "ast_hash": "1fccbd003a9987eadc8d196bdd7e090b",
+    "semantic_hash": "1fccbd003a9987eadc8d196bdd7e090b"
+  },
+  "book/worldbuilding/timeline/refactor/legacy-humans.md": {
+    "mtime": 1788236878.0158896,
+    "seen": 1788320067.861378,
+    "ast_hash": "db6a826aa13b90eceef0d4b64a1223a3",
+    "semantic_hash": "db6a826aa13b90eceef0d4b64a1223a3"
+  },
+  "book/worldbuilding/timeline/refactor/mechanics.md": {
+    "mtime": 1788234254.7271872,
+    "seen": 1788320067.8613791,
+    "ast_hash": "aa10efff8670c0b6b8215a0939d8f4e7",
+    "semantic_hash": "aa10efff8670c0b6b8215a0939d8f4e7"
+  },
+  "book/worldbuilding/timeline/refactor/museum-scene.md": {
+    "mtime": 1788234254.7273858,
+    "seen": 1788320067.8613791,
+    "ast_hash": "155e3576b193af6590ab121d91ba5117",
+    "semantic_hash": "155e3576b193af6590ab121d91ba5117"
+  },
+  "book/worldbuilding/timeline/refactor/nanobots.md": {
+    "mtime": 1788236297.3129547,
+    "seen": 1788320067.8613791,
+    "ast_hash": "9b1df76ca0529db1e1b5bb885a9cd94a",
+    "semantic_hash": "9b1df76ca0529db1e1b5bb885a9cd94a"
+  },
+  "book/worldbuilding/timeline/refactor/staging-period.md": {
+    "mtime": 1788234254.7280762,
+    "seen": 1788320067.8613791,
+    "ast_hash": "006609a124171882d9cbea72fb4a6e1e",
+    "semantic_hash": "006609a124171882d9cbea72fb4a6e1e"
+  },
+  "book/worldbuilding/timeline/sim-present.md": {
+    "mtime": 1788234254.7285662,
+    "seen": 1788320067.86138,
+    "ast_hash": "1684a6ac209069aef464176d7693f5d4",
+    "semantic_hash": "1684a6ac209069aef464176d7693f5d4"
+  },
+  "book/worldbuilding/world/agriculture.md": {
+    "mtime": 1788234254.729959,
+    "seen": 1788320067.86138,
+    "ast_hash": "d4662b29a055e4f7ef9c816dd2eb6fb6",
+    "semantic_hash": "d4662b29a055e4f7ef9c816dd2eb6fb6"
+  },
+  "book/worldbuilding/world/honeycomb.md": {
+    "mtime": 1788234254.733031,
+    "seen": 1788320067.86138,
+    "ast_hash": "8d7fc6b19877a2789fd7034738a0eced",
+    "semantic_hash": "8d7fc6b19877a2789fd7034738a0eced"
+  },
+  "book/worldbuilding/world/memory-map-gadget.md": {
+    "mtime": 1788234254.7333252,
+    "seen": 1788320067.86138,
+    "ast_hash": "0a8743054f17f5fecd8fefbf154678b0",
+    "semantic_hash": "0a8743054f17f5fecd8fefbf154678b0"
+  },
+  "book/worldbuilding/world/mountain-facility.md": {
+    "mtime": 1788234254.7335312,
+    "seen": 1788320067.861381,
+    "ast_hash": "d9465688dee03a34acfeb26f23f0b392",
+    "semantic_hash": "d9465688dee03a34acfeb26f23f0b392"
+  },
+  "book/worldbuilding/world/organizations/quant.md": {
+    "mtime": 1788234254.7342286,
+    "seen": 1788320067.861381,
+    "ast_hash": "34d7bddaaa2f5cb8791fbf5c0c5e77f8",
+    "semantic_hash": "34d7bddaaa2f5cb8791fbf5c0c5e77f8"
+  },
+  "book/worldbuilding/world/rossland.md": {
+    "mtime": 1788234254.7345464,
+    "seen": 1788320067.861381,
+    "ast_hash": "2df5f2f5b8cef4a12ead84fce49abab7",
+    "semantic_hash": "2df5f2f5b8cef4a12ead84fce49abab7"
+  },
+  "manuscript.md": {
+    "mtime": 1788237082.2421653,
+    "seen": 1788320067.8613818,
+    "ast_hash": "326fe98dd2ce7f534b7750fb2e58a511",
+    "semantic_hash": "326fe98dd2ce7f534b7750fb2e58a511"
+  },
+  "references/family-memories.txt": {
+    "mtime": 1788234254.7437422,
+    "seen": 1788320067.8613818,
+    "ast_hash": "5898641604fb6d9a2daa81ded0aecc6d",
+    "semantic_hash": "5898641604fb6d9a2daa81ded0aecc6d"
+  },
+  "research/doomsday-alternatives/_index.md": {
+    "mtime": 1788234254.7451067,
+    "seen": 1788320067.8613818,
+    "ast_hash": "e62f7e2d92360b84a0f17cae0ef4fe04",
+    "semantic_hash": "e62f7e2d92360b84a0f17cae0ef4fe04"
+  },
+  "research/doomsday-alternatives/bunkers.md": {
+    "mtime": 1788234254.746316,
+    "seen": 1788320067.8613818,
+    "ast_hash": "203a318a7c3f25ce73d4e29e1f62f115",
+    "semantic_hash": "203a318a7c3f25ce73d4e29e1f62f115"
+  },
+  "research/doomsday-alternatives/closed-ecosystems.md": {
+    "mtime": 1788234254.7469153,
+    "seen": 1788320067.861383,
+    "ast_hash": "8262344b6238fea7603a9be2a78b09d8",
+    "semantic_hash": "8262344b6238fea7603a9be2a78b09d8"
+  },
+  "research/doomsday-alternatives/geoengineering.md": {
+    "mtime": 1788234254.7480128,
+    "seen": 1788320067.861383,
+    "ast_hash": "991877a9e85b32ae177639c0f6d9c5da",
+    "semantic_hash": "991877a9e85b32ae177639c0f6d9c5da"
+  },
+  "research/doomsday-alternatives/geothermal-limits.md": {
+    "mtime": 1788234254.7486188,
+    "seen": 1788320067.861383,
+    "ast_hash": "66e6abad78d101091cfd8f81ec0b3bb8",
+    "semantic_hash": "66e6abad78d101091cfd8f81ec0b3bb8"
+  },
+  "research/fields/dna-yield-improvements.md": {
+    "mtime": 1788234254.7492213,
+    "seen": 1788320067.861383,
+    "ast_hash": "2253282cbef28bc65283e0156e2bf405",
+    "semantic_hash": "2253282cbef28bc65283e0156e2bf405"
+  },
+  "research/fields/optimization-ml-101.md": {
+    "mtime": 1788234254.7502263,
+    "seen": 1788320067.861384,
+    "ast_hash": "8c31784cb8d0bee48369ffff401bb489",
+    "semantic_hash": "8c31784cb8d0bee48369ffff401bb489"
+  },
+  "research/fields/statistical-genetics-101.md": {
+    "mtime": 1788234254.7508402,
+    "seen": 1788320067.861384,
+    "ast_hash": "ddc827ef8ad07332fccacdbea03f284b",
+    "semantic_hash": "ddc827ef8ad07332fccacdbea03f284b"
+  },
+  "research/genetics/coalescence-basics.md": {
+    "mtime": 1788234254.752358,
+    "seen": 1788320067.861384,
+    "ast_hash": "389b42e9b16da0020b05ef60b8e502d8",
+    "semantic_hash": "389b42e9b16da0020b05ef60b8e502d8"
+  },
+  "research/genetics/detection-method.md": {
+    "mtime": 1788234254.7529666,
+    "seen": 1788320067.861384,
+    "ast_hash": "12f72a1f869ef6f49d51d96cb0b01be3",
+    "semantic_hash": "12f72a1f869ef6f49d51d96cb0b01be3"
+  },
+  "book/assets/figures/best_trial_by_epoch.png": {
+    "mtime": 1788234254.681535,
+    "seen": 1788320067.8613849,
+    "ast_hash": "8762b648bb432dda71d22a336a3e606f",
+    "semantic_hash": "8762b648bb432dda71d22a336a3e606f"
+  },
+  "book/assets/figures/extinction_dumbbell.png": {
+    "mtime": 1788234254.6830094,
+    "seen": 1788320067.8613849,
+    "ast_hash": "c8ec3d6c7d199ea76df7823c508d3c7d",
+    "semantic_hash": "c8ec3d6c7d199ea76df7823c508d3c7d"
+  },
+  "book/assets/figures/extinction_histogram_overall.png": {
+    "mtime": 1788234254.684026,
+    "seen": 1788320067.8613849,
+    "ast_hash": "2c405abc02347a04e1ec20bd081cf41f",
+    "semantic_hash": "2c405abc02347a04e1ec20bd081cf41f"
+  },
+  "book/assets/figures/extinction_histogram_rebase_comparison.png": {
+    "mtime": 1788234254.6853564,
+    "seen": 1788320067.861386,
+    "ast_hash": "4c2386e5e62357f1f7708e89cff5278a",
+    "semantic_hash": "4c2386e5e62357f1f7708e89cff5278a"
+  },
+  "book/assets/figures/extinction_histogram_rebase_only.png": {
+    "mtime": 1788234254.68621,
+    "seen": 1788320067.861386,
+    "ast_hash": "190ac28f1b87ea026d0c2600434df9f3",
+    "semantic_hash": "190ac28f1b87ea026d0c2600434df9f3"
+  },
+  "book/assets/figures/extinction_histogram_stacked.png": {
+    "mtime": 1788234254.68736,
+    "seen": 1788320067.861386,
+    "ast_hash": "879d12bdf15b1a81197cba2898fbb4df",
+    "semantic_hash": "879d12bdf15b1a81197cba2898fbb4df"
+  },
+  "book/assets/figures/extinction_ridgeline.png": {
+    "mtime": 1788234254.6895292,
+    "seen": 1788320067.861386,
+    "ast_hash": "3f2f1ee06ccd3dc9612efa44bcd73fb3",
+    "semantic_hash": "3f2f1ee06ccd3dc9612efa44bcd73fb3"
+  },
+  "book/assets/figures/extinction_treemap.png": {
+    "mtime": 1788234254.691541,
+    "seen": 1788320067.861387,
+    "ast_hash": "52699366fe3f5bf7d3178e51044f4a29",
+    "semantic_hash": "52699366fe3f5bf7d3178e51044f4a29"
+  },
+  "book/assets/figures/h3_globe.png": {
+    "mtime": 1788234254.6972787,
+    "seen": 1788320067.861387,
+    "ast_hash": "65c6fd3d16dd3e6bd7cf797ba465667d",
+    "semantic_hash": "65c6fd3d16dd3e6bd7cf797ba465667d"
+  },
+  "book/assets/figures/median_extinction_by_epoch.png": {
+    "mtime": 1788234254.6989253,
+    "seen": 1788320067.861387,
+    "ast_hash": "5d87987c9574c2d830f4756f9b68d5ed",
+    "semantic_hash": "5d87987c9574c2d830f4756f9b68d5ed"
+  },
+  "book/assets/figures/sunbubble_receipt.png": {
+    "mtime": 1788234254.7007997,
+    "seen": 1788320067.861387,
+    "ast_hash": "5c59a0f3bc3a6dbd1055a91670ed96a2",
+    "semantic_hash": "5c59a0f3bc3a6dbd1055a91670ed96a2"
+  },
+  "book/worldbuilding/world/caloric-projection.png": {
+    "mtime": 1788234254.7327878,
+    "seen": 1788320067.861388,
+    "ast_hash": "7e450ba79969441a81df3fac2efa92f6",
+    "semantic_hash": "7e450ba79969441a81df3fac2efa92f6"
+  },
+  "research/genetics/graph1_coalescence_distribution.png": {
+    "mtime": 1788234254.758321,
+    "seen": 1788320067.861388,
+    "ast_hash": "c02dc90eac9e24db288b8e21095d82a3",
+    "semantic_hash": "c02dc90eac9e24db288b8e21095d82a3"
+  },
+  "research/genetics/graph2_mismatch_distribution.png": {
+    "mtime": 1788234254.7597225,
+    "seen": 1788320067.861388,
+    "ast_hash": "e1224cf1cb019e447eab530558877b93",
+    "semantic_hash": "e1224cf1cb019e447eab530558877b93"
+  },
+  "research/genetics/graph3_bayesian_skyline.png": {
+    "mtime": 1788234254.7615943,
+    "seen": 1788320067.861388,
+    "ast_hash": "20a8413ae6e86000108eb98863edad26",
+    "semantic_hash": "20a8413ae6e86000108eb98863edad26"
+  },
+  "research/genetics/graph4_tmrca_across_genome.png": {
+    "mtime": 1788234254.7657459,
+    "seen": 1788320067.8613892,
+    "ast_hash": "138feebd13b8454e94fe308c135a2683",
+    "semantic_hash": "138feebd13b8454e94fe308c135a2683"
+  },
+  "research/genetics/graph5_smoking_gun.png": {
+    "mtime": 1788234254.7684135,
+    "seen": 1788320067.8613892,
+    "ast_hash": "0e358225f873d9860b7bda68043f2192",
+    "semantic_hash": "0e358225f873d9860b7bda68043f2192"
+  }
+}
