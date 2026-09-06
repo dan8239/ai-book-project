@@ -19,3 +19,14 @@ How Sam meets the mountain more — quits his job, gets the chips out, moves int
 
 **Sam's Internal Monologue (When He Decides):**
 If this works, he's not going to waste his life trying to optimize a single simulation of 183,748 trials. Even agreeing it was the most optimal solution given 10 inhumane options — the least negative. He's one man in a simulation of 4 billion humans. There are 10,000 more simulations this epoch. That's trillions. There are 246 epochs so far. How many more epochs till the goal function is reached? 14? 200,000? Let's say my lifetime — median age 65.3.
+
+---
+
+## Mechanism cross-reference (2026-09-02 session)
+
+Full mechanism brainstorm now lives in [[../../worldbuilding/mystery/heist-mechanism|Heist Mechanism]] (v2). Relevant to this chapter specifically — this is likely where most of the actual heist sequence plays out:
+- **The misdirection:** an energy/resource spike from cranking simulation granularity up (not forking a new trial) — forces a real 2025 infrastructure cost, decoupled from Sam's in-universe energy economy.
+- **The switch:** Glenn hot-swapped for Dorothea (base-class inheritance is why it works) — still OPEN on exactly why/how Glenn ends up physically present for it.
+- **The complication/near-miss:** located in the Tina/Ramona/mountain-folk piece, not yet detailed — still OPEN.
+- **Confused deputy (Damon's approval):** flagged by Dan as "the loosest part of their plan" — still OPEN how the approval-code reaches him.
+- Ticking-clock/time-pressure mechanic — confirmed needed, not designed.
