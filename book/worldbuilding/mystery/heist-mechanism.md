@@ -114,6 +114,16 @@ Working through them roughly in the order they'd fire.
 
 **[Claude flag]** The existing clue files don't currently name WHO discovers each clue (attributed generically to "protagonist and team"). Assigning this specifically to Dorothea, and linking it to her later heist access, would be new canon to decide — the pieces support it, but it isn't written down yet.
 
+### 6a. Stevie's Bug — Candidate Origin for Sam's Insight (2026-09-05, flagged for further development)
+
+[Dan]: "I like the class of bug stevie thing, write that down for further development in the heist section"
+
+[Claude, from the discussion that produced it]: Stevie (converges fast with the mesh beanie, plays in a parent-controlled sandbox with his friend Otis — see `simulation/virtual-meetup.md`) describes some glitch or cheat he and Otis found in their sandbox — a duplication bug, a wall-clip, something that shouldn't work but does. Completely innocent, just a kid bragging about a cheat code, no idea what he's actually saying. Sam — drifting off mid-conversation, his established core tic — realizes the *class* of bug Stevie's describing is structurally the same shape as whatever the heist needs. Stevie never finds out what he contributed.
+
+**Why it fits:** echoes "Robots have blind spots too" (already the stated Answer for the Reunion/A Plan beat) and the book's recursion motif — a kid's tiny sandboxed world glitching the same way the adults' much bigger simulated world can glitch. Also gives Stevie a real, if invisible, contribution to the plan, per Dan's ask that he participate "at least via an idea," without needing to read a 9-year-old into the actual conspiracy.
+
+**NOT YET DECIDED:** which specific bug/glitch, which chapter it lands in, or whether this is the same insight-source as the Reunion beat or a separate earlier seed for it.
+
 ### 6. Tina/Ramona/Mountain-Folk — Owns the Complication/Near-Miss AND Part of the Switch
 
 [Dan, verbatim, most recent instruction on this]:
