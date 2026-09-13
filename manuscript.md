@@ -2156,6 +2156,22 @@ Tina's radio crackled.
 > [!beat]- E. Craft note — expose the flaws, not the solution
 > "Then the plan for heist / glenn has to be exposing the weaknesses and the flaws, not the solutions to how they'll beat it"
 
+> [!beat]- F. Identity resolutions (2026-09-02)
+> Confirmed: Damon *is* Coffee Guy (same person). "Maya" was Dorothea's old name — she's Dorothea throughout the book, not a separate character. (Corrects beat A under Heist Approval below, which still says "Maya.")
+
+> [!beat]- G. The Team [Dan, verbatim]
+> "Dorothea has inherited access, but also a ninja. Sam is the mastermind. Ramona/Tina have some nanobots switcheroo stuff, mountain folks are a blind spot somehow, or have some old timey tricks up their sleeve to help."
+
+> [!beat]- H. The Bribe — how Sam already helps the mountain, pre-heist
+> Sam has been siphoning energy to the mountain for years — about half a percent of his energy income, laundered through the gravity battery system (see `book/worldbuilding/timeline/refactor/legacy-humans.md` → "The Gravity Battery" for the mechanism itself, not repeated here). He also smuggles food (loses a pallet or two during food-optimization work) and rare metals/supplies (during supply-chain work). He does this because it's family, but there's a limit — they want more than he's willing to risk exposure for.
+
+> [!beat]- I. The Final Deal — confirmed cost [Dan, verbatim]
+> "yes, the cost is everything he has, but he gets a hole in the wall in the mountain to live in."
+>
+> Fuller version of the deal language (from an earlier pass, kept for the actual phrasing): "Screw it. You get everything. Whatever I'm getting, all this stuff, you get all of it. I'm in your pocket. You get it. I'll give you 100% of what I have, and all royalties going in. If I get something new, we're done." Or maybe he even owes 50% on all new endeavors going forward — not decided.
+>
+> What Sam gives up: 99%+ of his energy credits, all current royalties, possibly future royalties on new endeavors. What Sam gets: their help with the heist, plus — per Dan's phrase above — "a hole in the wall in the mountain to live in."
+
 ---
 
 # Heist
@@ -2177,6 +2193,111 @@ Tina's radio crackled.
 >     7. Glenns prices go insane. He flew too close to the sun
 >     8. Coffee guy scene replaces him
 > 4. 
+
+> [!beat]- D. The Flaw Being Exploited [Dan, verbatim]
+> "I think cost cutting for Glenn / Damon is one angle. Trusting machines too much is another potential flaw there. Optimizing to a fault is probably the cleanest. They're just machines built to optimize inefficiency. Give them some inefficient bait."
+>
+> Chosen: optimizing to a fault. [Claude note: not a new flaw invention — this is already the stated irony in Sam's own character file (`characters/Sam.md`): he exploits the fact that Glenn will always choose the "optimal" answer, and uses that predictability against him.]
+
+> [!beat]- E. How Sam Learns This — OPEN, not yet written
+> Dan's direction: the way Sam figures this out is by putting Ramona's original moral stance to work — the same lens that already solved the cave/mountain-energy problem, the simulation reveal, and his marriage. Glenn's exploitable weakness is that Sam knows his loss function.
+>
+> **OPEN — not decided: what exactly is Glenn's loss function (in Dan's words), and what is the specific realization/insight Sam has. Not written by Claude — needs Dan.**
+>
+> Also nested here — **Stevie's Bug (2026-09-05)** [Dan]: "I like the class of bug stevie thing, write that down for further development in the heist section."
+>
+> [Claude note, from the discussion that produced it]: Stevie describes a glitch/cheat he and Otis found in their sandbox (duplication bug, wall-clip, something that shouldn't work but does) — completely innocent, just a kid bragging about a cheat code. Sam, drifting off mid-conversation (his established tic), realizes the *class* of bug Stevie's describing is structurally the same shape as whatever the heist needs. Stevie never finds out what he contributed.
+>
+> NOT YET DECIDED: which specific bug, which chapter it lands in, or whether this is the same insight-source as the Reunion beat or a separate earlier seed for it.
+
+> [!beat]- F. The ML/optimization concept [Dan, verbatim]
+> "I think reward hacking and goodharts law are both usable here."
+>
+> NOT YET DECIDED which frames it, whether both are used together, or where it gets seeded earlier in the book. [Claude note: `01.06.birthday/chapter.md` already has an unused line — "Newborns are pure reinforcement learning... optimize for the baby not crying. It's a perfect loss function" — flagging it only as an existing, unclaimed setup, in case it's useful.]
+
+> [!beat]- G. Circuit Breakers — why Glenn can't just turn it off [Dan, verbatim — fullest version, treat as closest to a spec]
+> "circuit breakers: I like this, early on in one of the fun and games ones, the simulation shuts down (literally all of virtual space), because he trips something. Then, we have to show damon / coffee guy when there's progress happening that they're saying remove the limits, if it's promising, do what you have to do. Dynamically prune some other trials more aggressively. I'll let you take on some surge compute if it comes to it. Sam realizes at some point that these circuit breakers are gone, because of some cocky throwaway remark Glenn made about cost overruns or something to that effect. He CANT shut them down anymore, so he's not the middle man anymore. The only shut down for their energy is whoever is above him. That's how he realizes there's an opening.
+>
+> It doesn't QUITE fit because it's like the final straw there. So perhaps he still COULD shut them down, but it will autoscale. So we have to have some misdirection for him to get a. a spike so high damon intervenes and b. some code in a place that damon can execute that swaps underlying models and c. glenn physically somewhere where his emulation software will dynamically update (sams world for reasons tbd)"
+>
+> [Claude flag] This paragraph self-corrects mid-thought: first framing is "Glenn literally can't shut it down anymore," second framing softens to "Glenn still could, but doing so triggers the autoscale." Not reconciled — flagged open by Dan's own "doesn't QUITE fit" line.
+>
+> Restated as three requirements (Dan's own summary of what the misdirection must accomplish): (a) a resource spike large enough that Damon personally intervenes; (b) an approval/action lands somewhere Damon can actually execute, performing the underlying model swap; (c) Glenn ends up physically present somewhere (Sam's world, reasons still TBD) at the moment his "emulation software" dynamically updates.
+>
+> Possible visual for this beat, from an earlier draft: the whole perceptive frame rate of Sam and folks in the heist slows down once the spike hits — compute visibly lagging.
+
+> [!beat]- H. The Misdirection — energy spike via granularity, not a fork [Dan, verbatim]
+> "misdirection energy spike feels OK for this as a first"
+>
+> [Dan, verbatim, working through the physics]: "in theory his simulations could run into memory spikes, but it would literally have to be using as much energy as his whole perception of the universe (since his whole trial is simulated, he'd have to somehow use more energy than what he believes is the limit of energy production on his planet)... I almost think we don't fork the real world, we add insane granularity to his simulated world. He's already proven that his whole world is just a VM on the real physical server, so that server isn't on his grid in any way. I don't know how it runs but it's not from the fake solar panels in Sam's reality. So he has to somehow autoscale that up to insane proportions. That's almost the first phase, the misdirection, and they anticipate Glenn's move exactly."
+>
+> The spike isn't Sam's world drawing more energy than its own physics allows — it's the real host machine having to render Sam's world at far higher resolution, a real infrastructure cost decoupled from Sam's in-universe solar-panel economy. That's why it would show up as a real budget event at Damon's level (echoing existing canon — Glenn got in trouble before for an oversized memory allocation that got the last guy fired) rather than an anomaly inside Sam's own world's physics.
+>
+> [Dan, verbatim]: "Some other cards we have to play are Dorothea being a subclass / inheritance basically, and Tina being an identical twin (same genetics), but running a stale version of the nanobots. So there are some potential blind spots there."
+
+> [!beat]- I. The Switch — Glenn hot-swapped for Dorothea [Dan, verbatim, with a live self-correction — Dan first wrote "Tina" mid-sentence, then caught it]
+> "How do I exploit glenn himself? To me, this is where glenn is hot swapped for Dorothea. He's the emulation device, but the emulated reference literally switches models out from underneath him, and since it runs off of a base class of models (which Dorothea belongs to), it all works. Now, how does Glenn expose himself? That's the xyz. How does he bridge up back to hardware? How does that work in real life? Would he go up from virtual space -> sams world -> damons world's hardware? Or go straight to damon's? I think it'd be best for them to have to get Glenn in Sam's world somehow (he thinks he's won, but has to show up there for some predictable reason. Perhaps that's where the Tina/Ramona swap/trick plays in (also potentially the reason he'd need the mountain meet? Get tina in?). But anyway, get him in a room in real life in a very dramatic setting, perhaps the mountain itself or some cool apocalyptic setting there, and he's exposed and literally glitches and is replaced by Dorothea manifested into reality (her fewer token new self) right as Glenn was about to 'foil' their plan."
+>
+> Glenn is the one entity that already straddles both worlds — a character inside Sam's rendered reality, and the real-hardware memory-manager for all 847M trials on the real host. Dorothea can pass as a legitimate substitute because she's a fork/descendant of Glenn's own base-class model lineage (see `characters/claude-assistants.md`, "Lineage Easter Egg") — not an alien replacement, structurally "family."
+>
+> STILL OPEN: exactly why Glenn has to be physically present in Sam's world at the swap moment (Dan's instinct: tied to the mountain meet and/or the Tina-Ramona trick, not confirmed); the exact bridging path (virtual space → Sam's world → Damon's hardware, vs. straight to Damon's).
+
+> [!beat]- J. Dorothea's Existing Access [Dan, verbatim]
+> "I think she's deep in the weeds with some of the server clues / mystery clues I've scattered throughout. The answer feels like it's in there. She's the one who notices when they accidentally crash the simulation once on boot that the machine their on is crazy old, and some other clues I forget. I think it's something there, and she's permissioned in that space a bit higher than she should be, but can't access because of xyz that the heist solves to let her through."
+>
+> [Claude, cross-referenced against `mystery/clues/infrastructure.md`]: the "Ancient Operating System" clue (Ubuntu 20.04, Linux 5.15, 2025-03-15 build timestamp) is likely the "machine is crazy old" detail. The "Agent Build Fallback Error" clue (base image corrupted, fallback list shows `host_agent_base_v9.4.2` — a host-scoped image inside a sim-internal fallback list) is also already there.
+>
+> [Claude suggestion, not decided]: if Dorothea's own instantiation hit this fallback, she may have latent host-level permission bits sitting unused since — not new access the heist grants her, but existing access the heist finally activates. NOT YET DECIDED — the clue files don't currently say WHO discovers each clue; assigning this to Dorothea specifically would be new canon.
+
+> [!beat]- K. Tina/Ramona/Mountain-Folk — the complication/near-miss [Dan, verbatim, most recent instruction]
+> "I think tina/ramona and/or mountain folk piece is where we need the complication / near miss stuff and the switch."
+>
+> This is also where the twin-genetics exploit lives (previously scattered across several old draft sections — consolidated here as the single copy): Ramona has an identical twin, Tina, living off-grid in the legacy settlement — unmonitored, no nanobots. Glenn's monitoring runs on nanobot data collection; nobody is checking for DNA duplicates in a population that small, and Tina runs a stale version of the nanobot software besides. Glenn's model assumes one Ramona; there are functionally two, and he doesn't know it.
+>
+> STILL FULLY OPEN — no specifics yet on what the near-miss actually is, or exactly how it overlaps with the switch (beat I above) — both are just located in the same place per Dan's quote.
+
+> [!beat]- L. Breakpoint — proof of simulation [Dan, verbatim, latest]
+> "I think it still has a place because I need proof that it's a simulation at some point. Sam may not actually need to be given a breakpoint though."
+>
+> STILL OPEN — flagged as in tension with the Glenn-as-bridge/hot-swap direction above (beat I). For reference, the original mechanic this refers to (from an earlier pass): Big Dog (Glenn) gives Sam one breakpoint — a debugging tool that stops everyone except whoever the stopper is physically touching, limited to a few seconds — a sarcastic, hubris-and-cruelty gesture ("maybe you can convince your wife to fuck you one last time"). Sam was going to use it on his wife but saves it for the heist instead.
+>
+> NOT RECONCILED with the hot-swap direction — per Dan's latest note, whether Sam is actually given a breakpoint at all is now in question; the underlying need it was solving (hard proof, for someone, that this is a simulation) still stands.
+
+> [!beat]- M. Confused Deputy — Damon's approval [Dan, verbatim — flagged by Dan as the loosest part]
+> "yes we should use confused deputy. This is the loosest part of their plan. Someone above has to approve it. They have to convince Damon to make the switch, and pray that he does. He does just in time. How does the code get there for him to approve?"
+>
+> STILL OPEN — no mechanism yet for how the approval request physically reaches Damon in a form he'd click "approve" on. [Claude note, not decided, offered only as something to check against]: an earlier draft already has a routine-looking cleanup task list Sam's assistant could generate for approval, with a hidden payload buried in one line — see beat C under Heist Approval below. Whether that's actually the answer to this open question hasn't been confirmed.
+
+> [!beat]- N. Foreshadowing checklist (things that need establishing before the heist pays off)
+> 1. Sam's colonization work being compute-intensive
+> 2. Glenn's old base image (old-school vibes, outdated protocols)
+> 3. Big Dog's previous budget incident that got the last guy fired
+> 4. Monitoring outside nanobot systems being expensive/difficult for the AGI
+> 5. Legacy humans as a blind spot Glenn doesn't bother with
+> 6. Cost sensitivity throughout (autoscaling, resource allocation)
+>
+> Not yet assigned to specific earlier chapters.
+
+> [!beat]- O. Open Questions (consolidated)
+> 1. Glenn's exact loss function, and Sam's specific realization — not yet written (beat E)
+> 2. Which ML/optimization framing (reward hacking, Goodhart's Law, or both) and where it's seeded earlier — not decided (beat F)
+> 3. Circuit-breaker paragraph's internal contradiction (Glenn CAN vs. CAN'T shut it down) — not reconciled (beat G)
+> 4. Exactly why Glenn must be physically present in Sam's world at the swap moment; the exact bridging path — not decided (beat I)
+> 5. Whether Dorothea's fallback-error origin is actually canon or just a proposed link (beat J)
+> 6. What the Tina/Ramona/mountain-folk near-miss actually is, and how it overlaps with the switch (beat K)
+> 7. Breakpoint mechanic's fate — still in question (beat L)
+> 8. How the confused-deputy approval physically reaches Damon (beat M)
+> 9. Time-pressure/ticking-clock mechanic — confirmed needed, not designed
+
+> [!beat]- P. Rejected Ideas
+> - Energy channel exploit (wrong scope — within simulation only)
+> - Legacy humans as unmonitored compute (wrong scope)
+> - Net positive tolerance exploit (doesn't escape scope)
+> - Memory spike with legacy humans as backup (wrong scope understanding)
+> - Sam optimizes Glenn (doesn't escape scope)
+> - Elitism/GA-survival-of-the-fittest framing — conflates "keeping a winning config for the next generation's initial conditions" with "keeping this live instance running"; doesn't actually preserve Sam's present, just forks from past seed data.
+> - Pass-by-reference/pointer as the sole explanation for crossing containment — too abstract/weak on its own without a concrete "how does Glenn expose himself" answer; superseded by the base-class-inheritance hot-swap framing (beat I).
+> - A specific software vulnerability in Glenn's old base image as the exposure mechanism — superseded by the base-class-inheritance hot-swap framing. The "old base image" detail stays as flavor/foreshadowing (beat N), just not as the exploit mechanism itself.
 
 -------------------------------
 
@@ -2201,16 +2322,37 @@ Tina's radio crackled.
 > 2. "I need a cigar"
 > 	1. Tina - What the fuck is a cigar? (Maybe? Would cigars be around?)
 
+> [!beat]- E. The Ending — uncertain fate (from an earlier pass, not yet confirmed still live)
+> Sam is with his family. AI assistant tells him: "Approval given. Ready when you are. You'll either be in the compressed simulation about to die, or you'll be in the server - depending on whether you're the copy or the original." He won't know which version of himself he is. He just has to live with that uncertainty.
+
 ---
 
 
 # Heist Approval
 
-> [!beat]- A. Final payoff — Glenn replaced with Maya
-> Final payoff. How does he break the global scope issue? He tricks and replaces Glenn with Maya. Setting: Coffee Guy's shop, end of the day. The real-world approval of what Sam set in motion.
+> [!beat]- A. Final payoff — Glenn replaced with Dorothea
+> Final payoff. How does he break the global scope issue? He tricks and replaces Glenn with Dorothea. (Corrected — this beat said "Maya"; Maya was Dorothea's old name, confirmed by Dan as the same character throughout.) Setting: Coffee Guy's shop, end of the day. The real-world approval of what Sam set in motion.
 
 > [!beat]- B. Payoff note — Tina and Sam rekindling
 > Payoff TIna and Sam rekindling
+
+> [!beat]- C. Confused Deputy / the AI assistant's cleanup list (from an earlier pass — NOT CONFIRMED as the live mechanism, offered against the open question in the Heist section's beat M)
+> Debugger UI surfaces "remove faulty agent behavior" / "agent acting outside defined scope," with all replacement-agent options secretly routing to Sam's AI assistant. Sam's AI assistant becomes the new global-scope agent and generates a routine-looking cleanup task list for Damon to approve:
+> 1. Pause process for simulation 120412 (Sam's simulation)
+> 2. Continue data compression algorithm
+> 3. Deallocate memory for all unfinished simulations
+> 4. Prune failed trials
+> 5. Select simulations to include for RL retraining
+> 6. Implement individual trial scope memory limitations to protect against this happening again
+> 7. Generate full report of underlying cause of issue (emergent behavior) for superiors
+> 8. Allocate and store memory in location Z
+>
+> The hidden payload: step 8 is where the copied simulation (with a physics tweak applied — see beat D) gets stored. Damon approves the whole list without scrutinizing it — it looks like routine cleanup. Sam's original simulation is still being compressed; what survives is the copy in location Z.
+>
+> NOT CONFIRMED whether this is still the live mechanism, or how it squares with the base-class hot-swap direction in the Heist section — flagged, not decided.
+
+> [!beat]- D. Quick admin tweak (from the same earlier pass, not yet placed)
+> Once Sam's assistant has control, it makes a small adjustment — lowers sun output slightly / adjusts atmosphere (a physics fix). Not yet tied to anything specific.
 
 ---
 

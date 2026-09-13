@@ -126,4 +126,4 @@ The policy was designed to maximize human survival and minimize violence. It suc
 - [[../characters/grant-melrose|Grant Melrose]] - Approver/implementer
 - [[glenn-big-dog|Glenn]] - Current epoch manager running the policy
 - [[../world/honeycomb|Honeycomb]] - The governance system built on this policy
-- [[../mystery/heist-mechanism|Heist Mechanism]] - Sam's attempt to escape the policy's compression
+- [[../../../manuscript#Heist|Heist]] - Sam's attempt to escape the policy's compression

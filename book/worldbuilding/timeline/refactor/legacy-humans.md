@@ -288,7 +288,7 @@ She's been above ever since. Still welcome in both worlds, but can never go back
 - Has been there a few times but rarely risks trips
 - Smuggles things needed for survival
 - Sends goat, eggs
-- Siphons energy to them (see [[../../mystery/heist-mechanism|Heist Mechanism]])
+- Siphons energy to them (see [[../../../../manuscript#Heist Plot|Heist Plot]])
 
 ### Eldest Son
 
