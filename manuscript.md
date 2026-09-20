@@ -2276,7 +2276,7 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 >
 > **Dan, 2026-09-02:** "4. tell me more about raw checkpoint. A hot swap is perhaps a means to an end, but that's pretty boring and not thematic, so we have to do better. Like, we need to trick Glenn, fool him due to his own personal blind spots, and get the upper hand in an unexpected way."
 >
-> See also: `book/worldbuilding/characters/Sam.md` (Glenn will always choose the "optimal" answer), `book/worldbuilding/themes/themes.md` ("What are you optimizing for?"), `book/manuscript/01.06.birthday/chapter.md` line 52 ("Newborns are pure reinforcement learning...").
+> See also: `book/worldbuilding/characters/Sam.md` (Glenn will always choose the "optimal" answer), `book/worldbuilding/themes/themes.md` ("What are you optimizing for?"), Birthday Dinner, "Newborns as Reinforcement Learning" — "Newborns are pure reinforcement learning. Random search. Feedback loop. When the baby comes it's about how they train the adults. Try random stuff and optimize for the baby not crying. It's a perfect loss function."
 
 > [!beat]- E. Beat 1 · Prisoner's dilemma — Glenn's blind spot
 > Prisoner's dilemma structure. They exploit Glenn's self-replication desire and his blind spot — legacy humans are below his resolution. Glenn optimizes for cost/speed, trusts his model completely. Tina is invisible to the system — identical twin, off-grid, unmonitored. Body swap / misdirection.
@@ -2534,7 +2534,7 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 
 # Post-Heist Cigar
 
-<!-- TODO (Dan, 2026-08-31): beat A below near-duplicates the button-press/3.4-second beat in book/manuscript/03.09.the_aquarium_pt_ii/chapter.md, Scene 1 Moment 1. Per session decision that chapter's ending is being reassigned (walk-home -> mountain heist entry, aquarium no longer the final bookend) — reconcile which of these two drafts is canonical before both survive to a final pass. -->
+<!-- TODO (Dan, 2026-08-31): beat A below near-duplicates the button-press/3.4-second beat from the old Aquarium Pt. II draft, Scene 1 Moment 1. Per session decision that chapter's ending is reassigned (walk-home -> mountain heist entry, aquarium no longer the final bookend) — reconcile which draft is canonical before both survive to a final pass. The Aquarium Pt. II folder was deleted 2026-09-20; its material lives in this chapter (beats A–C), Bedtime beat B and Coda. Original in git history at book/manuscript/03.09.the_aquarium_pt_ii/. -->
 
 > [!beat]- A. Presses execute — 3.4 seconds
 > Sam presses execute. Counts to 3. Realizes his eyes have been closed for 15 seconds. Opens them: routine pipeline message. The operation took 3.4 seconds. A small container now exists on the same cluster. "I guess I don't know what I expected. Enlightenment? Ascending to heaven?"
@@ -2589,7 +2589,7 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 
 # The Escape
 
-<!-- TODO (Dan, 2026-08-31): per session decision, this chapter's beat B (disappearance scheme — cameras, satellites, 7-minute windows, getting into the mountain) is now also the landing spot for the "walk home" portion of book/manuscript/03.09.the_aquarium_pt_ii/chapter.md — that walk becomes the physical entry into the mountain heist rather than a walk to the aquarium scene. Not yet merged. -->
+<!-- TODO (Dan, 2026-08-31): per session decision, this chapter's beat B (disappearance scheme — cameras, satellites, 7-minute windows, getting into the mountain) is now also the landing spot for the "walk home" portion of the old Aquarium Pt. II draft — that walk becomes the physical entry into the mountain heist rather than a walk to the aquarium scene. Not yet merged. Folder deleted 2026-09-20; original in git history at book/manuscript/03.09.the_aquarium_pt_ii/. -->
 
 > [!beat]- A. Grandmother AI — Ramona comes around (raw notes)
 > 1.  Ramona doesn't like to see her at beginning. At the end she joins Sam and they try to make her better together.
