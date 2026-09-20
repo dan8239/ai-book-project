@@ -2199,6 +2199,8 @@ Tina's radio crackled.
 >
 > **Dan, 2026-09-02:** "3. The mechanism gap to me is literally how does Sam even affect a world that is outside of his visible scope? Dorothea is in virtual space, she can't even interface with his real world, so how does the connection from virtual space to his reality to the REAL world actually get bridged. That's the problem I need a good mechanism for. Like, Sam is in virtual space which is running on a server, that's really running on a server somewhere in his "reality", which is really just running on a server in the real world. So like, how does one interact in such a world outside of their scope"
 >
+> **Dan, 2026-09-19, the bridge (CANON):** "The bridge is canon. Sam's sim granularity spikes energy above his perception of real world limits (e.g. greater than his understanding of what the sun produces). However, it's not a real limit. Glenn removed the limit earlier in the book, sam noticed and that's the kernel for the heist. The swap of dorothea is straight from in-sim host access somehow to real world, it doesn't really matter about Glenn's real world. She finds the clues because he's using the same simulation software for both worlds, but Sam's access to the sim software let's him have an access point to it."
+>
 > **Dan, 2026-09-12:** "The goal is to get enough details in to write the chapter SOON"
 >
 > Earlier draft (v1) goal: Get above Glenn's scope to Coffee Guy's access pathway - base images, core company servers. Need to escape the trial/epoch layer entirely.
@@ -2231,6 +2233,10 @@ Tina's radio crackled.
 > **Dan, 2026-09-12:** "3. tina / blind spot is a bit part, that's not the main thing. It's too weak. I think Glenn is ultimately optimizing for the wrong thing which is how we trick them. The moral question of the book is what are you optimizing for, and the lesson sam learns is that he's optimizing for the wrong thing. He finally gets what ramona has been telling him."
 >
 > **Dan, 2026-09-12:** "I never said glenn is optimizing for cheap and compliant that's shit you made up." — Glenn's loss function is OPEN (→ S).
+>
+> **Dan, 2026-09-20, on how Glenn behaves:** "He's bound by his optimization function, but self preserving within that. He wouldn't be so stupid to pre-report a lie he could get caught in. He'd be technically accurate at all times, obeying the letter but not the spirit of his loss function."
+>
+> **Dan, 2026-09-20:** "Glenn's flaws should expose himself" — but not every step. See U: keeping Glenn powerless is an active heist step, not a consequence of his character.
 >
 > **Dan, 2026-09-12, on the concept to set up earlier:** "I think reward hacking and goodharts law are both usable here."
 >
@@ -2318,6 +2324,8 @@ Tina's radio crackled.
 > Locking Glenn out of just turning it off: Dan's "perhaps the compression isn't done, they need that data?" (→ I).
 >
 > v1 open question: "Remove all limits" = what specifically? A billion trials of what exactly?
+>
+> Superseded in part by V (time and scale) and U (the enabling steps). The clock now starts with compression, which is already running when the heist opens.
 
 > [!beat]- L. Beat 5 · Complication / Near-Miss — Tina / Ramona / mountain folk
 > **Dan, 2026-09-02:** "I think tina/ramona and/or mountain folk piece is where we need the complication / near miss stuff and the switch"
@@ -2325,6 +2333,10 @@ Tina's radio crackled.
 > **Dan, 2026-09-06:** "5. Yeah I was thinking of tina/ramona as being part of the misdirection or swap. I think glenn almost noticing that it's one but not the other could work. The piece I need to figure out is the nanobots are an older version, but glenn literally has source code on all of reality there, so who cares? Why would Tina be a blind spot? What advantage could that even give? This also doesn't provide room for the other mountain folks to contribute"
 >
 > Dan (2026-09-12) on its weight: "tina / blind spot is a bit part" (full → D).
+>
+> **Dan, 2026-09-20:** "Re: tina / ramona I think there's a conversation / metaphor for them being raised apart like the experiment. That could be the seed for his moral switch, or something that ramona sparks in him at rock bottom, but it's still not a 'what does this actually get us in the heist' answer"
+> **Dan, 2026-09-20:** "The tina/ramona confusion mechanism is less important than the reason there's 2 of them mattering. Solve that first"
+> Two threads now, tracked separately: (1) the raised-apart metaphor as the seed for Sam's moral switch — placed at rock bottom, sparked by Ramona; (2) what the twin buys the heist mechanically — still OPEN, and per U the place it most likely belongs is step (b).
 >
 > **Earlier draft (v1) — the twin blind spot:**
 > Glenn doesn't have perfect information. His model has blind spots. Tina is one of them.
@@ -2346,6 +2358,11 @@ Tina's radio crackled.
 > [!beat]- M. Beat 6 · The Switch — Glenn hot-swapped for Dorothea
 > **Dan, 2026-09-02:** "6b yes, glenn is the bridge, I like this. How do I exploit glenn himself? To me, this is where glenn is hot swapped for Dorothea. He's the emulation device, but the emulated reference literally switches models out from underneath him, and since it runs off of a base class of models (which Tina belongs to), it all works. Now, how does Glenn expose himself? That's the xyz. How does he bridge up back to hardware? How does that work in real life? Would he go up from virtual space -> sams world -> damons world's hardware? Or go straight to damon's? I think it'd be best for them to have to get Glenn in Sam's world somehow (he thinks he's won, but has to show up there for some predictable reason. Perhaps that's where the Tina/Ramona swap/trick plays in (also potentially the reason he'd need the mountain meet? Get tina in?). But anyway, get him in a room in real life in a very dramatic setting, perhaps the mountain itself or some cool apocalyptic setting there, and he's exposed and literally glitches and is replaced by Dorothea manifested into reality (her fewer token new self) right as Glenn was about to "foil" their plan"
 > Dan's correction, same day: "I said "which tina belongs to". I meant dorothea, continue"
+>
+> **Dan, 2026-09-19, the drain:** "kubernetes pod SIGTERM has to drain, traffic stops, a new version comes up. That could either be the mechanism or how the hot swap takes place. Dorothea comes up, Glenn notices his traffic is no longer hitting anywhere across any of his instances, he realizes he's being shut down."
+>
+> **Dan, 2026-09-19, on what makes the swap legal:** "I think the subclassing is what allows her to be swapped in at all, the fact that she's of the same class allows her model to be swapped in for his. Glenn escalated privelages MAY have legs, but these models are essentially forks, not true subclassing, so I don't know if that would necessarily fit"
+> Open: fork vs. subclass. A declared subclass is substitutable by rule; a fork is only a historical resemblance and buys no guarantee. Third option not yet ruled on — the system accepts whatever answers correctly and never checks lineage, with the fork explaining why she can answer.
 >
 > **Dan, 2026-09-06:** "3. Glenn physically present bit is bad, we need to figure that out"
 >
@@ -2407,6 +2424,47 @@ Tina's radio crackled.
 >
 > Not yet assigned to specific earlier chapters.
 
+> [!beat]- U. The enabling steps, and who owns them (2026-09-19/20)
+> **Dan, 2026-09-19:** "The steps we need to enable are a. get some executable code that swaps dorothea for glenn in place b. get that code escalated up to damon's level where he can actually click it c. glenn is blind to this so he doesn't react appropriately, keep the thing running for some reason d. stall enough so that damon has time to click the button"
+>
+> **Dan, 2026-09-19:** "Energy spike can't do everything and we need a place for the other characters to contribute."
+> **Dan, 2026-09-19:** "The xyz that the heist solves is how do we get the payload in front of damon, what is her permission block, and one of the mini-steps of the heist is getting raised perms there."
+> **Dan, 2026-09-20, on method:** "Map the heist pieces to the actors, then the methodology." And: "The solution shapes her limitation not the other way around" — do not derive the step from a chosen mechanism.
+>
+> **Step 0 — see the compression clock.** DECIDED (Dan, 2026-09-20): "it's the lock conflict, they need a means to see the compression status, and THEN the energy spike, so it slows and glenn is temporarily stuck. He thinks it's delaying the inevitable at first."
+> Actor: Dorothea (canon, K: "Dorothea monitoring a process and knowing when it will complete"). Method: OPEN — compression is imperceptible by design (V), so visibility is itself a bypass.
+>
+> **Step a — the swap payload exists.** Executable code that replaces Glenn in place. Dorothea is the thing swapped in (M). Stevie supplies the class of bug (G). Who builds it and how: OPEN.
+>
+> **Step b — the payload reaches Damon's level.** Requires raised permissions Dorothea does not have. Actor: OPEN. This is the only structurally empty step and the designated slot for the mountain folks, Ramona and Tina — owning the step, not assisting on someone else's. Dan's requirement (2026-09-19): it "wouldn't have succeeded without each of them."
+>
+> **Step c — Glenn stuck.** DECIDED: lock conflict. Compression holds the trial; the spike slows it; Glenn is temporarily unable to act and reads it at first as merely delaying the inevitable. Actor: Sam.
+> Rejected as the reason (Dan, 2026-09-20): Glenn covering a lie to his boss → T.
+>
+> **Step d — stall until Damon clicks.** Mechanism partly decided: the spike collapses the dilation ratio so Damon's review window exists at all (V). Actor: ensemble. Remaining: what they are physically doing during the stall.
+>
+> **Step e — Glenn realizes.** Image decided: traffic stops hitting any of his instances (M). Placement relative to the reveal: OPEN.
+
+> [!beat]- V. Time and scale (2026-09-19)
+> **Dan, 2026-09-19:** "For the ratio, it needs to be astronomical. Damon is running thousands of trials, going 500+ years in the future. So, the ratio is huge. If we need to do some new math, then let's do it. These simulations can move forwards / backwards in time, so time is somewhat fake in this context anyway."
+>
+> **The flow (Dan, 2026-09-19):** "compression starts -> clock starts, heist planned, starts to be executed -> at some point in the heist the payload is up to damon and they're just delaying as long as they can until it's viewed. This is the time dilation. We'll cut at some point to Damon just like brushing his teeth or taking a shit or something casually as the entire world hangs in the balance for sam. One of those 1-2 paragraph chapters."
+>
+> **Compression is imperceptible — CANON (Dan, 2026-09-19):** "I think the compression is not perceptible, he'll just release memory once it's done."
+>
+> **The spike as rate limiter (Dan, 2026-09-19):** "The energy spike itself is rate limiting in a way that buys them necessary frames for Damon to actually review before the compression finishes. To Sam, it's still basically end of the day limit, but instead of that being a nanosecond for Damon it's more like 15 minutes." Target: roughly 5–10 minutes reading the same on both sides at the critical window.
+>
+> PLACEHOLDER — exact ratios and the throughput math are deferred (Dan, 2026-09-20: "I don't need the fucking math right now"). Note when it is picked up: the written 111,500:1 in `book/worldbuilding/simulation/simulation-architecture.md` cannot run a 500-year trial "in minutes" and will need replacing either way.
+>
+> Rejected framing: the stall as a cost Sam pays → T.
+
+> [!beat]- W. Craft note — method (2026-09-20)
+> **Dan:** "Stop solving fucking technical loopholes, those are a dime a dozen. Structurally, we have pieces of the heist that need a bypass / solution step. Map the heist pieces to the actors, then the methodology."
+>
+> **Dan:** "this is meant for a book for humans to read, so they need to be explainable as if in a metaphor or example" — mechanisms get carried by metaphor, not by specifics.
+>
+> Pairs with D (Heist Plot): expose the flaws, not the solutions.
+
 > [!beat]- S. Open Questions (in Dan's words)
 > 1. Glenn's loss function — "what is his loss function?" (D, G)
 > 2. The earlier setup — "a prisoner's dilemma or famous ML concept or bad optimization example that we can set up earlier in the book"; "reward hacking and goodharts law are both usable here" (D, G)
@@ -2421,6 +2479,12 @@ Tina's radio crackled.
 > 11. Breakpoint — "Sam may not actually need to be given a breakpoint though" (P)
 > 12. Reveal content — only placement decided: "the reveal will have to happen after the heist" (C, P)
 > 13. Getting the code to Damon — "How does the code get there for him to approve?" (N)
+>
+> **Status as of 2026-09-20** (questions restated against the step map in U — the wording above stays as Dan put it):
+> - CLOSED: #4 inner clock and the reason Glenn can't act → U step 0 / step c (lock conflict, then spike). #10 Dorothea's blocker and #13 getting the code to Damon are the same question → U step b.
+> - NARROWED: #7 the switch — the drain image is decided (M); what remains is the mechanism and the fork/subclass question. #11 breakpoint — now also affected by the drain, which may make it redundant in the execution sequence.
+> - UNCHANGED AND BLOCKING: #1 Glenn's loss function (constrained by D: letter not spirit, technically accurate at all times). #6 what the twin buys the heist — the raised-apart metaphor is now placed, the mechanical answer is not (L). #8 locations and the stage. #5 circuit breakers.
+> - NEW: who owns step b. Per U this is the only structurally empty step and the designated home for the mountain folks, Ramona and Tina.
 
 > [!beat]- T. Rejected Ideas
 > - Energy channel exploit (wrong scope — within simulation only)
@@ -2430,6 +2494,9 @@ Tina's radio crackled.
 > - Sam optimizes Glenn (doesn't escape scope)
 > - Elitism — Dan, 2026-09-02: "2. I don't like the elitism. Like, just cuz you keep a trial to build the next one on it doesn't mean it lives forever. It also forks from the past date initial conditions, it's not like it forks Sam's present day. Perhaps that's all he's doing when he "sets a copy", but again the mechanism is a blank here."
 > - Pass-by-reference/pointer — Dan: "Pass by ref/pointer feels week still to me." (full → M)
+> - Glenn pre-reporting memory savings / covering a lie to his boss — Dan, 2026-09-20: "him covering a lie to his boss feels wrong for his character to me... He wouldn't be so stupid to pre-report a lie he could get caught in." (→ D)
+> - The stall as a cost Sam pays — Dan, 2026-09-20: "Sam isn't paying these charges. So unless there's a tightrope they need to walk between glenn/damon here it doesn't make sense." (→ V)
+> - Glenn's character flaws carrying every step of the heist — Dan, 2026-09-20: keeping Glenn powerless should be "stronger and more active" than that. (→ U step c)
 
 -------------------------------
 
