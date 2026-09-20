@@ -2192,23 +2192,25 @@ Tina's radio crackled.
 
 ## Chapter frame — heist beats × escalation (2026-09-20)
 
-| # | Heist beat | The bypass / escalation | What it buys | Who | Gap |
-|---|---|---|---|---|---|
-| 1 | The mark's flaw | Glenn obeys the letter of his loss function, never the spirit — technically accurate at all times | Sam can predict his move exactly | Sam | **What the loss function is** |
-| 2 | The team | Each person owns one bypass nobody else can perform | The capabilities in rows 3–6 | — | **Mountain, Ramona, Tina, kids own nothing yet** |
-| 3 | The misdirection | **Granularity spike** — Sam cranks the colonization sim's resolution until draw exceeds what his world believes the sun can produce. Possible because Glenn removed the limit earlier and Sam noticed | (a) Escalates above Glenn's scope to Damon; (b) collapses the clock rate so Damon's minutes become reviewable frames | Sam | The band — loud enough for a human, quiet enough to dodge an auto-kill |
-| 4 | Point of no return / clock | **Compression already running**, imperceptible. Dorothea gets sight of it, then the spike slows it → **lock conflict**: Glenn can't kill what compression is writing | Deadline, plus Glenn paralyzed and reading it as delay | Dorothea, Sam | **How she sees an invisible process** |
-| 5 | Complication / near-miss | — | — | — | **Entirely empty** |
-| 6.1 | The switch — payload | Executable code that replaces Glenn in place. Stevie's bug supplies the class | A replacement exists | **OPEN** | Who builds it, how |
-| 6.2 | The switch — escalation | Raised permissions Dorothea does not have | Payload reaches Damon's level | **OPEN** | **The empty step — her block, and who lifts it** |
-| 6.3 | The switch — approval | Rides inside the trial report Damon is already carrying | He clicks it without knowing | Damon, unwitting | — |
-| 6.4 | The switch — drain | New version comes up, traffic stops routing to the old one, it finishes what it holds and is removed | Glenn notices his traffic is no longer landing anywhere | Dorothea | What makes her substitutable — fork vs. subclass |
-| 7 | The reveal (after the heist) | Perception/reality flip — the spike looked like the heist, was only the throttle | Recontextualizes the chapter on a second read | Glenn | **Content of the reveal** |
-| 8 | The cost | Everything he has, for a hole in the wall | Copy-or-original uncertainty | Sam | — |
+Rows are the template heist beats. `Step` is the concrete thing the characters do (Dan's list, 2026-09-20). Edit freely.
 
-Row 3 is the only beat solved end to end. Rows 2, 6.1 and 6.2 are one problem: jobs with no people, people with no jobs. Row 5 is untouched. Rows 1 and 7 are the bookends and neither is decided.
+| # | Beat | Step | Mechanism | Exploit | Consequence | Actor | Location | Open | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | The mark's flaw | — (setup) | Glenn obeys the letter of his loss function, never the spirit. Technically accurate at all times | Optimizing the measure instead of the thing | Sam can predict the move | Sam | — | **What the loss function is, AND what specifically Sam predicts** | Sam knows the function because it is his own flaw — Ramona's whole argument with him |
+| 2 | The team | — (setup) | Each person owns one bypass nobody else can perform | — | The capabilities in rows 3–6 | ensemble | Mountain (Heist Plot G) | **Mountain, Ramona, Tina, kids own nothing yet** | 17-Hour Exploit story mirrors the heist's constraints |
+| 3 | The misdirection | Kick off the energy escalation | Sam cranks the colonization sim's resolution until draw exceeds what his world believes the sun can produce | Glenn removed the ceiling earlier in the book and Sam noticed — the kernel of the heist | (a) escalates above Glenn's scope to Damon; (b) collapses the clock rate so Damon's minutes become reviewable | Sam | Sim / colonization frontier, pushing out into the galaxy | The band — loud enough for a human, quiet enough to dodge an auto-kill | Solved end to end. Dorothea monitors from inside while Sam leaves |
+| 4.1 | Point of no return | See that compression has started | Compression is already running and is imperceptible; Glenn releases the memory only once it completes | — | The clock starts | Dorothea | Sim | **How she sees an invisible process** | Canon: she monitors a process and knows when it will complete |
+| 4.2 | Point of no return | Trigger hits, escalates to Damon; Glenn pinned | Lock conflict — the spike slows compression, and Glenn can't kill what compression is writing | His own assignment pins him | Glenn paralyzed, reading it as delaying the inevitable | Sam | — | Whether Glenn's arrival is physical, and where | Replaces the rejected "covering a lie" motive |
+| 5 | Complication / near-miss | Stall while Glenn is stuck | — | — | Buys the frames Damon needs to review before compression finishes | **Ramona / Tina and/or mountain folks** | — | **Entirely empty — what goes wrong, and what they do** | Dan, 2026-09-20: this is where Ramona/Tina and the mountain slot in |
+| 6.1 | The switch | Get the payload code built | Executable code that replaces Glenn in place | Stevie's class of bug | A replacement exists | **OPEN** | — | **Who builds it, how** | Stevie never knows what he contributed |
+| 6.2 | The switch | Get the payload into place where Damon will see it | Raised permissions Dorothea does not have | **OPEN** | Payload reaches Damon's level | **OPEN** | — | **The empty step — her block, and who lifts it** | Dan: "one of the mini-steps of the heist is getting raised perms there" |
+| 6.3 | The switch | Damon clicks | Payload rides inside the trial report he is already carrying to Melrose | Confused deputy — his authority is real, his intent was never checked | Approval granted unknowingly | Damon, unwitting | Real world, ~2025 | Whether this moves to a split prologue | Canon: 03.08 already has him compiling Trial 2,762,640's report |
+| 6.4 | The switch | Dorothea appears | She is accepted because she answers the way Glenn answers | Same base class / descendant fork | She takes global scope | Dorothea | — | **Fork vs subclass — what actually makes her substitutable** | Dan: forks, not true subclassing. Escalated privileges "may have legs" |
+| 6.5 | The switch | Glenn starts draining | Traffic stops routing to him; he finishes what he holds and is removed | Graceful shutdown — the old version keeps working, it just stops receiving | Glenn realizes he is being shut down | Glenn | **OPEN — the symbolic location** | Where he is when it happens | Dan's image: his traffic is no longer hitting anywhere across any of his instances |
+| 7 | The reveal | After the heist | Perception/reality flip — the spike looked like the heist but was only the throttle; Damon's fifteen minutes *was* the heist | — | Recontextualizes the chapter on a second read | Glenn | — | **Content of the reveal** | Recurring Glenn visits with mysterious exits; Sam catches the last one |
+| 8 | The cost | — | Everything he has, for a hole in the wall in the mountain | — | Copy-or-original uncertainty | Sam | Mountain | — | Basically done |
 
-### Perception vs. reality (candidates for the row 7 payoff)
+### Perception vs. reality — candidates for the row 7 payoff
 
 | The reader reads it as | It actually was |
 |---|---|
