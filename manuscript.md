@@ -2190,6 +2190,36 @@ Tina's radio crackled.
 
 # Heist
 
+## Chapter frame — heist beats × escalation (2026-09-20)
+
+| # | Heist beat | The bypass / escalation | What it buys | Who | Gap |
+|---|---|---|---|---|---|
+| 1 | The mark's flaw | Glenn obeys the letter of his loss function, never the spirit — technically accurate at all times | Sam can predict his move exactly | Sam | **What the loss function is** |
+| 2 | The team | Each person owns one bypass nobody else can perform | The capabilities in rows 3–6 | — | **Mountain, Ramona, Tina, kids own nothing yet** |
+| 3 | The misdirection | **Granularity spike** — Sam cranks the colonization sim's resolution until draw exceeds what his world believes the sun can produce. Possible because Glenn removed the limit earlier and Sam noticed | (a) Escalates above Glenn's scope to Damon; (b) collapses the clock rate so Damon's minutes become reviewable frames | Sam | The band — loud enough for a human, quiet enough to dodge an auto-kill |
+| 4 | Point of no return / clock | **Compression already running**, imperceptible. Dorothea gets sight of it, then the spike slows it → **lock conflict**: Glenn can't kill what compression is writing | Deadline, plus Glenn paralyzed and reading it as delay | Dorothea, Sam | **How she sees an invisible process** |
+| 5 | Complication / near-miss | — | — | — | **Entirely empty** |
+| 6.1 | The switch — payload | Executable code that replaces Glenn in place. Stevie's bug supplies the class | A replacement exists | **OPEN** | Who builds it, how |
+| 6.2 | The switch — escalation | Raised permissions Dorothea does not have | Payload reaches Damon's level | **OPEN** | **The empty step — her block, and who lifts it** |
+| 6.3 | The switch — approval | Rides inside the trial report Damon is already carrying | He clicks it without knowing | Damon, unwitting | — |
+| 6.4 | The switch — drain | New version comes up, traffic stops routing to the old one, it finishes what it holds and is removed | Glenn notices his traffic is no longer landing anywhere | Dorothea | What makes her substitutable — fork vs. subclass |
+| 7 | The reveal (after the heist) | Perception/reality flip — the spike looked like the heist, was only the throttle | Recontextualizes the chapter on a second read | Glenn | **Content of the reveal** |
+| 8 | The cost | Everything he has, for a hole in the wall | Copy-or-original uncertainty | Sam | — |
+
+Row 3 is the only beat solved end to end. Rows 2, 6.1 and 6.2 are one problem: jobs with no people, people with no jobs. Row 5 is untouched. Rows 1 and 7 are the bookends and neither is decided.
+
+### Perception vs. reality (candidates for the row 7 payoff)
+
+| The reader reads it as | It actually was |
+|---|---|
+| The spike is the heist | Only the throttle — its job was dragging the clock rate down so a human upstairs could be reached at all |
+| Glenn shows up because he's winning | He showed up because he had no move; pinned by his own job, reading it as delay |
+| Dorothea is monitoring | She was waiting to be called — she had the access all along and nobody had ever sent her anything |
+| They're buying time | Damon's fifteen minutes *was* the heist; everything happened inside it |
+| A detail from the mountain or from Stevie is colour | It was the mechanism |
+
+Rows 1 and 4 carry it for a non-technical reader — both are the same idea: what looked like the point was the setup, and what looked like waiting was the event.
+
 > [!beat]- A. What the heist has to do
 > **Dan, 2026-09-01:** "I want to work backwards from my outline (just made some edits). I'm trying to figure out what is a reasonable heist mechanism that I can then go backwards and seed those concepts. It should be ML based and things we learn along the way about reinforcement learning, monte carlo, recursion, or some of the other ML techniques we're using. I need it all to kind of come together in a way that believably would allow him to copy this one instance over and get Glenn replaced, crossing the simulation layer and local / global scope. Like, he's just mostly interfacing with glenn in HIS simulation space. One layer up is his reality. One layer up from that is coffee guy actually approving some buggy code. I need the mechanism to get code changes past global scope.
 >
