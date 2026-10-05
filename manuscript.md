@@ -2598,6 +2598,29 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 > [!beat]- Z. The mountain folks own the border crossing (2026-10-05)
 > **Dan, 2026-10-05:** "The mountain folks own getting them over the border and back undetected. It's the first time you see them timing things, waiting for satellites to pass, avoiding the heat signatures, etc."
 
+> [!beat]- AA. Decisions, 2026-10-05 (answers to the heist status check)
+> **Dan, 2026-10-05:** "stevie and clyde both could do the idea / bug, between the coloring and the school bug stuff. They'll talk in metaphors or symbolism and sam will need to translate" → row 6.1 / G; Tina's Visit → B; Cats and Rats → C
+>
+> **Dan, 2026-10-05:** "Dorothea sees the process clock from the restart when they initially crashed the server and the whole simulation software started in safe mode. That's how she figures out how to get into safe mode / see things that way." → row 4.1 / U step 0. NEW — the initial crash / safe-mode restart is not yet in any chapter.
+>
+> **Dan, 2026-10-05:** "dorothea builds the payload obviously." → row 6.1
+>
+> **Dan, 2026-10-05:** "dorothea is a fork. It just makes porting her much easier than it would have otherwise to backport her onto a 500 year old machine." → row 6.4
+>
+> **Dan, 2026-10-05:** "I think physically stopping them by a queue of turning them off when they're in the wrong hex. They just drop dead. Will have to think of a mechanism." → why crossing is "thought impossible" (X). Mechanism OPEN.
+>
+> **Dan, 2026-10-05:** "yes your suggestion on the hex is exactly what I meant by the partition thing" → the hex is the unit of compression: full fidelity near the key drivers, distant hexes stored as input/output stand-ins; relevance by degrees of separation, distance as proxy, so off-grid mountain folk are black-boxed even though they're close (X)
+>
+> **Dan, 2026-10-05:** "They just don't have telemetry, a lot of the short cuts are networking. They are blind in that sense." → mountain folk (Heist Plot J, Z)
+>
+> **Dan, 2026-10-05:** "correct, honeycomb is fooled, the engine will pick it up." → the mountain folk beat Honeycomb's in-world surveillance; the simulation engine still has to render whatever a key driver observes (X, Z)
+>
+> **Dan, 2026-10-05:** "I like the two angles for the spike and the crossing. They work together and are related but both are necessary." → spike = energy / clock rate (Damon's review window); crossing = memory / compression lock (pins Glenn). Row 4.2 currently says the spike slows compression — to be reworded.
+>
+> **Dan, 2026-10-05:** "sam's world is the promising trial. That's why they're keeping his cell and his work fully rendered. It will have spiked in success during this, but as a side effect of increased granularity, he should actually raise the success rate to above 50%. All the toher worlds and the radio message let the simulation be a recursive spawn basically, which spikes energy. Also, it solves the problem in that the species keeps reproducing and spreading." → rows 3, X
+>
+> **Dan, 2026-10-05:** "If you have a better idea than dropping dead let me know."
+
 -------------------------------
 
 # Post-Heist Cigar
