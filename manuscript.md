@@ -2639,6 +2639,13 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 >
 > **Dan, 2026-10-05:** "circuit  breakers seem pretty set to me? It's tripped in early chapter, gets them into safe mode, then they figure out it must have been raised, they'll have to try to trip it again." → circuit breakers (S #5) CLOSED; early trip planted in Space Progress → D
 
+> [!beat]- AC. Glenn's flaw — in the loop of his own replacement (2026-10-05)
+> Context: Claude offered Glenn flaw ideas; Dan picked "1 and 4 seem the closest" — (1) he optimizes the reported number (trial success rate), not the real goal; (4) self-replication, which for agents means being kept/forked/deployed by humans, not copying himself.
+>
+> **Dan, 2026-10-05:** "I think perhaps he's in the loop of his own replacement, but he can surface the replacement to his user. He picks some forks in self preservation, all are Dorothea under the hood?  That solves a different thing."
+>
+> **Dan, 2026-10-05:** "I think the "increased survival" is an unexpected side effect for Sam. THe energy spike / hex bug are the reactions we need to predict for him from his character" → row 1 "what specifically Sam predicts" = Glenn's reactions to the energy spike and the hex bug.
+
 -------------------------------
 
 # Post-Heist Cigar
