@@ -1435,6 +1435,15 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 >
 > Payoff → Heist → X.
 
+> [!beat]- D. The circuit breaker trips — the server crashes, sim restarts in safe mode (plant for the heist, 2026-10-05)
+> **Dan, 2026-10-05:** "Put the safe mode restart in a space progress type chapter, after onboarding, part of figuring it out."
+>
+> **Dan, 2026-10-05:** "Dorothea sees the process clock from the restart when they initially crashed the server and the whole simulation software started in safe mode. That's how she figures out how to get into safe mode / see things that way."
+>
+> **Dan, 2026-10-05:** "circuit  breakers seem pretty set to me? It's tripped in early chapter, gets them into safe mode, then they figure out it must have been raised, they'll have to try to trip it again."
+>
+> Payoff → Heist → AA, AB.
+
 ---
 
 
@@ -2620,6 +2629,15 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 > **Dan, 2026-10-05:** "sam's world is the promising trial. That's why they're keeping his cell and his work fully rendered. It will have spiked in success during this, but as a side effect of increased granularity, he should actually raise the success rate to above 50%. All the toher worlds and the radio message let the simulation be a recursive spawn basically, which spikes energy. Also, it solves the problem in that the species keeps reproducing and spreading." → rows 3, X
 >
 > **Dan, 2026-10-05:** "If you have a better idea than dropping dead let me know."
+
+> [!beat]- AB. Decisions, 2026-10-05 (second round)
+> **Dan, 2026-10-05:** "Dorothea knows her current time as reported and has a ping on the machine above her, she's watching the time ratios to understand the slowdown from those two data points. Put the safe mode restart in a space progress type chapter, after onboarding, part of figuring it out." → row 4.1 / U step 0; safe-mode plant → Space Progress → D
+>
+> **Dan, 2026-10-05:** "I like rubber banding or just like physically not being able to pass it. We'll need a way for Ramona to get past that. That or dying, not sure which, but either way it's another layer of the heist we can have to solve to make it more interesting. She won't be just getting the exploit, it'll need to be something else." → X / Y. How Ramona gets past: OPEN (not the 17-Hour Exploit).
+>
+> **Dan, 2026-10-05:** "Tina just needs to trick glenn, not sure yet." → Y. How: OPEN.
+>
+> **Dan, 2026-10-05:** "circuit  breakers seem pretty set to me? It's tripped in early chapter, gets them into safe mode, then they figure out it must have been raised, they'll have to try to trip it again." → circuit breakers (S #5) CLOSED; early trip planted in Space Progress → D
 
 -------------------------------
 

@@ -8,6 +8,11 @@ placement is explicitly still open per Dan. Nothing here gets dropped unless he 
 
 ## Book-wide / structural (not chapter-specific)
 
+### The colonization plot is the backdrop, not the main plot (Dan, 2026-10-05)
+> "The more I think of it the space colonization thing is what seems like the main plotline but it really isn't. Sam finds it interesting. It's a much longer contract than anything he's used to (3-5 weeks max). It lets us expose things, and show concepts, it lets us get crazy showing simulated future humans on different planets. But, don't linger there too long. It's just sam's obsession and the backdrop for the world"
+
+Applies to: Space Onboarding, Space Progress, Space Still Stuck, Space Victory.
+
 ### Boil-the-lobster ladder (needs to span the WHOLE book, not just 3 steps)
 > "For each of my sci-fi leaps we should probably boil the lobster for the user. How do we get from normal to extreme gradually for nested sim, small human descendent colonization, crispr gene editing, glenn and his kind taking over (don't forget dorothea is a distant relative in the end)"
 > "This boil the lobster needs to be much longer than 3 steps. What are all the things I've seeded? Extinct animals. canada is a desert, they have a toxic atmosphere, what else? Shit sucks but people don't even notice, that's just how things are"
