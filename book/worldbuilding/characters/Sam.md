@@ -109,6 +109,14 @@ He's not special. He's just the first that glenn lets use his simulator.
 
 Blames himself for it. Gallows humor on the surface. Humor as defense mechanism. Humor to not get close to people.
 
+### Why he works (Dan, 2026-10-05)
+
+> "He works because he doesn't want to lose the virtual world, his sense of self. He believes deeply you need to do soemthing to get something. Nothing is free. He must accomplish something to deserve anything. Honeycomb wanted to live forever literally. Sam wants to live forever by doing something meaningful with his name that will outlast generations. Ramona wants to live forever through her kids and theirs, etc."
+
+> "they are set in the sense that everyone is mostly taken care of here. He works for purpose / vanity / keeping the virtual space. You don't have to work in this world."
+
+Replaces the outline's old "pure ego" framing (deleted from `outline.xlsx` 2026-10-05).
+
 ## Personality
 
 How does the character express what they want out of life?

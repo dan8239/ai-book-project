@@ -36,6 +36,8 @@
 | Tina | Her people's survival | Energy, water, food — keeping the mountain alive | Practical, immediate, no abstraction |
 | Honeycomb | Species survival (inherited from Damon's policy) | Resource allocation, population management, macro stability | The policy that won across 847M trials |
 
+**Everyone wants to live forever (Dan, 2026-10-05):** "Honeycomb wanted to live forever literally. Sam wants to live forever by doing something meaningful with his name that will outlast generations. Ramona wants to live forever through her kids and theirs, etc."
+
 ### The "wrong thing" pattern — how each problem repeats the lesson
 
 | Problem | What Sam optimizes for (wrong) | What he should optimize for (right) | How he learns |

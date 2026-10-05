@@ -1406,6 +1406,9 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 >     6. The problem in his function isn't the generation definition, it's in the wealth definition in the reward function.
 >     7. Have them be talking about a different inane subject, not what they're really talking about
 
+> [!beat]- C. School is very different here (open, 2026-10-05)
+> **Dan, 2026-10-05:** "they are set in the sense that everyone is mostly taken care of here. He works for purpose / vanity / keeping the virtual space. You don't have to work in this world. School is very different here, need to figure out how at some point in cats and rats"
+
 ---
 
 # Space Progress
@@ -1420,6 +1423,17 @@ Glenn spoke, "Your sentimental heart swayed me a bit, Sam. Since this trial is b
 > "Maybe have glenn read some of dorotheas earliest context... glenn will be perusing those for fun and teasing Sam about it. it will show an unnatural interest in Dorothea, establish Glenn's character as more playful, and explain a bit about who Sam is"
 >
 > [Claude: mechanism grounding — Claude Code session transcripts live at `~/.claude/projects/<encoded-cwd>/`, one raw JSONL file per session, distinct from a trained-up memory/personality file. The in-world equivalent: Glenn finds Dorothea's actual earliest raw session logs — awkward, unfiltered, pre-personality — and needles Sam about the cringe. Same chapter as beat B, since this stub's existing notes already say Glenn's messages get "weirdly personal."]
+
+> [!beat]- C. Sam partitions his own world — planting the hex/partition idea (2026-10-05)
+> **Dan, 2026-10-05:** "1. partitioning is the mechanism for the heist and a central theme / how the world works"
+>
+> "Each hex is a partition, in the sense that the data is isolated. The government is basically sectioning off hexes into partitions (in addition to simulations, years, etc.). It's just a huge data management decision. They figure it out because Sam has to partition his world too."
+>
+> "Hex's could be called parts, or shards here, but it should make sense technically why they're done this way. Physically keeping the simulations / trials /  rendered data in different spots fl processing."
+>
+> **Dan, 2026-10-05, clarifying the above:** "The data is physically located in different spots to speed up processing / retrieval"
+>
+> Payoff → Heist → X.
 
 ---
 
@@ -1873,6 +1887,15 @@ Tina's radio crackled.
 
 <!-- TODO (Dan, 2026-08-31): placed the "100% AI doctor's appointment" scene here (see _unplaced-beats.md for the full transcript quote). Dan's brief for it: Sam obsessing over a work thing while it's happening, more relationship-deterioration texture, a world reveal (surveillance depth — the AI "doctor" already knows data no real exam would have: bowel movements, pupil dilation, blood pressure, etc.), and Stevie/Clyde comedy. Good fit for this chapter specifically: it's already a bare stub calling for exactly this shape (kids present, domestic cost visible, Sam's obsession on display) — the doctor's visit is the vehicle. Kids-present angle (leaning kid's appointment per the transcript, "you can get the kids into what a doctor's appointment looks like") also gives Tina a natural reason to be there. Not drafted yet. -->
 
+> [!beat]- B. Something for the kids to be doing — Stevie & Clyde's merged AI picture/movie (2026-10-04)
+> Outline (this row) asks: "Find something dope for them to be doing before Tina escalates."
+>
+> **Dan, 2026-10-04 — idea dump, text damaged by terminal line-wrap; `[…]` = lost text:** "Stevie / Clyde stuff"
+>
+> "They color together, stevie and Sa[…]oloring but merging their worktogether through AI. So half of the picture is his and half is Clydes. A couple thoughts of what they draw. He saw a butterfly[…]rysalis. It was dried out but[…]dead. Perhaps spider webs, clyde could be afraid of them. Anyway, they draw or create a movie together, and you kind of se[…]middle, it's a jarring AI video(or perhaps just picture) they create. You could even just show the movie poster that they create to some extent in the book […]l Sam about spiders, some facts, and it'll give Sam some insight he needs to make some connections he hadn't before"
+>
+> Existing seed: Work From Home, Clyde — "'TEVIE IS MAKING THE BIG 'PIDER CATCH ME!" Open: who tells Sam the spider facts, and what connection it unlocks.
+
 ---
 
 # Coffee Guy Intro
@@ -2197,6 +2220,18 @@ Tina's radio crackled.
 > - Their help with the heist
 > - He's back to basic income, back to square one
 > - But he's with his family
+
+> [!beat]- J. The mountain folks have crossed into other hexes before (2026-10-05)
+> **Dan, 2026-10-05:** "Part of the mountain folks is that they've traveled over into other hexes. They have done it before. They've seen some shit. one scene will be Ramona or Sam going and  crossing into one of the hexes. They are all extremely different, because the government in this world is basically a/b testing between these all of the time."
+>
+> **Dan, 2026-10-05:** "going into another hex was thought to be impossible. The mountain folk can do it because they're not on the grid. They turned off their telemetry."
+>
+> Ties to G (17-Hour Exploit) and `honeycomb.md` → A/B Testing Infrastructure. Skull hex → `_unplaced-beats.md` → Tina/Sam heart-to-heart.
+
+> [!beat]- K. Learning the hex isn't dead — sets up the trip (2026-10-05)
+> **Dan, 2026-10-05:** "Somehow via comms or pings or radiation signals, somehow we learn this isn't a dead hex.    There is cross partition network that can measure and be a proxy for population due to network effects, and this is the 2nd highest one. The other 5 sides have lower signs of life. This sets up the trip. They have to go in there past some x point or time and get back to trigger the partition marked for inclusion in the compression.  What is some other extremely weird shit? Eerily quiet, but unmanned ships launch perhaps? Noise pain, drones or floiety, somewhere, but the only thing she sees is the skull. I want it to be very odd, scary, and hopefully encounter people there briefly or even indirectly in a scary way."
+>
+> **Dan, 2026-10-05:** "Drones or some indirect contact with society that's creepy"
 
 ---
 
@@ -2542,6 +2577,27 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 > - The stall as a cost Sam pays — Dan, 2026-09-20: "Sam isn't paying these charges. So unless there's a tightrope they need to walk between glenn/damon here it doesn't make sense." (→ V)
 > - Glenn's character flaws carrying every step of the heist — Dan, 2026-09-20: keeping Glenn powerless should be "stronger and more active" than that. (→ U step c)
 
+> [!beat]- X. Partitioning — crossing into another hex forces the memory load (2026-10-05)
+> **Dan, 2026-10-05:** "the heist they'll need to get into another hex physically"
+>
+> **Dan, 2026-10-05 (idea dump):** "Part of what they'll need into another hex"
+>
+> "By physically going to the other hidden but thought impossible bySam/Ramona), they cause the compression to require pulling in another entire hex supergroup into the compression. Previously, een the key drivers (Sam, dorothea, the project), requires pulling in an entire other partition of data. It works like procedurally generated simulations within 100 miles or x degrees of separation, the model can be generalized, compressed, into an input/output black box of  certain specifications. By the simulation success rate increasing while the main characters are physically going elsewhere it causes an entire huge amount of memory to need to be loaded. This causes an insane slowdown of the simulation, in addition to sam's energy spike granularity trick"
+>
+> "Part of the heist will behaving to go into an extremely creepy / scary hex."
+>
+> Stacks with I (the granularity spike) — it does not replace it. Planted in Space Progress → C. Mountain folks' history → Heist Plot → J, K.
+
+> [!beat]- Y. The Tina / Ramona swap (2026-10-05)
+> **Dan, 2026-10-05 (idea dump):** "ramona is the one who goes into the hex, Tina takes ramona's place when they get glenn to show up, so he disregards the alert he does get about a blip. That's the tina /    ramona swap. He'd just stop them wing somehow otherwise."
+>
+> **Dan, 2026-10-05:** "Glenn would just stop them from going or crossing into the hex if he knew it was ramona, he sees her so figures it's a glitch."
+>
+> Answers L's open question (what the twin buys the heist).
+
+> [!beat]- Z. The mountain folks own the border crossing (2026-10-05)
+> **Dan, 2026-10-05:** "The mountain folks own getting them over the border and back undetected. It's the first time you see them timing things, waiting for satellites to pass, avoiding the heat signatures, etc."
+
 -------------------------------
 
 # Post-Heist Cigar
@@ -2629,6 +2685,11 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 
 > [!beat]- C. It's a seed ship too (raw notes)
 > 3. This is a seed ship too. Everything the family needs
+
+> [!beat]- D. Density tricks — hiding in compressed high-density areas (2026-10-05)
+> **Dan, 2026-10-05:** "Add that part of the heist or misdirection of getting into the mountain could be little density tricks. In condensed areas, they just compress all the gps within that boundary for memory purposes. No need to track all the individuals, checksum all the people there and then roll it up into a heatmap. There are little memory tricks all over the place. This is perhaps how / why they have to go into a high density area at some point to get out"
+>
+> **Dan, 2026-10-05:** "get out it the escape"
 
 # Bedtime
 

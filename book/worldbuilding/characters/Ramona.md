@@ -94,6 +94,8 @@ Ramona visits the colony. During this visit, Tina finds out what Sam's research 
 
 She trusts that humans can innovate out of whatever is coming. The purpose is to experience it together.
 
+Dan, 2026-10-05: "Ramona wants to live forever through her kids and theirs, etc." (full quote → `Sam.md` → Why he works)
+
 ## On the Grandmother AI
 
 Ramona doesn't like seeing the grandmother AI. It's complicated:

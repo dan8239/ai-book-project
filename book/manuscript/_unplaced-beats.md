@@ -393,3 +393,45 @@ Not written into the canon files yet (lower priority, purely additive when done 
 - `Sam.md` → Motivation section (from "Book memo," close to verbatim already, lowest priority)
 - `themes.md` → "median species survival" source quote, Pareto-front quote, post-human colonization-pivot quote (from "Big question")
 - `Sam.md` → colonization-pivot verbatim, "nobody else had access" verbatim, twofold-flaw verbatim (from "Big question")
+
+---
+
+## NEW CHAPTER (not yet in manuscript) — Tina / Sam heart-to-heart + the skull hex (2026-10-05)
+
+Location in the book: not decided. Dan: "Not sure on location yet."
+
+### The chapter
+> "tina / sam's chapter is almost like a heart to heart at some point, either to gain her trust initially or regain it later. Probably the first. I have some stuff about tina giving her version of Ramona's backstory, which ramona will later contradict regarding their dad's death, the old boyfriend, etc. Not sure on location yet."
+
+Related canon: `twin-sister.md` and `Ramona.md` → The H₂S Incident (the dad, the boyfriend, "Tina had told her to dump him"); Reunion → D (Ramona's backstory — the accident).
+
+### The skull hex, seen from a distance (Dan: "skull hex is a later mountain thing, perhaps just tina / sam's chapter.")
+> "The one visual of one of these hex one over we ever show, or perhaps 2, one we see from afar, one we see as part of the heist more intimately). This is  in an uninhabitable (allegedly) because it's so low level that it's sulfide everywhere, or something to that effect. Some disaster that has left this uninhabited. The only thing they can see is they crest of a mountain or cliffside and there's an enormous skull statue made out of individual human skulls. It's like a giant 3D printer, where each pixel/bead is another human skull, layered meticulously vertically, as if smiling towards the moon. So, it's insanely detailed and contoured. First they think it's just a huge statue. Only when they get closer do they realize the layers are each perfectly laid out bones, mortared together  with an off white, vaguely red almost pink mortar. This hex should be essentially dead. The tree is all deadfall, it's insanely quiet. No wind, nothing rustling, not a twig  out of place. Not a single bug heard."
+
+Amendment (Dan, 2026-10-05):
+> "amend the skull thing, it's literally a 3d printer doing it. There's a huges smoke stack and an enormous portable 3D printer that is doing all of the layers. The top layer is perfectly flat, and he can see it's not filled in, just like a 3d printer. Gets foam or soemthing, they watch it for awhile as they wait for some timing element of their mission."
+
+Related canon: `post-refactor-society.md` → sulfide storms / H₂S. Heist side → manuscript Heist → X; setup → Heist Plot → K.
+
+---
+
+## Household energy, lights, quotas — later, chapter TBD (2026-10-04/05)
+
+Dan: "light stuff is going to be later, idk where yet." Dan (2026-10-05): fill new chapters, don't modify drafted ones yet — so none of this goes into Work From Home.
+
+> "2. energy / memory"
+> "The lights do not stay on at their house after dark. It's strictly mandated. However, the compute still runs. Figure out the limit of light production for power used and the same for insane compute. Basically, I want it to be told to the user that Sam's working all day is less power than still very hard for him to do it economically. That's why he works. The lights only come on in the room they're in, always. This is an extremely tight      energy quota. At some point, Sam is helping his son find something and it's after dark, and he says turn on the light and it's very unusual."
+
+> "sam works all day but the compute is less energy than the light bulbs (if this is technically possible). So they're on an extreme budget, and also memory/compute is insanely computationally efficient here."
+
+> "maybe Sam will try to find the wedding ring with clyde or find it while looking for something else symbolically (that will be better actually)"
+
+Related canon: the lost wedding ring (Retirement, "Clyde put it somewhere").
+
+From the 2026-10-04 dump (text damaged by terminal line-wrap; `[…]` = lost text):
+> "They all get one cup"
+> "They all get 3 items of clothes, tlothes[…] via a tube like themailrooms almost."
+> "Compost is required, and just goes in a shoot, same with the little garbage they produce.   This is an almost zero garbage s[…]it[…]vered and returned via the chute to some kind of centralized processing plant."
+> "How Sam cuts his apple for the kids tells you about him. He doesn't cut in squares or with  an apple cutter, because the young[…]y rarely eat an entire apple. So he meticulously goes in 30 degree arc changes. This let's him remove the skins in 17 cuts   instead of 20 or something once s[…]k the entire thing into thecompose immediately after and puts the plate in the dishwasher, which is extremely tiny (onecup, one plate, one bowl, one set"
+
+Drafted prose that will need reconciling later (not now): Work From Home laundry scene (dressers, "stacks of clothes"), Ramona's "compost bin", Glenn chapter's city lights from orbit.
