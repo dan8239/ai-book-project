@@ -1799,7 +1799,19 @@ Tina's radio crackled.
 >
 > Sam does mental math from everything he saw during the descent — population, energy consumption, gravity battery capacity at ~11%, three months of deficit ahead. He deduces they're off-grid, on renewables, and running out. The Chief corrects minor details — the blocks are denser than concrete, and they use less energy per person than "larvae" above — but confirms the rest.
 >
-> Sam agrees to help optimize their energy systems. In return, he wants their multi-generational survival data. Ramona realizes Sam didn't come for her — he turned her homecoming into a business trip. The warmth from the gondola is gone.
+> Sam agrees to help optimize their energy systems. In return, he wants their multi-generational survival data. Ramona realizes Sam didn't come for her — he turned her homecoming into a business trip. The warmth from the gondola is gone
+> 
+> 
+>1. How does chief get what he wants? What is it he wants? How does Sam get what he wants? Who knew what when about this meeting?
+>2. GPS on the group overhead, which is why they have to change settings. They're tagging along with the tour from a gps perspective in case anyone pings them.
+>	1. They meet back up with the tour guide on the other side
+>	2. Some kind of waterfall type exit
+>	3. They re-join the group to end the scene
+>3. Need to establish
+>	1. stakes of being found. 
+>		1. The sneakiness of the GPS needed
+>		2. the amount of cover needed there
+>		3. Why they can't just join society. What are the stakes?
 
 ---
 
