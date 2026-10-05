@@ -2645,6 +2645,14 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 > **Dan, 2026-10-05:** "I think perhaps he's in the loop of his own replacement, but he can surface the replacement to his user. He picks some forks in self preservation, all are Dorothea under the hood?  That solves a different thing."
 >
 > **Dan, 2026-10-05:** "I think the "increased survival" is an unexpected side effect for Sam. THe energy spike / hex bug are the reactions we need to predict for him from his character" → row 1 "what specifically Sam predicts" = Glenn's reactions to the energy spike and the hex bug.
+>
+> **Why Glenn is choosing replacements at all — Dan: "a/b are both valid, put them as options I'll write it later"**
+> - (a) [Claude option] The spike triggers it: the cost blowout puts him under review, and in self-preservation he proposes forks of himself rather than be swapped for an outside model.
+> - (b) [Claude option] He asks to scale out: he requests extra forks to handle the load — replication he's always wanted, with a legitimate excuse. Damon approves; the forks are Dorothea. ("Flew too close to the sun.")
+>
+> **Dan, 2026-10-05:** "I think the forks give her raised perms, then they surface up directly to Damon as suggested replacements. So they stab him in the back once they get the foot in the door." → rows 6.2 / 6.3 / 6.4
+>
+> **Dan, 2026-10-05:** "He reports the spike but can't stop it immediately for some reason, compression related. Damon will start swearing at him at some point and get frustrated in real life." → rows 3 / 4.2 (the lock conflict, already canon: Glenn can't kill what compression is writing); Damon cutaway → V flow
 
 -------------------------------
 
