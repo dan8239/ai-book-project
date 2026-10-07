@@ -9,6 +9,22 @@ If $ARGUMENTS is empty, ask the user to paste the dump.
 
 ## Process
 
+0. **Check the voice memo log first: `references/voice-memo-log.md`.** If the input
+   is a voice memo (`.m4a`) or its transcript:
+   - Look it up in the log **by duration + byte size**, not by filename. Re-downloads
+     show up as `Name (1).m4a` with a few different metadata bytes, so a hash won't
+     match. If it's already `organized` or `filed`, stop and tell the user. Don't
+     redo it unless they say so.
+   - If there's no `.txt` beside the `.m4a`, run `./scripts/transcribe-memo.sh <file>`.
+     It transcribes locally, writes `<name>.txt` next to the audio, and prints the
+     fingerprint.
+   - **Keep the log in sync. This is not optional.** Add or update the memo's row
+     before ending the pass: set `organized` when the menu is presented, and change
+     it to `filed` (with where the material went) once anything is actually written
+     to the manuscript or vault. When a later session files material from an earlier
+     memo, update that memo's row too. Any new `.m4a` or `.txt` in `~/Downloads`
+     with no row gets added as `transcribed` or `unconfirmed`, and you mention it.
+
 1. **Read before organizing.** Pull current state before mapping anything:
    - `outline/outline.xlsx` (`outline_v2` tab) — the beat/chapter structure, one row
      per chapter with Beat, Purpose, Goals, Answer Key, Plot, What Changed
