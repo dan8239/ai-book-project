@@ -1844,6 +1844,50 @@ Tina's radio crackled.
 > [!beat]- A. Pressure from above — Glenn reports up
 > People are watching this project. Glenn reports to someone. There's a hard deadline and there are no results. Pressure on the team. Coffee Guy is in a coffee shop talking to Glenn. This chapter shows the real-world stakes and the corporate machine behind the simulation Sam lives in.
 
+> [!beat]- B. Damon arc ladder — this is rung 1 of 3 (crawl) (2026-10-15)
+> Damon's own timeline runs Coffee Guy Interlude → Coffee Guy Intro → Heist Approval → the next morning, which is Honeycomb (ch. 1) / Coda. Ch. 1 is the end of his coffee-shop arc, shown first.
+>
+> | Rung | Section | Glenn | Honeycomb | Mystery |
+> |------|---------|-------|-----------|---------|
+> | 1 crawl | Coffee Guy Interlude | Unnamed "assistant" | Unnamed "boss" — "where's the old man?" | Reader thinks they're reporting on Sam's sim + siblings |
+> | 2 walk | Coffee Guy Intro | Revealed as Glenn (GLN model name) | Damon keeps trying to go over its head, politely denied | The bill → Grant Melrose |
+> | 3 run | Heist Approval | Secretly Dorothea now — Damon doesn't notice, he never thought of him as Glenn | The old man finally on the phone → come in person | Knobs are governmental policy / loss function; Sam is the outlier |
+> | — | Coda → Honeycomb (ch. 1) | | Grant in person, "You're Honeycomb" | Loop closes |
+>
+> Craft for the whole throughline (Dan, "Deli Belli" voice memo, 2026-10-07):
+> "so for the Glenn and Damon scenes I want it to almost be like in the Iliad where the gods are talking and kind of determining their fates the fates of the mortals where they're you know you won't know exactly what's going on but they'll be dropping clues almost in each of those scenes"
+>
+> "I think you could almost write all these scenes and on all these beats as almost like and just kind of like write them all at once and then split them and make them like escalating and then you can almost have like the entire coffee guy like through through line written and like break the break the book into pieces and it's like it's basically all in a coffee shop up until the morning that he wakes up and has to actually go and meet Honeycomb but that's the way you can kind of like get the spine of the book in place and get off your writer's block so there"
+>
+> [Claude] Open: Damon is absent from Space Victory through Heist (ch. 19–27). Options for where the rung-3 knob reveal lands: (a) new Damon section in 2B between The Other Simulations and End of an Epoch, (b) fold into Heist Approval, (c) tease in Coffee Guy Intro, land in Heist Approval. Filed under Heist Approval for now.
+> [Claude] Backlog link: `_unplaced-beats.md` "Each Fun-and-Games mystery chapter = an actual ML knob" still has the Coffee Guy chapters unassigned.
+
+> [!beat]- C. Opening — the no-straw customer, Damon's rant
+> **Dan, 2026-10-07:** "I was thinking of an early coffee one showing some of damons character where someone in line in front of him is taking forever and very insistent on no straws. He kind of makes a noise or laughs to himself, tries to brush it off a few times but when they push it he goes into a huge rant over the lifecycle emissions of the beans, cups, the car they drove here, the shit they're wearing, etc. vs. the straw. I'd like to give him the line "nobody ACTUALLY gives a shit about the environment. If you gave a shit about the environment, really, you'd kill yourself". I feel that kind of gives him a perpective and point of view that is somewhat defensible but also insane and explains a lot of his actions. THis scene will be him getting the coffee and maybe just starting work, first coffee shop scene. We introduce him through that lense then get to the 2.c points of what the chapter is really about."
+>
+> [Claude] Possible echo: his abstract "you'd kill yourself" logic made real in front of him is Phase 6 in Honeycomb (ch. 1), where he flees the call and pisses himself. Readers see ch. 1 first, so this rant reframes it after the fact. Not confirmed as intent.
+
+> [!beat]- D. The booth — Glenn as an unnamed assistant, spoken audio
+> **Dan, 2026-10-07:** "let's make it over chat like how ch1 does it, give him some kind of isolated booth, drop his voice during the really nasty parts that he doesn't want overheard"
+>
+> "so I think for at least one of those scenes if not many more of them I think I want it to be like some of them are coffee shop and flip it and just just Damon and Glenn talking really and Damon just thinks it doesn't think of him as Glenn he just thinks of him as he just thinks of him as my you know assistant or whatever and so he's kind of giving commands but he's also got him in his earpiece somewhat like answering questions while he's on he's on calls with the higher-ups"
+>
+> "um um but yeah i think like that might be a decent place to just write like you you've got some you've got a scene or two there that can kind of frame frame up what needs to happen around the beats and i think the early ones will be more cryptic and more damon glenn interface and it's not clear that glenn is glenn at first he's just an assistant and eventually it becomes clear that it is glenn uh and as opposed to just some unnamed damon assistant"
+>
+> [Claude] Ch. 1's assistant is spoken ("came on over his personal audio"), so "over chat like ch1" = spoken audio here. Supersedes the "Coffee guy and glenn only ever interact over chat" note in `_unplaced-beats.md` (cleanup deferred).
+
+> [!beat]- E. "Where's the old man?" — Honeycomb as the unnamed go-between
+> "so I think the higher-ups like I mean we've already established that Damon's boss is honeycomb so I think that you'll want to reread that chapter to get their relationship proper but I'm kind of imagining the scenes as like on a call with honeycomb or his assistant or even just yeah maybe it's a thing where he's like I want to talk to the old man and you kind of save that or he's he's just not available and don't make it obvious that it's honeycomb so it's like at first it's like where's where's the old man or something like that and he's just like his assistant or whatever is unavailable and so it's kind of a go-between it's kind of a go-between there that he's got to interface with he doesn't actually get to talk to honeycomb directly himself"
+>
+> [Claude] Same beat as the outline row's "What the fuck you mean he took a day off?" Readers already know Honeycomb from ch. 1, so it stays hidden only if Damon's chapters never name it.
+
+> [!beat]- F. What the chapter is really about — project status, time pressure, the misread
+> "as far as like what the scene goes i think it should just be like coffee scene coffee scene coffee scene we need to set the stage for like mystery or why these why this guy matters and it's like problem solving with glenn and reporting almost like project status there and making it clear that there's like some time pressure um and speaking in ways that make it like mysterious and ominous but uh not exactly sure what's going on"
+>
+> "and so it's like the whole first one should almost seem like once you figure out it's glenn it's like oh he's just reporting to his boss so his boss is up to something ominous and there it seems like they're reporting on the results of the simulation that Sam is doing and in a way they are but like it's one layer between that they're missing so like in a way they're reporting on success of these things success of these simulations and like what's the uncertainty there and um what's the success rate and like whether it's ready to go and but there is like a time pressure to you know if it's non-zero that might be enough or something like that"
+>
+> [Claude question] Is the clock Grant's line in ch. 1, "the exchange raised the stakes a bit," or something separate?
+
 ---
 
 # Space Still Stuck
@@ -1911,6 +1955,23 @@ Tina's radio crackled.
 
 > [!beat]- A. Memory anomaly — who's getting this bill
 > Memory anomaly. Who is getting this bill? It's Grant Melrose. The Coffee Guy's identity starts to crystallize for the reader. Setting: coffee shop.
+
+> [!beat]- B. Damon arc ladder — rung 2 of 3 (walk) (2026-10-15)
+> Goals: the assistant becomes *Glenn*; Damon keeps pushing past the clone and keeps getting denied; the bill ties to Grant Melrose. Full ladder in Coffee Guy Interlude → beat B.
+>
+> [Claude] Ch. 1 plant: Grant tells Damon "I suddenly care a lot less about you blowing through our quarterly compute budget this week." That's the payoff of this chapter's bill.
+
+> [!beat]- C. Glenn becomes Glenn — the GLN model name
+> **Dan, 2026-10-07:** "drop the sexual innuendo naming, GLN is better and less random / stupid."
+>
+> "um so another little detail for glenn is just make his model gln something like q w en like the quen models just make it like glenn seven numbers whatever and that's just kind of the num that's kind of the that's kind of the that's kind of the that's kind of the that's kind of the model he's named after and uh yeah so that's the origin of glenn's name and yeah so that's the origin of glenn's name"
+>
+> [Claude] Open: does the "Big Dog" nickname survive? It came from the dropped naming joke. "Robinson" is separate (maintenance-log alias chain in Space Progress).
+
+> [!beat]- D. Going over Honeycomb's head — the diplomatic, amoral clone
+> "or maybe actually a better way is like let him talk he he'll talk to the virtual honeycomb and like so he's talking to the clone basically the what will become honeycomb and he wants to talk to the actual old man um um and that's kind of like that dynamic throughout where um most of damon's pressures coming from the computer honeycomb the clone one"
+>
+> "and then going up in the other direction going up in the other direction it's not clear at first that that's honeycomb either it's just like his boss um but he keeps wanting to go over honeycomb's head and he like very politely executive style denies the request but not in like a dick way like an overly nice way um like the virtual clone honeycomb is like very diplomatic automatic but also just like totally amoral"
 
 ---
 
@@ -2709,6 +2770,23 @@ Rows 1 and 4 carry it for a non-technical reader — both are the same idea: wha
 
 > [!beat]- D. Quick admin tweak (from the same earlier pass, not yet placed)
 > Once Sam's assistant has control, it makes a small adjustment — lowers sun output slightly / adjusts atmosphere (a physics fix). Not yet tied to anything specific.
+
+> [!beat]- E. Damon arc ladder — rung 3 of 3 (run) (2026-10-15)
+> Goals: the knob reveal lands; the old man finally gets on the phone; it ends sending Damon into the next morning (Honeycomb, ch. 1 / Coda). Full ladder in Coffee Guy Interlude → beat B.
+>
+> [Claude] Possible payoff: Damon only ever thinks of Glenn as "my assistant", so when Glenn has been swapped for Dorothea he doesn't notice. He approves the task list and asks for the white paper. This joins Dan's "he just thinks of him as my you know assistant" detail to the existing swap. Suggestion, not canon.
+
+> [!beat]- F. The real knobs — policy, optimization function, loss function; Sam is the outlier
+> "but anyway!! in reality they're reporting on the overall simulation that Damon is running and Sam is just one instance of that you know to the outside perspective on first read it'll seem like glenn is reporting on Sam's sibling trials but in reality but in reality glenn is reporting on Sam and his sibling trials overall success"
+>
+> "and it's more like it becomes clear that like the knobs and dials that Damon and glenn are turning are like towards the end probably not in the first chapter but towards the end once you've established that like okay there's a simulation they're planning policy off of this and there's like some event that there's time pressure towards the knobs they're twisting are not Sam's knobs governmental policy optimization function and loss function like these are the things that they're optimizing for in the in all of these trials and Sam's is just like the outlier these also need to reveal towards the end once it becomes clear you need to once it becomes clear that it's Sam's trial I've lost the train of thought scratch that"
+>
+> [Claude] Placement open: (a) new 2B Damon section between The Other Simulations and End of an Epoch, (b) here, or (c) tease in Coffee Guy Intro and land here. Filed here until picked.
+
+> [!beat]- G. The old man on the phone — "come in person"
+> "whereas when he actually talks to the old man maybe like the last maybe like the last maybe that's why he's got maybe that's why he's got to drive or like uh what's what's best for him is to drive to see him in person maybe that's like the last thing it's he's like he's like he's kind of like look we can't talk the old man is like when he finally does get on the phone he's hooked up to monitors and things like that and he's like he's basically like he's basically like you can't you can't talk much here like like like kind of thing so you've got to uh that's why he's got to come and talk to him in person and that's kind of where it's ending"
+>
+> [Claude] Ch. 1 already has Damon commuting to the ranch regularly, so the trip itself isn't new. What's new is that the old man is now unreachable any other way.
 
 ---
 

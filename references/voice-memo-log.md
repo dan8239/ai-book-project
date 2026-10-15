@@ -34,4 +34,4 @@ metadata bytes, so match on **duration + byte size**, not the filename or a hash
 | W Lexington St.m4a | 2026-08-23 | 814s / 2656021 B | TurboScribe `.txt` | filed | 2026-08-31: Cats and Rats chapter notes (folder since deleted, still in git history) |
 | The 606.m4a | 2026-08-23 | 463s / 1514600 B | TurboScribe `.txt` | filed | 2026-08-31: Cats and Rats chapter notes, `_unplaced-beats.md` (Aquarium Pt. I) |
 | The 606 (1).m4a | 2026-10-07 | 463s / 1514600 B | — | duplicate | Same recording as `The 606.m4a`, re-downloaded. Skip. |
-| Deli Belli.m4a | 2026-10-07 | 736s / 2400484 B | mlx-whisper `.txt` | organized | 2026-10-07: Damon/Glenn/Honeycomb throughline (Coffee Guy Interlude, Coffee Guy Intro, Heist Approval, Coda). Awaiting placement picks. |
+| Deli Belli.m4a | 2026-10-07 | 736s / 2400484 B | mlx-whisper `.txt` | filed | 2026-10-15: `manuscript.md`, Coffee Guy Interlude B–F, Coffee Guy Intro B–D, Heist Approval E–G (all transcript words verified present). Open: knob-reveal placement, Big Dog nickname. |
